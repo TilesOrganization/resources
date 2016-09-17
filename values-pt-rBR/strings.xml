@@ -1,0 +1,105 @@
+<resources>
+    <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="location_mode_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
+    <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
+    <string name="play_services">Play services</string>
+    <string name="play_services_alert_dialog_message">Google Play Services é necessário para obter as condições meteorológicas. Por favor, instale-o e tente novamente</string>
+    <string name="high">Alto</string>
+    <string name="low">Baixo</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, por favor abra as configurações e dê a permissão de modificar configurações do sistema.</string>
+    <!--application-->
+    <string name="application_tile_label">Aplicativo</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nenhum app selecionado, por favor abra as configurações e escolha um app. Ou escolha uma ação diferente.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Brilho</string>
+    <string name="brightness_tile_formatted_label_two_params">Brilho %1$s: %2$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Brilho: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Brilho não definido</string>
+    <string name="brightness_tile_alert_dialog_message">Para permitir que o bloco mude o nível do brilho, por favor abra as configurações e dê a permissão de modificar configurações do sistema.</string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Calculadora</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Agenda</string>
+    <!--call-->
+    <string name="call_tile_label">Ligar</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Para permitir que o bloco realize chamadas telefônicas, por favor abra as configurações e dê a permissão de telefone.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Nenhum contato para chamar selecionado, por favor abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
+    <string name="call_tile_formatted_label">Chamar %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Escolher contato</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Câmera</string>
+    <string name="camera_tile_video_label">Câmera de vídeo</string>
+    <!--email -->
+    <string name="email_tile_label">Email</string>
+    <string name="email_tile_formatted_label">Email %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nenhum contato para email selecionado, por favor abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
+    <string name="email_tile_label_no_contact_selected">Email\nNenhum contato selecionado</string>
+    <!--lock-->
+    <string name="lock_tile_label">Bloquear</string>
+    <string name="lock_tile_device_admin_description">Permitir o bloco de bloqueio para bloquear o dispositivo</string>
+    <string name="lock_tile_device_admin_activated">Administrator do disposito ativado</string>
+    <string name="lock_tile_device_admin_deactivated">Administrator do disposito desativado</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Se desativado, o bloco de bloqueio não será permitido bloquear o dispositivo.</string>
+    <string name="lock_tile_alert_dialog_message">Para permitir que o bloco bloqueie seu dispositivo, por favor abra as configurações e ative-o como administrador do disposivo.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o bloco de bloqueio será permitido bloquear o dispositivo.</string>
+    <!--map-->
+    <string name="map_tile_label">Mapa</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Modo do som</string>
+    <string name="ringer_mode_tile_label_normal">Normal</string>
+    <string name="ringer_mode_tile_label_silent">Silencioso</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibração</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o bloco mude o modo do som, por favor abra as configurações e permita acesso ao Não Pertube.</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">Tela ligada</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Serviço de tela ligada está em andamento.\nParar o serviço?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Serviço de tela ligada não está em andamento.\nIniciar o serviço?</string>
+    <string name="screen_on_tile_service_notification_title">Serviço está em andamento</string>
+    <string name="screen_on_tile_service_notification_content_text">O dispositivo não irá dormir. Toque para parar o serviço.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Serviço de tela ligada</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Street View</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Para permitir que o bloco obtenha sua localização atual, por favor abra as configurações e dê a permissão de localização.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Sincronização</string>
+    <!--timer-->
+    <string name="timer_tile_label">Timer</string>
+    <string name="timer_tile_invalid_duration_message">Por favor entre com uma duração válida</string>
+    <string name="timer_formatted_label">Timer\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Temperatura</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Para permitir que o bloco obtenha as condições climáticas, por favor abra as configurações e dê a permissão de localização.</string>
+    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Ponto de condensação da água: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Ponto de condensação da água: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Umidade: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsius</string>
+    <string name="weather_fahrenheit">Fahrenheit</string>
+    <string name="weather_clear">Limpo</string>
+    <string name="weather_cloudy">Nublado</string>
+    <string name="weather_foggy">Nevoento</string>
+    <string name="weather_hazy">Nebuloso</string>
+    <string name="weather_icy">Gelado</string>
+    <string name="weather_rainy">Chuvoso</string>
+    <string name="weather_snowy">Nevoso</string>
+    <string name="weather_stormy">Tempestuoso</string>
+    <string name="weather_windy">Ventoso</string>
+    <string name="weather_conditions">Condições</string>
+    <string name="weather_temperature">Temperatura</string>
+    <string name="weather_feels_like">Sensação térmica</string>
+    <string name="weather_humidity">Umidade</string>
+    <string name="weather_dew_point">Ponto de condensação da água</string>
+    <string name="weather_nothing_to_display_nothing_enabled">Nada para exibir, por favor, abra as configurações e ative os campos que você quer ver aqui.</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Pesquisa na web</string>
+</resources>

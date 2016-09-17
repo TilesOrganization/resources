@@ -1,0 +1,105 @@
+<resources>
+    <string name="something_went_wrong">Upps! Irgendwas ging schief. Versuche es erneut</string>
+    <string name="try_again">Versuche es erneut</string>
+    <string name="location_mode_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
+    <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
+    <string name="play_services">Play services</string>
+    <string name="play_services_alert_dialog_message">Google Play Services wird für die Ermittlung des Wetters benötigt. Installiere diese und versuche es erneut.</string>
+    <string name="high">Hoch</string>
+    <string name="low">Tief</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
+    <!--application-->
+    <string name="application_tile_label">Anwendungen</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Keine App ausgewählt, öffne bitte die Einstellungen und wähle eine Anwendung aus. Oder wähle eine andere Aktion.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Helligkeit</string>
+    <string name="brightness_tile_formatted_label_two_params">Helligkeit %1$s: %2$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Helligkeit: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Keine Helligkeit gesetzt</string>
+    <string name="brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Rechner</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Kalender</string>
+    <!--call-->
+    <string name="call_tile_label">Anruf</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Damit die Kachel einen Anruf tätigen kann, öffne bitte die System-Einstellungen und erteile Telefon-Rechte.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Kein Kontakt ausgewählt, öffne die Einstellungen und wähle einen aus. Oder wähle eine andere Aktion.</string>
+    <string name="call_tile_formatted_label">%s anrufen</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Wähle einen Kontakt</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Kamera</string>
+    <string name="camera_tile_video_label">Videokamera</string>
+    <!--email -->
+    <string name="email_tile_label">Email</string>
+    <string name="email_tile_formatted_label">Email %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Kein Email-Kontakt ausgewählt, öffne die Einstellungen und wähle einen aus. Oder wähle eine andere Aktion.</string>
+    <string name="email_tile_label_no_contact_selected">Email\nKein Kontakt ausgewählt</string>
+    <!--lock-->
+    <string name="lock_tile_label">Sperren</string>
+    <string name="lock_tile_device_admin_description">Erlaube der Sperr-Kachel das Sperren des Gerätes</string>
+    <string name="lock_tile_device_admin_activated">Geräteadministrator aktiviert</string>
+    <string name="lock_tile_device_admin_deactivated">Geräteadministrator deaktiviert</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Wenn deaktiviert kann die Kachel das Gerät nicht sperren.</string>
+    <string name="lock_tile_alert_dialog_message">Damit die Kachel das Gerät sperren kann, öffne bitte die System-Einstellungen und setze Tiles als Geräteadministrator.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Wenn aktiviert darf die Kachel das Gerät sperren.</string>
+    <!--map-->
+    <string name="map_tile_label">Karte</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Klingel-Modus</string>
+    <string name="ringer_mode_tile_label_normal">Normal</string>
+    <string name="ringer_mode_tile_label_silent">Leise</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibration</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Damit die Kachel den Klingel-Modus ändern kann, öffne die System-Einstellungen und erlaube den Zugriff während \"Nicht stören\".</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">Aktiver Bildschirm</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Der Dienst für den aktiven Bildschirm läuft.\nDienst stoppen?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Der Dienst für den aktiven Bildschirm läuft nicht.\nDienst starten?</string>
+    <string name="screen_on_tile_service_notification_title">Der Dienst für den aktiven Bildschirm läuft</string>
+    <string name="screen_on_tile_service_notification_content_text">Das Gerät wird nicht in den Ruhestand gehen. Klicke um den Dienst zu starten.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Aktiver Bildschirm Dienst</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Street View</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Damit die Kachel auf den aktuellen Standort zugreifen kann, öffne die System-Einstellungen und erteile Standort-Rechte.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Synchronisation</string>
+    <!--timer-->
+    <string name="timer_tile_label">Timer</string>
+    <string name="timer_tile_invalid_duration_message">Bitte gib eine korrekte Dauer ein</string>
+    <string name="timer_formatted_label">Timer\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Wetter</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Damit die Kachel auf das Wetter zugreifen kann, öffne die System-Einstellungen und erteile Standort-Rechte.</string>
+    <string name="weather_formatted_temperature_celsius">Temperatur: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatur: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Gefühlt: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Gefühlt: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Taupunkt: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Taupunkt: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Feuchte: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsius</string>
+    <string name="weather_fahrenheit">Fahrenheit</string>
+    <string name="weather_clear">Klar</string>
+    <string name="weather_cloudy">Bewölkt</string>
+    <string name="weather_foggy">Neblig</string>
+    <string name="weather_hazy">Dunstig</string>
+    <string name="weather_icy">Eisig</string>
+    <string name="weather_rainy">Verregnet</string>
+    <string name="weather_snowy">Verschneit</string>
+    <string name="weather_stormy">Stürmisch</string>
+    <string name="weather_windy">Windig</string>
+    <string name="weather_conditions">Bedingungen</string>
+    <string name="weather_temperature">Temperatur</string>
+    <string name="weather_feels_like">Gefühlt</string>
+    <string name="weather_humidity">Feuchtigkeit</string>
+    <string name="weather_dew_point">Taupunkt</string>
+    <string name="weather_nothing_to_display_nothing_enabled">Nichts sichtbar, öffne die Einstellungen und aktiviere die anzuzeigenden Felder.</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Web-Suche</string>
+</resources>

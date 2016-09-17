@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--settings-->
+    <string name="settings">Paramètres</string>
+    <string name="settings_design">Thème</string>
+    <string name="settings_action">Action</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_night_mode">Mode Nuit</string>
+    <string name="settings_night_mode_no">Jour</string>
+    <string name="settings_night_mode_yes">Nuit</string>
+    <string name="settings_night_mode_auto">Auto</string>
+    <string name="settings_location_permissions_preference_title">Autorisation Position</string>
+    <string name="settings_modify_system_settings_permissions_title">Autorisation de modifier les paramètres système</string>
+    <string name="settings_feedback">Commentaires</string>
+    <string name="settings_rate_or_review">Noter ou commenter l'application</string>
+    <string name="settings_support_title">Merci pour votre soutien</string>
+    <string name="settings_send_email">Envoyer un e-mail</string>
+    <string name="settings_support_summary">Développé pour Android Nougat</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">Tile visibility</string>
+    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. Ce tile n'est pas autorisé à changer le mode de luminosité</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Acceptée. Ce tile est autorisé à changer le mode de luminosité</string>
+    <!-- application-->
+    <string name="settings_application_tile_action_show_apps">Afficher toutes les applications installées</string>
+    <string name="settings_application_tile_action_open_app">Ouvrir l'application sélectionnée</string>
+    <string name="settings_application_tile_open_app_preference_title">Application à ouvrir</string>
+    <string name="settings_application_tile_choose_application">Choisir une application</string>
+    <string name="settings_application_tile_view_mode">Mode d'affichage</string>
+    <string name="settings_application_tile_view_mode_list">Liste</string>
+    <string name="settings_application_tile_view_mode_grid">Grille</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Grille sans nom</string>
+    <string name="settings_application_tile_grid_columns">Grille avec colonnes</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. Ce tile n'est pas autorisé à changer le niveau de luminosité</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Acceptée. Ce tile est autorisé à changer le niveau de luminosité</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nLow: %2$.1f%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">Ouvrir l'application Téléphone</string>
+    <string name="settings_call_tile_action_make_call">Appeler le contact sélectionné</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact à appeler</string>
+    <!--camera-->
+    <string name="settings_camera_tile_mode_still">Open camera in still image mode</string>
+    <string name="settings_camera_tile_mode_video">Open camera in video mode</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">Ouvrir l'application d'e-mail</string>
+    <string name="settings_email_tile_action_send_email">Écrire un mail au contact sélectionné</string>
+    <string name="settings_email_tile_contact_preference_title">Contact de l'e-mail</string>
+    <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
+    <!--screen on-->
+    <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Show a confirmation dialog to start/stop service</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_title">Notification action</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <!--timer -->
+    <string name="settings_timer_tile">Timer</string>
+    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Ne pas demander de confirmation et démarrer le compte à rebours directement</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Demander une confirmation avant de démarrer le compte à rebours</string>
+    <string name="settings_timer_tile_default_duration">Durée par défaut</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_units">Unités</string>
+    <string name="settings_summary_off_hidden">Affichées</string>
+    <string name="settings_summary_on_shown">Cachées</string>
+</resources>

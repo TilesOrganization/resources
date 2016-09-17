@@ -1,0 +1,105 @@
+<resources>
+    <string name="something_went_wrong">Something, went wrong. Please try again</string>
+    <string name="try_again">Try again</string>
+    <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
+    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
+    <string name="play_services">Play services</string>
+    <string name="play_services_alert_dialog_message">Google Play Services is required to get weather conditions. Please install it and try again.</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <!--application-->
+    <string name="application_tile_label">Application</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app. Or set a different action.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Brightness</string>
+    <string name="brightness_tile_formatted_label_two_params">Brightness %1$s: %2$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Brightness undefined</string>
+    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Calculator</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Calendar</string>
+    <!--call-->
+    <string name="call_tile_label">Call</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Choose contact</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Camera</string>
+    <string name="camera_tile_video_label">Video camera</string>
+    <!--email -->
+    <string name="email_tile_label">Email</string>
+    <string name="email_tile_formatted_label">Email %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_label_no_contact_selected">Email\nNo contact selected</string>
+    <!--lock-->
+    <string name="lock_tile_label">Lock</string>
+    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
+    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
+    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\'t be allowed to lock the device.</string>
+    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <!--map-->
+    <string name="map_tile_label">Map</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Ringer mode</string>
+    <string name="ringer_mode_tile_label_normal">Normal</string>
+    <string name="ringer_mode_tile_label_silent">Silent</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">Screen on</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
+    <string name="screen_on_tile_service_notification_title">Service is running</string>
+    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Street View</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Sync</string>
+    <!--timer-->
+    <string name="timer_tile_label">Timer</string>
+    <string name="timer_tile_invalid_duration_message">Please enter a valid duration</string>
+    <string name="timer_formatted_label">Timer\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Weather</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
+    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsius</string>
+    <string name="weather_fahrenheit">Fahrenheit</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_hazy">Hazy</string>
+    <string name="weather_icy">Icy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_stormy">Stormy</string>
+    <string name="weather_windy">Windy</string>
+    <string name="weather_conditions">Conditions</string>
+    <string name="weather_temperature">Temperature</string>
+    <string name="weather_feels_like">Feels like</string>
+    <string name="weather_humidity">Humidity</string>
+    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_nothing_to_display_nothing_enabled">Nothing to display, please open settings and enable the fields you want to see here.</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Web search</string>
+</resources>

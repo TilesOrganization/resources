@@ -9,11 +9,11 @@
     <string name="settings_night_mode_no">Dag</string>
     <string name="settings_night_mode_yes">Nacht</string>
     <string name="settings_night_mode_auto">Automatisch</string>
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
+    <string name="settings_location_permissions_preference_title">Locatie toestemming</string>
+    <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstelling wijzigen</string>
     <string name="settings_feedback">Feedback</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
+    <string name="settings_rate_or_review">Beoordeel of waardeer de app</string>
+    <string name="settings_support_title">Bedankt voor je ondersteuning!</string>
     <string name="settings_send_email">Stuur email</string>
     <string name="settings_support_summary">Ontworpen voor Android Nougat</string>
     <string name="settings_credit">Credit</string>
@@ -22,78 +22,78 @@
     <string name="settings_translations_locale_de">Duits</string>
     <string name="settings_translations_locale_pt_rBR">Portugees, Braziliaans</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_title">Tegel zichtbaarheid</string>
+    <string name="settings_component_summary_off">Verberg de tegel in de Quick Settings layout</string>
+    <string name="settings_component_summary_on">Laat de tegel in de Quick Settings layout zien</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel is heeft geen toestemming om de helderheid modus te veranderen</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om de helderheid modus te veranderen</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Show all installed apps</string>
-    <string name="settings_application_tile_action_open_app">Open selected app</string>
-    <string name="settings_application_tile_open_app_preference_title">Application to open</string>
-    <string name="settings_application_tile_choose_application">Choose application</string>
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
+    <string name="settings_application_tile_action_show_apps">Laat alle geïnstalleerde applicaties zien</string>
+    <string name="settings_application_tile_action_open_app">Open geselecteerde applicatie</string>
+    <string name="settings_application_tile_open_app_preference_title">Applicatie om te openen</string>
+    <string name="settings_application_tile_choose_application">Kies applicatie</string>
+    <string name="settings_application_tile_view_mode">Bekijk modus</string>
+    <string name="settings_application_tile_view_mode_list">Lijst</string>
+    <string name="settings_application_tile_view_mode_grid">Rooster</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Rooster zonder label</string>
+    <string name="settings_application_tile_grid_columns">Rooster kolommen</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nLow: %2$.1f%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid te beheren</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heef toestemming om e helderheid te beheren</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Helderheid levels</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Hoog: %1$.1f%%\nLaag: %2$.1f%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Open telefoon app</string>
+    <string name="settings_call_tile_action_make_call">Bel geslecteerd contact</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Oproep toestemming</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om oproepen te maken</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Toegekend. De tegel heeft toestemming om oproepen te maken</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact om te bellen</string>
     <!--camera-->
-    <string name="settings_camera_tile_mode_still">Open camera in still image mode</string>
-    <string name="settings_camera_tile_mode_video">Open camera in video mode</string>
+    <string name="settings_camera_tile_mode_still">Open camera in foto modus</string>
+    <string name="settings_camera_tile_mode_video">Open camera in video modus</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_send_email">Email opstellen met geselcteerde contact</string>
+    <string name="settings_email_tile_contact_preference_title">Contact opnemen per email</string>
     <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Apparaatbeheerder</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Geactiveerd. De tegel heeft toestemming om het toestel te vergrendelen</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Gedeactiveerd. De tegel heeft geen toestemming om het toestel te vergrendelen</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Niet storen toegang</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Toegekend. De app is in staat om Niet Storen aan/uit te zetten en om gerelateerde instellingen te veranderen.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Geweigerd. De app is niet in staat om Niet Storen aan/uit te zetten en om gerelateerde instellingen te veranderen.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume paneel</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Verander beltoon</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Show a confirmation dialog to start/stop service</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Notification action</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_title">Laat dialoog zien</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Ontwijk elke bevestigingsdialoog om service te starten of te stoppen</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Laat een bevestingsdialoog zien om service te starten of te stoppen</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Lopende service notificatie</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Laat een blijvende notificatie zien wanneer service wordt uitgevoerd</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Verberg notificatie</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_title">Notificatie actie</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Laat actie zien om instellingen te openen</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verberg actie</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Verander synchronisatie status</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Open synchronisatie instellingen</string>
     <!--timer -->
     <string name="settings_timer_tile">Timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_skip_ui_title">Sla UI over</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Ontwijk elke bevestigings UI en start de timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Laat een bevestings UI zien voordat de timer start</string>
+    <string name="settings_timer_tile_default_duration">Standaard duur</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om toegang te verkrijgen tot de locatie van het toestel</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Toegekend. De tegel heeft toestemming om toegang te verkrijgen tot de locatie van het toestel</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om toegang te verkrijgen tot de locatie van het toestel en het krijgen van de huidige weersomstandigheden</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Toegekend. De tegel heeft toestemming om toegang te verkrijgen tot de locatie van het toestel en het krijgen van de huidige weersomstandigheden</string>
+    <string name="settings_units">Eenheden</string>
+    <string name="settings_summary_off_hidden">Verborgen</string>
+    <string name="settings_summary_on_shown">Getoond</string>
 </resources>

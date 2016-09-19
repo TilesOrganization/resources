@@ -13,12 +13,12 @@
     <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstellingen te wijzigen</string>
     <string name="settings_feedback">Feedback</string>
     <string name="settings_rate_or_review">Beoordeel of waardeer de app</string>
-    <string name="settings_support_title">Bedankt voor je ondersteuning!</string>
+    <string name="settings_support_title">Bedankt voor je steun!</string>
     <string name="settings_send_email">Stuur email</string>
     <string name="settings_support_summary">Ontworpen voor Android Nougat</string>
     <string name="settings_credit">Credit</string>
     <string name="settings_translations">Vertaling</string>
-    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_thanks">Als je wilt helpen met vertalen van de app in jouw taal, neem gerust contact met me op: rascarlo@gmail.com.\nBedankt!</string>
     <string name="settings_translations_locale_de">Duits</string>
     <string name="settings_translations_locale_pt_rBR">Portugees, Braziliaans</string>
     <!--tile component-->

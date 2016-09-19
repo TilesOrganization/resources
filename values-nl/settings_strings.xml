@@ -26,7 +26,7 @@
     <string name="settings_component_summary_off">Verberg de tegel in de Quick Settings layout</string>
     <string name="settings_component_summary_on">Laat de tegel in de Quick Settings layout zien</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel is heeft geen toestemming om de helderheid modus te veranderen</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid modus te veranderen</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om de helderheid modus te veranderen</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_apps">Laat alle geïnstalleerde applicaties zien</string>
@@ -40,7 +40,7 @@
     <string name="settings_application_tile_grid_columns">Rooster kolommen</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid te beheren</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heef toestemming om e helderheid te beheren</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heef toestemming om de helderheid te beheren</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Helderheid levels</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Hoog: %1$.1f%%\nLaag: %2$.1f%%</string>
     <!--call-->

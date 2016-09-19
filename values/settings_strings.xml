@@ -21,6 +21,7 @@
     <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
     <string name="settings_translations_locale_de">German</string>
     <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
+    <string name="settings_translations_locale_nl">Dutch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tile visibility</string>
     <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
@@ -78,6 +79,12 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Notification action</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Change sync state</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>

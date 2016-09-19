@@ -10,89 +10,96 @@
     <string name="settings_night_mode_yes">Nacht</string>
     <string name="settings_night_mode_auto">Automatisch</string>
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
-    <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ändern von Systemeinstellungnen</string>
+    <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ã„ndern von Systemeinstellungnen</string>
     <string name="settings_feedback">Feedback</string>
     <string name="settings_rate_or_review">Bewerte die App</string>
-    <string name="settings_support_title">Danke für deine Unterstützung!</string>
+    <string name="settings_support_title">Danke fÃ¼r deine UnterstÃ¼tzung!</string>
     <string name="settings_send_email">Schreib eine Email</string>
-    <string name="settings_support_summary">Entwickelt für Android Nougat</string>
+    <string name="settings_support_summary">Entwickelt fÃ¼r Android Nougat</string>
     <string name="settings_credit">Danksagung</string>
-    <string name="settings_translations">Übersetzungen</string>
-    <string name="settings_translations_thanks">Wenn du dabei helfen willst die App in eine andere Sprache zu übersetzen, dann melde dich bitte bei mir: rascarlo@gmail.com.\nVielen Dank!</string>
+    <string name="settings_translations">Ãœbersetzungen</string>
+    <string name="settings_translations_thanks">Wenn du dabei helfen willst die App in eine andere Sprache zu Ã¼bersetzen, dann melde dich bitte bei mir: rascarlo@gmail.com.\nVielen Dank!</string>
     <string name="settings_translations_locale_de">Deutsch</string>
     <string name="settings_translations_locale_pt_rBR">Portugiesisch, Brasilianisch</string>
+    <string name="settings_translations_locale_nl">NiederlÃ¤nder</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>
     <string name="settings_component_summary_off">Verstecke die Kachel in den Schnelleinstellungen</string>
     <string name="settings_component_summary_on">Zeige die Kachel in den Schnelleinstellungen</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht die Helligkeit ändern</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Helligkeit ändern</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht die Helligkeit Ã¤ndern</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">GewÃ¤hrt. Die Kachel darf die Helligkeit Ã¤ndern</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_apps">Zeige alle installierten Apps an</string>
-    <string name="settings_application_tile_action_open_app">Öffne die ausgewählte App</string>
-    <string name="settings_application_tile_open_app_preference_title">Zu öffnende Anwendung</string>
-    <string name="settings_application_tile_choose_application">Wähle eine Anwendung</string>
+    <string name="settings_application_tile_action_open_app">Ã–ffne die ausgewÃ¤hlte App</string>
+    <string name="settings_application_tile_open_app_preference_title">Zu Ã¶ffnende Anwendung</string>
+    <string name="settings_application_tile_choose_application">WÃ¤hle eine Anwendung</string>
     <string name="settings_application_tile_view_mode">Anzeige-Modus</string>
     <string name="settings_application_tile_view_mode_list">Liste</string>
     <string name="settings_application_tile_view_mode_grid">Gitter</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Gitter ohne Beschriftung</string>
     <string name="settings_application_tile_grid_columns">Gitter-Spalten</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht das Helligkeitslevel ändern</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf das Helligkeitslevel ändern</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht das Helligkeitslevel Ã¤ndern</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">GewÃ¤hrt. Die Kachel darf das Helligkeitslevel Ã¤ndern</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Helligkeitslevel</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Maximal: %1$.1f%%\nMinimal: %2$.1f%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Öffne Telefon App</string>
-    <string name="settings_call_tile_action_make_call">Rufe ausgewählten Kontakt an</string>
+    <string name="settings_call_tile_action_open_phone">Ã–ffne Telefon App</string>
+    <string name="settings_call_tile_action_make_call">Rufe ausgewÃ¤hlten Kontakt an</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Telefon-Rechte</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Verweigert. Die Kachel darf keine Anrufe tätigen</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Gewährt. Die Kachel darf Anrufe tätigen</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Verweigert. Die Kachel darf keine Anrufe tÃ¤tigen</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">GewÃ¤hrt. Die Kachel darf Anrufe tÃ¤tigen</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Anzurufender Kontakt</string>
     <!--camera-->
-    <string name="settings_camera_tile_mode_still">Öffne die Kamera im Bilder-Modus</string>
-    <string name="settings_camera_tile_mode_video">Öffne die Kamera im Video-Modus</string>
+    <string name="settings_camera_tile_mode_still">Ã–ffne die Kamera im Bilder-Modus</string>
+    <string name="settings_camera_tile_mode_video">Ã–ffne die Kamera im Video-Modus</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Öffne die Email App</string>
-    <string name="settings_email_tile_action_send_email">Wähle eine Email mit dem Empfänger</string>
+    <string name="settings_email_tile_action_open_app">Ã–ffne die Email App</string>
+    <string name="settings_email_tile_action_send_email">WÃ¤hle eine Email mit dem EmpfÃ¤nger</string>
     <string name="settings_email_tile_contact_preference_title">Zu mailender Kontakt</string>
     <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Geräteadministrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Aktiviert. Die Kachel darf das Gerät sperren</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deaktiviert. Die Kachel darf das Gerät nicht sperren</string>
+    <string name="settings_lock_tile_device_admin_title">GerÃ¤teadministrator</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Aktiviert. Die Kachel darf das GerÃ¤t sperren</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Deaktiviert. Die Kachel darf das GerÃ¤t nicht sperren</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Zugriff während \"Nicht stören\"</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Gewährt. Die App kann \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Verweigert. Die App kann nicht \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Öffne die Lautstärke-Einstellungen</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Ändere den Klingel-Modus</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Zugriff wÃ¤hrend \"Nicht stÃ¶ren\"</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">GewÃ¤hrt. Die App kann \"Nicht stÃ¶ren\" de-/aktivieren und vergleichbare Einstellungen Ã¤ndern.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Verweigert. Die App kann nicht \"Nicht stÃ¶ren\" de-/aktivieren und vergleichbare Einstellungen Ã¤ndern.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Ã–ffne die LautstÃ¤rke-Einstellungen</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Ã„ndere den Klingel-Modus</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Zeige den Dialog an</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Umgehe jeden Bestätigungsdialog und starte/stoppe den Dienst sofort</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Zeige einen Bestätigungsdialog für das Starten und Stoppen eines Dienstes</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung über aktive Dienste</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Umgehe jeden BestÃ¤tigungsdialog und starte/stoppe den Dienst sofort</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Zeige einen BestÃ¤tigungsdialog fÃ¼r das Starten und Stoppen eines Dienstes</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung Ã¼ber aktive Dienste</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an solange Dienste aktiv sind</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verstecke die Benachrichtigung</string>
     <string name="settings_screen_on_tile_running_service_notification_action_title">Aktion der Benachrichtigung</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu Ã¶ffnen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>
+    <string name="settings_sync_tile_action_change_sync">Ã„ndere den Synchronisationsstatus</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Ã–ffne die Synchronisationseinstellungen</string>
     <!--timer -->
     <string name="settings_timer_tile">Timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Überspringe Dialoge</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Umgehe jeden Bestätigungsdialog und starte den Timer sofort</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen Bestätigungsdialog für das Starten des Timers an</string>
+    <string name="settings_timer_tile_skip_ui_title">Ãœberspringe Dialoge</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Umgehe jeden BestÃ¤tigungsdialog und starte den Timer sofort</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen BestÃ¤tigungsdialog fÃ¼r das Starten des Timers an</string>
     <string name="settings_timer_tile_default_duration">Standard-Dauer</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standord zugreifen</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standord zugreifen</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">GewÃ¤hrt. Die Kachel darf auf den Standord zugreifen</string>
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standord zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standord zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">GewÃ¤hrt. Die Kachel darf auf den Standord zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
     <string name="settings_units">Einheit</string>
     <string name="settings_summary_off_hidden">Verborgen</string>
     <string name="settings_summary_on_shown">Anzeigen</string>

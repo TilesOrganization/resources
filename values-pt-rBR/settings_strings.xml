@@ -21,6 +21,7 @@
     <string name="settings_translations_thanks">Se você quer ajudar a traduzir o app para o seu idioma, por favor sinta-se livre para entrar em contato comigo: rascarlo@gmail.com.\nObrigado!</string>
     <string name="settings_translations_locale_de">Alemão</string>
     <string name="settings_translations_locale_pt_rBR">Português brasileiro</string>
+    <string name="settings_translations_locale_nl">Holandês</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do bloco</string>
     <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
@@ -78,6 +79,12 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Ação da notificação</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir configurações</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Esconder ação</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Mudar estado de sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir configurações de sincronização</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="something_went_wrong">Er ging iets mis. Probeer het nog een keer</string>
+    <string name="something_went_wrong">Er is iets misgegaan. Probeer het nog een keer</string>
     <string name="try_again">Probeer nog een keer</string>
     <string name="location_mode_alert_dialog_message">Locatie is uit. Om de tegel toe te staan om de huidige locatie te verkrijgen, open instellingen en zet locatie aan.</string>
     <string name="resolve_activity_alert_dialog_message">Geen applicatie gevonden om deze actie uit te voeren.</string>
@@ -9,7 +9,7 @@
     <string name="low">Laag</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
     <!--application-->
     <string name="application_tile_label">Applicatie</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Geen app geselecteerd, open instellingen en kies een app. Of kies een andere actie.</string>
@@ -18,15 +18,15 @@
     <string name="brightness_tile_formatted_label_two_params">Helderheid %1$s: %2$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Helderheid: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Helderheid onbepaald</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
+    <string name="brightness_tile_alert_dialog_message">Om de tegel het helderheidsniveau te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
     <!--calculator-->
     <string name="calculator_tile_label">Calculator</string>
     <!--calendar-->
     <string name="calendar_tile_label">Kalender</string>
     <!--call-->
-    <string name="call_tile_label">oproep</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="call_tile_label">Oproep</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Om de tegel een oproep te laten doen, open instellingen en verleen toestemming om oproepen te laten maken.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Geen contact geselecteerd, open instellingen en kies een contact. Of stel een andere actie in.</string>
     <string name="call_tile_formatted_label">Oproep %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
     <string name="choose_contact">Kies contact</string>
@@ -36,46 +36,46 @@
     <!--email -->
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nNo contact selected</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Geen emailcontact geselecteerd, open instellingen en selecteer een contact. Of stel een andere actie in.</string>
+    <string name="email_tile_label_no_contact_selected">Email\nGeen contact geselecteerd</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\'t be allowed to lock the device.</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <string name="lock_tile_label">Vergrendelen</string>
+    <string name="lock_tile_device_admin_description">Sta de vergrendel tegel toe om het toestel te vergrendelen</string>
+    <string name="lock_tile_device_admin_activated">Toestelbeheerder geactiveerd</string>
+    <string name="lock_tile_device_admin_deactivated">Toestelbeheerder gedeactiveerd</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Wanneer gedeactiveerd heeft de vergrendel tegel geen toestemming om het toestel te vergrendelen.</string>
+    <string name="lock_tile_alert_dialog_message">Om de tegel toestemming te geven om het toestel te vergrendelen, open instellingen en activeer het als een toestelbeheerder.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Wanneer geactiveerd heeft de vergrendel tegel toestemming om het toestel te vergrendelen.</string>
     <!--map-->
     <string name="map_tile_label">Map</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
-    <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label">Beltoonvolume</string>
+    <string name="ringer_mode_tile_label_normal">Normaal</string>
+    <string name="ringer_mode_tile_label_silent">Stil</string>
+    <string name="ringer_mode_tile_label_vibrate">Trillen</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Om de tegel het beltoonvolume te laten veranderen, open instellingen en sta Do Not Disturb toegang toe.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <string name="screen_on_tile_label">Scherm aan</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Scherm aan service staat aan.\nStop service?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Scherm aan service staat niet aan.\nStart service?</string>
+    <string name="screen_on_tile_service_notification_title">Service staat aan</string>
+    <string name="screen_on_tile_service_notification_content_text">Het toestel zal niet in slaapstand gaan. Tik om de service te stoppen.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Scherm aan service</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Om de tegel de huidige locatie te laten verkrijgen, open instellingen en verleen locatie toestemming.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Synchroniseren</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Please enter a valid duration</string>
+    <string name="timer_tile_invalid_duration_message">Voer een geldige tijd in</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Weer</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Om de tegel de huidige weersomstandigheden te laten verkrijgen, open instellingen en verleen locatie toestemming</string>
     <string name="weather_formatted_temperature_celsius">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Voelt als: &lt;b>%1$.1f&lt;/b> \u2103</string>
@@ -89,7 +89,7 @@
     <string name="weather_cloudy">Bewolkt</string>
     <string name="weather_foggy">Mistig</string>
     <string name="weather_hazy">Nevelig</string>
-    <string name="weather_icy">Ijzig</string>
+    <string name="weather_icy">IJzig</string>
     <string name="weather_rainy">Regenachtig</string>
     <string name="weather_snowy">Sneeuw</string>
     <string name="weather_stormy">Stormachtig</string>
@@ -99,7 +99,7 @@
     <string name="weather_feels_like">Voelt als</string>
     <string name="weather_humidity">Vochtigheid</string>
     <string name="weather_dew_point">Dauwpunt</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nothing to display, please open settings and enable the fields you want to see here.</string>
+    <string name="weather_nothing_to_display_nothing_enabled">Niets om weer te geven, open instelligen en activeer de velden die je hier wilt zien.</string>
     <!--web search-->
     <string name="web_search_tile_label">Op het web zoeken</string>
 </resources>

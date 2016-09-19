@@ -10,7 +10,7 @@
     <string name="settings_night_mode_yes">Nacht</string>
     <string name="settings_night_mode_auto">Automatisch</string>
     <string name="settings_location_permissions_preference_title">Locatie toestemming</string>
-    <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstelling wijzigen</string>
+    <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstellingen te wijzigen</string>
     <string name="settings_feedback">Feedback</string>
     <string name="settings_rate_or_review">Beoordeel of waardeer de app</string>
     <string name="settings_support_title">Bedankt voor je ondersteuning!</string>
@@ -51,8 +51,8 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Toegekend. De tegel heeft toestemming om oproepen te maken</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contact om te bellen</string>
     <!--camera-->
-    <string name="settings_camera_tile_mode_still">Open camera in foto modus</string>
-    <string name="settings_camera_tile_mode_video">Open camera in video modus</string>
+    <string name="settings_camera_tile_mode_still">Open camera in fotomodus</string>
+    <string name="settings_camera_tile_mode_video">Open camera in videomodus</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Open email app</string>
     <string name="settings_email_tile_action_send_email">Email opstellen met geselcteerde contact</string>

@@ -79,12 +79,12 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Notificatie actie</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Laat actie zien om instellingen te openen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verberg actie</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Geluid afspelen</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Speel geen geluid af wanneer service is gestart</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Speel standaard notificatie geluid af wanneer service is gestart</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Trillen</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Niet trillen wanneer service is gestart</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Trillen wanneer service is gestart</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Verander synchronisatie status</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open synchronisatie instellingen</string>

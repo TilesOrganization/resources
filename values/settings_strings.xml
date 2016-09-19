@@ -69,6 +69,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>

@@ -69,6 +69,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Verweigert. Die App kann nicht \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Öffne die Lautstärke-Einstellungen</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Ändere den Klingel-Modus</string>
+    <!--<string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>-->
+    <!--<string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>-->
+    <!--<string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>-->
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Zeige den Dialog an</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Umgehe jeden Bestätigungsdialog und starte/stoppe den Dienst sofort</string>
@@ -79,12 +82,12 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Aktion der Benachrichtigung</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <!--<string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>-->
+    <!--<string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>-->
+    <!--<string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>-->
+    <!--<string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>-->
+    <!--<string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>-->
+    <!--<string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>-->
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
     <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>

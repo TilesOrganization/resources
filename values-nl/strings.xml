@@ -56,7 +56,7 @@
     <string name="ringer_mode_tile_label_normal">Normaal</string>
     <string name="ringer_mode_tile_label_silent">Stil</string>
     <string name="ringer_mode_tile_label_vibrate">Trillen</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Om de tegel het beltoonvolume te laten veranderen, open instellingen en sta Do Not Disturb toegang toe.</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Om de tegel het beltoonvolume te laten veranderen, open instellingen en sta Niet Storen toegang toe.</string>
     <!--screen on-->
     <string name="screen_on_tile_label">Scherm aan</string>
     <string name="screen_on_tile_dialog_wake_lock_running">Scherm aan service staat aan.\nStop service?</string>

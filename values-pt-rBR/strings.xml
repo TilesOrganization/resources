@@ -34,10 +34,10 @@
     <string name="camera_tile_camera_label">Câmera</string>
     <string name="camera_tile_video_label">Câmera de vídeo</string>
     <!--email -->
-    <string name="email_tile_label">Email</string>
-    <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">Nenhum contato para email selecionado, por favor abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nNenhum contato selecionado</string>
+    <string name="email_tile_label">E-mail</string>
+    <string name="email_tile_formatted_label">E-mail %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nenhum contato para e-mail selecionado, por favor abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
+    <string name="email_tile_label_no_contact_selected">E-mail\nNenhum contato selecionado</string>
     <!--lock-->
     <string name="lock_tile_label">Bloquear</string>
     <string name="lock_tile_device_admin_description">Permitir o bloco de bloqueio para bloquear o dispositivo</string>
@@ -52,12 +52,12 @@
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--power-->
-<!--    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_power_off">Power off</string>-->
+    <string name="power_tile_action_power_dialog">Menu de energia</string>
+    <string name="power_tile_label">Energia</string>
+    <string name="power_tile_action_reboot">Reiniciar</string>
+    <string name="power_tile_action_reboot_recovery">Reiniciar para recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Reiniciar para bootloader</string>
+    <string name="power_tile_action_power_off">Desligar</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Modo do som</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>

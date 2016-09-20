@@ -69,9 +69,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Geweigerd. De app is niet in staat om Niet Storen aan/uit te zetten en om gerelateerde instellingen te veranderen.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume paneel</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Verander beltoon</string>
-    <!--<string name="settings_ringer_mode_tile_play_sound_title">Speel geluid af</string>-->
-    <!--<string name="settings_ringer_mode_tile_play_sound_summary_off">Speel geen geluid af wanneer standaard beltoonvolume is geselecteerd</string>-->
-    <!--<string name="settings_ringer_mode_tile_play_sound_summary_on">Speel standaard notificatie gluid af wanneer staandaard beltoonvolume is geselcteerd</string>-->
+    <string name="settings_ringer_mode_tile_play_sound_title">Speel geluid af</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Speel geen geluid af wanneer standaard beltoonvolume is geselecteerd</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Speel standaard notificatie gluid af wanneer staandaard beltoonvolume is geselcteerd</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Laat dialoog zien</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Ontwijk elke bevestigingsdialoog om service te starten of te stoppen</string>

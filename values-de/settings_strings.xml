@@ -83,11 +83,11 @@
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Ton abspielen</string>
-	<string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Spiele keinen Ton, wenn der Dienst gestartet wird</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Spiele keinen Ton, wenn der Dienst gestartet wird</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Spiele den Standard-Benachrichtigungston, wenn der Dienst gestartet wird</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibration</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Vibriert nicht, wenn der Dienst gestartet wird</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriert, wenn der Dienst gestartet wird</string>-->
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriert, wenn der Dienst gestartet wird</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
     <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>

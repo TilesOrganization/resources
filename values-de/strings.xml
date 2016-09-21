@@ -110,4 +110,13 @@
     <string name="weather_nothing_to_display_nothing_enabled">Nichts sichtbar, öffne die Einstellungen und aktiviere die anzuzeigenden Felder.</string>
     <!--web search-->
     <string name="web_search_tile_label">Web-Suche</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">Reminder</string>
+    <string name="reminder_tile_dialog_formatted_title_hint">Title (%d chars limited)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
+    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
 </resources>

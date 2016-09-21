@@ -53,12 +53,12 @@
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--power-->
-<!--    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>-->
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_dialog">Ausschalt-Dialog</string>
+    <string name="power_tile_label">Ausschalt-Menü</string>
+    <string name="power_tile_action_reboot">Neustarten</string>
+    <string name="power_tile_action_reboot_recovery">Neustarten in Recoverymodus</string>
+    <string name="power_tile_action_reboot_bootloader">Neustarten in Bootloadermodus</string>
+    <string name="power_tile_action_power_off">Ausschalten</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Klingel-Modus</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>

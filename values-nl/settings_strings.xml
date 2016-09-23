@@ -126,6 +126,6 @@
     <string name="settings_reminder_tile_draw_over_apps_summary_on">Toegekend. De herinnering heeft toestemming om als een dialoog bovenop andere apps te worden weergegeven en kan versleept worden</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Geweigerd. De herinnering heeft geen toestemming om als een dialoog bovenop andere apps te worden weergegeven en kan niet versleept worden</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Bekijk gebeurtenis</string>
+    <string name="settings_calendar_tile_action_add">Voeg gebeurtenis toe</string>
 </resources>

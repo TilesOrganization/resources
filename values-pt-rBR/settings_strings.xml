@@ -107,25 +107,25 @@
     <string name="settings_summary_off_hidden">Ocultar</string>
     <string name="settings_summary_on_shown">Exibir</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\'t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\'t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Exclua o lembrete deslizando ele para a esquerda ou direita</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Exclua o lembrete tocando o botão de ação</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notificação persistente</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproduzir toque de notificação ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não reproduzir qualquer som ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Estilo do timestamp</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronômetro</string>
+    <string name="settings_reminder_tile_notification_settings_action_title">Ação da notificação</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir configurações</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ação</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Permissão para sobrepor a outros apps</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concedido. Lembrete tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negado. Lembrete não tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
+    <string name="settings_calendar_tile_action_add">Adicionar eventos</string>
 </resources>

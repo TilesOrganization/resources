@@ -125,4 +125,7 @@
     <string name="settings_reminder_tile_draw_over_apps_title">\"Über anderen Apps einblenden\"-Berechtigung</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Errinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Verweigert. Die Errinnerung darf nicht einen Dialog anzeigen und über andere Apps gezogen werden</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">View events</string>
+    <string name="settings_calendar_tile_action_add">Add event</string>
 </resources>

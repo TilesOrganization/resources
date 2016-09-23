@@ -125,4 +125,7 @@
     <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">View events</string>
+    <string name="settings_calendar_tile_action_add">Add event</string>
 </resources>

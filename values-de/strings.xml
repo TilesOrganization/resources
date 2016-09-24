@@ -8,6 +8,7 @@
     <string name="play_services_alert_dialog_message">Google Play Services wird für die Ermittlung des Wetters benötigt. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
     <string name="low">Tief</string>
+    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>

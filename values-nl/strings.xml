@@ -7,6 +7,7 @@
     <string name="play_services_alert_dialog_message">Google Play Services is nodig voor het verkrijgen van de weersomstandigheden. Installeer het en probeer nog een keer.</string>
     <string name="high">Hoog</string>
     <string name="low">Laag</string>
+    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>

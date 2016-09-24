@@ -7,6 +7,7 @@
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para obter as condições meteorológicas. Por favor, instale-o e tente novamente</string>
     <string name="high">Alto</string>
     <string name="low">Baixo</string>
+    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, por favor abra as configurações e dê a permissão de modificar configurações do sistema.</string>

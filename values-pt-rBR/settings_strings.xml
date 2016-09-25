@@ -14,7 +14,7 @@
     <string name="settings_feedback">Feedback</string>
     <string name="settings_rate_or_review">Avaliar ou classificar o app</string>
     <string name="settings_support_title">Obrigado pelo seu apoio!</string>
-    <string name="settings_send_email">Enviar email</string>
+    <string name="settings_send_email">Enviar e-mail</string>
     <string name="settings_support_summary">Desenvolvido para Android Nougat</string>
     <string name="settings_credit">Créditos</string>
     <string name="settings_translations">Tradutores</string>
@@ -123,9 +123,9 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir configurações</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ação</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Permissão para sobrepor a outros apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concedido. Lembrete tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitido. Lembrete tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Negado. Lembrete não tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
-    <string name="settings_calendar_tile_action_add">Adicionar eventos</string>
+    <string name="settings_calendar_tile_action_add">Adicionar evento</string>
 </resources>

@@ -126,6 +126,6 @@
     <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Errinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Verweigert. Die Errinnerung darf nicht einen Dialog anzeigen und über andere Apps gezogen werden</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
+    <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
 </resources>

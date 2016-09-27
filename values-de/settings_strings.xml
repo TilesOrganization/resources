@@ -123,8 +123,8 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_reminder_tile_draw_over_apps_title">\"Über anderen Apps einblenden\"-Berechtigung</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Errinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Verweigert. Die Errinnerung darf nicht einen Dialog anzeigen und über andere Apps gezogen werden</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Erinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Verweigert. Die Erinnerung darf nicht einen Dialog anzeigen und über andere Apps gezogen werden</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>

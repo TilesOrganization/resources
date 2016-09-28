@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Something, went wrong. Please try again</string>
     <string name="try_again">Try again</string>
     <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
     <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
     <string name="play_services">Play services</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to get weather conditions. Please install it and try again.</string>
+    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
     <string name="low">Low</string>
     <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
@@ -119,4 +120,5 @@
     <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
+    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
 </resources>

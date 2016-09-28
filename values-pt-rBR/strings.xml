@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
     <string name="try_again">Tentar novamente</string>
     <string name="location_mode_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
     <string name="play_services">Play services</string>
-    <string name="play_services_alert_dialog_message">Google Play Services é necessário para obter as condições meteorológicas. Por favor, instale-o e tente novamente</string>
+    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Por favor, instale-o e tente novamente</string>
     <string name="high">Alto</string>
     <string name="low">Baixo</string>
     <string name="checking_features_progress_dialog_message">Verificando as características específicas do dispositivo para ativar as funcionalidades</string>
@@ -119,4 +120,5 @@
     <string name="reminder_tile_empty_notification_text_fields">Lembrete não adicionado. Para adicionar um lembrete válido, por favor entre com um título ou conteúdo.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar essa ação, por favor, conceda a permissão para sobrepor a outros apps</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
+    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
 </resources>

@@ -5,7 +5,7 @@
     <string name="location_mode_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
     <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
     <string name="play_services">Play services</string>
-    <string name="play_services_alert_dialog_message">Google Play Services wird für die Ermittlung des Wetters benötigt. Installiere diese und versuche es erneut.</string>
+    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
     <string name="low">Tief</string>
     <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
@@ -120,4 +120,5 @@
     <string name="reminder_tile_empty_notification_text_fields">Keine Erinnerung hinzugefügt. Um eine Erinnerung hinzuzufügen, füge einen Titel oder Inhalt ein.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Um diese Aktion auszuführen, erteile der App das Recht über andere Apps sich einzublenden</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text in die Zwischenablage kopiert</string>
+    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
 </resources>

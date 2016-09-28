@@ -120,5 +120,5 @@
     <string name="reminder_tile_empty_notification_text_fields">Geen herinnering toegevoegd. Om een geldige herinnering toe te voegen, voer een titel of inhoud in.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Om een dergelijke actie uit te voeren, verleen toestemming om over andere apps heen te tekenen</string>
     <string name="reminder_tile_text_copied_to_clipboard">Tekst gekopieerd naar klembord</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="retrieving_location_dialog_message">Locatie aan het ophalen. Even geduld alsjeblieft.</string>
 </resources>

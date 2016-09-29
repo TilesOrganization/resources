@@ -9,6 +9,22 @@
     <string name="settings_night_mode_no">Day</string>
     <string name="settings_night_mode_yes">Night</string>
     <string name="settings_night_mode_auto">Auto</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
+    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
+    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
+    <string name="settings_design_status_bar_tint_primary">Color primary</string>
+    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
+    <string name="settings_design_status_bar_icons_light">Light icons</string>
+    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <!--UX-->
     <string name="settings_location_permissions_preference_title">Location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
     <string name="settings_feedback">Feedback</string>

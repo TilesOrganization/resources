@@ -120,5 +120,5 @@
     <string name="reminder_tile_empty_notification_text_fields">Keine Erinnerung hinzugefügt. Um eine Erinnerung hinzuzufügen, füge einen Titel oder Inhalt ein.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Um diese Aktion auszuführen, erteile der App das Recht über andere Apps sich einzublenden</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text in die Zwischenablage kopiert</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="retrieving_location_dialog_message">Bestimme Standort. Bitte warten.</string>
 </resources>

@@ -55,6 +55,11 @@
     <string name="settings_application_tile_view_mode_grid">Rooster</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Rooster zonder label</string>
     <string name="settings_application_tile_grid_columns">Rooster kolommen</string>
+    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary">%d applications selected</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
+    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
+    <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid te beheren</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heef toestemming om de helderheid te beheren</string>

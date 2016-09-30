@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Something, went wrong. Please try again</string>
     <string name="try_again">Try again</string>
     <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
@@ -14,7 +14,8 @@
     <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
     <!--application-->
     <string name="application_tile_label">Application</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app. Or set a different action.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Brightness</string>
     <string name="brightness_tile_formatted_label_two_params">Brightness %1$s: %2$.1f%%</string>
@@ -113,7 +114,7 @@
     <string name="web_search_tile_label">Web search</string>
     <!--reminder-->
     <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_dialog_formatted_title_hint">Title (%d chars limited)</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
     <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
     <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>

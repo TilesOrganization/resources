@@ -4,18 +4,18 @@
     <string name="try_again">Versuche es erneut</string>
     <string name="location_mode_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
     <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
-    <string name="play_services">Play services</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Installiere diese und versuche es erneut.</string>
+    <string name="play_services">Play Dienste</string>
+    <string name="play_services_alert_dialog_message">Google Play Services wird für die Ausführung dieser Aktion benötigt. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
     <string name="low">Tief</string>
-    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
+    <string name="checking_features_progress_dialog_message">Überprüfe die Aktivierung gerätespezifischer Features</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--application-->
     <string name="application_tile_label">Anwendungen</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Keine Anwendung ausgewählt, bitte öffne die Einstellungen und wähle eine Anwendung aus.</string>
+    <string name="application_info_dialog_message">Wähle für den Schnellstart bitte nur eine Anwendung aus.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Helligkeit</string>
     <string name="brightness_tile_formatted_label_two_params">Helligkeit %1$s: %2$.1f%%</string>

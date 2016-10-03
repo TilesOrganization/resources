@@ -10,20 +10,20 @@
     <string name="settings_night_mode_yes">Nacht</string>
     <string name="settings_night_mode_auto">Automatisch</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Tönung der Navigationsbar</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Keine Tönung</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Primärfarbe dunkel</string>
+    <string name="settings_design_navigation_bar_tint_primary">Primärfarbe</string>
+    <string name="settings_design_navigation_bar_tint_accent">Farbe der Akzente</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Tönung der Statusleiste</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Primärfarbe dunkel</string>
+    <string name="settings_design_status_bar_tint_primary">Primärfarbe</string>
+    <string name="settings_design_status_bar_tint_accent">Farbe der Akzente</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">Symbol der Statusleiste</string>
+    <string name="settings_design_status_bar_icons_light">Helle Symbole</string>
+    <string name="settings_design_status_bar_icons_dark">Dunkle Symbole</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
     <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ändern von Systemeinstellungen</string>

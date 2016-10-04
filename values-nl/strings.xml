@@ -14,8 +14,8 @@
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
     <!--application-->
     <string name="application_tile_label">Applicatie</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Geen app geselcteerd, open instellingen en kies een app.</string>
+    <string name="application_info_dialog_message">Voor snel openen, selecteer maar één app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Helderheid</string>
     <string name="brightness_tile_formatted_label_two_params">Helderheid %1$s: %2$.1f%%</string>

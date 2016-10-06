@@ -113,12 +113,12 @@
     <!--web search-->
     <string name="web_search_tile_label">Pesquisar</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Nota</string>
+    <string name="reminder_tile_label">Lembrança</string>
     <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Título (limitado a %d caracteres)</string>
     <string name="reminder_tile_dialog_formatted_content_hint">Conteúdo</string>
     <string name="reminder_tile_dialog_persistent_checkbox">Persistente</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Apagar</string>
-    <string name="reminder_tile_empty_notification_text_fields">Nota não adicionada. Para adicionar uma nota valida, introduza o título ou conteúdo.</string>
+    <string name="reminder_tile_empty_notification_text_fields">Lembrança  não adicionada. Para adicionar uma lembrança válida, introduza o título ou conteúdo.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para executar esta ação, permita a permissão para desenhar sobre outra aplicação.</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
     <string name="retrieving_location_dialog_message">A procurar localização. Aguarde por favor.</string>

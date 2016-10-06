@@ -10,20 +10,20 @@
     <string name="settings_night_mode_yes">Noite</string>
     <string name="settings_night_mode_auto">Automático</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Cor da barra de navegação</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Cor principal escura</string>
+    <string name="settings_design_navigation_bar_tint_primary">Cor principal</string>
+    <string name="settings_design_navigation_bar_tint_accent">Cor do realce</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Cor da barra de notificação</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Cor principal escura</string>
+    <string name="settings_design_status_bar_tint_primary">Cor principal</string>
+    <string name="settings_design_status_bar_tint_accent">Cor do realce</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">Ícones da barra de navegação</string>
+    <string name="settings_design_status_bar_icons_light">Ícones claros</string>
+    <string name="settings_design_status_bar_icons_dark">Ícones escuros</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Permissão de localização</string>
     <string name="settings_modify_system_settings_permissions_title">Permissão de modificar definições do sistema</string>
@@ -32,12 +32,12 @@
     <string name="settings_support_title">Obrigado pelo apoio!</string>
     <string name="settings_send_email">Enviar email</string>
     <string name="settings_support_summary">Desenvolvido para o Android Nougat</string>
-    <string name="settings_credit">Credit</string>
-    <string name="settings_translations">Translations</string>
-    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
-    <string name="settings_translations_locale_de">German</string>
-    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
+    <string name="settings_credit">Créditos</string>
+    <string name="settings_translations">Traduções</string>
+    <string name="settings_translations_thanks"> Se quer traduzir a aplicação para a sua linguagem, contacte-me: rascarlo@gmail.com.\nObrigado!</string>
+    <string name="settings_translations_locale_de">Alemão</string>
+    <string name="settings_translations_locale_pt_rBR">Português-BR</string>
+    <string name="settings_translations_locale_nl">Holandês</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade dos mosaicos</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>
@@ -55,11 +55,11 @@
     <string name="settings_application_tile_view_mode_grid">Grelha</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Grelha sem etiquetas</string>
     <string name="settings_application_tile_grid_columns">Grelha em colunas</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
+    <string name="settings_application_tile_application_list_show_title">Aplicações visíveis</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d Aplicações selecionadas</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Sem aplicações selecionadas</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplicação a abrir</string>
+    <string name="settings_application_tile_show_settings_fab_title">Fab das definições</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode modificar o nível de luminosidade</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode modificar o nível de luminosidade</string>
@@ -90,9 +90,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode ligar/desligar o Não incomodar e fazer alterações nas configuraçõe.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir o painel de volume</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Alterar o modo de toque</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Ouvir toque</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Não ouvir qualquer toque quando o modo de volume normal está selecionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Ouvir qualquer toque quando o modo de volume normal está selecionado</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Mostrar diálogo</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Contornar qualquer diálogo de confirmação e simplesmente iniciar/parar o serviço</string>
@@ -103,12 +103,12 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Ação da notificação</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Ocultar ação</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Ouvir som</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não ouvir um som quando o serviço começar</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Ouvir um som quando o serviço começar</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço começar</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço começar</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Mudar estado da sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir as configurações da sincronização</string>
@@ -128,15 +128,15 @@
     <string name="settings_summary_off_hidden">Ocultar</string>
     <string name="settings_summary_on_shown">Mostrar</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\'t play any sound when adding a new reminder</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Para apagar a nota deslize para a direita ou esquerda</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Para apagar a nota clique no botão apagar</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notificação persistente</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Ouvir som</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Ouvir um som quando adicionar uma nota</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não ouvir um som quando adicionar uma nota</string>
     <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\'t vibrate when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar quando adicionar uma nota</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar quando adicionar uma nota</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>

@@ -55,11 +55,11 @@
     <string name="settings_application_tile_view_mode_grid">Grade</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Grade sem rótulo</string>
     <string name="settings_application_tile_grid_columns">Colunas da grade</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
+    <string name="settings_application_tile_application_list_show_title">Aplicativos para mostrar</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary">%d aplicativos selecionados</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nenhum aplicativo selecionado</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplicativo para iniciar</string>
+    <string name="settings_application_tile_show_settings_fab_title">FAB de Configurações</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não foi permitido mudar o nível do brilho</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco foi permitido mudar o nível do brilho</string>

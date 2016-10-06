@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_night_mode">Night mode</string>
-    <string name="settings_night_mode_no">Day</string>
-    <string name="settings_night_mode_yes">Night</string>
-    <string name="settings_night_mode_auto">Auto</string>
+    <string name="settings">Definições</string>
+    <string name="settings_design">Aspeto</string>
+    <string name="settings_action">Ação</string>
+    <string name="settings_layout">Disposição</string>
+    <string name="settings_night_mode">Modo noite</string>
+    <string name="settings_night_mode_no">Dia</string>
+    <string name="settings_night_mode_yes">Noite</string>
+    <string name="settings_night_mode_auto">Automático</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
     <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
@@ -25,13 +25,13 @@
     <string name="settings_design_status_bar_icons_light">Light icons</string>
     <string name="settings_design_status_bar_icons_dark">Dark icons</string>
     <!--UX-->
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
-    <string name="settings_feedback">Feedback</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
-    <string name="settings_send_email">Send email</string>
-    <string name="settings_support_summary">Developed for Android Nougat</string>
+    <string name="settings_location_permissions_preference_title">Permissão de localização</string>
+    <string name="settings_modify_system_settings_permissions_title">Permissão de modificar definições do sistema</string>
+    <string name="settings_feedback">Comentários</string>
+    <string name="settings_rate_or_review">Pontuar ou comentar a aplicação</string>
+    <string name="settings_support_title">Obrigado pelo apoio!</string>
+    <string name="settings_send_email">Enviar email</string>
+    <string name="settings_support_summary">Desenvolvido para o Android Nougat</string>
     <string name="settings_credit">Credit</string>
     <string name="settings_translations">Translations</string>
     <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
@@ -39,70 +39,70 @@
     <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
     <string name="settings_translations_locale_nl">Dutch</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_title">Visibilidade dos mosaicos</string>
+    <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>
+    <string name="settings_component_summary_on">Mostrar o mosaico nas Definições Rápidas</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode ativar a luminosidade  adaptável</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode modificar a luminosidade adaptável</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Show all installed apps</string>
-    <string name="settings_application_tile_action_open_app">Open selected app</string>
-    <string name="settings_application_tile_open_app_preference_title">Application to open</string>
-    <string name="settings_application_tile_choose_application">Choose application</string>
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
+    <string name="settings_application_tile_action_show_apps">Mostrar as aplicações</string>
+    <string name="settings_application_tile_action_open_app">Abrir aplicação selecionada</string>
+    <string name="settings_application_tile_open_app_preference_title">Abrir aplicação</string>
+    <string name="settings_application_tile_choose_application">Escolher aplicação</string>
+    <string name="settings_application_tile_view_mode">Modo de visualização</string>
+    <string name="settings_application_tile_view_mode_list">Lista</string>
+    <string name="settings_application_tile_view_mode_grid">Grelha</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Grelha sem etiquetas</string>
+    <string name="settings_application_tile_grid_columns">Grelha em colunas</string>
     <string name="settings_application_tile_application_list_show_title">Applications to show</string>
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
     <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
     <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nLow: %2$.1f%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode modificar o nível de luminosidade</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode modificar o nível de luminosidade</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Nível de luminosidade</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alto: %1$.1f%%\nBaixo: %2$.1f%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Abrir o Telefone</string>
+    <string name="settings_call_tile_action_make_call">Ligar ao contacto</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Permissão do telemóvel</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Negada.  O mosaico não pode efetuar chamadas</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Permitida. O mosaico pode efetuar chamadas</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Ligar ao contacto</string>
     <!--camera-->
-    <string name="settings_camera_tile_mode_still">Open camera in still image mode</string>
-    <string name="settings_camera_tile_mode_video">Open camera in video mode</string>
+    <string name="settings_camera_tile_mode_still">Abrir a câmara fotográfica</string>
+    <string name="settings_camera_tile_mode_video">Abrir a câmara de filmar</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">Abrir aplicação de email</string>
+    <string name="settings_email_tile_action_send_email">Enviar email para um destinatário selecionado</string>
+    <string name="settings_email_tile_contact_preference_title">Selecionar destinatário</string>
     <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Administrador do dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Ativado. O mosaico pode bloquear o dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Desativado. O mosaico não pode bloquear o dispositivo</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Acesso ao Não incomodar</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitida. A aplicação pode ligar/desligar o Não incomodar e fazer alterações nas configurações.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode ligar/desligar o Não incomodar e fazer alterações nas configuraçõe.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir o painel de volume</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Alterar o modo de toque</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Show a confirmation dialog to start/stop service</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Notification action</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_title">Mostrar diálogo</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Contornar qualquer diálogo de confirmação e simplesmente iniciar/parar o serviço</string>
+    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Mostrar um diálogo de confirmação para iniciar/parar o serviço</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço a ser executado</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente do serviço ao ser executado</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Ocultar notificação</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_title">Ação da notificação</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Ocultar ação</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
@@ -110,23 +110,23 @@
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Mudar estado da sincronização</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Abrir as configurações da sincronização</string>
     <!--timer -->
-    <string name="settings_timer_tile">Timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile">Temporizador</string>
+    <string name="settings_timer_tile_skip_ui_title">Ignorar interface</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Ignorar a interface e iniciar o temporizador</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Mostrar a interface de confirmação antes de iniciar o temporizador</string>
+    <string name="settings_timer_tile_default_duration">Duração padrão</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Negada. O mosaico não tem acesso à localização do dispositivo</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Permitida. O mosaico tem acesso à localização do dispositivo</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Negada. O mosaico não tem acesso à localização do dispositivo para mostrar as condições meteorológicas</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Permitida. O mosaico tem acesso à localização do dispositivo para mostrar as condições meteorológicas</string>
+    <string name="settings_units">Unidades</string>
+    <string name="settings_summary_off_hidden">Ocultar</string>
+    <string name="settings_summary_on_shown">Mostrar</string>
     <!--reminder-->
     <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
     <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>

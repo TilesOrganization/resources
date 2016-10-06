@@ -134,19 +134,19 @@
     <string name="settings_reminder_tile_notification_play_sound_title">Ouvir som</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_on">Ouvir um som quando adicionar uma nota</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_off">Não ouvir um som quando adicionar uma nota</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar quando adicionar uma nota</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar quando adicionar uma nota</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Estilo do temporizador</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronómetro</string>
+    <string name="settings_reminder_tile_notification_settings_action_title">Ação da notificação</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir as definições</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ações</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Permissão para se sobrepor a outras aplicações</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitida. É permitido à nota sobrepor-se a outras aplicações</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negada. Não é permitido  à  nota sobrepor-se a outras aplicações</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Ver eventos</string>
+    <string name="settings_calendar_tile_action_add">Adicionar evento</string>
 </resources>

@@ -128,15 +128,15 @@
     <string name="settings_summary_off_hidden">Ocultar</string>
     <string name="settings_summary_on_shown">Mostrar</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Para apagar a nota deslize para a direita ou esquerda</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Para apagar a nota clique no botão apagar</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Para apagar a lembrança deslize para a direita ou esquerda</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Para apagar a lembrança clique no botão apagar</string>
     <string name="settings_reminder_tile_persistent_notification_title">Notificação persistente</string>
     <string name="settings_reminder_tile_notification_play_sound_title">Ouvir som</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Ouvir um som quando adicionar uma nota</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não ouvir um som quando adicionar uma nota</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Ouvir um som quando adicionar uma lembrança</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não ouvir um som quando adicionar uma lembrança</string>
     <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar quando adicionar uma nota</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar quando adicionar uma nota</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar quando adicionar uma lembrança</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar quando adicionar uma lembrança</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Estilo do temporizador</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronómetro</string>
@@ -144,8 +144,8 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir as definições</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ações</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Permissão para se sobrepor a outras aplicações</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitida. É permitido à nota sobrepor-se a outras aplicações</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negada. Não é permitido  à  nota sobrepor-se a outras aplicações</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitida. É permitido à lembrança sobrepor-se a outras aplicações</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negada. Não é permitido  à  lembrança sobrepor-se a outras aplicações</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Ver eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>

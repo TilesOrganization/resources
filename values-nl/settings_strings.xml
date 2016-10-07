@@ -38,7 +38,7 @@
     <string name="settings_translations_locale_de">Duits</string>
     <string name="settings_translations_locale_pt_rBR">Portugees, Braziliaans</string>
     <string name="settings_translations_locale_nl">Nederlands</string>
-    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
+    <string name="settings_translations_locale_pt_rPT">Portugees, Portugal</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tegel zichtbaarheid</string>
     <string name="settings_component_summary_off">Verberg de tegel in de Quick Settings layout</string>
@@ -127,7 +127,7 @@
     <string name="settings_weather_tile_location_permissions_summary_on">Toegekend. De tegel heeft toestemming om toegang te verkrijgen tot de locatie van het toestel en het krijgen van de huidige weersomstandigheden</string>
     <string name="settings_units">Eenheden</string>
     <string name="settings_summary_off_hidden">Verborgen</string>
-    <string name="settings_summary_on_shown">Getoond</string>
+    <string name="settings_summary_on_shown">Wordt getoond</string>
     <!--reminder-->
     <string name="settings_reminder_tile_persistent_notification_summary_off">Verwijder herinnering door naar recht of naar links te vegen</string>
     <string name="settings_reminder_tile_persistent_notification_summary_on">Verwijder de herinnering door op de verwijderknop te klikken</string>

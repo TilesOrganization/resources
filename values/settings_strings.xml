@@ -38,6 +38,7 @@
     <string name="settings_translations_locale_de">German</string>
     <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
     <string name="settings_translations_locale_nl">Dutch</string>
+    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tile visibility</string>
     <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>

@@ -36,8 +36,9 @@
     <string name="settings_translations">Traduções</string>
     <string name="settings_translations_thanks"> Se quer traduzir a aplicação para a sua linguagem, contacte-me: rascarlo@gmail.com.\nObrigado!</string>
     <string name="settings_translations_locale_de">Alemão</string>
-    <string name="settings_translations_locale_pt_rBR">Português-BR</string>
+    <string name="settings_translations_locale_pt_rBR">Português, Brazil</string>
     <string name="settings_translations_locale_nl">Holandês</string>
+    <string name="settings_translations_locale_pt_rPT">Português, Portugal</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade dos mosaicos</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>

@@ -151,7 +151,7 @@
     <string name="settings_calendar_tile_action_view">Bekijk gebeurtenis</string>
     <string name="settings_calendar_tile_action_add">Voeg gebeurtenis toe</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Schrijf beveiligde instellingen toestemming</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Overschrijf beveiligde instellingen toestemming</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming omde locatie modus te veranderen</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Afgewezen. De tegel heeft geen toestemming om de locatei modus te veranderen</string>
     <string name="settings_location_mode_tile_action_show_dialog">Laat dialoog zien</string>

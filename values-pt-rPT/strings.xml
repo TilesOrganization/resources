@@ -123,8 +123,8 @@
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
     <string name="retrieving_location_dialog_message">A procurar localização. Aguarde por favor.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_label">Suspensão</string>
+    <string name="sleep_timeout_tile_formatted_label">Suspensão\n%1$02d:%2$02d</string>
     <string name="sleep_timeout_tile_value_15000">15 segundos</string>
     <string name="sleep_timeout_tile_value_30000">30 segundos</string>
     <string name="sleep_timeout_tile_value_60000">1 minuto</string>
@@ -132,4 +132,21 @@
     <string name="sleep_timeout_tile_value_300000">5 minutos</string>
     <string name="sleep_timeout_tile_value_600000">10 minutos</string>
     <string name="sleep_timeout_tile_value_1800000">30 minutos</string>
+    <!--location mode-->
+    <string name="location_mode_tile_label">Location mode</string>
+    <string name="location_mode_tile_label_off">Location off</string>
+    <string name="location_mode_tile_label_battery_saving">Battery saving</string>
+    <string name="location_mode_tile_label_sensors_only">Device only</string>
+    <string name="location_mode_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_mode_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Grant</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Revoke</string>
+    <!--timer H M S symbols-->
+    <string name="hour_symbol">H</string>
+    <string name="minute_symbol">M</string>
+    <string name="second_symbol">S</string>
 </resources>

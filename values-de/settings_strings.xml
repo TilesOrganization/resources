@@ -151,9 +151,9 @@
     <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Show dialog</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Schreibrechte für abgesicherte Einstellungen</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standordmodus ändern</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kacel darf nicht den Standordmodus ändern</string>
+    <string name="settings_location_mode_tile_action_show_dialog">Dialog anzeigen</string>
+    <string name="settings_location_mode_tile_action_change_location_mode">Standordmodus ändern</string>
 </resources>

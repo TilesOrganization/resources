@@ -72,7 +72,7 @@
     <string name="screen_on_tile_dialog_wake_lock_running">O serviço ecrã ligado está ativo.\nParar o serviço?</string>
     <string name="screen_on_tile_dialog_wake_lock_not_running">O serviço ecrã ligado está desativado.\nIniciar o serviço?</string>
     <string name="screen_on_tile_service_notification_title">Serviço ligado</string>
-    <string name="screen_on_tile_service_notification_content_text">O dispositivo não irá desligar o ecrã. Pare o serviço.</string>
+    <string name="screen_on_tile_service_notification_content_text">O dispositivo não irá desligar o ecrã. Parar o serviço.</string>
     <string name="screen_on_tile_service_notification_sub_text">Serviço ecrã ligado</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>

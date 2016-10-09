@@ -143,8 +143,8 @@
     <string name="write_secure_settings_permission_dialog_message_about">Abgesicherte Systemeinstellungen beinhalten Systemeinstellungen welche Applikationen lesen aber nicht ändern können. Nur Systemapps haben Zugriff auf Rechte mit dieser Sicherheitsstufe. Eine Nicht-Systemapp kann diese Rechte niemals verwenden.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles wurden Superuser-Rechte für eine interaktive Shell erteilt. Möchtest du programmatisch Schreibrechte für abgesicherte Einstellungen mittels interaktiver Superuser Shell %s?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Um das Recht manuell zu %1$s, verbinde dein Gerät zu einem Computer und führe folgenden ADB-Befehl aus: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">erteilen</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">widerrufen</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Erteilen</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Widerrufen</string>
     <!--timer H M S symbols-->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>

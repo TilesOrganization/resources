@@ -153,7 +153,10 @@
     <!--location mode-->
     <string name="settings_location_mode_tile_write_secure_settings_permission_title">Permissão para modificar configurações de segurança</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Permitido. O bloco foi permitido mudar o modo de localização</string>
-<string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
     <string name="settings_location_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Mudar modo de localização</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
 </resources>

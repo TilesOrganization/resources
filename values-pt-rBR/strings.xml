@@ -125,6 +125,7 @@
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
     <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
     <string name="sleep_timeout_tile_value_15000">15 segundos</string>
     <string name="sleep_timeout_tile_value_30000">30 segundos</string>
     <string name="sleep_timeout_tile_value_60000">1 minuto</string>

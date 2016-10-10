@@ -157,6 +157,6 @@
     <string name="settings_location_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Mudar modo de localização</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o tempo de limite de tela.</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco está permitido alterar o tempo de limite de tela.</string>
 </resources>

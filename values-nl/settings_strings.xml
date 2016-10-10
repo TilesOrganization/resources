@@ -156,4 +156,7 @@
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Afgewezen. De tegel heeft geen toestemming om de locatei modus te veranderen</string>
     <string name="settings_location_mode_tile_action_show_dialog">Laat dialoog zien</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Verander locatie modus</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
 </resources>

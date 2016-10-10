@@ -10,20 +10,20 @@
     <string name="settings_night_mode_yes">Escuro</string>
     <string name="settings_night_mode_auto">Automático</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Cor da Barra de navegação</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Cor escura primária</string>
+    <string name="settings_design_navigation_bar_tint_primary">Cor primária</string>
+    <string name="settings_design_navigation_bar_tint_accent">Cor do accent</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Cor da Barra de status</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Cor escura primária</string>
+    <string name="settings_design_status_bar_tint_primary">Cor primária</string>
+    <string name="settings_design_status_bar_tint_accent">Cor do accent</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">Ícones da Barra de status</string>
+    <string name="settings_design_status_bar_icons_light">Ícones claros</string>
+    <string name="settings_design_status_bar_icons_dark">Ícones escuros</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Permissão de localização</string>
     <string name="settings_modify_system_settings_permissions_title">Permissão de modificar configurações do sistema</string>
@@ -151,9 +151,9 @@
     <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Show dialog</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Permissão para modificar configurações de segurança</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Permitido. O bloco foi permitido mudar o modo de localização</string>
+<string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
+    <string name="settings_location_mode_tile_action_show_dialog">Mostrar diálogo</string>
+    <string name="settings_location_mode_tile_action_change_location_mode">Mudar modo de localização</string>
 </resources>

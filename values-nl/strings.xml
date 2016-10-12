@@ -150,4 +150,6 @@
     <string name="hour_symbol">U</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">Sleep</string>
 </resources>

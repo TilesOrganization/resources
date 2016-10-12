@@ -123,7 +123,7 @@
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
     <string name="retrieving_location_dialog_message">A procurar localização. Aguarde por favor.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Suspensão</string>
+    <string name="sleep_timeout_tile_label">Tempo de suspensão</string>
     <string name="sleep_timeout_tile_formatted_label">Suspensão\n%1$02d:%2$02d</string>
     <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Para permitir que o mosaico altere a suspensão, abra as definições e autorize a permissão para alterar definições de sistema.</string>
     <string name="sleep_timeout_tile_value_15000">15 segundos</string>
@@ -151,5 +151,5 @@
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Suspender</string>
+    <string name="sleep_tile_label">Suspensão</string>
 </resources>

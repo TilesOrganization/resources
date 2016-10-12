@@ -151,5 +151,5 @@
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Suspensão</string>
+    <string name="sleep_tile_label">Suspender</string>
 </resources>

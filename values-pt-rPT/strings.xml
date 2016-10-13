@@ -4,6 +4,7 @@
     <string name="try_again">Tente novamente.</string>
     <string name="location_mode_alert_dialog_message">Localização desativada. Para permitir que o mosaico obtenha a localização, vá às definições e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Não foi encontrada nenhuma aplicação para executar esta ação.</string>
+    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services">Serviços Google Play</string>
     <string name="play_services_alert_dialog_message">Os Serviços Google Play são necessários, instale e tente novamente.</string>
     <string name="high">Alta</string>
@@ -152,4 +153,9 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Suspensão</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
+    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
+    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
 </resources>

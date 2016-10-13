@@ -160,18 +160,18 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om slaap te pauzeren</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om slaap te pauzeren</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Toestemming om op ecterne opslag te schrijven</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Toegekend. De tegel heeft toesstemming om een screenshot te maken en op te slaan</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Geweigerd. De tegel heeft geen toesstemming om een screenshot te maken en op te slaan</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Speel geluid af</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Speel standaard notificatie geluid af wanneer er een screenshot gemaakt wordt</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Speel geen geluid af wanneer er een nieuwe screenshot wordt gemaakt</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Trillen</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Trillen wanneer er een nieuwe screenshot wordt gemaakt</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Niet trillen wanneer er een nieuwe screenshot wordt gemaakt</string>
+    <string name="settings_screenshot_tile_notification_settings_action_title">Notificatie actie</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Laat actie zien om instellingen te openen</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verberg actie</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Sluit Snelle Instellingen paneel en maak een screenshot</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Maak een screenshot zonder de Snelle Instellingen paneel te sluiten</string>
 </resources>

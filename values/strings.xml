@@ -4,6 +4,7 @@
     <string name="try_again">Try again</string>
     <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
     <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
+    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
@@ -152,4 +153,9 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Sleep</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
+    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
+    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
 </resources>

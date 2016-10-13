@@ -132,9 +132,9 @@
     <string name="settings_reminder_tile_persistent_notification_summary_off">Para apagar a lembrança deslize para a direita ou esquerda</string>
     <string name="settings_reminder_tile_persistent_notification_summary_on">Para apagar a lembrança clique no botão apagar</string>
     <string name="settings_reminder_tile_persistent_notification_title">Notificação persistente</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Ouvir som</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Ouvir um som quando adicionar uma lembrança</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não ouvir um som quando adicionar uma lembrança</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Tocar som</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Tocar um som quando adicionar uma lembrança</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não tocar um som quando adicionar uma lembrança</string>
     <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar quando adicionar uma lembrança</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar quando adicionar uma lembrança</string>
@@ -160,18 +160,18 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negada. Não é permitido ao mosaico alterar a suspensão</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitida. É permitido ao mosaico alterar a suspensão</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Permissão para escrever na memória externa</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitida. O mosaico pode efectuar e guardar capturas de ecrã</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Negada. O mosaico não pode efectuar e guardar capturas de ecrã</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Tocar som</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Tocar um som quando efectuar uma captura de ecrã</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Não tocar um som quando efectuar uma captura de ecrã</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar quando efectuar uma captura de ecrã</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Não vibrar quando efectuar uma captura de ecrã</string>
+    <string name="settings_screenshot_tile_notification_settings_action_title">Ação da notificação</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Mostrar a ação para abrir as definições</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Esconder aa ações</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Fechar as definições rápidas e efectuar ua captura de ecrã</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Capturar ecrã sem fechar as definições rápidas</string>
 </resources>

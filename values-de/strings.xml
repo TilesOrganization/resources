@@ -4,6 +4,7 @@
     <string name="try_again">Versuche es erneut</string>
     <string name="location_mode_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
     <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
+    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services">Play Dienste</string>
     <string name="play_services_alert_dialog_message">Google Play Services wird für die Ausführung dieser Aktion benötigt. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
@@ -152,4 +153,9 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Ruhezustand</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
+    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
+    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
 </resources>

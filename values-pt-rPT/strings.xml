@@ -142,7 +142,7 @@
     <string name="location_mode_tile_label_high_accuracy">Alta precisão</string>
     <string name="location_mode_tile_alert_dialog_message">Para permitir que o mosaico altere o modo de localização, abra as definições e conceda a permissão para modificar definições seguras.</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">As definições de sistema seguras contêm preferências de sistema que as aplicações podem ler mas não podem modificar. Permissões com este nível de proteção apenas são permitidas a aplicações de sistema. Se aplicação não é de sistema, nunca poderá usar esta permissão.</string>
+    <string name="write_secure_settings_permission_dialog_message_about">As definições de sistema seguras contêm preferências de sistema que as aplicações podem ler mas não podem modificar. Permissões com este nível de proteção apenas são permitidas a aplicações de sistema. Se a aplicação não é de sistema, nunca poderá usar esta permissão.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Foi garantida permissão superuser ao Tiles. Quer que %s tenh permissão de sistema seguro utilizando o superuser?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Para obter permissão %1$s manualmente, ligue o dispositivo ao computador e execute o comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Permitir</string>

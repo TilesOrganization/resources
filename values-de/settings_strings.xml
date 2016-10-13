@@ -56,11 +56,11 @@
     <string name="settings_application_tile_view_mode_grid">Gitter</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Gitter ohne Beschriftung</string>
     <string name="settings_application_tile_grid_columns">Gitter-Spalten</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
+    <string name="settings_application_tile_application_list_show_title">Anzuzeigende Anwendungen</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary">%d Anwendungen ausgewählt</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Keine Anwendung ausgewählt</string>
+    <string name="settings_application_tile_application_list_launch_title">Zu startende Anwendung</string>
+    <string name="settings_application_tile_show_settings_fab_title">Shortcut zu den Einstellungen</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht das Helligkeitslevel ändern</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf das Helligkeitslevel ändern</string>
@@ -160,18 +160,18 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf den Ruhezustand nicht ändern</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf den Ruhezustand ändern</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Schreibrechte für den Speicher</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Gewährt. Die Kachel darf jetzt Screenshots erstellen und speichern</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Verweigert. Die Kachel darf keine Screenshots erstellen und speichern</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Ton abspielen</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Spiele den Standard-Benachrichtigungston, wenn ein Screenshot erstellt wird</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Spiele keinen Sound, wenn ein Screenshot erstellt wird</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibration</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibriert, wenn ein Screenshot erstellt wird</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Vibriert nicht, wenn ein Screenshot erstellt wird</string>
+    <string name="settings_screenshot_tile_notification_settings_action_title">Aktion der Benachrichtigung</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Schließe die Schnelleinstellungen und erstelle einen Screenshot</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot ohne die Schnelleinstellungen zu schließen</string>
 </resources>

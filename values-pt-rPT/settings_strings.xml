@@ -91,9 +91,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode ligar/desligar o Não incomodar e fazer alterações nas configuraçõe.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir o painel de volume</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Alterar o modo de toque</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Ouvir toque</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Não ouvir qualquer toque quando o modo de volume normal está selecionado</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Ouvir qualquer toque quando o modo de volume normal está selecionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Tocar som</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Não tocar qualquer som quando o modo de volume normal está selecionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Tocar som quando o modo de volume normal está selecionado</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_confirmation_dialog_title">Mostrar diálogo</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Contornar qualquer diálogo de confirmação e simplesmente iniciar/parar o serviço</string>
@@ -104,9 +104,9 @@
     <string name="settings_screen_on_tile_running_service_notification_action_title">Ação da notificação</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Ocultar ação</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Ouvir som</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não ouvir um som quando o serviço começar</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Ouvir um som quando o serviço começar</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Tocar som</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não tocar um som quando o serviço começar</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Tocar um som quando o serviço começar</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrar</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço começar</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço começar</string>

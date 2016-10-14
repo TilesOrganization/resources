@@ -174,4 +174,9 @@
     <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Schließe die Schnelleinstellungen und erstelle einen Screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot ohne die Schnelleinstellungen zu schließen</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_filter_title">Do Not Disturb mode</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alarms only</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_none">Total silence</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_priority">Priority only</string>
 </resources>

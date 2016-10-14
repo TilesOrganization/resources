@@ -174,4 +174,9 @@
     <string name="settings_screenshot_tile_notification_settings_action_summary_off">Esconder aa ações</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Fechar as definições rápidas e efectuar ua captura de ecrã</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Capturar ecrã sem fechar as definições rápidas</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_filter_title">Do Not Disturb mode</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alarms only</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_none">Total silence</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_priority">Priority only</string>
 </resources>

@@ -160,23 +160,23 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o tempo de limite de tela.</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco está permitido alterar o tempo de limite de tela.</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Permissão para escrever no armazenamento externo</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitido. Esse bloco está permitido obter e armazenar captura de tela</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Negado. Esse bloco não está permitido obter e armazenar captura de tela</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproduzir som de padrão de notificação ao capturar a tela</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Não reproduzir qualquer som ao capturar a tela</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar ao obter uma captura de tela</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Não vibrar ao obter uma captura de tela</string>
+    <string name="settings_screenshot_tile_notification_settings_action_title">Ação da notificação</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Mostrar ação para abrir as configurações</string>
+    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Esconder ação</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Guardar painel de Configurações Rápidas e capturar a tela</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Capturar a tela sem sair do painel de Configurações Rápidas</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_filter_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_priority">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_title">Modo Não Pertube</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Somente alarmes</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_none">Silêncio total</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_priority">Somente prioridade</string>
 </resources>

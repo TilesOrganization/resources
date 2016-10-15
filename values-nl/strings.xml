@@ -140,7 +140,7 @@
     <string name="location_mode_tile_label_battery_saving">Accubesparing</string>
     <string name="location_mode_tile_label_sensors_only">Alleen apparaat</string>
     <string name="location_mode_tile_label_high_accuracy">Nauwkeurig</string>
-    <string name="location_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de locatie modus te veranderen, open instellingen en ken overschrijf beveiligde instellingen toe</string>
+    <string name="location_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de locatie modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen is, zla het nooit in staat zijn om deze toestemmingen te gebruiken.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles heeft superuser toestemming voor een interactieve schil. Wil je programmatisch %s beveleigde instellingen overschrijven met gebruik van superuser interacteive schil?</string>
@@ -158,13 +158,13 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Om de tegel toestemming te geven om een screenshot te nemen, open instellingen en geef toestemming om op externe opslag op te slaan.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot genomen.</string>
     <string name="screenshot_tile_tap_to_open_gallery">Tik om galerij te openen.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Tik om screenshot te tonen.</string>
+    <string name="share">Delen</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Immersive modus</string>
+    <string name="immersive_mode_tile_off">Immersive modus uit</string>
+    <string name="immersive_mode_tile_hide_system_bars">Verberg systeem balken</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Verberg navigatie balk</string>
+    <string name="immersive_mode_tile_hide_status_bar">Verberg status balk</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de immersive modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
 </resources>

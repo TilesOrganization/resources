@@ -155,16 +155,16 @@
     <string name="sleep_tile_label">Ruhezustand</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstelleun und speicher darf, öffne bitte die Einstellungen und erteile Schreibrechte für den Speicher.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstellen und speichern darf, öffne bitte die Einstellungen und erteile Schreibrechte für den Speicher.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot erstellt.</string>
     <string name="screenshot_tile_tap_to_open_gallery">Klicke um die Galerie zu öffnen.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Klicke um den Screenshot anzuzeigen.</string>
+    <string name="share">Teile</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Immersiver Modus</string>
+    <string name="immersive_mode_tile_off">Immersiver Modus aus</string>
+    <string name="immersive_mode_tile_hide_system_bars">Verstecke System-Bar</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Verstecke Navigations-Bar</string>
+    <string name="immersive_mode_tile_hide_status_bar">Verstecke Status-bar</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Damit die Kachel den immersiven Modus ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
 </resources>

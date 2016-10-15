@@ -174,9 +174,20 @@
     <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verberg actie</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Sluit Snelle Instellingen paneel en maak een screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Maak een screenshot zonder de Snelle Instellingen paneel te sluiten</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_filter_title">Niet storen modus</string>
     <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alleen alarmen</string>
     <string name="settings_ringer_mode_tile_dnd_filter_none">Totale stilte</string>
     <string name="settings_ringer_mode_tile_dnd_filter_priority">Alleen prioriteit</string>
+    <!--notification common strings-->
+    <string name="settings_notification_share_action_title">Share action</string>
+    <string name="settings_notification_settings_action_title">Settings action</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_action_show_dialog">Show dialog</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
 </resources>

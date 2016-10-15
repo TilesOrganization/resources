@@ -174,8 +174,8 @@
     <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verberg actie</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Sluit Snelle Instellingen paneel en maak een screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Maak een screenshot zonder de Snelle Instellingen paneel te sluiten</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Laat actie zien om screenshot te delen</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Verberg actie om screenshot te delen</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_filter_title">Niet storen modus</string>
     <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alleen alarmen</string>

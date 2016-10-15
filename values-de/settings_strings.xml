@@ -152,10 +152,10 @@
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
     <!--location mode-->
     <string name="settings_location_mode_tile_write_secure_settings_permission_title">Schreibrechte für abgesicherte Einstellungen</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standordmodus ändern</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf nicht den Standordmodus ändern</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standord-Modus ändern</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf nicht den Standord-Modus ändern</string>
     <string name="settings_location_mode_tile_action_show_dialog">Dialog anzeigen</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Standordmodus ändern</string>
+    <string name="settings_location_mode_tile_action_change_location_mode">Standord-Modus ändern</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf den Ruhezustand nicht ändern</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf den Ruhezustand ändern</string>
@@ -174,20 +174,20 @@
     <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Schließe die Schnelleinstellungen und erstelle einen Screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot ohne die Schnelleinstellungen zu schließen</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Zeige die Aktion um einen Screenshot zu teilen</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Verstecke die Aktion um einen Screenshot zu teilen</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_filter_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_priority">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_title">"Bitte nicht stören"-Modus</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Nur Wecker</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_none">Lautlos</string>
+    <string name="settings_ringer_mode_tile_dnd_filter_priority">Nur wichtige</string>
     <!--notification common strings-->
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_notification_share_action_title">Teilen-Aktion</string>
+    <string name="settings_notification_settings_action_title">Einstellungs-Aktion</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Show dialog</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">Schreibrechte für abgesicherte Einstellungen</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den immersiven Modus ändern</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den immersiven Modus nicht ändern</string>
+    <string name="settings_immersive_mode_tile_action_show_dialog">Dialog anzeigen</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Ändere immersiven Modus</string>
 </resources>

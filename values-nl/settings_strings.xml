@@ -182,12 +182,12 @@
     <string name="settings_ringer_mode_tile_dnd_filter_none">Totale stilte</string>
     <string name="settings_ringer_mode_tile_dnd_filter_priority">Alleen prioriteit</string>
     <!--notification common strings-->
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_notification_share_action_title">Actie om te delen</string>
+    <string name="settings_notification_settings_action_title">Instelligen actie</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Show dialog</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">Toestemming om op externe opslag op te slaan</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om immersive modus te wijzigen</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om immersive modus te wijzigen</string>
+    <string name="settings_immersive_mode_tile_action_show_dialog">Laat dialoog zien</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Verander immersive modus</string>
 </resources>

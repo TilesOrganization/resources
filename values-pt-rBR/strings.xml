@@ -154,8 +154,8 @@
     <!--sleep-->
     <string name="sleep_tile_label">Dormir</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
+    <string name="screenshot_tile_label">Captura de tela</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda e permissão de gravação de armazenamento externo.</string>
+    <string name="screenshot_tile_screenshot_captured">Captura de tela obtida.</string>
+    <string name="screenshot_tile_tap_to_open_gallery">Toque para abrir a galeria.</string>
 </resources>

@@ -185,7 +185,7 @@
     <string name="settings_notification_share_action_title">Ação da partilha</string>
     <string name="settings_notification_settings_action_title">Ação das definições</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Permissão para alterar definições seguras</string>
+    <string name="settings_write_secure_settings_permission_title">Permissão para alterar definições seguras do sistema</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_action_show_dialog">Mostrar diálogo</string>

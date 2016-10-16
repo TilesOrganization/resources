@@ -182,8 +182,8 @@
     <string name="settings_ringer_mode_tile_dnd_filter_none">Silêncio total</string>
     <string name="settings_ringer_mode_tile_dnd_filter_priority">Somente prioridade</string>
     <!--notification common strings-->
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_notification_share_action_title">Ação de compartilhamento</string>
+    <string name="settings_notification_settings_action_title">Ação de configurações</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Permissão de modificar configurações de segurança</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo imersivo</string>

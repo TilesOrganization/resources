@@ -189,5 +189,5 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_action_show_dialog">Mostrar diálogo</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo de imersão</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
 </resources>

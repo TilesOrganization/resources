@@ -125,7 +125,7 @@
     <string name="retrieving_location_dialog_message">Recuperando localização. Por favor, aguarde.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_formatted_label">Tempo limite de tela\n%1$02d:%2$02d</string>
     <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Para permitir que o bloco altere o tempo de limite de tela, por favor, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
     <string name="sleep_timeout_tile_value_15000">15 segundos</string>
     <string name="sleep_timeout_tile_value_30000">30 segundos</string>
@@ -155,16 +155,16 @@
     <string name="sleep_tile_label">Dormir</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Captura de tela</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda e permissão de gravação de armazenamento externo.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda a permissão de gravação no armazenamento externo.</string>
     <string name="screenshot_tile_screenshot_captured">Captura de tela obtida.</string>
     <string name="screenshot_tile_tap_to_open_gallery">Toque para abrir a galeria.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Toque para ver sua captura de tela.</string>
+    <string name="share">Compartilhar</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Modo Imersivo</string>
+    <string name="immersive_mode_tile_off">Modo imersivo desativado</string>
+    <string name="immersive_mode_tile_hide_system_bars">Esconder barras do sistema</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Esconder barra de navegação</string>
+    <string name="immersive_mode_tile_hide_status_bar">Esconder barra de status</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo imersivo, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
 </resources>

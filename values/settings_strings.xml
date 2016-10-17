@@ -61,11 +61,13 @@
     <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
     <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
+    <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
+    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nLow: %2$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nMedium: %2$.1f%%\nLow: %3$.1f%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Open phone app</string>
     <string name="settings_call_tile_action_make_call">Call selected contact</string>
@@ -90,6 +92,7 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
+    <string name="settings_ringer_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
@@ -177,11 +180,12 @@
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_filter_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_priority">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
     <!--notification common strings-->
+    <string name="settings_show_dialog">Show dialog</string>
     <string name="settings_notification_share_action_title">Share action</string>
     <string name="settings_notification_settings_action_title">Settings action</string>
     <!--immersive mode-->
@@ -190,4 +194,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
 </resources>

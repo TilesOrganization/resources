@@ -8,6 +8,7 @@
     <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
+    <string name="medium">Medium</string>
     <string name="low">Low</string>
     <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
     <!--adaptive brightness-->
@@ -19,7 +20,10 @@
     <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Brightness</string>
-    <string name="brightness_tile_formatted_label_two_params">Brightness %1$s: %2$.1f%%</string>
+    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
+    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Brightness: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Brightness undefined</string>
     <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
@@ -167,4 +171,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
     <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
     <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Ambient display</string>
+    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
 </resources>

@@ -61,11 +61,13 @@
     <string name="settings_application_tile_application_list_show_summary_empty">Sem aplicações selecionadas</string>
     <string name="settings_application_tile_application_list_launch_title">Aplicação a abrir</string>
     <string name="settings_application_tile_show_settings_fab_title">Fab das definições</string>
+    <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode modificar o nível de luminosidade</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode modificar o nível de luminosidade</string>
+    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Nível de luminosidade</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alto: %1$.1f%%\nBaixo: %2$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alto: %1$.1f%%\nMedium: %2$.1f%%\nBaixo: %3$.1f%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Abrir o Telefone</string>
     <string name="settings_call_tile_action_make_call">Ligar ao contacto</string>
@@ -90,6 +92,7 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitida. A aplicação pode ligar/desligar o Não incomodar e fazer alterações nas configurações.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode ligar/desligar o Não incomodar e fazer alterações nas configuraçõe.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir o painel de volume</string>
+    <string name="settings_ringer_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Alterar o modo de toque</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Tocar som</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não tocar qualquer som quando o modo de volume normal está selecionado</string>
@@ -177,11 +180,12 @@
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar ação para partilhar a captura de ecrã</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Esconder ação para partilhar ecrã</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_filter_title">Não incomodar</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Apenas alarmes</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_none">Silêncio total</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_priority">Apenas prioridade</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Não incomodar</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Apenas alarmes</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Silêncio total</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Apenas prioridade</string>
     <!--notification common strings-->
+    <string name="settings_show_dialog">Show dialog</string>
     <string name="settings_notification_share_action_title">Ação da partilha</string>
     <string name="settings_notification_settings_action_title">Ação das definições</string>
     <!--immersive mode-->
@@ -190,4 +194,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
 </resources>

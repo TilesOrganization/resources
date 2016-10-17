@@ -8,6 +8,7 @@
     <string name="play_services">Serviços Google Play</string>
     <string name="play_services_alert_dialog_message">Os Serviços Google Play são necessários, instale e tente novamente.</string>
     <string name="high">Alta</string>
+    <string name="medium">Medium</string>
     <string name="low">Baixa</string>
     <string name="checking_features_progress_dialog_message">A procurar funções específicas que se possam activar.</string>
     <!--adaptive brightness-->
@@ -19,7 +20,10 @@
     <string name="application_info_dialog_message">Para iniciar rapidamente, selecione apenas uma aplicação.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Luminosidade</string>
-    <string name="brightness_tile_formatted_label_two_params">Luminosidade %1$s: %2$.1f%%</string>
+    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
+    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Luminosidade: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Luminosidade não definida</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminosidade, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>
@@ -167,4 +171,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Esconder barra de navegação</string>
     <string name="immersive_mode_tile_hide_status_bar">Esconder barra de notificação</string>
     <string name="immersive_mode_tile_alert_dialog_message">Para permitir que o mosaico altere o modo imersivo, abra as definições e conceda a permissão para modificar definições seguras.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Ambient display</string>
+    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
 </resources>

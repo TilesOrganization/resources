@@ -185,7 +185,7 @@
     <string name="settings_ringer_mode_tile_dnd_mode_none">Silêncio total</string>
     <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Apenas prioridade</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
+    <string name="settings_show_dialog">Mostrar diálogo</string>
     <string name="settings_notification_share_action_title">Ação da partilha</string>
     <string name="settings_notification_settings_action_title">Ação das definições</string>
     <!--immersive mode-->

@@ -4,11 +4,11 @@
     <string name="try_again">Tentar novamente</string>
     <string name="location_mode_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
+    <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
     <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Por favor, instale-o e tente novamente</string>
     <string name="high">Alto</string>
-    <string name="medium">Medium</string>
+    <string name="medium">Médio</string>
     <string name="low">Baixo</string>
     <string name="checking_features_progress_dialog_message">Verificando as características específicas do dispositivo para ativar as funcionalidades</string>
     <!--adaptive brightness-->
@@ -20,10 +20,10 @@
     <string name="application_info_dialog_message">Para iniciar rapidamente, por favor selecione somente um app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Brilho</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted">Brilho %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Alto: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Médio: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Baixo: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Brilho: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Brilho não definido</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir que o bloco mude o nível do brilho, por favor abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -172,6 +172,6 @@
     <string name="immersive_mode_tile_hide_status_bar">Esconder barra de status</string>
     <string name="immersive_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo imersivo, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Exibição de ambiente</string>
+    <string name="ambient_display_tile_alert_dialog_message">Para permitir que o bloco altere a exibição de ambiente, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
 </resources>

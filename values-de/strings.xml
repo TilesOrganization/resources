@@ -20,10 +20,10 @@
     <string name="application_info_dialog_message">Wähle für den Schnellstart bitte nur eine Anwendung aus.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Helligkeit</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted">Helligkeit %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Hoch: %1$.1f%%</string>
     <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Tief: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Helligkeit: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Keine Helligkeit gesetzt</string>
     <string name="brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -172,6 +172,6 @@
     <string name="immersive_mode_tile_hide_status_bar">Verstecke Status-bar</string>
     <string name="immersive_mode_tile_alert_dialog_message">Damit die Kachel den immersiven Modus ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Inaktivitätsdisplay</string>
+    <string name="ambient_display_tile_alert_dialog_message">Damit die Kachel den Status des Inaktivitätsdisplay ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
 </resources>

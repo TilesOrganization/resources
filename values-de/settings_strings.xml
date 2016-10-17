@@ -61,11 +61,13 @@
     <string name="settings_application_tile_application_list_show_summary_empty">Keine Anwendung ausgewählt</string>
     <string name="settings_application_tile_application_list_launch_title">Zu startende Anwendung</string>
     <string name="settings_application_tile_show_settings_fab_title">Shortcut zu den Einstellungen</string>
+    <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht das Helligkeitslevel ändern</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf das Helligkeitslevel ändern</string>
+    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Helligkeitslevel</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Maximal: %1$.1f%%\nMinimal: %2$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Maximal: %1$.1f%%\nMedium: %2$.1f%%\nMinimal: %3$.1f%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Öffne Telefon App</string>
     <string name="settings_call_tile_action_make_call">Rufe ausgewählten Kontakt an</string>
@@ -90,6 +92,7 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Gewährt. Die App kann \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Verweigert. Die App kann nicht \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Öffne die Lautstärke-Einstellungen</string>
+    <string name="settings_ringer_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Ändere den Klingel-Modus</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Ton abspielen</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Spiele keinen Ton, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
@@ -177,11 +180,12 @@
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Zeige die Aktion um einen Screenshot zu teilen</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Verstecke die Aktion um einen Screenshot zu teilen</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_filter_title">"Bitte nicht stören"-Modus</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_alarms">Nur Wecker</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_none">Lautlos</string>
-    <string name="settings_ringer_mode_tile_dnd_filter_priority">Nur wichtige</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">"Bitte nicht stören"-Modus</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Nur Wecker</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Lautlos</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Nur wichtige</string>
     <!--notification common strings-->
+    <string name="settings_show_dialog">Show dialog</string>
     <string name="settings_notification_share_action_title">Teilen-Aktion</string>
     <string name="settings_notification_settings_action_title">Einstellungs-Aktion</string>
     <!--immersive mode-->
@@ -190,4 +194,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den immersiven Modus nicht ändern</string>
     <string name="settings_immersive_mode_tile_action_show_dialog">Dialog anzeigen</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Ändere immersiven Modus</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
 </resources>

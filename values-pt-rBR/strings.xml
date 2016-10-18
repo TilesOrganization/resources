@@ -175,6 +175,6 @@
     <string name="ambient_display_tile_label">Exibição de ambiente</string>
     <string name="ambient_display_tile_alert_dialog_message">Para permitir que o bloco altere a exibição de ambiente, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--cpu-->
-    <string name="cpu_usage_tile_label">CPU usage</string>
-    <string name="cpu_usage_tile_alert_dialog_message">To allow the tile to show/hide CPU usage, please open settings and grant write secure settings permission.</string>
+    <string name="cpu_usage_tile_label">Uso da CPU</string>
+    <string name="cpu_usage_tile_alert_dialog_message">Para permitir que o bloco mostre/esconda o uso da CPU, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
 </resources>

@@ -199,6 +199,6 @@
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om actieve display te veranderen</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om actieve display te veranderen</string>
     <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om het CPU gebruik te laten zien/te verbergen</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om het CPU gebruik te laten zien/te verbergen</string>
 </resources>

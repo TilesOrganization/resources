@@ -101,6 +101,7 @@
     <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Show a confirmation dialog to start/stop service</string>
+    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
@@ -197,4 +198,7 @@
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <!--cpu usage-->
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
 </resources>

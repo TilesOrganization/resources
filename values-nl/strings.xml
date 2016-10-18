@@ -174,4 +174,7 @@
     <!--ambient display-->
     <string name="ambient_display_tile_label">Actieve display</string>
     <string name="ambient_display_tile_alert_dialog_message">Om de tegel toestemming te geven om actieve display te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
+    <!--cpu-->
+    <string name="cpu_usage_tile_label">CPU usage</string>
+    <string name="cpu_usage_tile_alert_dialog_message">To allow the tile to show/hide CPU usage, please open settings and grant write secure settings permission.</string>
 </resources>

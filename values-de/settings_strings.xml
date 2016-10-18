@@ -101,6 +101,7 @@
     <string name="settings_screen_on_tile_confirmation_dialog_title">Zeige den Dialog an</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Umgehe jeden Bestätigungsdialog und starte/stoppe den Dienst sofort</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Zeige einen Bestätigungsdialog für das Starten und Stoppen eines Dienstes</string>
+    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung über aktive Dienste</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an solange Dienste aktiv sind</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verstecke die Benachrichtigung</string>
@@ -197,4 +198,7 @@
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status des Inaktivitätsdisplay ändern</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status des Inaktivitätsdisplay nicht ändern</string>
+    <!--cpu usage-->
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
 </resources>

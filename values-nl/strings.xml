@@ -20,10 +20,10 @@
     <string name="application_info_dialog_message">Voor snel openen, selecteer maar één app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Helderheid</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted">Helderheid %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Hoog: %1$.1f%%</string>
     <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Laag: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Helderheid: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Helderheid onbepaald</string>
     <string name="brightness_tile_alert_dialog_message">Om de tegel het helderheidsniveau te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
@@ -172,6 +172,6 @@
     <string name="immersive_mode_tile_hide_status_bar">Verberg status balk</string>
     <string name="immersive_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de immersive modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Actieve display</string>
+    <string name="ambient_display_tile_alert_dialog_message">Om de tegel toestemming te geven om actieve display te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
 </resources>

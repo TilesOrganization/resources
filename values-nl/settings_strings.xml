@@ -61,11 +61,11 @@
     <string name="settings_application_tile_application_list_show_summary_empty">Geen applicaties geselecteerd</string>
     <string name="settings_application_tile_application_list_launch_title">Applicaties om te starten</string>
     <string name="settings_application_tile_show_settings_fab_title">Instellingen fab</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_loading_applications">Applicaties aan het laden…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid te beheren</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heef toestemming om de helderheid te beheren</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
+    <string name="settings_brightness_tile_action_change_brightness">Pas helderheid aan</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Helderheid levels</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Hoog: %1$.1f%%\nMedium: %2$.1f%%\nLaag: %3$.1f%%</string>
     <!--call-->
@@ -92,7 +92,7 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Toegekend. De app is in staat om Niet Storen aan/uit te zetten en om gerelateerde instellingen te veranderen.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Geweigerd. De app is niet in staat om Niet Storen aan/uit te zetten en om gerelateerde instellingen te veranderen.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume paneel</string>
-    <string name="settings_ringer_mode_tile_action_show_dialog">Show dialog</string>
+    <string name="settings_ringer_mode_tile_action_show_dialog">Laat dialoog zien</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Verander beltoon</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Speel geluid af</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Speel geen geluid af wanneer standaard beltoonvolume is geselecteerd</string>
@@ -185,7 +185,7 @@
     <string name="settings_ringer_mode_tile_dnd_mode_none">Totale stilte</string>
     <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Alleen prioriteit</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
+    <string name="settings_show_dialog">Laat dialoog zien</string>
     <string name="settings_notification_share_action_title">Actie om te delen</string>
     <string name="settings_notification_settings_action_title">Instelligen actie</string>
     <!--immersive mode-->
@@ -195,6 +195,6 @@
     <string name="settings_immersive_mode_tile_action_show_dialog">Laat dialoog zien</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Verander immersive modus</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om actieve display te veranderen</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om actieve display te veranderen</string>
 </resources>

@@ -101,6 +101,7 @@
     <string name="settings_screen_on_tile_confirmation_dialog_title">Mostrar diálogo</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Contornar qualquer diálogo de confirmação e simplesmente iniciar/parar o serviço</string>
     <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Mostrar um diálogo de confirmação para iniciar/parar o serviço</string>
+    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço a ser executado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente do serviço ao ser executado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Ocultar notificação</string>
@@ -197,4 +198,7 @@
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode ativar o ambiente de visualização</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode ativar o ambiente de visualização</string>
+    <!--cpu usage-->
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
 </resources>

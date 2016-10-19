@@ -166,7 +166,7 @@
     <string name="share">Partilhar</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modo imersivo</string>
-    <string name="immersive_mode_tile_off">Modo imersivo desl.</string>
+    <string name="immersive_mode_tile_off">Modo imersivo desligado</string>
     <string name="immersive_mode_tile_hide_system_bars">Esconder barras de sistema</string>
     <string name="immersive_mode_tile_hide_navigation_bar">Esconder barra de navegação</string>
     <string name="immersive_mode_tile_hide_status_bar">Esconder barra de notificação</string>

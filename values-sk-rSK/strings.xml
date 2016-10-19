@@ -141,7 +141,7 @@
     <!--location mode-->
     <string name="location_mode_tile_label">Režim polohy</string>
     <string name="location_mode_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim polohy, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
-    <string name="location_mode_tile_label_off">Poloha je vypnutá</string>
+    <string name="location_mode_tile_label_off">Vypnúť polohu</string>
     <string name="location_mode_tile_label_battery_saving">Úspora batérie</string>
     <string name="location_mode_tile_label_sensors_only">Len senzory zariadenia</string>
     <string name="location_mode_tile_label_high_accuracy">Vysoká presnosť</string>

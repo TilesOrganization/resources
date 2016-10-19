@@ -1,180 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something, went wrong. Please try again</string>
-    <string name="try_again">Try again</string>
-    <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
-    <string name="play_services">Play services</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">High</string>
-    <string name="medium">Medium</string>
-    <string name="low">Low</string>
-    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
+    <string name="something_went_wrong">Niekde sa stala chyba. Prosím, skúste to znova</string>
+    <string name="try_again">Skúsiť znova</string>
+    <string name="location_mode_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
+    <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
+    <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
+    <string name="play_services">Služby Play</string>
+    <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
+    <string name="high">Vysoká</string>
+    <string name="medium">Stredná</string>
+    <string name="low">Nízka</string>
+    <string name="checking_features_progress_dialog_message">Kontrolujú sa špecifické funkcie zariadenia pre ich povolenie</string>
     <!--adaptive brightness-->
-    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <!--application-->
-    <string name="application_tile_label">Application</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_label">Aplikácia</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nie je vybraná žiadna aplikácia, prosím, otvorte nastavenia a vyberte aplikáciu.</string>
+    <string name="application_info_dialog_message">Pre rýchle spustenie, prosím, vyberte len jednu aplikáciu.</string>
     <!--brightness-->
-    <string name="brightness_tile_label">Brightness</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$.1f%%</string>
-    <string name="brightness_tile_undefined_label">Brightness undefined</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
+    <string name="brightness_tile_label">Jas</string>
+    <string name="brightness_tile_label_formatted">Jas %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Vysoký: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Stredný: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Nízky: %1$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Jas: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Jas nie je definovaný</string>
+    <string name="brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť úroveň jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <!--calculator-->
-    <string name="calculator_tile_label">Calculator</string>
+    <string name="calculator_tile_label">Kalkulačka</string>
     <!--calendar-->
-    <string name="calendar_tile_label">Calendar</string>
+    <string name="calendar_tile_label">Kalendár</string>
     <!--call-->
-    <string name="call_tile_label">Call</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="call_tile_label">Zavolať</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Aby dlaždica mohla uskutočniť telefónny hovor, prosím, otvorte nastavenia a povoľte prístup k Telefónu.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Nie je vybraný žiadny kontakt, prosím, otvorte nastavenia a vyberte kontakt alebo vyberte inú akciu.</string>
+    <string name="call_tile_formatted_label">Zavolať %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">Vybrať kontakt</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">Fotoaparát</string>
+    <string name="camera_tile_video_label">Kamera</string>
     <!--email -->
-    <string name="email_tile_label">Email</string>
-    <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nNo contact selected</string>
+    <string name="email_tile_label">E-mail</string>
+    <string name="email_tile_formatted_label">E-mail %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nie je vybraný žiadny e-mailový kontakt, prosím, otvorte nastavenia a vyberte kontakt alebo vyberte inú akciu.</string>
+    <string name="email_tile_label_no_contact_selected">E-mail\nNie je vybraný žiadny kontakt</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\'t be allowed to lock the device.</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <string name="lock_tile_label">Zamknúť</string>
+    <string name="lock_tile_device_admin_description">Povoliť dlaždici zamknúť zariadenie</string>
+    <string name="lock_tile_device_admin_activated">Správca zariadenia je aktívny</string>
+    <string name="lock_tile_device_admin_deactivated">Správca zariadenia je neaktívny</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Ak neaktívne, dlaždica nebude môcť zamknúť zariadenie.</string>
+    <string name="lock_tile_alert_dialog_message">Aby dlaždica mohla zamknúť zariadenie, prosím, otvorte nastavenia a povoľte Správcu zariadenia.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Ak aktívne, dlaždica bude môcť zamknúť zariadenie.</string>
     <!--map-->
-    <string name="map_tile_label">Map</string>
+    <string name="map_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_dialog">Napájanie</string>
+    <string name="power_tile_label">Napájanie</string>
+    <string name="power_tile_action_reboot">Reštartovať</string>
+    <string name="power_tile_action_reboot_recovery">Reštartovať do recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Reštartovať do bootloadera</string>
+    <string name="power_tile_action_power_off">Vypnúť</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
-    <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label">Režim vyzváňania</string>
+    <string name="ringer_mode_tile_label_normal">Normálny</string>
+    <string name="ringer_mode_tile_label_silent">Tichý</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibrácie</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Aby dlaždica mohla meniť režim vyzváňania, prosím, otvorte nastavenia a povoľte prístup k nastaveniu Nerušiť.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <string name="screen_on_tile_label">Nevypínať obrazovku</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Služba je spustená.\nZastaviť službu?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Služba je zastavená.\nSpustiť službu?</string>
+    <string name="screen_on_tile_service_notification_title">Služba je spustená</string>
+    <string name="screen_on_tile_service_notification_content_text">Zariadenie neprejde do režimu spánku. Klepnutím zastavíte službu.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Služba pre nevypnutie obrazovky</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Synchronizácia</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Please enter a valid duration</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Časovač</string>
+    <string name="timer_tile_invalid_duration_message">Prosím, zadajte platný interval</string>
+    <string name="timer_formatted_label">Časovač\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
+    <string name="weather_tile_label">Počasie</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Aby dlaždica mohla získať poveternostné podmienky, prosím, otvorte nastavenia a povoľte Polohu.</string>
+    <string name="weather_formatted_temperature_celsius">Teplota: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Teplota: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Pocitová teplota: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Pocitová teplota: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Rosný bod: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Rosný bod: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Vlhkosť: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celzia</string>
     <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
+    <string name="weather_clear">Jasno</string>
+    <string name="weather_cloudy">Zamračené</string>
+    <string name="weather_foggy">Hmla</string>
+    <string name="weather_hazy">Hmlisto</string>
+    <string name="weather_icy">Chladno</string>
+    <string name="weather_rainy">Dážď</string>
+    <string name="weather_snowy">Sneh</string>
+    <string name="weather_stormy">Búrky</string>
+    <string name="weather_windy">Veterno</string>
     <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nothing to display, please open settings and enable the fields you want to see here.</string>
+    <string name="weather_temperature">Teplota</string>
+    <string name="weather_feels_like">Pocitová teplota</string>
+    <string name="weather_humidity">Vlhkosť</string>
+    <string name="weather_dew_point">Rosný bod</string>
+    <string name="weather_nothing_to_display_nothing_enabled">Nie je čo zobraziť, prosím, otvorte nastavenia a povoľte polia, ktoré tu chcete zobraziť.</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">Vyhľadávanie na webe</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_label">Pripomienka</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Názov (max. %d znakov)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Obsah</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Trvalá</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Vymazať</string>
+    <string name="reminder_tile_empty_notification_text_fields">Pripomienka nebola pridaná. Pre pridanie platnej pripomienky, prosím, zadajte názov alebo obsah.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Pre vykonanie tejto akcie , prosím, povoľte Vykreslenie cez ďalšie aplikácie.</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Text bol skopírovaný do schránky</string>
+    <string name="retrieving_location_dialog_message">Získavanie polohy. Prosím, čakajte.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_label">Režim spánku</string>
+    <string name="sleep_timeout_tile_formatted_label">Režim spánku\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Aby dlaždica mohla zmeniť režim spánku, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
+    <string name="sleep_timeout_tile_value_15000">15 sek.</string>
+    <string name="sleep_timeout_tile_value_30000">30 sek.</string>
+    <string name="sleep_timeout_tile_value_60000">1 min.</string>
+    <string name="sleep_timeout_tile_value_120000">2 min.</string>
+    <string name="sleep_timeout_tile_value_300000">5 min.</string>
+    <string name="sleep_timeout_tile_value_600000">10 min.</string>
+    <string name="sleep_timeout_tile_value_1800000">30 min.</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Location mode</string>
-    <string name="location_mode_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_mode_tile_label_off">Location off</string>
-    <string name="location_mode_tile_label_battery_saving">Battery saving</string>
-    <string name="location_mode_tile_label_sensors_only">Device only</string>
-    <string name="location_mode_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_mode_tile_label">Režim polohy</string>
+    <string name="location_mode_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim polohy, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
+    <string name="location_mode_tile_label_off">Poloha je vypnutá</string>
+    <string name="location_mode_tile_label_battery_saving">Úspora batérie</string>
+    <string name="location_mode_tile_label_sensors_only">Len senzory zariadenia</string>
+    <string name="location_mode_tile_label_high_accuracy">Vysoká presnosť</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">Grant</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Bezpečnostné systémové nastavenia obsahujú systémové predvoľby, ktoré aplikácie môžu čítať ale nemôžu do nich zapisovať. Povolenia s touto úrovňou ochrany sú udelené iba systémovým aplikáciám. Ak je aplikácia nesystémová, nikdy nebude môcť použiť tieto povolenia.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles má udelené superuser povolenia pre interaktívne prostredie. Chcete programovo %s zápis do bezpečnostných nastavení pomocou interaktívneho prostredia superuser?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Ak chcete ručne %1$s povolenia, pripojte vaše zariadenie k PC a spustite nasledujúci príkaz: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Udeliť</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Zakázať</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Uspať</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
+    <string name="screenshot_tile_label">Snímka obrazovky</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Aby dlaždica mohla zaznamenať snímku obrazovky, prosím, otvorte nastavenia a povoľte zápis do Úložiska.</string>
+    <string name="screenshot_tile_screenshot_captured">Snímka obrazovky bola zaznamenaná.</string>
+    <string name="screenshot_tile_tap_to_open_gallery">Klepnutím otvoríte galériu.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Klepnutím zobrazíte snímku obrazovky.</string>
+    <string name="share">Zdieľať</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Režim na celú obrazovku</string>
+    <string name="immersive_mode_tile_off">Režim na celú obrazovku je vypnutý</string>
+    <string name="immersive_mode_tile_hide_system_bars">Skryť systémové lišty</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Skryť navigačnú lištu</string>
+    <string name="immersive_mode_tile_hide_status_bar">Skryť stavovú lištu</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim na celú obrazovku, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Ambientné zobrazenie</string>
+    <string name="ambient_display_tile_alert_dialog_message">Aby dlaždica mohla zmeniť ambientné zobrazenie, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--cpu-->
-    <string name="cpu_usage_tile_label">CPU usage</string>
-    <string name="cpu_usage_tile_alert_dialog_message">To allow the tile to show/hide CPU usage, please open settings and grant write secure settings permission.</string>
+    <string name="cpu_usage_tile_label">Využitie CPU</string>
+    <string name="cpu_usage_tile_alert_dialog_message">Aby dlaždica mohla zobraziť/skryť využitie CPU, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
 </resources>

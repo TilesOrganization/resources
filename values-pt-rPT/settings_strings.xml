@@ -196,9 +196,9 @@
     <string name="settings_immersive_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode ativar o ambiente de visualização</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode ativar o ambiente de visualização</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para ativar o ambiente de visualização</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para ativar o ambiente de visualização</string>
     <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para mostrar/ocultar o uso do CPU</string>
+    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para mostrar/ocultar o uso do CPU</string>
 </resources>

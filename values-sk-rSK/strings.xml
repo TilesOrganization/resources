@@ -109,7 +109,7 @@
     <string name="weather_snowy">Sneh</string>
     <string name="weather_stormy">Búrky</string>
     <string name="weather_windy">Veterno</string>
-    <string name="weather_conditions">Conditions</string>
+    <string name="weather_conditions">Podmienky</string>
     <string name="weather_temperature">Teplota</string>
     <string name="weather_feels_like">Pocitová teplota</string>
     <string name="weather_humidity">Vlhkosť</string>

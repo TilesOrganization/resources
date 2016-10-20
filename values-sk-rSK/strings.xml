@@ -60,7 +60,7 @@
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Napájanie</string>
+    <string name="power_tile_action_power_dialog">Ponuka napájania</string>
     <string name="power_tile_label">Napájanie</string>
     <string name="power_tile_action_reboot">Reštartovať</string>
     <string name="power_tile_action_reboot_recovery">Reštartovať do recovery</string>

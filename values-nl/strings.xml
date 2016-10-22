@@ -146,9 +146,9 @@
     <string name="location_mode_tile_label_high_accuracy">Nauwkeurig</string>
     <string name="location_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de locatie modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen is, zla het nooit in staat zijn om deze toestemmingen te gebruiken.</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen systeem app is, zal het niet in staat zijn om deze toestemmingen te gebruiken.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles heeft superuser toestemming voor een interactieve schil. Wil je programmatisch %s beveleigde instellingen overschrijven met gebruik van superuser interacteive schil?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Om handmatig %1$s toestemming, verbind je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Om handmatig toestemming te geven, verbind je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Toekennen</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Intrekken</string>
     <!--timer H M S symbols-->

@@ -60,7 +60,7 @@
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_formatted_label">NFC %s</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Diálogo de energia</string>
+    <string name="power_tile_action_power_dialog">Energia</string>
     <string name="power_tile_label">Energia</string>
     <string name="power_tile_action_reboot">Reiniciar</string>
     <string name="power_tile_action_reboot_recovery">Recovery</string>

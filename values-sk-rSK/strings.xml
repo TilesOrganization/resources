@@ -7,9 +7,9 @@
     <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
     <string name="play_services">Služby Play</string>
     <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
-    <string name="high">Vysoká</string>
-    <string name="medium">Stredná</string>
-    <string name="low">Nízka</string>
+    <string name="high">Vysoký</string>
+    <string name="medium">Stredný</string>
+    <string name="low">Nízky</string>
     <string name="checking_features_progress_dialog_message">Kontrolujú sa špecifické funkcie zariadenia pre ich povolenie</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>

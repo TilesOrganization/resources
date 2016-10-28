@@ -3,11 +3,11 @@
     <!--settings-->
     <string name="settings">Definições</string>
     <string name="settings_design">Aspeto</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_animations">Animações</string>
+    <string name="settings_animations_reveal_animation_title">Animações de abertura</string>
+    <string name="settings_animations_drawable_animation_title">Animações dos ícones</string>
+    <string name="settings_enabled">Ligada</string>
+    <string name="settings_disabled">Desligada</string>
     <string name="settings_action">Ação</string>
     <string name="settings_layout">Disposição</string>
     <string name="settings_night_mode">Modo noite</string>
@@ -44,7 +44,7 @@
     <string name="settings_translations_locale_pt_rBR">Português, Brazil</string>
     <string name="settings_translations_locale_nl">Holandês</string>
     <string name="settings_translations_locale_pt_rPT">Português, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
+    <string name="settings_translations_locale_sk_rSK">Eslovaco, Eslováquia</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do mosaico</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>
@@ -186,8 +186,8 @@
     <string name="settings_screenshot_tile_action_take_screenshot">Capturar ecrã sem fechar as definições rápidas</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar ação para partilhar a captura de ecrã</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Esconder ação para partilhar ecrã</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Mostrar opção para apagar a captura de ecrã</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Ocultar a opção para apagar a captura de ecrã</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_mode_title">Não incomodar</string>
     <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Apenas alarmes</string>
@@ -210,7 +210,7 @@
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para mostrar/ocultar o uso do CPU</string>
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para mostrar/ocultar o uso do CPU</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar as animações</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar as animações</string>
+    <string name="settings_show_milliseconds">Mostrar milissegundos</string>
 </resources>

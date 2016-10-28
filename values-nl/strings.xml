@@ -11,7 +11,7 @@
     <string name="medium">Medium</string>
     <string name="low">Laag</string>
     <string name="checking_features_progress_dialog_message">Controleren op toestel specifieke kenmerken om in te schakelen</string>
-    <string name="not_available">Not available</string>
+    <string name="not_available">Niet beschikbaar</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
@@ -147,9 +147,9 @@
     <string name="location_mode_tile_label_high_accuracy">Nauwkeurig</string>
     <string name="location_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de locatie modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen is, zla het nooit in staat zijn om deze toestemmingen te gebruiken.</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen is, zal het niet in staat zijn om deze toestemmingen te gebruiken.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles heeft superuser toestemming voor een interactieve schil. Wil je programmatisch %s beveleigde instellingen overschrijven met gebruik van superuser interacteive schil?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Om handmatig %1$s toestemming, verbind je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Om handmatig toestemming te geven, verbind je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Toekennen</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Intrekken</string>
     <!--timer H M S symbols-->
@@ -165,7 +165,7 @@
     <string name="screenshot_tile_tap_to_open_gallery">Tik om galerij te openen.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tik om screenshot te tonen.</string>
     <string name="share">Delen</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Verwijderen</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Immersive modus</string>
     <string name="immersive_mode_tile_off">Immersive modus uit</string>
@@ -180,20 +180,20 @@
     <string name="cpu_usage_tile_label">CPU gebruik</string>
     <string name="cpu_usage_tile_alert_dialog_message">Om de tegel toestemming te geven om het CPU gebruik weer te geven/te verbergen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
+    <string name="animations_tile_label">Animaties</string>
     <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label_transition">Transitie</string>
+    <string name="animations_tile_label_window">Venster</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animatie uit</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Vensteranimatieschaal %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Om de tegel toestemming te geven om animaties te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
-    <string name="sleep_time_tile_awake">Awake</string>
-    <string name="sleep_time_tile_sleep">Sleep</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
-    <string name="sleep_time_tile_unplugged">Unplugged</string>
-    <string name="sleep_time_tile_plugged_usb">Plugged USB</string>
-    <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
+    <string name="sleep_time_tile_label">Slaap tijd</string>
+    <string name="sleep_time_tile_awake">Wakker</string>
+    <string name="sleep_time_tile_sleep">Slaap</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Batterij %d%%</string>
+    <string name="sleep_time_tile_unplugged">Niet ingeplugd</string>
+    <string name="sleep_time_tile_plugged_usb">Ingeplugd USB</string>
+    <string name="sleep_time_tile_plugged_ac">Ingeplugd AC</string>
+    <string name="sleep_time_tile_plugged_wireless">ingeplugd wireless</string>
 </resources>

@@ -3,11 +3,11 @@
     <!--settings-->
     <string name="settings">Instellingen</string>
     <string name="settings_design">Ontwerp</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_animations">Animaties</string>
+    <string name="settings_animations_reveal_animation_title">Maak animatie kenbaar</string>
+    <string name="settings_animations_drawable_animation_title">Tekenbare animatie</string>
+    <string name="settings_enabled">Ingeschakeld</string>
+    <string name="settings_disabled">Uitgeschakeld</string>
     <string name="settings_action">Actie</string>
     <string name="settings_layout">Layout</string>
     <string name="settings_night_mode">Nacht modus</string>
@@ -44,7 +44,7 @@
     <string name="settings_translations_locale_pt_rBR">Portugees, Braziliaans</string>
     <string name="settings_translations_locale_nl">Nederlands</string>
     <string name="settings_translations_locale_pt_rPT">Portugees, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
+    <string name="settings_translations_locale_sk_rSK">Slowakije, Slovaaks</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tegel zichtbaarheid</string>
     <string name="settings_component_summary_off">Verberg de tegel in de Quick Settings layout</string>
@@ -186,8 +186,8 @@
     <string name="settings_screenshot_tile_action_take_screenshot">Maak een screenshot zonder de Snelle Instellingen paneel te sluiten</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Laat actie zien om screenshot te delen</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Verberg actie om screenshot te delen</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Laat actie zien om screenshot te verwijderen</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Verberg actie om screenshot te verwijderen</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_mode_title">Niet storen modus</string>
     <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alleen alarmen</string>
@@ -210,7 +210,7 @@
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om het CPU gebruik weer te geven/te verbergen</string>
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om het CPU gebruik weer te geven/te verbergen</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om animaties te veranderen</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om animaties te veranderen</string>
+    <string name="settings_show_milliseconds">Laat milliseconden zien</string>
 </resources>

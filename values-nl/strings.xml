@@ -195,5 +195,5 @@
     <string name="sleep_time_tile_unplugged">Niet ingeplugd</string>
     <string name="sleep_time_tile_plugged_usb">Ingeplugd USB</string>
     <string name="sleep_time_tile_plugged_ac">Ingeplugd AC</string>
-    <string name="sleep_time_tile_plugged_wireless">ingeplugd wireless</string>
+    <string name="sleep_time_tile_plugged_wireless">Ingeplugd draadloos</string>
 </resources>

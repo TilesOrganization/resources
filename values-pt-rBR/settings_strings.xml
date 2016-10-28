@@ -3,6 +3,11 @@
     <!--settings-->
     <string name="settings">Configurações</string>
     <string name="settings_design">Design</string>
+    <string name="settings_animations">Animations</string>
+    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
+    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
+    <string name="settings_enabled">Enabled</string>
+    <string name="settings_disabled">Disabled</string>
     <string name="settings_action">Ação</string>
     <string name="settings_layout">Layout</string>
     <string name="settings_night_mode">Modo noturno</string>
@@ -39,6 +44,7 @@
     <string name="settings_translations_locale_pt_rBR">Português, Brasil</string>
     <string name="settings_translations_locale_nl">Holandês</string>
     <string name="settings_translations_locale_pt_rPT">Português, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do bloco</string>
     <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
@@ -180,6 +186,8 @@
     <string name="settings_screenshot_tile_action_take_screenshot">Capturar a tela sem sair do painel de Configurações Rápidas</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar ação para compartilhar captura de tela</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Esconder ação para compartilhar captura de tela</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_mode_title">Modo Não Pertube</string>
     <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Somente alarmes</string>
@@ -201,4 +209,8 @@
     <!--cpu usage-->
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido mostrar/esconder o uso da CPU</string>
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido mostrar/esconder o uso da CPU</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_show_milliseconds">Show milliseconds</string>
 </resources>

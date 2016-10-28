@@ -3,11 +3,11 @@
     <!--settings-->
     <string name="settings">Nastavenia</string>
     <string name="settings_design">Vzhľad</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_animations">Animácie</string>
+    <string name="settings_animations_reveal_animation_title">Animácia zobrazenia</string>
+    <string name="settings_animations_drawable_animation_title">Animácia vykreslenia</string>
+    <string name="settings_enabled">Povolené</string>
+    <string name="settings_disabled">Zakázané</string>
     <string name="settings_action">Akcia</string>
     <string name="settings_layout">Rozloženie</string>
     <string name="settings_night_mode">Nočný režim</string>
@@ -186,8 +186,8 @@
     <string name="settings_screenshot_tile_action_take_screenshot">Zaznamenať snímku obrazovky bez zbalenia panela s rýchlymi nastaveniami</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Zobraziť akciu pre zdieľanie snímky obrazovky</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Skryť akciu pre zdieľanie snímky obrazovky</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Zobraziť akciu pre vymazanie snímky obrazovky</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Skryť akciu pre vymazanie snímky obrazovky</string>
     <!--ringer mode dnd mode-->
     <string name="settings_ringer_mode_tile_dnd_mode_title">Režim Nerušiť</string>
     <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Iba budíky</string>
@@ -210,7 +210,7 @@
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zobraziť/skryť využitie CPU</string>
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zobraziť/skryť využitie CPU</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť animácie</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť animácie</string>
     <string name="settings_show_milliseconds">Show milliseconds</string>
 </resources>

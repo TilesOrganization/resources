@@ -11,7 +11,7 @@
     <string name="medium">Stredný</string>
     <string name="low">Nízky</string>
     <string name="checking_features_progress_dialog_message">Kontrolujú sa špecifické funkcie zariadenia pre ich povolenie</string>
-    <string name="not_available">Not available</string>
+    <string name="not_available">Nie je dostupné</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -142,7 +142,7 @@
     <!--location mode-->
     <string name="location_mode_tile_label">Režim polohy</string>
     <string name="location_mode_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim polohy, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
-    <string name="location_mode_tile_label_off">Vypnúť polohu</string>
+    <string name="location_mode_tile_label_off">Poloha je vypnutá</string>
     <string name="location_mode_tile_label_battery_saving">Úspora batérie</string>
     <string name="location_mode_tile_label_sensors_only">Len senzory zariadenia</string>
     <string name="location_mode_tile_label_high_accuracy">Vysoká presnosť</string>
@@ -165,7 +165,7 @@
     <string name="screenshot_tile_tap_to_open_gallery">Klepnutím otvoríte galériu.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klepnutím zobrazíte snímku obrazovky.</string>
     <string name="share">Zdieľať</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Vymazať</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Režim na celú obrazovku</string>
     <string name="immersive_mode_tile_off">Režim na celú obrazovku je vypnutý</string>
@@ -180,20 +180,20 @@
     <string name="cpu_usage_tile_label">Využitie CPU</string>
     <string name="cpu_usage_tile_alert_dialog_message">Aby dlaždica mohla zobraziť/skryť využitie CPU, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
-    <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label">Animácie</string>
+    <string name="animations_tile_label_animator">Animátor</string>
+    <string name="animations_tile_label_transition">Prechod</string>
+    <string name="animations_tile_label_window">Okno</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animácia je vypnutá</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Dĺžka stupnice %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Aby dlaždica mohla zmeniť animácie, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
-    <string name="sleep_time_tile_awake">Awake</string>
-    <string name="sleep_time_tile_sleep">Sleep</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
-    <string name="sleep_time_tile_unplugged">Unplugged</string>
-    <string name="sleep_time_tile_plugged_usb">Plugged USB</string>
-    <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
+    <string name="sleep_time_tile_label">Čas spánku</string>
+    <string name="sleep_time_tile_awake">Prebudený</string>
+    <string name="sleep_time_tile_sleep">Spánok</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Batéria %d%%</string>
+    <string name="sleep_time_tile_unplugged">Odpojené</string>
+    <string name="sleep_time_tile_plugged_usb">Pripojené USB</string>
+    <string name="sleep_time_tile_plugged_ac">Pripojené AC</string>
+    <string name="sleep_time_tile_plugged_wireless">Pripojené bezdrátovo</string>
 </resources>

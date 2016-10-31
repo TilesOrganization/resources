@@ -3,11 +3,11 @@
     <!--settings-->
     <string name="settings">Einstellungen</string>
     <string name="settings_design">Aussehen</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_animations">Animationen</string>
+    <string name="settings_animations_reveal_animation_title">Aufdeckende Animationen</string>
+    <string name="settings_animations_drawable_animation_title">Auslosbare Animationen</string>
+    <string name="settings_enabled">Aktiviert</string>
+    <string name="settings_disabled">Deaktiviert</string>
     <string name="settings_action">Aktion</string>
     <string name="settings_layout">Anordnung</string>
     <string name="settings_night_mode">Nacht-Modus</string>
@@ -44,7 +44,7 @@
     <string name="settings_translations_locale_pt_rBR">Portugiesisch, Brasilianisch</string>
     <string name="settings_translations_locale_nl">Niederländer</string>
     <string name="settings_translations_locale_pt_rPT">Portugiesisch, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
+    <string name="settings_translations_locale_sk_rSK">Slowakei, Slowakisch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>
     <string name="settings_component_summary_off">Verstecke die Kachel in den Schnelleinstellungen</string>
@@ -210,7 +210,7 @@
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die CPU Auslastung anzeigen</string>
     <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die CPU Auslastung nicht anzeigen</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Animationen ändern</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Animationen nicht ändern</string>
+    <string name="settings_show_milliseconds">Zeige Millisekunden</string>
 </resources>

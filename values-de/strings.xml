@@ -11,7 +11,7 @@
     <string name="medium">Medium</string>
     <string name="low">Tief</string>
     <string name="checking_features_progress_dialog_message">Überprüfe die Aktivierung gerätespezifischer Features</string>
-    <string name="not_available">Not available</string>
+    <string name="not_available">Nicht verfügbar</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -180,20 +180,20 @@
     <string name="cpu_usage_tile_label">CPU Auslastung</string>
     <string name="cpu_usage_tile_alert_dialog_message">Damit die Kachel die CPU Auslastung anzeigen kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
+    <string name="animations_tile_label">Animationen</string>
     <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label_transition">Übergang</string>
+    <string name="animations_tile_label_window">Fenster</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animation aus</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Skalierung der Dauer %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Damit die Kachel die Animationen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
-    <string name="sleep_time_tile_awake">Awake</string>
-    <string name="sleep_time_tile_sleep">Sleep</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
-    <string name="sleep_time_tile_unplugged">Unplugged</string>
-    <string name="sleep_time_tile_plugged_usb">Plugged USB</string>
-    <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
+    <string name="sleep_time_tile_label">Ruhezustand</string>
+    <string name="sleep_time_tile_awake">Aktiv</string>
+    <string name="sleep_time_tile_sleep">Schlafend</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Batterie %d%%</string>
+    <string name="sleep_time_tile_unplugged">Ausgesteckt</string>
+    <string name="sleep_time_tile_plugged_usb">USB angesteckt</string>
+    <string name="sleep_time_tile_plugged_ac">Ladegerät angesteckt</string>
+    <string name="sleep_time_tile_plugged_wireless">Kabellos angesteckt</string>
 </resources>

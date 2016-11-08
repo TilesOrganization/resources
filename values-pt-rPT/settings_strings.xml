@@ -4,8 +4,8 @@
     <string name="settings">Definições</string>
     <string name="settings_design">Aspeto</string>
     <string name="settings_animations">Animações</string>
-    <string name="settings_animations_reveal_animation_title">Animações de abertura</string>
-    <string name="settings_animations_drawable_animation_title">Animações dos ícones</string>
+    <string name="settings_animations_reveal_animation_title">Animação de abertura</string>
+    <string name="settings_animations_drawable_animation_title">Animação dos ícones</string>
     <string name="settings_enabled">Ligada</string>
     <string name="settings_disabled">Desligada</string>
     <string name="settings_action">Ação</string>
@@ -214,9 +214,9 @@
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar as animações</string>
     <string name="settings_show_milliseconds">Mostrar milissegundos</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Adicionar alarme</string>
+    <string name="settings_alarm_tile_action_show_alarms">Mostrar alarmes</string>
+    <string name="settings_date_format">Formato da data</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Formato da hora</string>
 </resources>

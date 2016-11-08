@@ -197,10 +197,10 @@
     <string name="sleep_time_tile_plugged_ac">Pripojené AC</string>
     <string name="sleep_time_tile_plugged_wireless">Pripojené bezdrátovo</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_label">Budík</string>
+    <string name="alarm_tile_no_alarm_set">Budík nie je nastavený</string>
     <!--files-->
-    <string name="files_tile_label">Files</string>
+    <string name="files_tile_label">Súbory</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <string name="settings_shortcut_tile_label">Odkaz na nastavenia</string>
 </resources>

@@ -214,9 +214,9 @@
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om animaties te veranderen</string>
     <string name="settings_show_milliseconds">Laat milliseconden zien</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Voeg alarm toe</string>
+    <string name="settings_alarm_tile_action_show_alarms">Laat alarmen zien</string>
+    <string name="settings_date_format">Datumnotatie</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Tijdnotatie</string>
 </resources>

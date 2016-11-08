@@ -214,9 +214,9 @@
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Animationen nicht ändern</string>
     <string name="settings_show_milliseconds">Zeige Millisekunden</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Alarm hinzufügen</string>
+    <string name="settings_alarm_tile_action_show_alarms">Alarme anzeigen</string>
+    <string name="settings_date_format">Datum-Format</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Zeit-Format</string>
 </resources>

@@ -196,4 +196,11 @@
     <string name="sleep_time_tile_plugged_usb">Ingeplugd USB</string>
     <string name="sleep_time_tile_plugged_ac">Ingeplugd AC</string>
     <string name="sleep_time_tile_plugged_wireless">Ingeplugd draadloos</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">Alarm</string>
+    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <!--files-->
+    <string name="files_tile_label">Files</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">Settings shortcut</string>
 </resources>

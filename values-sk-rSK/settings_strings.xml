@@ -38,6 +38,7 @@
     <string name="settings_send_email">Poslať e-mail</string>
     <string name="settings_support_summary">Vyvinuté pre Android Nougat</string>
     <string name="settings_credit">Zásluhy</string>
+    <string name="settings_credit_app_icon">Application\'s icon</string>
     <string name="settings_translations">Preklady</string>
     <string name="settings_translations_thanks">Ak chcete pomôcť preložiť aplikáciu do vášho jazyka, prosím, kontaktujte ma: rascarlo@gmail.com.\nĎakujem!</string>
     <string name="settings_translations_locale_de">German</string>

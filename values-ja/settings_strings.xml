@@ -38,6 +38,7 @@
     <string name="settings_send_email">Send email</string>
     <string name="settings_support_summary">Developed for Android Nougat</string>
     <string name="settings_credit">Credit</string>
+    <string name="settings_credit_app_icon">Application\'s icon</string>
     <string name="settings_translations">Translations</string>
     <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
     <string name="settings_translations_locale_de">German</string>

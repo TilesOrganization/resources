@@ -188,13 +188,13 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">Escala de duração %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Para permitir que o mosaico altere as animações, abra as definições e conceda permissão para modificar definições seguras.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Tempo para adormecer</string>
-    <string name="sleep_time_tile_awake">Acordar</string>
-    <string name="sleep_time_tile_sleep">Adormecer</string>
+    <string name="sleep_time_tile_label">Tempo em suspensão</string>
+    <string name="sleep_time_tile_awake">Acordado</string>
+    <string name="sleep_time_tile_sleep">Suspenso</string>
     <string name="sleep_time_tile_formatted_battery_percentage">%d%% de bateria</string>
-    <string name="sleep_time_tile_unplugged">Desligado</string>
+    <string name="sleep_time_tile_unplugged">A descarregar</string>
     <string name="sleep_time_tile_plugged_usb">A carregar por USB</string>
-    <string name="sleep_time_tile_plugged_ac">A carregar pela corrente</string>
+    <string name="sleep_time_tile_plugged_ac">A carregar por AC</string>
     <string name="sleep_time_tile_plugged_wireless">A carregar por wireless</string>
     <!--alarm-->
     <string name="alarm_tile_label">Alarme</string>

@@ -38,7 +38,7 @@
     <string name="settings_send_email">Enviar email</string>
     <string name="settings_support_summary">Desenvolvido para o Android Nougat</string>
     <string name="settings_credit">Créditos</string>
-    <string name="settings_credit_app_icon">Application\'s icon</string>
+    <string name="settings_credit_app_icon">ícone da aplicação</string>
     <string name="settings_translations">Traduções</string>
     <string name="settings_translations_thanks"> Se quer traduzir a aplicação para a sua linguagem, contacte-me: rascarlo@gmail.com.\nObrigado!</string>
     <string name="settings_translations_locale_de">Alemão</string>

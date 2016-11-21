@@ -54,10 +54,6 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Show all installed apps</string>
-    <string name="settings_application_tile_action_open_app">Open selected app</string>
-    <string name="settings_application_tile_open_app_preference_title">Application to open</string>
-    <string name="settings_application_tile_choose_application">Choose application</string>
     <string name="settings_application_tile_view_mode">View mode</string>
     <string name="settings_application_tile_view_mode_list">List</string>
     <string name="settings_application_tile_view_mode_grid">Grid</string>
@@ -67,7 +63,6 @@
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
     <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_show_settings_fab_title">Settings fab</string>
     <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
@@ -82,14 +77,10 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
-    <!--camera-->
-    <string name="settings_camera_tile_mode_still">Open camera in still image mode</string>
-    <string name="settings_camera_tile_mode_video">Open camera in video mode</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Open email app</string>
     <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
     <string name="settings_email_tile_contact_preference_title">Contact to email</string>
-    <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Device administrator</string>
     <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
@@ -99,20 +90,15 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Show dialog</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Bypass any confirmation dialog and simply start/stop service</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Show a confirmation dialog to start/stop service</string>
     <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Notification action</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
@@ -125,7 +111,6 @@
     <string name="settings_sync_tile_action_change_sync">Change sync state</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
     <!--timer -->
-    <string name="settings_timer_tile">Timer</string>
     <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
@@ -152,7 +137,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Notification action</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
@@ -162,10 +146,8 @@
     <string name="settings_calendar_tile_action_view">View events</string>
     <string name="settings_calendar_tile_action_add">Add event</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Write secure settings permission</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Change location mode</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
@@ -180,9 +162,6 @@
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Notification action</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Hide action</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
@@ -202,14 +181,10 @@
     <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Show dialog</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
-    <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show/hide CPU usage</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show/hide CPU usage</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
@@ -220,4 +195,17 @@
     <string name="settings_date_format">Date format</string>
     <!--screen time tile-->
     <string name="settings_time_format">Time format</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

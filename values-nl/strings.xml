@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Er is iets misgegaan. Probeer het nog een keer</string>
-    <string name="try_again">Probeer nog een keer</string>
     <string name="location_mode_alert_dialog_message">Locatie is uit. Om de tegel toe te staan om de huidige locatie te verkrijgen, open instellingen en zet locatie aan.</string>
     <string name="resolve_activity_alert_dialog_message">Geen applicatie gevonden om deze actie uit te voeren.</string>
     <string name="su_alert_dialog_message">Om een dergelijke actie uit te voeren, geef superuser toestemming voor een interactieve schil.</string>
-    <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services is benodigd om deze actie uit te voeren. Installeer het en probeer nog een keer.</string>
     <string name="high">Hoog</string>
     <string name="medium">Medium</string>
@@ -46,7 +44,6 @@
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">Geen emailcontact geselecteerd, open instellingen en selecteer een contact. Of stel een andere actie in.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nGeen contact geselecteerd</string>
     <!--lock-->
     <string name="lock_tile_label">Vergrendelen</string>
     <string name="lock_tile_device_admin_description">Sta de vergrendel tegel toe om het toestel te vergrendelen</string>
@@ -59,7 +56,7 @@
     <string name="map_tile_label">Map</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Power dialoog</string>
     <string name="power_tile_label">Power</string>
@@ -87,7 +84,6 @@
     <string name="sync_tile_label">Synchroniseren</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Voer een geldige tijd in</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Weer</string>
@@ -115,7 +111,6 @@
     <string name="weather_feels_like">Voelt als</string>
     <string name="weather_humidity">Vochtigheid</string>
     <string name="weather_dew_point">Dauwpunt</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Niets om weer te geven, open instelligen en activeer de velden die je hier wilt zien.</string>
     <!--web search-->
     <string name="web_search_tile_label">Op het web zoeken</string>
     <!--reminder-->
@@ -162,7 +157,6 @@
     <string name="screenshot_tile_label">Screenshot</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Om de tegel toestemming te geven om een screenshot te nemen, open instellingen en geef toestemming om op externe opslag op te slaan.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot genomen.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Tik om galerij te openen.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tik om screenshot te tonen.</string>
     <string name="share">Delen</string>
     <string name="delete">Verwijderen</string>
@@ -176,9 +170,6 @@
     <!--ambient display-->
     <string name="ambient_display_tile_label">Actieve display</string>
     <string name="ambient_display_tile_alert_dialog_message">Om de tegel toestemming te geven om actieve display te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
-    <!--cpu-->
-    <string name="cpu_usage_tile_label">CPU gebruik</string>
-    <string name="cpu_usage_tile_alert_dialog_message">Om de tegel toestemming te geven om het CPU gebruik weer te geven/te verbergen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--animations-->
     <string name="animations_tile_label">Animaties</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -203,4 +194,9 @@
     <string name="files_tile_label">Bestanden</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Instellingen snelkoppeling</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Font size</string>
+    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voice</string>
 </resources>

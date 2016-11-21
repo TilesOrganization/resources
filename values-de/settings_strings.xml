@@ -54,10 +54,6 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht die Helligkeit ändern</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Helligkeit ändern</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Zeige alle installierten Apps an</string>
-    <string name="settings_application_tile_action_open_app">Öffne die ausgewählte App</string>
-    <string name="settings_application_tile_open_app_preference_title">Zu öffnende Anwendung</string>
-    <string name="settings_application_tile_choose_application">Wähle eine Anwendung</string>
     <string name="settings_application_tile_view_mode">Anzeige-Modus</string>
     <string name="settings_application_tile_view_mode_list">Liste</string>
     <string name="settings_application_tile_view_mode_grid">Gitter</string>
@@ -67,7 +63,6 @@
     <string name="settings_application_tile_application_list_show_formatted_summary">%d Anwendungen ausgewählt</string>
     <string name="settings_application_tile_application_list_show_summary_empty">Keine Anwendung ausgewählt</string>
     <string name="settings_application_tile_application_list_launch_title">Zu startende Anwendung</string>
-    <string name="settings_application_tile_show_settings_fab_title">Shortcut zu den Einstellungen</string>
     <string name="settings_application_tile_loading_applications">Lade Anwendungen…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht das Helligkeitslevel ändern</string>
@@ -82,14 +77,10 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Verweigert. Die Kachel darf keine Anrufe tätigen</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Gewährt. Die Kachel darf Anrufe tätigen</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Anzurufender Kontakt</string>
-    <!--camera-->
-    <string name="settings_camera_tile_mode_still">Öffne die Kamera im Bilder-Modus</string>
-    <string name="settings_camera_tile_mode_video">Öffne die Kamera im Video-Modus</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Öffne die Email App</string>
     <string name="settings_email_tile_action_send_email">Wähle eine Email mit dem Empfänger</string>
     <string name="settings_email_tile_contact_preference_title">Zu mailender Kontakt</string>
-    <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Geräteadministrator</string>
     <string name="settings_lock_tile_device_admin_summary_on">Aktiviert. Die Kachel darf das Gerät sperren</string>
@@ -99,20 +90,15 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Gewährt. Die App kann \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Verweigert. Die App kann nicht \"Nicht stören\" de-/aktivieren und vergleichbare Einstellungen ändern.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Öffne die Lautstärke-Einstellungen</string>
-    <string name="settings_ringer_mode_tile_action_show_dialog">Zeige den Dialog an</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Ändere den Klingel-Modus</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Ton abspielen</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Spiele keinen Ton, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Spiele den Standard-Benachrichtigungston, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Zeige den Dialog an</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Umgehe jeden Bestätigungsdialog und starte/stoppe den Dienst sofort</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Zeige einen Bestätigungsdialog für das Starten und Stoppen eines Dienstes</string>
     <string name="settings_screen_on_tile_action_start_stop_service">Starte/stoppe den Dienst</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung über aktive Dienste</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an solange Dienste aktiv sind</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verstecke die Benachrichtigung</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Aktion der Benachrichtigung</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Ton abspielen</string>
@@ -125,7 +111,6 @@
     <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
     <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>
     <!--timer -->
-    <string name="settings_timer_tile">Timer</string>
     <string name="settings_timer_tile_skip_ui_title">Überspringe Dialoge</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Umgehe jeden Bestätigungsdialog und starte den Timer sofort</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen Bestätigungsdialog für das Starten des Timers an</string>
@@ -152,7 +137,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style">Zeitstempel-Stil</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stoppuhr</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Aktion der Benachrichtigung</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_reminder_tile_draw_over_apps_title">\"Über anderen Apps einblenden\"-Berechtigung</string>
@@ -162,10 +146,8 @@
     <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Schreibrechte für abgesicherte Einstellungen</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standord-Modus ändern</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf nicht den Standord-Modus ändern</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Dialog anzeigen</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Standord-Modus ändern</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf den Ruhezustand nicht ändern</string>
@@ -180,9 +162,6 @@
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibration</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibriert, wenn ein Screenshot erstellt wird</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Vibriert nicht, wenn ein Screenshot erstellt wird</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Aktion der Benachrichtigung</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Schließe die Schnelleinstellungen und erstelle einen Screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot ohne die Schnelleinstellungen zu schließen</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Zeige die Aktion um einen Screenshot zu teilen</string>
@@ -202,14 +181,10 @@
     <string name="settings_write_secure_settings_permission_title">Schreibrechte für abgesicherte Einstellungen</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den immersiven Modus ändern</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den immersiven Modus nicht ändern</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Zeige den Dialog an</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Ändere immersiven Modus</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status des Inaktivitätsdisplay ändern</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status des Inaktivitätsdisplay nicht ändern</string>
-    <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die CPU Auslastung anzeigen</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die CPU Auslastung nicht anzeigen</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Animationen ändern</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Animationen nicht ändern</string>
@@ -220,4 +195,17 @@
     <string name="settings_date_format">Datum-Format</string>
     <!--screen time tile-->
     <string name="settings_time_format">Zeit-Format</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

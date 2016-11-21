@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
-    <string name="try_again">Tentar novamente</string>
     <string name="location_mode_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
     <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
-    <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Por favor, instale-o e tente novamente</string>
     <string name="high">Alto</string>
     <string name="medium">Médio</string>
@@ -46,7 +44,6 @@
     <string name="email_tile_label">E-mail</string>
     <string name="email_tile_formatted_label">E-mail %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">Nenhum contato para e-mail selecionado, por favor abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
-    <string name="email_tile_label_no_contact_selected">E-mail\nNenhum contato selecionado</string>
     <!--lock-->
     <string name="lock_tile_label">Bloquear</string>
     <string name="lock_tile_device_admin_description">Permitir o bloco de bloqueio para bloquear o dispositivo</string>
@@ -59,7 +56,7 @@
     <string name="map_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Menu de energia</string>
     <string name="power_tile_label">Energia</string>
@@ -87,7 +84,6 @@
     <string name="sync_tile_label">Sincronização</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Por favor entre com uma duração válida</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Temperatura</string>
@@ -115,7 +111,6 @@
     <string name="weather_feels_like">Sensação térmica</string>
     <string name="weather_humidity">Umidade</string>
     <string name="weather_dew_point">Ponto de condensação da água</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nada para exibir, por favor, abra as configurações e ative os campos que você quer ver aqui.</string>
     <!--web search-->
     <string name="web_search_tile_label">Pesquisa na web</string>
     <!--reminder-->
@@ -162,7 +157,6 @@
     <string name="screenshot_tile_label">Captura de tela</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda a permissão de gravação no armazenamento externo.</string>
     <string name="screenshot_tile_screenshot_captured">Captura de tela obtida.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Toque para abrir a galeria.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Toque para ver sua captura de tela.</string>
     <string name="share">Compartilhar</string>
     <string name="delete">Delete</string>
@@ -176,9 +170,6 @@
     <!--ambient display-->
     <string name="ambient_display_tile_label">Exibição de ambiente</string>
     <string name="ambient_display_tile_alert_dialog_message">Para permitir que o bloco altere a exibição de ambiente, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
-    <!--cpu-->
-    <string name="cpu_usage_tile_label">Uso da CPU</string>
-    <string name="cpu_usage_tile_alert_dialog_message">Para permitir que o bloco mostre/esconda o uso da CPU, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--animations-->
     <string name="animations_tile_label">Animações</string>
     <string name="animations_tile_label_animator">Animador</string>
@@ -203,4 +194,9 @@
     <string name="files_tile_label">Arquivos</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Atalho para configurações</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Font size</string>
+    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voice</string>
 </resources>

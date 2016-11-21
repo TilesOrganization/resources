@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Upps! Irgendwas ging schief. Versuche es erneut</string>
-    <string name="try_again">Versuche es erneut</string>
     <string name="location_mode_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
     <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
     <string name="su_alert_dialog_message">Um diese Aktion auszuführen, erteile bitte Superuser-Rechte für eine interaktive Shell.</string>
-    <string name="play_services">Play Dienste</string>
     <string name="play_services_alert_dialog_message">Google Play Services wird für die Ausführung dieser Aktion benötigt. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
     <string name="medium">Medium</string>
@@ -46,7 +44,6 @@
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">Kein Email-Kontakt ausgewählt, öffne die Einstellungen und wähle einen aus. Oder wähle eine andere Aktion.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nKein Kontakt ausgewählt</string>
     <!--lock-->
     <string name="lock_tile_label">Sperren</string>
     <string name="lock_tile_device_admin_description">Erlaube der Sperr-Kachel das Sperren des Gerätes</string>
@@ -59,7 +56,7 @@
     <string name="map_tile_label">Karte</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Ausschalt-Dialog</string>
     <string name="power_tile_label">Ausschalt-Menü</string>
@@ -87,7 +84,6 @@
     <string name="sync_tile_label">Synchronisation</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Bitte gib eine korrekte Dauer ein</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Wetter</string>
@@ -115,7 +111,6 @@
     <string name="weather_feels_like">Gefühlt</string>
     <string name="weather_humidity">Feuchtigkeit</string>
     <string name="weather_dew_point">Taupunkt</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nichts sichtbar, öffne die Einstellungen und aktiviere die anzuzeigenden Felder.</string>
     <!--web search-->
     <string name="web_search_tile_label">Web-Suche</string>
     <!--reminder-->
@@ -162,7 +157,6 @@
     <string name="screenshot_tile_label">Screenshot</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstellen und speichern darf, öffne bitte die Einstellungen und erteile Schreibrechte für den Speicher.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot erstellt.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Klicke um die Galerie zu öffnen.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klicke um den Screenshot anzuzeigen.</string>
     <string name="share">Teile</string>
     <string name="delete">Delete</string>
@@ -176,9 +170,6 @@
     <!--ambient display-->
     <string name="ambient_display_tile_label">Inaktivitätsdisplay</string>
     <string name="ambient_display_tile_alert_dialog_message">Damit die Kachel den Status des Inaktivitätsdisplay ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
-    <!--cpu-->
-    <string name="cpu_usage_tile_label">CPU Auslastung</string>
-    <string name="cpu_usage_tile_alert_dialog_message">Damit die Kachel die CPU Auslastung anzeigen kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--animations-->
     <string name="animations_tile_label">Animationen</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -203,4 +194,9 @@
     <string name="files_tile_label">Dateien</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Verknüfung zu Einstellungen</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Font size</string>
+    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voice</string>
 </resources>

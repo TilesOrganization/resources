@@ -54,10 +54,6 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode ativar a luminosidade  adaptável</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode modificar a luminosidade adaptável</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Mostrar as aplicações</string>
-    <string name="settings_application_tile_action_open_app">Abrir aplicação selecionada</string>
-    <string name="settings_application_tile_open_app_preference_title">Abrir aplicação</string>
-    <string name="settings_application_tile_choose_application">Escolher aplicação</string>
     <string name="settings_application_tile_view_mode">Modo de visualização</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
     <string name="settings_application_tile_view_mode_grid">Grelha</string>
@@ -67,7 +63,6 @@
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d Aplicações selecionadas</string>
     <string name="settings_application_tile_application_list_show_summary_empty">Sem aplicações selecionadas</string>
     <string name="settings_application_tile_application_list_launch_title">Aplicação a abrir</string>
-    <string name="settings_application_tile_show_settings_fab_title">Fab das definições</string>
     <string name="settings_application_tile_loading_applications">A carregar aplicações…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode modificar o nível de luminosidade</string>
@@ -82,14 +77,10 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Negada.  O mosaico não pode efetuar chamadas</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Permitida. O mosaico pode efetuar chamadas</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Ligar ao contacto</string>
-    <!--camera-->
-    <string name="settings_camera_tile_mode_still">Abrir a câmara fotográfica</string>
-    <string name="settings_camera_tile_mode_video">Abrir a câmara de filmar</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Abrir aplicação de email</string>
     <string name="settings_email_tile_action_send_email">Enviar email para um destinatário selecionado</string>
     <string name="settings_email_tile_contact_preference_title">Selecionar destinatário</string>
-    <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Administrador do dispositivo</string>
     <string name="settings_lock_tile_device_admin_summary_on">Ativado. O mosaico pode bloquear o dispositivo</string>
@@ -99,20 +90,15 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitida. A aplicação pode ligar/desligar o Não incomodar e fazer alterações nas configurações.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode ligar/desligar o Não incomodar e fazer alterações nas configuraçõe.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir o painel de volume</string>
-    <string name="settings_ringer_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Alterar o modo de toque</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Tocar som</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não tocar qualquer som quando o modo de volume normal está selecionado</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Tocar som quando o modo de volume normal está selecionado</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Mostrar diálogo</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Contornar qualquer diálogo de confirmação e simplesmente iniciar/parar o serviço</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Mostrar um diálogo de confirmação para iniciar/parar o serviço</string>
     <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/Parar serviço</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço a ser executado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente do serviço ao ser executado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Ocultar notificação</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Ação da notificação</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Ocultar ação</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Tocar som</string>
@@ -125,7 +111,6 @@
     <string name="settings_sync_tile_action_change_sync">Mudar estado da sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir as configurações da sincronização</string>
     <!--timer -->
-    <string name="settings_timer_tile">Temporizador</string>
     <string name="settings_timer_tile_skip_ui_title">Ignorar interface</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Ignorar a interface e iniciar o temporizador</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar a interface de confirmação antes de iniciar o temporizador</string>
@@ -152,7 +137,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style">Estilo do temporizador</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronómetro</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Ação da notificação</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir as definições</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ações</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Permissão para se sobrepor a outras aplicações</string>
@@ -162,10 +146,8 @@
     <string name="settings_calendar_tile_action_view">Ver eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Permissão para escrever definições seguras</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar o modo de localização</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar o modo de localização</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Alterar o modo de localização</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negada. Não é permitido ao mosaico alterar a suspensão</string>
@@ -180,9 +162,6 @@
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar quando efectuar uma captura de ecrã</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Não vibrar quando efectuar uma captura de ecrã</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Ação da notificação</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Mostrar a ação para abrir as definições</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Esconder aa ações</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Fechar as definições rápidas e efectuar ua captura de ecrã</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Capturar ecrã sem fechar as definições rápidas</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar ação para partilhar a captura de ecrã</string>
@@ -202,14 +181,10 @@
     <string name="settings_write_secure_settings_permission_title">Permissão para alterar definições seguras do sistema</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para alterar o modo imersivo</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Mostrar diálogo</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para ativar o ambiente de visualização</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para ativar o ambiente de visualização</string>
-    <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico tem permissão para mostrar/ocultar o uso do CPU</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não tem permissão para mostrar/ocultar o uso do CPU</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar as animações</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar as animações</string>
@@ -220,4 +195,17 @@
     <string name="settings_date_format">Formato da data</string>
     <!--screen time tile-->
     <string name="settings_time_format">Formato da hora</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

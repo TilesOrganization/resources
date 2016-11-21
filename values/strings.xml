@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Something, went wrong. Please try again</string>
-    <string name="try_again">Try again</string>
     <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
     <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
-    <string name="play_services">Play services</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
     <string name="medium">Medium</string>
@@ -46,7 +44,6 @@
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="email_tile_label_no_contact_selected">Email\nNo contact selected</string>
     <!--lock-->
     <string name="lock_tile_label">Lock</string>
     <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
@@ -59,7 +56,7 @@
     <string name="map_tile_label">Map</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Power dialog</string>
     <string name="power_tile_label">Power</string>
@@ -87,7 +84,6 @@
     <string name="sync_tile_label">Sync</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
-    <string name="timer_tile_invalid_duration_message">Please enter a valid duration</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Weather</string>
@@ -115,7 +111,6 @@
     <string name="weather_feels_like">Feels like</string>
     <string name="weather_humidity">Humidity</string>
     <string name="weather_dew_point">Dew point</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nothing to display, please open settings and enable the fields you want to see here.</string>
     <!--web search-->
     <string name="web_search_tile_label">Web search</string>
     <!--reminder-->
@@ -162,7 +157,6 @@
     <string name="screenshot_tile_label">Screenshot</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Tap to open gallery.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
     <string name="share">Share</string>
     <string name="delete">Delete</string>
@@ -176,9 +170,6 @@
     <!--ambient display-->
     <string name="ambient_display_tile_label">Ambient display</string>
     <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
-    <!--cpu-->
-    <string name="cpu_usage_tile_label">CPU usage</string>
-    <string name="cpu_usage_tile_alert_dialog_message">To allow the tile to show/hide CPU usage, please open settings and grant write secure settings permission.</string>
     <!--animations-->
     <string name="animations_tile_label">Animations</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -203,4 +194,9 @@
     <string name="files_tile_label">Files</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Font size</string>
+    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voice</string>
 </resources>

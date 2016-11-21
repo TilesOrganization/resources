@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Niekde sa stala chyba. Prosím, skúste to znova</string>
-    <string name="try_again">Skúsiť znova</string>
     <string name="location_mode_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
     <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
-    <string name="play_services">Služby Play</string>
     <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
     <string name="high">Vysoký</string>
     <string name="medium">Stredný</string>
@@ -46,7 +44,6 @@
     <string name="email_tile_label">E-mail</string>
     <string name="email_tile_formatted_label">E-mail %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">Nie je vybraný žiadny e-mailový kontakt, prosím, otvorte nastavenia a vyberte kontakt alebo vyberte inú akciu.</string>
-    <string name="email_tile_label_no_contact_selected">E-mail\nNie je vybraný žiadny kontakt</string>
     <!--lock-->
     <string name="lock_tile_label">Zamknúť</string>
     <string name="lock_tile_device_admin_description">Povoliť dlaždici zamknúť zariadenie</string>
@@ -59,7 +56,7 @@
     <string name="map_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_formatted_label">NFC %s</string>
+    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Ponuka napájania</string>
     <string name="power_tile_label">Napájanie</string>
@@ -87,7 +84,6 @@
     <string name="sync_tile_label">Synchronizácia</string>
     <!--timer-->
     <string name="timer_tile_label">Časovač</string>
-    <string name="timer_tile_invalid_duration_message">Prosím, zadajte platný interval</string>
     <string name="timer_formatted_label">Časovač\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Počasie</string>
@@ -115,7 +111,6 @@
     <string name="weather_feels_like">Pocitová teplota</string>
     <string name="weather_humidity">Vlhkosť</string>
     <string name="weather_dew_point">Rosný bod</string>
-    <string name="weather_nothing_to_display_nothing_enabled">Nie je čo zobraziť, prosím, otvorte nastavenia a povoľte polia, ktoré tu chcete zobraziť.</string>
     <!--web search-->
     <string name="web_search_tile_label">Vyhľadávanie na webe</string>
     <!--reminder-->
@@ -162,7 +157,6 @@
     <string name="screenshot_tile_label">Snímka obrazovky</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Aby dlaždica mohla zaznamenať snímku obrazovky, prosím, otvorte nastavenia a povoľte zápis do Úložiska.</string>
     <string name="screenshot_tile_screenshot_captured">Snímka obrazovky bola zaznamenaná.</string>
-    <string name="screenshot_tile_tap_to_open_gallery">Klepnutím otvoríte galériu.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klepnutím zobrazíte snímku obrazovky.</string>
     <string name="share">Zdieľať</string>
     <string name="delete">Vymazať</string>
@@ -177,8 +171,6 @@
     <string name="ambient_display_tile_label">Ambientné zobrazenie</string>
     <string name="ambient_display_tile_alert_dialog_message">Aby dlaždica mohla zmeniť ambientné zobrazenie, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--cpu-->
-    <string name="cpu_usage_tile_label">Využitie CPU</string>
-    <string name="cpu_usage_tile_alert_dialog_message">Aby dlaždica mohla zobraziť/skryť využitie CPU, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--animations-->
     <string name="animations_tile_label">Animácie</string>
     <string name="animations_tile_label_animator">Animátor</string>
@@ -203,4 +195,9 @@
     <string name="files_tile_label">Súbory</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Odkaz na nastavenia</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Font size</string>
+    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voice</string>
 </resources>

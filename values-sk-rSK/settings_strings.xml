@@ -54,10 +54,6 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže upravovať režim jasu</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Povolené. Dlaždica môže upravovať režim jasu</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_apps">Zobraziť všetky nainštalované aplikácie</string>
-    <string name="settings_application_tile_action_open_app">Otvoriť vybranú aplikáciu</string>
-    <string name="settings_application_tile_open_app_preference_title">Otvoriť aplikáciu</string>
-    <string name="settings_application_tile_choose_application">Vybrať aplikáciu</string>
     <string name="settings_application_tile_view_mode">Režim zobrazenia</string>
     <string name="settings_application_tile_view_mode_list">Zoznam</string>
     <string name="settings_application_tile_view_mode_grid">Mriežka</string>
@@ -67,7 +63,6 @@
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">Vybraných aplikácií: %d</string>
     <string name="settings_application_tile_application_list_show_summary_empty">Nie je vybraná žiadna aplikácia</string>
     <string name="settings_application_tile_application_list_launch_title">Spustiť aplikáciu</string>
-    <string name="settings_application_tile_show_settings_fab_title">Tlačidlo nastavení</string>
     <string name="settings_application_tile_loading_applications">Načítanie aplikácií…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže upravovať úroveň jasu</string>
@@ -82,14 +77,10 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Zakázané. Dlaždica nemôže uskutočniť hovory</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Povolené. Dlaždica môže uskutočniť hovory</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Zavolať kontaktu</string>
-    <!--camera-->
-    <string name="settings_camera_tile_mode_still">Otvoriť v režime fotografovania</string>
-    <string name="settings_camera_tile_mode_video">Otvoriť v režime záznamu videa</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Otvoriť e-mailovú aplikáciu</string>
     <string name="settings_email_tile_action_send_email">Vytvoriť e-mail s vybraným kontaktom ako prímcom</string>
     <string name="settings_email_tile_contact_preference_title">Kontakt pre e-mail</string>
-    <string name="settings_email_tile_formatted_email_preference_summary">%1$s\n(%2$s)</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Správca zariadenia</string>
     <string name="settings_lock_tile_device_admin_summary_on">Povolené. Dlaždica môže zamknúť zariadenie</string>
@@ -99,20 +90,15 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Povolené.  Aplikácia môže prepnúť režim Nerušiť a urobiť zmeny so súvisiacimi nastaveniami.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Zakázané. Aplikácia nemôže prepnúť režim Nerušiť a urobiť zmeny so súvisiacimi nastaveniami.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Otvoriť panel s nastvením hlasitosti</string>
-    <string name="settings_ringer_mode_tile_action_show_dialog">Zobraziť okno</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Zmeniť režim vyzváňania</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Prehrať zvuk</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Neprehrať žiadny zvuk, keď je vybraný normálny režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Prehrať predvolený zvuk upozornení, keď je vybraný normálny režim</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_confirmation_dialog_title">Zobraziť okno</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_off">Preskočiť akékoľvek okno pre potvrdenie a spustiť/zastaviť službu</string>
-    <string name="settings_screen_on_tile_confirmation_dialog_summary_on">Pred spustením/zastavením služby zobraziť okno pre potvrdenie</string>
     <string name="settings_screen_on_tile_action_start_stop_service">Spustiť/zastaviť službu</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Upozornenie o spustenej službe</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Zobraziť trvalé upozornenie počas spustenej služby</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Skryť upozornenie</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_title">Akcia v upozornení</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Skryť akciu</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Prehrať zvuk</string>
@@ -125,7 +111,6 @@
     <string name="settings_sync_tile_action_change_sync">Zmeniť stav synchronizácie</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvoriť nastavenia synchronizácie</string>
     <!--timer -->
-    <string name="settings_timer_tile">Časovač</string>
     <string name="settings_timer_tile_skip_ui_title">Preskočiť UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Preskočiť akékoľvek UI pre potvrdenie a spustiť časovač</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Pred spustením časovača zobraziť UI pre potvrdenie</string>
@@ -152,7 +137,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style">Štýl časovej pečiatky</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normálny</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopky</string>
-    <string name="settings_reminder_tile_notification_settings_action_title">Akcia v upozornení</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Skryť akciu</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Povolenie pre Vykreslenie cez ďalšie aplikácie</string>
@@ -162,10 +146,8 @@
     <string name="settings_calendar_tile_action_view">Zobraziť udalosti</string>
     <string name="settings_calendar_tile_action_add">Pridať udalosť</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_title">Povolenie pre zápis do bezpečnostných nastavení</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť režim polohy</string>
     <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť režim polohy</string>
-    <string name="settings_location_mode_tile_action_show_dialog">Zobraziť okno</string>
     <string name="settings_location_mode_tile_action_change_location_mode">Zmeniť režim polohy</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže zmeniť časovač spánku</string>
@@ -180,9 +162,6 @@
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrovať</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrovať pri zaznamenaní novej snímky obrazovky</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Nevibrovať pri zaznamenaní novej snímky obrazovky</string>
-    <string name="settings_screenshot_tile_notification_settings_action_title">Akcia v upozornení</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
-    <string name="settings_screenshot_tile_notification_settings_action_summary_off">Skryť akciu</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Zbaliť panel s rýchlymi nastaveniami a zaznamenať snímku obrazovky</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Zaznamenať snímku obrazovky bez zbalenia panela s rýchlymi nastaveniami</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Zobraziť akciu pre zdieľanie snímky obrazovky</string>
@@ -202,14 +181,10 @@
     <string name="settings_write_secure_settings_permission_title">Povolenie pre zápis do bezpečnostných nastavení</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť režim na celú obrazovku</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť režim na celú obrazovku</string>
-    <string name="settings_immersive_mode_tile_action_show_dialog">Zobraziť okno</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Zmeniť režim na celú obrazovku</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť ambientné zobrazenie</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť ambientné zobrazenie</string>
-    <!--cpu usage-->
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zobraziť/skryť využitie CPU</string>
-    <string name="settings_cpu_usage_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zobraziť/skryť využitie CPU</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť animácie</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť animácie</string>
@@ -220,4 +195,17 @@
     <string name="settings_date_format">Formát dátumu</string>
     <!--screen time tile-->
     <string name="settings_time_format">Formát času</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

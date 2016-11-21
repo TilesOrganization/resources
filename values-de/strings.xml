@@ -56,7 +56,7 @@
     <string name="map_tile_label">Karte</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_alert_dialog_message">Damit die Kachel den Status von NFC ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Ausschalt-Dialog</string>
     <string name="power_tile_label">Ausschalt-Menü</string>
@@ -195,8 +195,8 @@
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Verknüfung zu Einstellungen</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Schriftgröße</string>
+    <string name="font_size_tile_alert_dialog_message">Damit die Kachel die Schriftgröße ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Stimme</string>
 </resources>

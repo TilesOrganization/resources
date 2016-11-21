@@ -56,7 +56,7 @@
     <string name="map_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_alert_dialog_message">Aby dlaždica mohla zmeniť stav NFC, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Ponuka napájania</string>
     <string name="power_tile_label">Napájanie</string>
@@ -196,8 +196,8 @@
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Odkaz na nastavenia</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Veľkosť písma</string>
+    <string name="font_size_tile_alert_dialog_message">Aby dlaždica mohla meniť veľkosť písma, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Hlas</string>
 </resources>

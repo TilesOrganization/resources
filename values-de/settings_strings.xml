@@ -196,16 +196,16 @@
     <!--screen time tile-->
     <string name="settings_time_format">Zeit-Format</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Klein</string>
+    <string name="settings_font_size_tile_font_scale_default">Standard</string>
+    <string name="settings_font_size_tile_font_scale_large">Groß</string>
+    <string name="settings_font_size_tile_font_scale_largest">Sehr groß</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf die Schriftgröße nicht ändern</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Schriftgröße ändern</string>
+    <string name="settings_font_size_tile_action_change_font_size">Ändere Schriftgröße</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status des NFC ändern</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status des NFC nicht ändern</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Ändere NFC Status</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Öffne NFC-Einstellungen</string>
 </resources>

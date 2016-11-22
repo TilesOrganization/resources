@@ -207,5 +207,5 @@
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om NFC status te veranderen</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om NFC status te veranderen</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Verander NFC status</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC instellingen</string>
 </resources>

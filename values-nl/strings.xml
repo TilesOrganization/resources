@@ -56,7 +56,7 @@
     <string name="map_tile_label">Map</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_alert_dialog_message">Om de tegel toestemming te geven om de NFC status te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Power dialoog</string>
     <string name="power_tile_label">Power</string>
@@ -126,7 +126,7 @@
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Slaap pauzeren</string>
     <string name="sleep_timeout_tile_formatted_label">Slaap\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Om de tegel toestemming te geven om slaap te pauzeren, open Instellingen en geef toestemming om systeem instellingen te wijzigen.</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Om de tegel toestemming te geven om slaap te pauzeren, open instellingen en geef toestemming om systeem instellingen te wijzigen.</string>
     <string name="sleep_timeout_tile_value_15000">15 seconden</string>
     <string name="sleep_timeout_tile_value_30000">30 seconden</string>
     <string name="sleep_timeout_tile_value_60000">1 minuut</string>
@@ -143,7 +143,7 @@
     <string name="location_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om de locatie modus te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Beveiligde systeem instellingen bevatten systeem voorkeuren die applicaties kunnen lezen, maar niet kunnen overschrijven. Toestemming op dit beschermingsniveau zijn alleen toegekend aan systeem apps. Wanneer een app geen is, zal het niet in staat zijn om deze toestemmingen te gebruiken.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles heeft superuser toestemming voor een interactieve schil. Wil je programmatisch %s beveleigde instellingen overschrijven met gebruik van superuser interacteive schil?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles heeft superuser toestemming voor een interactieve schil. Wil je programmatisch %s beveleigde instellingen overschrijven met gebruik van superuser interactieve schil?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Om handmatig %1$s toestemming te geven, verbind je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Toekennen</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Intrekken</string>
@@ -195,8 +195,8 @@
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Instellingen snelkoppeling</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Lettergrootte</string>
+    <string name="font_size_tile_alert_dialog_message">Om de tegel toestemming te geven om de lettergrootte te veranderen, open instellingen en geef toestemming om systeem instellingen te wijzigen.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Spraak</string>
 </resources>

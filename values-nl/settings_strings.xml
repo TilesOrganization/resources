@@ -196,16 +196,16 @@
     <!--screen time tile-->
     <string name="settings_time_format">Tijdnotatie</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Klein</string>
+    <string name="settings_font_size_tile_font_scale_default">Standaard</string>
+    <string name="settings_font_size_tile_font_scale_large">Groot</string>
+    <string name="settings_font_size_tile_font_scale_largest">Grootst</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de lettergrootte te wijzigen</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om de lettergrootte te wijzigen</string>
+    <string name="settings_font_size_tile_action_change_font_size">Verander lettergrootte</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om NFC status te veranderen</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om NFC status te veranderen</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Verander NFC status</string>
     <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

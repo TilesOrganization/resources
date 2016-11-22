@@ -4,8 +4,8 @@
     <string name="settings">設定</string>
     <string name="settings_design">設計</string>
     <string name="settings_animations">動畫</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
+    <string name="settings_animations_reveal_animation_title">視窗呈現的動畫效果</string>
+    <string name="settings_animations_drawable_animation_title">視窗圖示的動畫效果</string>
     <string name="settings_enabled">啟用</string>
     <string name="settings_disabled">禁用</string>
     <string name="settings_action">動作</string>
@@ -48,15 +48,15 @@
     <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
     <string name="settings_translations_locale_zh-rCN">香港,台灣, 繁體中文</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">快速設定磚的</string>
+    <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>
     <string name="settings_component_summary_on">在快速設定面板中顯示</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">拒絕。此快速設定磚沒有權限更改自動亮度模式</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許更改自動亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更自動亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更自動亮度模式</string>
     <!-- application-->
-    <string name="settings_application_tile_view_mode">顯示方式View mode</string>
-    <string name="settings_application_tile_view_mode_list">清單List</string>
+    <string name="settings_application_tile_view_mode">顯示模式</string>
+    <string name="settings_application_tile_view_mode_list">清單</string>
     <string name="settings_application_tile_view_mode_grid">格狀</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">格狀及不顯示程式名稱</string>
     <string name="settings_application_tile_grid_columns">格狀欄數</string>
@@ -66,16 +66,16 @@
     <string name="settings_application_tile_application_list_launch_title">要開啟的程式</string>
     <string name="settings_application_tile_loading_applications">正在讀取程式清單…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已拒絕。此快速設定磚沒有權限調校亮度</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許更改亮度</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止調校亮度</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更亮度</string>
     <string name="settings_brightness_tile_action_change_brightness">調校亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$.1f%%\n中: %2$.1f%%\n低: %3$.1f%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">開啟電話程式</string>
-    <string name="settings_call_tile_action_make_call">撥號給已選取的聯絡人</string>
+    <string name="settings_call_tile_action_make_call">撥號給聯絡人</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">電話撥號權限</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已拒絕。此快速設定磚沒有權限進行電話撥號</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已禁止。此快速設定磚禁止進行電話撥號</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已授權。此快速設定磚允許進行電話撥號</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">選取要撥號的聯絡人</string>
     <!--email-->
@@ -88,10 +88,10 @@
     <string name="settings_lock_tile_device_admin_summary_off">已停用。快速設定磚不允許鎖定裝置</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">[請勿打擾]存取</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟請勿打擾模式及更改設定</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟請勿打擾模式及更改設定</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟請勿打擾模式及變更設定</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟請勿打擾模式及變更設定</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">開啟音量設定面板</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">更改音效模式</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">變更音效模式</string>
     <string name="settings_ringer_mode_tile_play_sound_title">播放音效</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">音效模式為正常時，不播放任何音效</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">音效模式為正常時，播放系統預設音效</string>
@@ -109,7 +109,7 @@
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">服務開始運行後不要震動</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">服務開始運行後震動</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">更改同步狀態</string>
+    <string name="settings_sync_tile_action_change_sync">變更同步狀態</string>
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>
     <!--timer -->
     <string name="settings_timer_tile_skip_ui_title">跳過界面</string>
@@ -120,7 +120,7 @@
     <string name="settings_streetview_map_tile_location_permissions_summary_off">已禁止。程式禁止存取裝置位置</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">已授權。程式可以存取裝置位置</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">已禁止。 程式禁止存取裝置位置及目前位置的天氣情況The tile is not allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">已禁止。 程式禁止存取裝置位置及目前位置的天氣情況</string>
     <string name="settings_weather_tile_location_permissions_summary_on">Granted. 已授權。程式可以存取裝置位置及目前位置的天氣情況</string>
     <string name="settings_units">單位</string>
     <string name="settings_summary_off_hidden">隱藏</string>
@@ -147,12 +147,12 @@
     <string name="settings_calendar_tile_action_view">打開活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許更改定位模式。</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止更改定位模式。</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">更改定位模式</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更定位模式。</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更定位模式。</string>
+    <string name="settings_location_mode_tile_action_change_location_mode">變更定位模式</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止更改屏幕休眠時限</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許更改屏幕休眠時限限</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更屏幕休眠時限</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕休眠時限限</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">寫入外部儲存空間權限</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授權。此快速設定磚允許進行屏幕截圖及儲存</string>
@@ -179,34 +179,34 @@
     <string name="settings_notification_share_action_title">分享動作</string>
     <string name="settings_notification_settings_action_title">設定動作</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">寫入安全設定權限</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更全屏模式</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更全屏模式</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">變更全屏模式</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更ambient display</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更動畫</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更動畫</string>
+    <string name="settings_show_milliseconds">顯示毫秒</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">新增鬧鐘</string>
+    <string name="settings_alarm_tile_action_show_alarms">顯示鬧鐘</string>
+    <string name="settings_date_format">日期格式</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">時間格式</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">小</string>
+    <string name="settings_font_size_tile_font_scale_default">預設</string>
+    <string name="settings_font_size_tile_font_scale_large">大</string>
+    <string name="settings_font_size_tile_font_scale_largest">最大</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更字型大小</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更字型大小</string>
+    <string name="settings_font_size_tile_action_change_font_size">變更字型大小</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更NFC狀態</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更NFC狀態</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">變更NFC狀態</string>
+    <string name="settings_nfc_tile_open_nfc_settings">開啟NFC設定</string>
 </resources>

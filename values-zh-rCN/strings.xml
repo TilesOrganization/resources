@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something, went wrong. Please try again</string>
-    <string name="location_mode_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
+    <string name="something_went_wrong">發生錯誤,請重試。</string>
+    <string name="location_mode_alert_dialog_message">位置功能關閉。如要繼續,請前往設定並啟用位置功能以定位目前位置。</string>
+    <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
@@ -127,20 +127,20 @@
     <string name="sleep_timeout_tile_label">Sleep timeout</string>
     <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
     <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_value_15000">15 秒</string>
+    <string name="sleep_timeout_tile_value_30000">30 秒</string>
+    <string name="sleep_timeout_tile_value_60000">1 分鐘</string>
+    <string name="sleep_timeout_tile_value_120000">2 分鐘</string>
+    <string name="sleep_timeout_tile_value_300000">5 分鐘</string>
+    <string name="sleep_timeout_tile_value_600000">10 分鐘</string>
+    <string name="sleep_timeout_tile_value_1800000">30 分鐘</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Location mode</string>
+    <string name="location_mode_tile_label">定位模式</string>
     <string name="location_mode_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_mode_tile_label_off">Location off</string>
-    <string name="location_mode_tile_label_battery_saving">Battery saving</string>
-    <string name="location_mode_tile_label_sensors_only">Device only</string>
-    <string name="location_mode_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_mode_tile_label_off">定位關閉</string>
+    <string name="location_mode_tile_label_battery_saving">省電模式</string>
+    <string name="location_mode_tile_label_sensors_only">只限裝置</string>
+    <string name="location_mode_tile_label_high_accuracy">高精確度</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
@@ -148,38 +148,38 @@
     <string name="write_secure_settings_permission_dialog_message_grant">Grant</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Revoke</string>
     <!--timer H M S symbols -->
-    <string name="hour_symbol">H</string>
-    <string name="minute_symbol">M</string>
-    <string name="second_symbol">S</string>
+    <string name="hour_symbol">時</string>
+    <string name="minute_symbol">分</string>
+    <string name="second_symbol">秒</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">休眠</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_label">屏幕截圖</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
+    <string name="screenshot_tile_screenshot_captured">已擷取屏幕畫面</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看屏幕截圖</string>
+    <string name="share">分享</string>
+    <string name="delete">刪除</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">全屏模式</string>
+    <string name="immersive_mode_tile_off">全屏模式關閉</string>
+    <string name="immersive_mode_tile_hide_system_bars">隱藏系統欄</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">隱藏導航欄</string>
+    <string name="immersive_mode_tile_hide_status_bar">隱藏狀態列</string>
+    <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全屏模式，請前往設定並允許可寫入安全設定的權限。</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">環境顯示</string>
+    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示，請前往設定並允許可寫入安全設定的權限。</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
+    <string name="animations_tile_label">動畫</string>
     <string name="animations_tile_label_animator">Animator</string>
     <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
+    <string name="animations_tile_label_window">視窗</string>
     <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
+    <string name="sleep_time_tile_label">休眠時間</string>
     <string name="sleep_time_tile_awake">Awake</string>
     <string name="sleep_time_tile_sleep">Sleep</string>
     <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
@@ -188,15 +188,15 @@
     <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
     <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_label">鬧鐘</string>
+    <string name="alarm_tile_no_alarm_set">沒有設定鬧鐘</string>
     <!--files-->
-    <string name="files_tile_label">Files</string>
+    <string name="files_tile_label">檔案管理工具</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <string name="settings_shortcut_tile_label">設定捷徑</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">字型大小</string>
+    <string name="font_size_tile_alert_dialog_message">要允許快速設定磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">語音</string>
 </resources>

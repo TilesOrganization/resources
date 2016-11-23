@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
+    <string name="settings">Paramètres</string>
     <string name="settings_design">Design</string>
     <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_animations_reveal_animation_title">Animation de dévoilement</string>
+    <string name="settings_animations_drawable_animation_title">Animation des graphiques dessinables</string>
+    <string name="settings_enabled">Activée</string>
+    <string name="settings_disabled">Désactivée</string>
     <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_night_mode">Night mode</string>
-    <string name="settings_night_mode_no">Day</string>
-    <string name="settings_night_mode_yes">Night</string>
+    <string name="settings_layout">Agencement</string>
+    <string name="settings_night_mode">Mode Nuit</string>
+    <string name="settings_night_mode_no">Jour</string>
+    <string name="settings_night_mode_yes">Nuit</string>
     <string name="settings_night_mode_auto">Auto</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Teinte de la barre de navigation</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Aucune teinte</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Couleur primaire foncée</string>
+    <string name="settings_design_navigation_bar_tint_primary">Couleur primaire</string>
+    <string name="settings_design_navigation_bar_tint_accent">Couleur d'accentuation</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Teinte de la barre d\'état</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Couleur primaire foncée</string>
+    <string name="settings_design_status_bar_tint_primary">Couleur primaire</string>
+    <string name="settings_design_status_bar_tint_accent">Couleur d'accentuation</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">icônes de la barre d\'état</string>
+    <string name="settings_design_status_bar_icons_light">Icônes claires</string>
+    <string name="settings_design_status_bar_icons_dark">Icônes sombres</string>
     <!--UX-->
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
-    <string name="settings_feedback">Feedback</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
-    <string name="settings_send_email">Send email</string>
-    <string name="settings_support_summary">Developed for Android Nougat</string>
-    <string name="settings_credit">Credit</string>
-    <string name="settings_credit_app_icon">Application\'s icon</string>
-    <string name="settings_translations">Translations</string>
+    <string name="settings_location_permissions_preference_title">Permission de localisation</string>
+    <string name="settings_modify_system_settings_permissions_title">Permission de modifier les paramètres système</string>
+    <string name="settings_feedback">Commentaires</string>
+    <string name="settings_rate_or_review">Noter ou laisser un avis sur l\'appli</string>
+    <string name="settings_support_title">Merci pour votre soutien!</string>
+    <string name="settings_send_email">Envoyer un email</string>
+    <string name="settings_support_summary">Developpée pour Android Nougat</string>
+    <string name="settings_credit">Crédit</string>
+    <string name="settings_credit_app_icon">Icône de l\'application</string>
+    <string name="settings_translations">Traductions</string>
     <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
-    <string name="settings_translations_locale_de">German</string>
-    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
-    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
+    <string name="settings_translations_locale_de">Allemand</string>
+    <string name="settings_translations_locale_pt_rBR">Portugais, Brésil</string>
+    <string name="settings_translations_locale_nl">Néerlandais</string>
+    <string name="settings_translations_locale_pt_rPT">Portugais, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Slovaque, Slovaquie</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_title">Visibilité de la tuile</string>
+    <string name="settings_component_summary_off">Cacher la tuile dans la disposition des réglages rapides</string>
+    <string name="settings_component_summary_on">Montrer la tuile dans la disposition des réglages rapides</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. The tile is not allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Accordée. The tile is allowed to change brightness mode</string>
     <!-- application-->
     <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
+    <string name="settings_application_tile_view_mode_list">Liste</string>
+    <string name="settings_application_tile_view_mode_grid">Grille</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
+    <string name="settings_application_tile_grid_columns">Colonnes de la grille</string>
+    <string name="settings_application_tile_application_list_show_title">Applications à montrer</string>
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
     <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>

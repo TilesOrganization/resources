@@ -22,7 +22,7 @@
     <string name="settings_design_navigation_bar_tint_accent">強調色</string>
     <!--design status bar tint-->
     <string name="settings_design_status_bar_tint_title">通知欄變色</string>
-    <string name="settings_design_status_bar_tint_primary_dark">主色為暗色/string>
+    <string name="settings_design_status_bar_tint_primary_dark">主色為暗色</string>
     <string name="settings_design_status_bar_tint_primary">主色</string>
     <string name="settings_design_status_bar_tint_accent">強調色</string>
     <!--design status bar icons-->
@@ -46,7 +46,7 @@
     <string name="settings_translations_locale_nl">Dutch</string>
     <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
     <string name="settings_translations_locale_sk_rSK">Slovakia, Slovak</string>
-    <string name="settings_translations_locale_zh-rCN">香港,台灣, 繁體中文</string>
+    <string name="settings_translations_locale_zh-rCN">繁體中文(香港及台灣) </string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>
@@ -121,7 +121,7 @@
     <string name="settings_streetview_map_tile_location_permissions_summary_on">已授權。程式可以存取裝置位置</string>
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">已禁止。 程式禁止存取裝置位置及目前位置的天氣情況</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. 已授權。程式可以存取裝置位置及目前位置的天氣情況</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">已授權。程式可以存取裝置位置及目前位置的天氣情況</string>
     <string name="settings_units">單位</string>
     <string name="settings_summary_off_hidden">隱藏</string>
     <string name="settings_summary_on_shown">顯示</string>
@@ -130,8 +130,8 @@
     <string name="settings_reminder_tile_persistent_notification_summary_on">接刪除鍵以刪除記事提醒</string>
     <string name="settings_reminder_tile_persistent_notification_title">固定式通知</string>
     <string name="settings_reminder_tile_notification_play_sound_title">播放音效</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">建立新的提醒時播放系統預設音效</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">建立新的提醒時不播放音效</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">建立新的記事提醒時播放系統預設音效</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">建立新的記事提醒時不播放音效</string>
     <string name="settings_reminder_tile_notification_vibrate_title">震動</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_on">建立新的記事提醒時震動</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_off">建立新的記事提醒時不震動</string>
@@ -184,8 +184,8 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更全屏模式</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">變更全屏模式</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更環境顯示</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更環境顯示</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更動畫</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更動畫</string>

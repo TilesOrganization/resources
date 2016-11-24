@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Om de tegel toestemming te geven om het toestel te vergrendelen, open instellingen en activeer het als een toestelbeheerder.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Wanneer geactiveerd heeft de vergrendel tegel toestemming om het toestel te vergrendelen.</string>
     <!--map-->
-    <string name="map_tile_label">Map</string>
+    <string name="map_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Om de tegel toestemming te geven om de NFC status te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>

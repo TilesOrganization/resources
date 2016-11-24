@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--settings-->
+    <string name="settings">Impostazioni</string>
+    <string name="settings_design">Design</string>
+    <string name="settings_animations">Animazioni</string>
+    <string name="settings_animations_reveal_animation_title">Animazione comparsa</string>
+    <string name="settings_animations_drawable_animation_title">Animazione immagine</string>
+    <string name="settings_enabled">Abilitato</string>
+    <string name="settings_disabled">Disabilitato</string>
+    <string name="settings_action">Azione</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_night_mode">Modalità notturna</string>
+    <string name="settings_night_mode_no">Giorno</string>
+    <string name="settings_night_mode_yes">Notte</string>
+    <string name="settings_night_mode_auto">Auto</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">Tinta barra di navigazione</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Nessuna tinta</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Colore primario scuro</string>
+    <string name="settings_design_navigation_bar_tint_primary">Colore primario</string>
+    <string name="settings_design_navigation_bar_tint_accent">Colore accento</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">Tinta barra di stato</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Colore primario scuro</string>
+    <string name="settings_design_status_bar_tint_primary">Colore primario</string>
+    <string name="settings_design_status_bar_tint_accent">Colore accento</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">Icone barra di stato</string>
+    <string name="settings_design_status_bar_icons_light">Icone chiare</string>
+    <string name="settings_design_status_bar_icons_dark">Icone scure</string>
+    <!--UX-->
+    <string name="settings_location_permissions_preference_title">Autorizzazione posizione</string>
+    <string name="settings_modify_system_settings_permissions_title">Autorizzazione modifica impostazioni di sistema</string>
+    <string name="settings_feedback">Feedback</string>
+    <string name="settings_rate_or_review">Valuta o scrivi una recensione</string>
+    <string name="settings_support_title">Grazie per il tuo supporto!</string>
+    <string name="settings_send_email">Spedisci e-mail</string>
+    <string name="settings_support_summary">Sviluppata per Android Nougat</string>
+    <string name="settings_credit">Credit</string>
+    <string name="settings_credit_app_icon">Icona dell\'applicazione</string>
+    <string name="settings_translations">Traduzioni</string>
+    <string name="settings_translations_thanks">Se vuoi aiutare a tradurre l\'applicazione nella tua lingua, per favore contattami: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_locale_de">Tedesco</string>
+    <string name="settings_translations_locale_pt_rBR">Portoghese, Brasile</string>
+    <string name="settings_translations_locale_nl">Olandese</string>
+    <string name="settings_translations_locale_pt_rPT">Portoghese, Portogallo</string>
+    <string name="settings_translations_locale_sk_rSK">Slovacco, Slovacchia</string>
+    <string name="settings_translations_locale_zh_rCN">Traditional Chinese (Hong Kong &amp; Taiwan)</string>
+    <string name="settings_translations_locale_it_rIT">Italiano, Italia</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">Visibilità funzione</string>
+    <string name="settings_component_summary_off">Nascondi la funzione nel pannello delle impostazioni veloci</string>
+    <string name="settings_component_summary_on">Visualizza la funzione nel pannello delle impostazioni veloci</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
+    <!-- application-->
+    <string name="settings_application_tile_view_mode">Modalità vista</string>
+    <string name="settings_application_tile_view_mode_list">Lista</string>
+    <string name="settings_application_tile_view_mode_grid">Griglia</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Griglia senza etichette</string>
+    <string name="settings_application_tile_grid_columns">Colonne della griglia</string>
+    <string name="settings_application_tile_application_list_show_title">Applicazioni da visualizzare</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applicazioni selezionate</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nessuna applicazione selezionata</string>
+    <string name="settings_application_tile_application_list_launch_title">Applicazione da lanciare</string>
+    <string name="settings_application_tile_loading_applications">Caricando applicazioni…</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare livello luminosità</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare livello luminosità</string>
+    <string name="settings_brightness_tile_action_change_brightness">Cambia luminosità</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Livelli luminosità</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alta: %1$.1f%%\nMedia: %2$.1f%%\nBassa: %3$.1f%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">Apri applicazione telefono</string>
+    <string name="settings_call_tile_action_make_call">Chiama contatto selezionato</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Autorizzazione telefono</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a eseguire e gestire telefonate</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a eseguire e gestire telefonate</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Contatto da chiamare</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">Apri applicazione e-mail</string>
+    <string name="settings_email_tile_action_send_email">Componi e-mail con destinatario contatto selezionato</string>
+    <string name="settings_email_tile_contact_preference_title">Contatto e-mail</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">Amministratore dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Attivato. La funzione ha l\'autorizzazione a bloccare il dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Disattivato. La funzione non ha l\'autorizzazione a bloccare il dispositivo</string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Accesso Non disturbare</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Concessa. La funzione ha l\'autorizzazione ad attivare/disattivare Non disturbare e apportare modifiche alle impostazioni correllate.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negata. La funzione non ha l\'autorizzazione ad attivare/disattivare Non disturbare e apportare modifiche alle impostazioni correllate.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Apri pannello volume</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Cambia modalità squillo</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Emetti suono</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Non emettere suono predefinito di notifica quando modalità squillo normale è selezionata</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Emetti suono predefinito di notifica quando modalità squillo normale è selezionata</string>
+    <!--screen on-->
+    <string name="settings_screen_on_tile_action_start_stop_service">Fai partire/interrompi servizio</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Notifica servizio in esecuzione</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Visualizza una notifica persistente quando il servizio è in esecuzione</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Nascondi notifica</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Visualizza azione per aprire le impostazioni</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Nascondi azione</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Emetti suono</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Non emettere suono predefinito di notifica quando il servizio parte</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Emetti suono predefinito di notifica quando il servizio parte</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrazione</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Non vibrare quando il servizio parte</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibra quando il servizio parte</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">Cambia stato sincronizzazione</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Apri impostazioni sincronizzazione</string>
+    <!--timer -->
+    <string name="settings_timer_tile_skip_ui_title">Salta conferma</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Salta conferma e fai semplicemente partire il timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Visualizza una conferma prima di far partire il timer</string>
+    <string name="settings_timer_tile_default_duration">Durata predefinita</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione ad accedere alla geolocalizzazione del dispositivo</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione ad accedere alla geolocalizzazione del dispositivo</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione ad accedere alla geolocalizzazione del dispositivo e visualizzare le condizioni meteo attuali</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione ad accedere alla geolocalizzazione del dispositivo e visualizzare le condizioni meteo attuali</string>
+    <string name="settings_units">Unità</string>
+    <string name="settings_summary_off_hidden">Nascosto</string>
+    <string name="settings_summary_on_shown">Visualizzato</string>
+    <!--reminder-->
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Elimina promemoria trascinandolo a destra o sinistra</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Elimina promemoria con il pulsante azione elimina</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notifica persistente</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Emetti suono</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Emetti suono predefinito di notifica quando aggiungi un nuovo promemoria</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Non emettere suono predefinito di notifica quando aggiungi un nuovo promemoria</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrazione</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibra quando aggiungi un nuovo promemoria</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Non vibrare quando aggiungi un nuovo promemoria</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Stile timestamp</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normale</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronometro</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Visualizza azione per aprire le impostazioni</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Nascondi azione</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Autorizzazione posizionamento davanti ad altre app</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concessa. Promemoria ha l\'autorizzazione a essere visualizzato come dialogo e spostato davanti ad altre applicazioni</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negata. Promemoria non ha l\'autorizzazione a essere visualizzato come dialogo e spostato davanti ad altre applicazioni</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_add">Aggiungi evento</string>
+    <string name="settings_calendar_tile_action_view">Visualizza eventi</string>
+    <!--location mode-->
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
+    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
+    <string name="settings_location_mode_tile_action_change_location_mode">Cambia modalità geolocalizzazione</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare timeout sospensione</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare timeout sospensione</string>
+    <!--screenshot-->
+    <string name="settings_write_external_storage_permission_permissions_title">Autorizzazione archiviazione</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione ad acquisire e archiviare screenshot</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione ad acquisire e archiviare screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Emetti suono</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Emetti suono predefinito di notifica quando acquisisci screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Non emettere suono predefinito di notifica quando acquisisci screenshot</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrazione</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibra quando acquisisci screenshot</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Non vibrare quando acquisisci screenshot</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Chiudi il pannello delle impostazioni veloci e acquisisci screenshot</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Acquisisci screenshot senza chiudere il pannello delle impostazioni veloci</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Visualizza azione per condividere screenshot</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Nascondi azione per condividere screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Visualizza azione per eliminare screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Nascondi azione per eliminare screenshot</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Modalità Non disturbare</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Solo sveglie</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Silenzio totale</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Solo con priorità</string>
+    <!--notification common strings-->
+    <string name="settings_show_dialog">Visualizza dialogo</string>
+    <string name="settings_notification_share_action_title">Azione condividi</string>
+    <string name="settings_notification_settings_action_title">Azione impostazioni</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">Autorizzazione scrivi impostazioni sicure</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità immersiva</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità immersiva</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Cambia modalità immersiva</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare display ambient</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare display ambient</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare animazioni</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare animazioni</string>
+    <string name="settings_show_milliseconds">Visualizza millisecondi</string>
+    <!--alarm tile-->
+    <string name="settings_alarm_tile_action_add_alarm">Aggiungi sveglia</string>
+    <string name="settings_alarm_tile_action_show_alarms">Visualizza sveglie</string>
+    <string name="settings_date_format">Formato data</string>
+    <!--screen time tile-->
+    <string name="settings_time_format">Formato tempo</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Piccolo</string>
+    <string name="settings_font_size_tile_font_scale_default">Predefinito</string>
+    <string name="settings_font_size_tile_font_scale_large">Grande</string>
+    <string name="settings_font_size_tile_font_scale_largest">Più grande</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare dimensioni carattere</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare dimensioni carattere</string>
+    <string name="settings_font_size_tile_action_change_font_size">Cambia dimensioni carattere</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare stato NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare stato NFC</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Cambia stato NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Apri impostazioni NFC</string>
+</resources>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
+    <string name="location_mode_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
+    <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
+    <string name="su_alert_dialog_message">Per eseguire questa azione, per favore concedere i permessi superuser per una shell interattiva.</string>
+    <string name="play_services_alert_dialog_message">Google Play Services è richiesta per eseguire tale azione. Per favore installare l\'applicazione e provare nuovamente.</string>
+    <string name="high">Alta</string>
+    <string name="medium">Media</string>
+    <string name="low">Bassa</string>
+    <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>
+    <string name="not_available">Non disponibile</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--application-->
+    <string name="application_tile_label">Applicazione</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nessuna applicazione selezionata, per favore aprire le impostazioni e scegliere un\'applicazione.</string>
+    <string name="application_info_dialog_message">Per lancio veloce, per favore selezionare una sola applicazione.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Luminosità</string>
+    <string name="brightness_tile_label_formatted">Luminosità %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Alta: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Media: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Bassa: %1$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Luminosità: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Luminosità non definita</string>
+    <string name="brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare livello luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Calcolatrice</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Calendario</string>
+    <!--call-->
+    <string name="call_tile_label">Chiamata</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Per permettere alla funzione di eseguire una telefonata, per favore aprire le impostazioni e concedere l\'autorizzazione telefono.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Nessun contatto telefonico selezionato, per favore aprire le impostazioni e scegliere un contatto. O impostare un\'azione differente.</string>
+    <string name="call_tile_formatted_label">Chiama %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Scegliere contatto</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Camera</string>
+    <string name="camera_tile_video_label">Video camera</string>
+    <!--email -->
+    <string name="email_tile_label">E-mail</string>
+    <string name="email_tile_formatted_label">E-mail %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nessun contatto e-mail selezionato, per favore aprire le impostazioni e scegliere contatto. O impostare un\'azione differente.</string>
+    <!--lock-->
+    <string name="lock_tile_label">Blocco</string>
+    <string name="lock_tile_device_admin_description">Permette alla funzione blocco di bloccare il dispositivo</string>
+    <string name="lock_tile_device_admin_activated">Amministratore dispositivo attivato</string>
+    <string name="lock_tile_device_admin_deactivated">Amministratore dispositivo disattivato</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Se disattivato, la funzione blocco non avrà l\'autorizzazione a bloccare il dispositivo.</string>
+    <string name="lock_tile_alert_dialog_message">Per permettere alla funzione di bloccare il dispositivo, per favore aprire le impostazioni e attivarlo come amministratore dispositivo.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Se attivato, la funzione blocco avrà l\'autorizzazione a bloccare il dispositivo.</string>
+    <!--map-->
+    <string name="map_tile_label">Maps</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--power-->
+    <string name="power_tile_action_power_dialog">Dialogo accensione</string>
+    <string name="power_tile_label">Accensione</string>
+    <string name="power_tile_action_reboot">Riavvia</string>
+    <string name="power_tile_action_reboot_recovery">Riavvia recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Riavvia bootloader</string>
+    <string name="power_tile_action_power_off">Spegni</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Squillo</string>
+    <string name="ringer_mode_tile_label_normal">Normale</string>
+    <string name="ringer_mode_tile_label_silent">Silenzioso</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibrazione</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Per permettere alla funzione di cambiare modalità squillo, per favore aprire le impostazioni e consentire Accesso Non disturbare.</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">Schermo accesso</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Il servizio schermo acceso è in esecuzione.\nInterrompere il servizio?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Il servizio schermo acceso non è in esecuzione.\nFar partire il servizio?</string>
+    <string name="screen_on_tile_service_notification_title">Servizio in esecuzione</string>
+    <string name="screen_on_tile_service_notification_content_text">Il dispositivo non andrà in sospensione. Tocca per interrompere il servizio.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Servizio schermo acceso</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Street View</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Per permettere alla funzione di stabilire la geolocalizzazione corrente, per favore aprire le impostazioni e concedere l\'autorizzazione posizione.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Sincronizzazione</string>
+    <!--timer-->
+    <string name="timer_tile_label">Timer</string>
+    <string name="timer_formatted_label">Timer\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Meteo</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Per permettere alla funzione di visualizzare le condizioni meteo, per favore aprire le impostazioni e concedere l\'autorizzazione posizione.</string>
+    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Percepita: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Percepita: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Punto di rugiada: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Punto di rugiada: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Umidità: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsius</string>
+    <string name="weather_fahrenheit">Fahrenheit</string>
+    <string name="weather_clear">Sereno</string>
+    <string name="weather_cloudy">Nuvoloso</string>
+    <string name="weather_foggy">Nebbia</string>
+    <string name="weather_hazy">Coperto</string>
+    <string name="weather_icy">Ghiaccio</string>
+    <string name="weather_rainy">Pioggia</string>
+    <string name="weather_snowy">Neve</string>
+    <string name="weather_stormy">Temporale</string>
+    <string name="weather_windy">Vento</string>
+    <string name="weather_conditions">Condizioni</string>
+    <string name="weather_temperature">Temperatura</string>
+    <string name="weather_feels_like">Percepita</string>
+    <string name="weather_humidity">Umidità</string>
+    <string name="weather_dew_point">Punto di rugiada</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Ricerca web</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">Promemoria</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titolo (%d limite caratteri)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Contenuto</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Persistente</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Elimina</string>
+    <string name="reminder_tile_empty_notification_text_fields">Nessun promemoria aggiunto. Per aggiungere un valido promemoria, per favore inserire titolo o contenuto.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Per eseguire tale azione, per favore aprire le impostazioni e concedere l\'autorizzazione posizionamento davanti ad altre app</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Testo copiato negli appunti</string>
+    <string name="retrieving_location_dialog_message">Ottendo geolocalizzazione. Per favore, attendere.</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">Timeout sospensione</string>
+    <string name="sleep_timeout_tile_formatted_label">Sospensione\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Per permettere alla funzione di cambiare timeout sospensione, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <string name="sleep_timeout_tile_value_15000">15 secondi</string>
+    <string name="sleep_timeout_tile_value_30000">30 secondi</string>
+    <string name="sleep_timeout_tile_value_60000">1 minuto</string>
+    <string name="sleep_timeout_tile_value_120000">2 minuti</string>
+    <string name="sleep_timeout_tile_value_300000">5 minuti</string>
+    <string name="sleep_timeout_tile_value_600000">10 minuti</string>
+    <string name="sleep_timeout_tile_value_1800000">30 minuti</string>
+    <!--location mode-->
+    <string name="location_mode_tile_label">Geolocalizzazione</string>
+    <string name="location_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità geolocalizzazione, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="location_mode_tile_label_off">Geolocalizzazione non attiva</string>
+    <string name="location_mode_tile_label_battery_saving">Basso consumo</string>
+    <string name="location_mode_tile_label_sensors_only">Solo dispositivo</string>
+    <string name="location_mode_tile_label_high_accuracy">Alta precisione</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">Impostazioni sicure di sistema contengono preference di sistema che le applicazioni hanno l\'autorizzazione a leggere, ma non a modificare. Autorizzazioni con questo livello di protezione sono concesse solo alle applicazioni di sistema. Se un\'applicazione è una normale applicazione non di sistema, non potrà mai usare queste autorizzazioni.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Concedere</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Revocare</string>
+    <!--timer H M S symbols -->
+    <string name="hour_symbol">H</string>
+    <string name="minute_symbol">M</string>
+    <string name="second_symbol">S</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">Sospendi</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Per permettere alla funzione di acquisire e archiviare screenshot, per favore aprire le impostazioni e concedere l\'autorizzazione archiviazione.</string>
+    <string name="screenshot_tile_screenshot_captured">Screenshot acquisito.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Tocca per vedere il tuo screenshot.</string>
+    <string name="share">Condividi</string>
+    <string name="delete">Elimina</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">Modalità immersiva</string>
+    <string name="immersive_mode_tile_off">Modalità immersiva disattivata</string>
+    <string name="immersive_mode_tile_hide_system_bars">Nascondi barre di sistema</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Nascondi barra di navigazione</string>
+    <string name="immersive_mode_tile_hide_status_bar">Nascondi barra di stato</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità immersiva, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Display Ambient</string>
+    <string name="ambient_display_tile_alert_dialog_message">Per permettere alla funzione di cambiare Display Ambient, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--animations-->
+    <string name="animations_tile_label">Animazioni</string>
+    <string name="animations_tile_label_animator">Animatore</string>
+    <string name="animations_tile_label_transition">Transizione</string>
+    <string name="animations_tile_label_window">Finestra</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animazione disattivata</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Scala animazione %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Per permettere alla funzione di cambiare animazioni, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--sleep time -->
+    <string name="sleep_time_tile_label">Durata sospensione</string>
+    <string name="sleep_time_tile_awake">Attivo</string>
+    <string name="sleep_time_tile_sleep">Sospensione</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Batteria %d%%</string>
+    <string name="sleep_time_tile_unplugged">Non collegato</string>
+    <string name="sleep_time_tile_plugged_usb">Collegato USB</string>
+    <string name="sleep_time_tile_plugged_ac">Collegato CA</string>
+    <string name="sleep_time_tile_plugged_wireless">Collegato wireless</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">Sveglia</string>
+    <string name="alarm_tile_no_alarm_set">Nessuna sveglia impostata</string>
+    <!--files-->
+    <string name="files_tile_label">File</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">Scorciatoia impostazioni</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Dimensioni carattere</string>
+    <string name="font_size_tile_alert_dialog_message">Per permettere alla funzione di cambiare dimensioni carattere, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voce</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles ha ottenuto i permessi superuser per una shell interattiva. Vuoi programmaticamente %s l\'autorizzazione scrivi impostazioni sicure utilizzando la shell interattiva superuser?</string>
+</resources>

@@ -46,8 +46,8 @@
     <string name="settings_translations_locale_nl">Olandese</string>
     <string name="settings_translations_locale_pt_rPT">Portoghese, Portogallo</string>
     <string name="settings_translations_locale_sk_rSK">Slovacco, Slovacchia</string>
-    <string name="settings_translations_locale_zh_rCN">Traditional Chinese (Hong Kong &amp; Taiwan)</string>
-    <string name="settings_translations_locale_it_rIT">Italiano, Italia</string>
+    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Cinese tradizionale (Hong Kong, Macao &amp; Taiwan)</string>
+    <string name="settings_translations_locale_it">Italiano</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilità funzione</string>
     <string name="settings_component_summary_off">Nascondi la funzione nel pannello delle impostazioni veloci</string>

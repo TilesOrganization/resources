@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">發生錯誤,請重試。</string>
-    <string name="location_mode_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
+    <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
     <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限給交互式shell</string>
     <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此類操作。請安裝然後重試。</string>
@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定裝置，請開啟設定並在裝置管理員中啟用。</string>
     <string name="lock_tile_add_device_admin_extra_app_text">如在裝置管理員中啟用，快速設定磚將允許鎖定裝置。</string>
     <!--map-->
-    <string name="map_tile_label">地圖</string>
+    <string name="maps_tile_label">地圖</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC狀態，請前往設定並允許可寫入安全設定的權限。</string>
@@ -135,12 +135,12 @@
     <string name="sleep_timeout_tile_value_600000">10 分鐘</string>
     <string name="sleep_timeout_tile_value_1800000">30 分鐘</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">定位模式</string>
-    <string name="location_mode_tile_alert_dialog_message">要允許快速設定磚變更定位模式, 請前往設定並允許可寫入安全設定的權限。</string>
-    <string name="location_mode_tile_label_off">定位關閉</string>
-    <string name="location_mode_tile_label_battery_saving">省電模式</string>
-    <string name="location_mode_tile_label_sensors_only">只限裝置</string>
-    <string name="location_mode_tile_label_high_accuracy">高精確度</string>
+    <string name="location_tile_label">定位模式</string>
+    <string name="location_tile_alert_dialog_message">要允許快速設定磚變更定位模式, 請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="location_tile_label_off">定位關閉</string>
+    <string name="location_tile_label_battery_saving">省電模式</string>
+    <string name="location_tile_label_sensors_only">只限裝置</string>
+    <string name="location_tile_label_high_accuracy">高精確度</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">安全系統設置包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s寫入安全設置權限嗎？</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Niekde sa stala chyba. Prosím, skúste to znova</string>
-    <string name="location_mode_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
+    <string name="location_off_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
     <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
     <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Aby dlaždica mohla zamknúť zariadenie, prosím, otvorte nastavenia a povoľte Správcu zariadenia.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Ak aktívne, dlaždica bude môcť zamknúť zariadenie.</string>
     <!--map-->
-    <string name="map_tile_label">Mapa</string>
+    <string name="maps_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Aby dlaždica mohla zmeniť stav NFC, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
@@ -135,12 +135,12 @@
     <string name="sleep_timeout_tile_value_600000">10 min.</string>
     <string name="sleep_timeout_tile_value_1800000">30 min.</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Režim polohy</string>
-    <string name="location_mode_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim polohy, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
-    <string name="location_mode_tile_label_off">Poloha je vypnutá</string>
-    <string name="location_mode_tile_label_battery_saving">Úspora batérie</string>
-    <string name="location_mode_tile_label_sensors_only">Len senzory zariadenia</string>
-    <string name="location_mode_tile_label_high_accuracy">Vysoká presnosť</string>
+    <string name="location_tile_label">Režim polohy</string>
+    <string name="location_tile_alert_dialog_message">Aby dlaždica mohla zmeniť režim polohy, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
+    <string name="location_tile_label_off">Poloha je vypnutá</string>
+    <string name="location_tile_label_battery_saving">Úspora batérie</string>
+    <string name="location_tile_label_sensors_only">Len senzory zariadenia</string>
+    <string name="location_tile_label_high_accuracy">Vysoká presnosť</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Bezpečnostné systémové nastavenia obsahujú systémové predvoľby, ktoré aplikácie môžu čítať ale nemôžu do nich zapisovať. Povolenia s touto úrovňou ochrany sú udelené iba systémovým aplikáciám. Ak je aplikácia nesystémová, nikdy nebude môcť použiť tieto povolenia.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles má udelené superuser povolenia pre interaktívne prostredie. Chcete programovo %s zápis do bezpečnostných nastavení pomocou interaktívneho prostredia superuser?</string>

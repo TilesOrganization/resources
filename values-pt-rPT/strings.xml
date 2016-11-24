@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Algo correu mal, tente novamente.</string>
-    <string name="location_mode_alert_dialog_message">Localização desativada. Para permitir que o mosaico obtenha a localização, vá às definições e ative a localização.</string>
+    <string name="location_off_alert_dialog_message">Localização desativada. Para permitir que o mosaico obtenha a localização, vá às definições e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Não foi encontrada nenhuma aplicação para executar esta ação.</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services_alert_dialog_message">Os Serviços Google Play são necessários, instale e tente novamente.</string>
@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Para permitir que o mosaico bloqueie o dispositivo, vá ás definições e active como administrador do dispositivo.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o mosaico poderá bloquear o dispositivo.</string>
     <!--map-->
-    <string name="map_tile_label">Mapa</string>
+    <string name="maps_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
@@ -135,12 +135,12 @@
     <string name="sleep_timeout_tile_value_600000">10 minutos</string>
     <string name="sleep_timeout_tile_value_1800000">30 minutos</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Modo de localização</string>
-    <string name="location_mode_tile_label_off">Localização desativada</string>
-    <string name="location_mode_tile_label_battery_saving">Poupança de bateria</string>
-    <string name="location_mode_tile_label_sensors_only">Apenas no dispositivo</string>
-    <string name="location_mode_tile_label_high_accuracy">Alta precisão</string>
-    <string name="location_mode_tile_alert_dialog_message">Para permitir que o mosaico altere o modo de localização, abra as definições e conceda a permissão para modificar definições seguras.</string>
+    <string name="location_tile_label">Modo de localização</string>
+    <string name="location_tile_label_off">Localização desativada</string>
+    <string name="location_tile_label_battery_saving">Poupança de bateria</string>
+    <string name="location_tile_label_sensors_only">Apenas no dispositivo</string>
+    <string name="location_tile_label_high_accuracy">Alta precisão</string>
+    <string name="location_tile_alert_dialog_message">Para permitir que o mosaico altere o modo de localização, abra as definições e conceda a permissão para modificar definições seguras.</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">As definições de sistema seguras contêm preferências de sistema que as aplicações podem ler mas não podem modificar. Permissões com este nível de proteção apenas são permitidas a aplicações de sistema. Se a aplicação não é de sistema, nunca poderá usar esta permissão.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Foi garantida permissão superuser ao Tiles. Quer que %s tenh permissão de sistema seguro utilizando o superuser?</string>

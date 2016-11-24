@@ -148,9 +148,9 @@
     <string name="settings_calendar_tile_action_view">打開活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更定位模式。</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更定位模式。</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">變更定位模式</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更定位模式。</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更定位模式。</string>
+    <string name="settings_location_tile_action_change_location_mode">變更定位模式</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更屏幕休眠時限</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕休眠時限限</string>

@@ -148,9 +148,9 @@
     <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Permitido. O bloco foi permitido mudar o modo de localização</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Mudar modo de localização</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Permitido. O bloco foi permitido mudar o modo de localização</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
+    <string name="settings_location_tile_action_change_location_mode">Mudar modo de localização</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o tempo de limite de tela.</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco está permitido alterar o tempo de limite de tela.</string>

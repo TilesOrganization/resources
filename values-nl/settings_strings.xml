@@ -46,7 +46,7 @@
     <string name="settings_translations_locale_nl">Nederlands</string>
     <string name="settings_translations_locale_pt_rPT">Portugees, Portugal</string>
     <string name="settings_translations_locale_sk_rSK">Slowakije, Slovaaks</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditional Chinese (Hong Kong, Macao &amp; Taiwan)</string>
+    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditioneel Chinees (ong Kong, Macao &amp; Taiwan)</string>
     <string name="settings_translations_locale_it">Italiaans</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tegel zichtbaarheid</string>
@@ -148,9 +148,9 @@
     <string name="settings_calendar_tile_action_view">Bekijk gebeurtenis</string>
     <string name="settings_calendar_tile_action_add">Voeg gebeurtenis toe</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming omde locatie modus te veranderen</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om de locatei modus te veranderen</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Verander locatie modus</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming omde locatie modus te veranderen</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om de locatei modus te veranderen</string>
+    <string name="settings_location_tile_action_change_location_mode">Verander locatie modus</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om slaap te pauzeren</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om slaap te pauzeren</string>

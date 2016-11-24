@@ -148,9 +148,9 @@
     <string name="settings_calendar_tile_action_view">Zobraziť udalosti</string>
     <string name="settings_calendar_tile_action_add">Pridať udalosť</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť režim polohy</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť režim polohy</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Zmeniť režim polohy</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť režim polohy</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť režim polohy</string>
+    <string name="settings_location_tile_action_change_location_mode">Zmeniť režim polohy</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže zmeniť časovač spánku</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Povolené. Dlaždica môže zmeniť časovač spánku</string>

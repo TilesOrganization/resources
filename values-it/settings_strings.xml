@@ -148,9 +148,9 @@
     <string name="settings_calendar_tile_action_add">Aggiungi evento</string>
     <string name="settings_calendar_tile_action_view">Visualizza eventi</string>
     <!--location mode-->
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
-    <string name="settings_location_mode_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
-    <string name="settings_location_mode_tile_action_change_location_mode">Cambia modalità geolocalizzazione</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità geolocalizzazione</string>
+    <string name="settings_location_tile_action_change_location_mode">Cambia modalità geolocalizzazione</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare timeout sospensione</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare timeout sospensione</string>

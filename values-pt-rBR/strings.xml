@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
-    <string name="location_mode_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
+    <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
     <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Por favor, instale-o e tente novamente</string>
@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Para permitir que o bloco bloqueie seu dispositivo, por favor abra as configurações e ative-o como administrador do disposivo.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o bloco de bloqueio será permitido bloquear o dispositivo.</string>
     <!--map-->
-    <string name="map_tile_label">Mapa</string>
+    <string name="maps_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir que o bloco altere o estado do NFC, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
@@ -135,12 +135,12 @@
     <string name="sleep_timeout_tile_value_600000">10 minutos</string>
     <string name="sleep_timeout_tile_value_1800000">30 minutos</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Modo de localização</string>
-    <string name="location_mode_tile_label_off">Localização desativada</string>
-    <string name="location_mode_tile_label_battery_saving">Economia de bateria</string>
-    <string name="location_mode_tile_label_sensors_only">Somente no dispositivo</string>
-    <string name="location_mode_tile_label_high_accuracy">Alta precisão</string>
-    <string name="location_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo de localização, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <string name="location_tile_label">Modo de localização</string>
+    <string name="location_tile_label_off">Localização desativada</string>
+    <string name="location_tile_label_battery_saving">Economia de bateria</string>
+    <string name="location_tile_label_sensors_only">Somente no dispositivo</string>
+    <string name="location_tile_label_high_accuracy">Alta precisão</string>
+    <string name="location_tile_alert_dialog_message">Para permitir que o bloco altere o modo de localização, por favor, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Configurações de segurança do sistema contêm as preferências do sistema que os aplicativos podem ler, mas não estão autorizados a modificar. Permissões com este nível de proteção só são concedidos aos aplicativos do sistema. Se um aplicativo é um aplicativo de terceiro que não pertence ao sistema, ele nunca vai ser capaz de usar essas permissões.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles foi concedido com permissões de superusuário para um shell interativo. Você quer programaticamente %s a permissão escrever as configurações de segurança usando shell interativo de superusuário?</string>

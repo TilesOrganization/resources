@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
-    <string name="location_mode_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
+    <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
     <string name="su_alert_dialog_message">Per eseguire questa azione, per favore concedere i permessi superuser per una shell interattiva.</string>
     <string name="play_services_alert_dialog_message">Google Play Services è richiesta per eseguire tale azione. Per favore installare l\'applicazione e provare nuovamente.</string>
@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Per permettere alla funzione di bloccare il dispositivo, per favore aprire le impostazioni e attivarlo come amministratore dispositivo.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Se attivato, la funzione blocco avrà l\'autorizzazione a bloccare il dispositivo.</string>
     <!--map-->
-    <string name="map_tile_label">Maps</string>
+    <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
@@ -135,12 +135,12 @@
     <string name="sleep_timeout_tile_value_600000">10 minuti</string>
     <string name="sleep_timeout_tile_value_1800000">30 minuti</string>
     <!--location mode-->
-    <string name="location_mode_tile_label">Geolocalizzazione</string>
-    <string name="location_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità geolocalizzazione, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
-    <string name="location_mode_tile_label_off">Geolocalizzazione non attiva</string>
-    <string name="location_mode_tile_label_battery_saving">Basso consumo</string>
-    <string name="location_mode_tile_label_sensors_only">Solo dispositivo</string>
-    <string name="location_mode_tile_label_high_accuracy">Alta precisione</string>
+    <string name="location_tile_label">Geolocalizzazione</string>
+    <string name="location_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità geolocalizzazione, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="location_tile_label_off">Geolocalizzazione non attiva</string>
+    <string name="location_tile_label_battery_saving">Basso consumo</string>
+    <string name="location_tile_label_sensors_only">Solo dispositivo</string>
+    <string name="location_tile_label_high_accuracy">Alta precisione</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Impostazioni sicure di sistema contengono preference di sistema che le applicazioni hanno l\'autorizzazione a leggere, ma non a modificare. Autorizzazioni con questo livello di protezione sono concesse solo alle applicazioni di sistema. Se un\'applicazione è una normale applicazione non di sistema, non potrà mai usare queste autorizzazioni.</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>

@@ -19,12 +19,12 @@
     <string name="settings_design_navigation_bar_tint_no_tint">Aucune teinte</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">Couleur primaire foncée</string>
     <string name="settings_design_navigation_bar_tint_primary">Couleur primaire</string>
-    <string name="settings_design_navigation_bar_tint_accent">Couleur d'accentuation</string>
+    <string name="settings_design_navigation_bar_tint_accent">Couleur d\'accentuation</string>
     <!--design status bar tint-->
     <string name="settings_design_status_bar_tint_title">Teinte de la barre d\'état</string>
     <string name="settings_design_status_bar_tint_primary_dark">Couleur primaire foncée</string>
     <string name="settings_design_status_bar_tint_primary">Couleur primaire</string>
-    <string name="settings_design_status_bar_tint_accent">Couleur d'accentuation</string>
+    <string name="settings_design_status_bar_tint_accent">Couleur d\'accentuation</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">icônes de la barre d\'état</string>
     <string name="settings_design_status_bar_icons_light">Icônes claires</string>

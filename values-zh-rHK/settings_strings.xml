@@ -11,7 +11,7 @@
     <string name="settings_action">動作</string>
     <string name="settings_layout">佈局</string>
     <string name="settings_night_mode">夜間模式</string>
-    <string name="settings_night_mode_no">日照</string>
+    <string name="settings_night_mode_no">日光</string>
     <string name="settings_night_mode_yes">夜間</string>
     <string name="settings_night_mode_auto">自動</string>
     <!--navigation status bar tint-->
@@ -81,7 +81,7 @@
     <string name="settings_call_contact_tile_contact_preference_screen_title">選取要撥號的聯絡人</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">開啟電子郵件程式</string>
-    <string name="settings_email_tile_action_send_email">撰寫電郵給已選取的收件者</string>
+    <string name="settings_email_tile_action_send_email">撰寫電郵給收件者</string>
     <string name="settings_email_tile_contact_preference_title">選取電郵的收件者</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">裝置管理員</string>
@@ -145,7 +145,7 @@
     <string name="settings_reminder_tile_draw_over_apps_summary_on">已授權。記事提醒會以浮動視窗顯示並允許拖放</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_off">已禁止。 記事提醒不會以浮動視窗顯示及不允許拖放</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">打開活動內容</string>
+    <string name="settings_calendar_tile_action_view">開啟活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>
     <!--location mode-->
     <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更定位模式。</string>

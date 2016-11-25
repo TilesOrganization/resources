@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Damit die Kachel das Gerät sperren kann, öffne bitte die System-Einstellungen und setze Tiles als Geräteadministrator.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Wenn aktiviert darf die Kachel das Gerät sperren.</string>
     <!--map-->
-    <string name="maps_tile_label">Karte</string>
+    <string name="maps_tile_label">Google Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Damit die Kachel den Status von NFC ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen</string>

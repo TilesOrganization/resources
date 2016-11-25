@@ -53,7 +53,7 @@
     <string name="lock_tile_alert_dialog_message">Para permitir que o mosaico bloqueie o dispositivo, vá ás definições e active como administrador do dispositivo.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o mosaico poderá bloquear o dispositivo.</string>
     <!--map-->
-    <string name="maps_tile_label">Mapa</string>
+    <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
@@ -195,7 +195,7 @@
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Definições</string>
     <!--font size-->
-    <string name="font_size_tile_label">Tamanho da fonte</string>
+    <string name="font_size_tile_label">Tamanho da visualização</string>
     <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
     <!--voice-->
     <string name="voice_tile_label">Voz</string>

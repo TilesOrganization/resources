@@ -40,7 +40,7 @@
     <string name="settings_credit">Crédit</string>
     <string name="settings_credit_app_icon">Icône de l\'application</string>
     <string name="settings_translations">Traductions</string>
-    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l'appli vers votre langue, n\'hésitez pas à me contacter: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l\'appli vers votre langue, n\'hésitez pas à me contacter: rascarlo@gmail.com.\nThank you!</string>
     <string name="settings_translations_locale_de">Allemand</string>
     <string name="settings_translations_locale_pt_rBR">Portugais, Brésil</string>
     <string name="settings_translations_locale_nl">Néerlandais</string>
@@ -73,20 +73,20 @@
     <string name="settings_brightness_tile_brightness_levels_preference_title">Niveaux de luminosité</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Haut: %1$.1f%%\nMoyen: %2$.1f%%\nBas: %3$.1f%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Ouvrir l'appli téléphone</string>
+    <string name="settings_call_tile_action_open_phone">Ouvrir l\'appli téléphone</string>
     <string name="settings_call_tile_action_make_call">Appeler le contact sélectionné</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Permission d\'appeler</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à effectuer des appels</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Accordée. La tuile est authorisée à effectuer des appels</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contact à appeler</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Ouvrir l'appli email</string>
+    <string name="settings_email_tile_action_open_app">Ouvrir l\'appli email</string>
     <string name="settings_email_tile_action_send_email">Rédiger un email avec en destinataire le contact sélectionné</string>
     <string name="settings_email_tile_contact_preference_title">Contact à joindre</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Administrateur de l'appareil</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activé. La tuile n\'est pas authorisée à verrouiller l'appareil</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Désactivaté. La tuile est authorisée à verrouiller l'appareil</string>
+    <string name="settings_lock_tile_device_admin_title">Administrateur de l\'appareil</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Activé. La tuile n\'est pas authorisée à verrouiller l\'appareil</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Désactivaté. La tuile est authorisée à verrouiller l\'appareil</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Accès à Ne pas déranger (DnD)</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Authorisé. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>

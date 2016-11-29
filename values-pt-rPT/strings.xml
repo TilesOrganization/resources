@@ -199,4 +199,7 @@
     <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
     <!--voice-->
     <string name="voice_tile_label">Voz</string>
+    <!--text-->
+    <string name="text_tile_label">Text</string>
+    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
 </resources>

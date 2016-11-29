@@ -199,4 +199,7 @@
     <string name="font_size_tile_alert_dialog_message">Damit die Kachel die Schriftgröße ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--voice-->
     <string name="voice_tile_label">Stimme</string>
+    <!--text-->
+    <string name="text_tile_label">Text</string>
+    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
 </resources>

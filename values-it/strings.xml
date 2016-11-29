@@ -143,6 +143,7 @@
     <string name="location_tile_label_high_accuracy">Alta precisione</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Impostazioni sicure di sistema contengono preference di sistema che le applicazioni hanno l\'autorizzazione a leggere, ma non a modificare. Autorizzazioni con questo livello di protezione sono concesse solo alle applicazioni di sistema. Se un\'applicazione è una normale applicazione non di sistema, non potrà mai usare queste autorizzazioni.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles ha ottenuto i permessi superuser per una shell interattiva. Vuoi programmaticamente %s l\'autorizzazione scrivi impostazioni sicure utilizzando la shell interattiva superuser?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Concedere</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Revocare</string>
@@ -198,5 +199,7 @@
     <string name="font_size_tile_alert_dialog_message">Per permettere alla funzione di cambiare dimensioni carattere, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
     <!--voice-->
     <string name="voice_tile_label">Voce</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles ha ottenuto i permessi superuser per una shell interattiva. Vuoi programmaticamente %s l\'autorizzazione scrivi impostazioni sicure utilizzando la shell interattiva superuser?</string>
+    <!--text-->
+    <string name="text_tile_label">Testo</string>
+    <string name="text_tile_empty_chat_text_field">Nessun testo aggiunto, per favore immettere contenuto.</string>
 </resources>

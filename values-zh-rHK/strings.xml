@@ -52,7 +52,7 @@
     <string name="lock_tile_device_admin_receiver_status_deactivated_warning">如在裝置管理員中停用，快速設定磚將不允許鎖定裝置。</string>
     <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定裝置，請開啟設定並在裝置管理員中啟用。</string>
     <string name="lock_tile_add_device_admin_extra_app_text">如在裝置管理員中啟用，快速設定磚將允許鎖定裝置。</string>
-    <!---->
+    <!--map-->
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
@@ -199,4 +199,7 @@
     <string name="font_size_tile_alert_dialog_message">要允許快速設定磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>
     <!--voice-->
     <string name="voice_tile_label">語音</string>
+    <!--text-->
+    <string name="text_tile_label">Text</string>
+    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
 </resources>

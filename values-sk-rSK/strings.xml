@@ -201,5 +201,5 @@
     <string name="voice_tile_label">Hlas</string>
     <!--text-->
     <string name="text_tile_label">Text</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_empty_chat_text_field">Nebol pridaný žiadny text, prosím, niečo napíšte.</string>
 </resources>

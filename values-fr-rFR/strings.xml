@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something, went wrong. Please try again</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
+    <string name="something_went_wrong">Une erreur s\'est produite. Veuillez réessayer</string>
+    <string name="location_off_alert_dialog_message">La localisation est désactivée. Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et activer la localisation.</string>
+    <string name="resolve_activity_alert_dialog_message">Aucune application trouvée pour effectuer cette action.</string>
+    <string name="su_alert_dialog_message">Pour effectuer une telle action, veuillez accorder les permissions super utilisateur pour un shell interactif.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
     <string name="medium">Medium</string>
     <string name="low">Low</string>
     <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
-    <string name="not_available">Not available</string>
+    <string name="not_available">Indisponible</string>
     <!--adaptive brightness-->
-    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
+    <string name="adaptive_brightness_tile_label">Luminosité adaptative</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
     <!--application-->
     <string name="application_tile_label">Application</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
     <!--brightness-->
-    <string name="brightness_tile_label">Brightness</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$.1f%%</string>
-    <string name="brightness_tile_undefined_label">Brightness undefined</string>
+    <string name="brightness_tile_label">Luminosité</string>
+    <string name="brightness_tile_label_formatted">Luminosité %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Haute: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Moyenne: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Basse: %1$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Luminosité: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Luminosité non définie</string>
     <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
     <!--calculator-->
-    <string name="calculator_tile_label">Calculator</string>
+    <string name="calculator_tile_label">Calculatrice</string>
     <!--calendar-->
-    <string name="calendar_tile_label">Calendar</string>
+    <string name="calendar_tile_label">Calendrier</string>
     <!--call-->
-    <string name="call_tile_label">Call</string>
+    <string name="call_tile_label">Appel</string>
     <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
     <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
     <string name="call_tile_formatted_label">Call %s</string>
@@ -198,8 +198,8 @@
     <string name="font_size_tile_label">Font size</string>
     <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Voix</string>
     <!--text-->
-    <string name="text_tile_label">Text</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_label">Texte</string>
+    <string name="text_tile_empty_chat_text_field">Aucun texte ajouté, veuillez saisir du texte.</string>
 </resources>

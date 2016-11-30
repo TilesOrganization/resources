@@ -127,23 +127,23 @@
     <string name="settings_summary_off_hidden">隱藏</string>
     <string name="settings_summary_on_shown">顯示</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">向左或右撥以刪除記事提醒記事</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">接刪除鍵以刪除記事提醒</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">向左或右撥以刪除備忘提醒</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">接刪除鍵以刪除備忘提醒</string>
     <string name="settings_reminder_tile_persistent_notification_title">固定式通知</string>
     <string name="settings_reminder_tile_notification_play_sound_title">播放音效</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">建立新的記事提醒時播放系統預設音效</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">建立新的記事提醒時不播放音效</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">建立新的備忘提醒時播放系統預設音效</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">建立新的備忘提醒時不播放音效</string>
     <string name="settings_reminder_tile_notification_vibrate_title">震動</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">建立新的記事提醒時震動</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">建立新的記事提醒時不震動</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">建立新的備忘提醒時震動</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">建立新的備忘提醒時不震動</string>
     <string name="settings_reminder_tile_notification_timestamp_style">時間戳樣式</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">正常</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">秒表</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">顯示打開設定的動作</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">隱藏動作</string>
     <string name="settings_reminder_tile_draw_over_apps_title">覆蓋其他應用程式權限</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">已授權。記事提醒會以浮動視窗顯示並允許拖放</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">已禁止。 記事提醒不會以浮動視窗顯示及不允許拖放</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">已授權。備忘提醒會以浮動視窗顯示並允許拖放</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">已禁止。 備忘提醒不會以浮動視窗顯示及不允許拖放</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">開啟活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>

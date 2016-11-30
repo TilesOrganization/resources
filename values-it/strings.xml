@@ -71,7 +71,7 @@
     <string name="ringer_mode_tile_label_vibrate">Vibrazione</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Per permettere alla funzione di cambiare modalità squillo, per favore aprire le impostazioni e consentire Accesso Non disturbare.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Schermo accesso</string>
+    <string name="screen_on_tile_label">Schermo acceso</string>
     <string name="screen_on_tile_dialog_wake_lock_running">Il servizio schermo acceso è in esecuzione.\nInterrompere il servizio?</string>
     <string name="screen_on_tile_dialog_wake_lock_not_running">Il servizio schermo acceso non è in esecuzione.\nFar partire il servizio?</string>
     <string name="screen_on_tile_service_notification_title">Servizio in esecuzione</string>

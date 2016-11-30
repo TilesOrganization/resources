@@ -114,12 +114,12 @@
     <!--web search-->
     <string name="web_search_tile_label">網絡搜尋</string>
     <!--reminder-->
-    <string name="reminder_tile_label">記事提醒</string>
+    <string name="reminder_tile_label">備忘提醒</string>
     <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">標題 (%d 字符限制)</string>
     <string name="reminder_tile_dialog_formatted_content_hint">內容</string>
     <string name="reminder_tile_dialog_persistent_checkbox">固定</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">刪除</string>
-    <string name="reminder_tile_empty_notification_text_fields">未有添加記事提醒。如要添加有效的記事提醒，請輸入標題或內容。</string>
+    <string name="reminder_tile_empty_notification_text_fields">未有添加備忘提醒。如要添加有效的備忘提醒，請輸入標題或內容。</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">要執行此類操作，請授予可覆蓋其他應用程式權限。</string>
     <string name="reminder_tile_text_copied_to_clipboard">文本已複製至剪貼板</string>
     <string name="retrieving_location_dialog_message">正在取得位置，請稍候。</string>
@@ -200,6 +200,6 @@
     <!--voice-->
     <string name="voice_tile_label">語音</string>
     <!--text-->
-    <string name="text_tile_label">速記</string>
+    <string name="text_tile_label">速記分享</string>
     <string name="text_tile_empty_chat_text_field">請輸入速記內容。</string>
 </resources>

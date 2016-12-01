@@ -48,6 +48,7 @@
     <string name="settings_translations_locale_sk_rSK">Eslováquia, Eslovaco</string>
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">Chinês Tradicional, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italiano</string>
+    <string name="settings_translations_locale_hu">Hungarian</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do mosaico</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>

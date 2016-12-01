@@ -45,8 +45,8 @@
     <string name="settings_translations_locale_pt_rBR">Portugees, Braziliaans</string>
     <string name="settings_translations_locale_nl">Nederlands</string>
     <string name="settings_translations_locale_pt_rPT">Portugees, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slowakije, Slovaaks</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditioneel Chinees (Hong Kong, Macao &amp; Taiwan)</string>
+    <string name="settings_translations_locale_sk_rSK">Slovaaks, Slowakije</string>
+    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditioneel Chinees, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italiaans</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tegel zichtbaarheid</string>

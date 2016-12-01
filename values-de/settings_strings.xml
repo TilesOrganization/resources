@@ -45,8 +45,8 @@
     <string name="settings_translations_locale_pt_rBR">Portugiesisch, Brasilianisch</string>
     <string name="settings_translations_locale_nl">Niederländer</string>
     <string name="settings_translations_locale_pt_rPT">Portugiesisch, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slowakei, Slowakisch</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditionelles Chinesisch(Hong Kong, Macao &amp; Taiwan)</string>
+    <string name="settings_translations_locale_sk_rSK">Slowakisch, Slowakei</string>
+    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditionelles Chinesisch, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italienisch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>

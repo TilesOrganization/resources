@@ -144,7 +144,7 @@
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">A biztonsági rendszerbeállítások olyan rendszertulajdonságokat tartalmaznak, amelyeket kiolvashatnak ugyan az alkalmazások, de nem írhatják át azokat. Ezekre csak rendszeralkalmazások kapnak engedélyt, más, felhasználói alkalmazás nem.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">A Tiles rendszergazdai hozzáférést kapott egy interaktív shell felületen. Szeretné, hogy ezen keresztül %s programozottan átírja a biztonsági rendszerbeállításokat?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">A %1$s engedély manuális megadásához csatlakoztasd az eszközödet egy számítógéphez és futtasd le a következő parancsot: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">A manuális %1$s-hez/hoz csatlakoztasd az eszközödet egy számítógéphez és futtasd le a következő parancsot: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Engedélyezés</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Visszavonás</string>
     <!--timer H M S symbols -->

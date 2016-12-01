@@ -48,7 +48,7 @@
     <string name="settings_translations_locale_sk_rSK">Slowakisch, Slowakei</string>
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditionelles Chinesisch, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italienisch</string>
-    <string name="settings_translations_locale_hu">Hungarian</string>
+    <string name="settings_translations_locale_hu">Ungarisch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>
     <string name="settings_component_summary_off">Verstecke die Kachel in den Schnelleinstellungen</string>

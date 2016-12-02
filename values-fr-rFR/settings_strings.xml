@@ -94,9 +94,9 @@
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Refusé. L\'application est en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Ouvrir le panneau de volume</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Changer le mode de sonnerie</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Émettre du son</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Jouer une sonnerie de notification</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">N\émettre aucun son quand le mode de sonnerie normal est sélectionné</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Jouer le son de notification par défaut quand le mode de sonnerie normal est sélectionné</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand le mode de sonnerie normal est sélectionné</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Démarrer/arrêter le service</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Notification de service en cours d\'exécution</string>
@@ -119,68 +119,68 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Montrer une UI de confirmation avant de démarrer le minuteur</string>
     <string name="settings_timer_tile_default_duration">Durée par défaut</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l'appareil.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l'appareil.</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_units">Unités</string>
+    <string name="settings_summary_off_hidden">Cachées</string>
+    <string name="settings_summary_on_shown">Montrées</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\'t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\'t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Supprimer un rappel en le glissant à gauche ou à droite</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Supprimer un rappel en tappant le bouton d\'action supprimer</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notification persistante</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Jouer une sonnerie de notification</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">N\émettre aucun son quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrer</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrer quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Ne pas vibrer quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Style d\'horodatage</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Chronomètre</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Montrer une action pour ouvrir les paramètres</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Cacher l\'action</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Permission de se superposer aux autres applications</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Accordée. Rappel est authorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Refusée. Rappel n\'est pas authorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Afficher les évènements</string>
+    <string name="settings_calendar_tile_action_add">Ajouter un évènement</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer le mode de localisation</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer le mode de localisation</string>
+    <string name="settings_location_tile_action_change_location_mode">Changer le mode de localisation</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à changer le délai de mise en veille</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est authorisée à changer le délai de mise en veille</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Changer le délai de mise en veille</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Permission d\'écrire sur le stockage externe</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Accordée. La tuile est authorisée à effectuer et enregistrer des captures d\'écran</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à effectuer et enregistrer des captures d\'écran</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Jouer une sonnerie de notification</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut en effectuant une capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">N\émettre aucun son en effectuant une capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrer</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrer en effectuant une capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Ne pas vibrer en effectuant une capture d\'écran</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Replier le panneau de réglages rapides QS et prendre une capture d\'écran</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Prendre une capture d\'écran sans replier le panneau de réglages rapides QS</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Montrer une action pour partager la capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Cacher l\'action pour partager la capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Montrer une action pour supprimer la capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Cacher l\'action pour supprimer la capture d\'écran</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Mode Ne Pas Déranger (DND)</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarmes uniquement</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Silence total</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Prioritaires uniquement</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Montrer un dialogue</string>
+    <string name="settings_notification_share_action_title">Action partage</string>
+    <string name="settings_notification_settings_action_title">Action paramètres</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>

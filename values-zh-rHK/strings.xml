@@ -200,6 +200,6 @@
     <!--voice-->
     <string name="voice_tile_label">語音</string>
     <!--text-->
-    <string name="text_tile_label">速記分享</string>
-    <string name="text_tile_empty_chat_text_field">請輸入速記內容。</string>
+    <string name="text_tile_label">文本分享</string>
+    <string name="text_tile_empty_chat_text_field">請輸入文本分享內容。</string>
 </resources>

@@ -122,7 +122,7 @@
     <string name="reminder_tile_empty_notification_text_fields">Új emlékeztető nincs elmentve. Megfelelő emlékeztető hozzáadásához kérlek adj meg egy címet vagy tartalmat.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Ilyen művelet végrehajtásához kérlek engedélyezd az alkalmazás számára a mások felett való megjelenést.</string>
     <string name="reminder_tile_text_copied_to_clipboard">Szöveg vágólapra másolva</string>
-    <string name="retrieving_location_dialog_message">Helymeghatározás folyamatban, kérlek várj...</string>
+    <string name="retrieving_location_dialog_message">Helymeghatározás folyamatban, kérlek várj…</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Alvó mód ideje</string>
     <string name="sleep_timeout_tile_formatted_label">Alvás\n%1$02d:%2$02d</string>

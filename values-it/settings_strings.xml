@@ -155,6 +155,7 @@
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare timeout sospensione</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare timeout sospensione</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Cambia timeout sospensione</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Autorizzazione archiviazione</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione ad acquisire e archiviare screenshot</string>

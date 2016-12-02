@@ -41,14 +41,14 @@
     <string name="settings_credit_app_icon">程式圖示</string>
     <string name="settings_translations">翻譯</string>
     <string name="settings_translations_thanks">歡迎為本程式進行翻譯，請電郵至 rascarlo@gmail.com 與我聯絡\n謝謝!</string>
-    <string name="settings_translations_locale_de">German</string>
-    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
-    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
+    <string name="settings_translations_locale_de">德文</string>
+    <string name="settings_translations_locale_pt_rBR">巴西葡萄牙文</string>
+    <string name="settings_translations_locale_nl">荷蘭文</string>
+    <string name="settings_translations_locale_pt_rPT">葡萄牙文</string>
+    <string name="settings_translations_locale_sk_rSK">斯洛伐克文</string>
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">繁體中文,香港、台灣、澳門</string>
-    <string name="settings_translations_locale_it">Italian</string>
-    <string name="settings_translations_locale_hu">Hungarian</string>
+    <string name="settings_translations_locale_it">意大利文</string>
+    <string name="settings_translations_locale_hu">匈牙利文</string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>

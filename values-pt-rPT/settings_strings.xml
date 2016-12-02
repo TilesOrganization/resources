@@ -155,7 +155,7 @@
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negada. Não é permitido ao mosaico alterar a suspensão</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitida. É permitido ao mosaico alterar a suspensão</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Alterar o tempo para a suspensão</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Alterar tempo para a suspensão</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Permissão para escrever na memória externa</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitida. O mosaico pode efectuar e guardar capturas de ecrã</string>

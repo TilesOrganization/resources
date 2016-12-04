@@ -152,7 +152,7 @@
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Suspensão</string>
+    <string name="sleep_tile_label">Suspender</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Captura de ecrã</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que este mosaico capture e guarde o ecrã, abra as definições e conceda permissão para guardar na memória externa.</string>

@@ -119,11 +119,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Montrer une UI de confirmation avant de démarrer le minuteur</string>
     <string name="settings_timer_tile_default_duration">Durée par défaut</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l'appareil.</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l'appareil.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l\'appareil.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l\'appareil.</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l'appareil et obtenir les conditions météo actuelles</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
     <string name="settings_units">Unités</string>
     <string name="settings_summary_off_hidden">Cachées</string>
     <string name="settings_summary_on_shown">Montrées</string>

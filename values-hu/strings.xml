@@ -75,7 +75,7 @@
     <string name="screen_on_tile_dialog_wake_lock_running">Az aktív képernyő szolgáltatás fut.\nLeállítja a szolgáltatást?</string>
     <string name="screen_on_tile_dialog_wake_lock_not_running">Az aktív képernyő szolgáltatás nem fut.\nElindítja a szolgáltatást?</string>
     <string name="screen_on_tile_service_notification_title">A szolgáltatás fut</string>
-    <string name="screen_on_tile_service_notification_content_text">Az eszköz nem fog alvó módba kapcsolni. Nyomj ide a szolgáltatás leállításához.</string>
+    <string name="screen_on_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ezt meg nem nyomod.</string>
     <string name="screen_on_tile_service_notification_sub_text">Aktív képernyő szolgáltatás</string>
     <!--streetview-->
     <string name="streetview_tile_label">Utcakép</string>

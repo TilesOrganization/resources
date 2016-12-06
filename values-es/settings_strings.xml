@@ -2,13 +2,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
     <string name="settings">Ajustes</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
+    <string name="settings_design">Diseño</string>
+    <string name="settings_animations">Anmiaciones</string>
     <string name="settings_animations_reveal_animation_title">Reveal animation</string>
     <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
-    <string name="settings_action">Action</string>
+    <string name="settings_enabled">Habilitado</string>
+    <string name="settings_disabled">Deshabilitado</string>
+    <string name="settings_action">Acción</string>
     <string name="settings_layout">Layout</string>
     <string name="settings_night_mode">Night mode</string>
     <string name="settings_night_mode_no">Day</string>

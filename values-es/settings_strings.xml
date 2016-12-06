@@ -211,5 +211,5 @@
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar los ajustes de NFC</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar los ajustes de NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Cambiar estado del NFC</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Abrir ajuste de NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Abrir ajustes de NFC</string>
 </resources>

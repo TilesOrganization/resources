@@ -124,92 +124,92 @@
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">Denegado. El mosaico no tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
     <string name="settings_weather_tile_location_permissions_summary_on">Permitido. El mosaico tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_units">Unidades</string>
+    <string name="settings_summary_off_hidden">Ocultar</string>
+    <string name="settings_summary_on_shown">Mostrar</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\'t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\'t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Eliminar el recordatorio deslizando a izquierda o derecha</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Elminar el recordatorio pulsando el botón de "eliminar"</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notificación persistente</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Reproducir sonido</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproducir el sonido de notificación por defecto al crear un nuevo recordatorio</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">No reproducir ningún sonido al crear un nuevo recordatorio</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar al crear un nuevo recordatorio</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">No vibrar al crear un nuevo recordatorio</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Modo de contar el tiempo</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cuenta atrás</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar acción al abrir los ajustes</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Ocultar acción al abrir los ajustes</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Permiso de dibujar sobre otras aplicaciones</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitido. Los recordatorios pueden mostrarse como diálogo y pueden moverse sobre otras aplicaciones</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denegado. Los recordatorios no pueden mostrarse como diálogo y pueden moverse sobre otras aplicaciones</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Ver eventos</string>
+    <string name="settings_calendar_tile_action_add">Crear evento</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permisos para cambiar el modo de ubicación</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permisos para cambiar el modo de ubicación</string>
+    <string name="settings_location_tile_action_change_location_mode">Cambiar el modo de ubicación</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para modificar el tiempo para bloquear</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para modificar el tiempo para bloquear</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Cambiar el tiempo de bloqueo</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Permiso para escribir en el almacenamiento externo</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitido. El mosaico tiene permiso para hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denegado. El mosaico no tiene permiso para hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Reproducir sonido</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproducir el sonido de notificación por defecto al hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">No reproducir ningún sonido al hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar al hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">No rvibrar al hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Cerrar panel de ajustes rápidos y hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Hacer una captura de pantalla sin cerrar el panel de ajustes rápidos</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar acción de compartir la captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Ocultar acción de compartir la captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Mostrar acción de eliminar la captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Ocular acción de eliminar la captura de pantalla</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Modo de No-Molestar</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Sólo alarmas</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Silencio total</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Sólo prioridad</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Mostrar diálogo</string>
+    <string name="settings_notification_share_action_title">Compartir</string>
+    <string name="settings_notification_settings_action_title">Ajustes</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">Permiso para modificar ajustes de seguridad</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para cambiar el modo inmersivo</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para cambiar el modo inmersivo</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Cambiar modo inmersivo</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar los ajustes de pantalla ambiente</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar los ajustes de pantalla ambiente</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar las animaciones</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar las animaciones</string>
+    <string name="settings_show_milliseconds">Mostrar milisegundos</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Establecer una alarma</string>
+    <string name="settings_alarm_tile_action_show_alarms">Mostrar alarma</string>
+    <string name="settings_date_format">Formato de fecha</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Formato de hora</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Pequeña</string>
+    <string name="settings_font_size_tile_font_scale_default">Por defecto</string>
+    <string name="settings_font_size_tile_font_scale_large">Grande</string>
+    <string name="settings_font_size_tile_font_scale_largest">Lo más grande posible</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para cambiar el tamaño de letra</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para cambiar el tamaño de letra</string>
+    <string name="settings_font_size_tile_action_change_font_size">Cambiar el tamaño de letra</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar los ajustes de NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar los ajustes de NFC</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Cambiar estado del NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Abrir ajuste de NFC</string>
 </resources>

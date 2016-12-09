@@ -58,18 +58,18 @@
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir al mosaico realizar cambios en el estado del NFC, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_dialog">Menú de apagado</string>
+    <string name="power_tile_label">Apagado</string>
+    <string name="power_tile_action_reboot">Reiniciar</string>
+    <string name="power_tile_action_reboot_recovery">Reiniciar en recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Reiniciar en bootloader</string>
+    <string name="power_tile_action_power_off">Apagar</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
+    <string name="ringer_mode_tile_label">Modo de sonido</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label_silent">Silencio</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibración</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir al mosaico cambiar el modo de sonido, por favor, accede a los ajustes y concede permiso para modificar los ajustes de No Molestar.</string>
     <!--screen on-->
     <string name="screen_on_tile_label">Screen on</string>
     <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>

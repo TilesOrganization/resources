@@ -54,8 +54,8 @@
     <string name="settings_component_summary_off">Esconde el mosaico en el panel de Ajustes Rápidos</string>
     <string name="settings_component_summary_on">Muestra el mosaico en el panel de Ajustes Rápidos</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para modificar el modo de brillo</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para modificar el modo de brillo</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para modificar el modo de brillo</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para modificar el modo de brillo</string>
     <!-- application-->
     <string name="settings_application_tile_view_mode">Modo de vista</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
@@ -68,8 +68,8 @@
     <string name="settings_application_tile_application_list_launch_title">Aplicaciones a iniciar</string>
     <string name="settings_application_tile_loading_applications">Cargando aplicaciones…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para modificar el nivel de brillo</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para modificar el nivel de brillo</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para modificar el nivel de brillo</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para modificar el nivel de brillo</string>
     <string name="settings_brightness_tile_action_change_brightness">Cambiar brillo</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Nivel de brillo</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alto: %1$.1f%%\nMedio: %2$.1f%%\nBajo: %3$.1f%%</string>
@@ -77,8 +77,8 @@
     <string name="settings_call_tile_action_open_phone">Abrir aplicación de teléfono</string>
     <string name="settings_call_tile_action_make_call">Llamar al contacto seleccionado</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Permisos para realizar llamadas</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denegado. El mosaico no tiene permiso para realizar llamadas</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Permitido. El mosaico tiene permiso para realizar llamadas</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denegado. Tile no tiene permiso para realizar llamadas</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Permitido. Tile tiene permiso para realizar llamadas</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contacto para llamar</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Abrir aplicación de email</string>
@@ -86,12 +86,12 @@
     <string name="settings_email_tile_contact_preference_title">Seleccionar destinatario</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Administrador de dispositivo</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activado. El mosaico tiene permisos para bloquear el dispositivo</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Desactivado. El mosaico no tiene permisos para bloquear el dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Activado. Tile tiene permisos para bloquear el dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Desactivado. Tile no tiene permisos para bloquear el dispositivo</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Modo No-Molestar</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitido. El mosaico tiene permiso para activar/desactivar el modo de No-Molestar y realizar cambios en los ajustes correspondientes</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denegado. El mosaico no tiene permiso para activar/desactivar el modo de No-Molestar y realizar cambios en los ajustes correspondientes</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitido. Tile tiene permiso para activar/desactivar el modo de No-Molestar y realizar cambios en los ajustes correspondientes</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denegado. Tile no tiene permiso para activar/desactivar el modo de No-Molestar y realizar cambios en los ajustes correspondientes</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir el panel de volumen</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Cambiar el modo de timbre</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Reproducir sonido</string>
@@ -119,11 +119,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar confirmación antes de iniciar el temporizador</string>
     <string name="settings_timer_tile_default_duration">Duración por defecto</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denegado. El mosaico no tiene permiso para acceder a la ubicación</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Permitido. El mosaico tiene permiso para acceder a la ubicación</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denegado. Tile no tiene permiso para acceder a la ubicación</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Permitido. Tile tiene permiso para acceder a la ubicación</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denegado. El mosaico no tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Permitido. El mosaico tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Denegado. Tile no tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Permitido. Tile tiene permiso para acceder a la ubicación y obtener la información actual del tiempo atmosférico</string>
     <string name="settings_units">Unidades</string>
     <string name="settings_summary_off_hidden">Ocultar</string>
     <string name="settings_summary_on_shown">Mostrar</string>
@@ -149,23 +149,23 @@
     <string name="settings_calendar_tile_action_view">Ver eventos</string>
     <string name="settings_calendar_tile_action_add">Crear evento</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permisos para cambiar el modo de ubicación</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permisos para cambiar el modo de ubicación</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permisos para cambiar el modo de ubicación</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permisos para cambiar el modo de ubicación</string>
     <string name="settings_location_tile_action_change_location_mode">Cambiar el modo de ubicación</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para modificar el tiempo para bloquear</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para modificar el tiempo para bloquear</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para modificar el tiempo para bloquear</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para modificar el tiempo para bloquear</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Cambiar el tiempo de bloqueo</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Permiso para escribir en el almacenamiento externo</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitido. El mosaico tiene permiso para hacer una captura de pantalla</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denegado. El mosaico no tiene permiso para hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitido. Tile tiene permiso para hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denegado. Tile no tiene permiso para hacer una captura de pantalla</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Reproducir sonido</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproducir el sonido de notificación por defecto al hacer una captura de pantalla</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">No reproducir ningún sonido al hacer una captura de pantalla</string>
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar al hacer una captura de pantalla</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">No rvibrar al hacer una captura de pantalla</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">No vibrar al hacer una captura de pantalla</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Cerrar panel de ajustes rápidos y hacer una captura de pantalla</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Hacer una captura de pantalla sin cerrar el panel de ajustes rápidos</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar acción de compartir la captura de pantalla</string>
@@ -183,15 +183,15 @@
     <string name="settings_notification_settings_action_title">Ajustes</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Permiso para modificar ajustes de seguridad</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para cambiar el modo inmersivo</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para cambiar el modo inmersivo</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para cambiar el modo inmersivo</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para cambiar el modo inmersivo</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Cambiar modo inmersivo</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar los ajustes de pantalla ambiente</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar los ajustes de pantalla ambiente</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para modificar los ajustes de pantalla ambiente</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar los ajustes de pantalla ambiente</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar las animaciones</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar las animaciones</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para modificar las animaciones</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar las animaciones</string>
     <string name="settings_show_milliseconds">Mostrar milisegundos</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">Establecer una alarma</string>
@@ -204,12 +204,12 @@
     <string name="settings_font_size_tile_font_scale_default">Por defecto</string>
     <string name="settings_font_size_tile_font_scale_large">Grande</string>
     <string name="settings_font_size_tile_font_scale_largest">Lo más grande posible</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denegado. El mosaico no tiene permiso para cambiar el tamaño de letra</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitido. El mosaico tiene permiso para cambiar el tamaño de letra</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para cambiar el tamaño de letra</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para cambiar el tamaño de letra</string>
     <string name="settings_font_size_tile_action_change_font_size">Cambiar el tamaño de letra</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitido. El mosaico tiene permiso para modificar los ajustes de NFC</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. El mosaico no tiene permiso para modificar los ajustes de NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para modificar los ajustes de NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar los ajustes de NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Cambiar estado del NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Abrir ajustes de NFC</string>
 </resources>

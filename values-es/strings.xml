@@ -71,113 +71,113 @@
     <string name="ringer_mode_tile_label_vibrate">Vibración</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir al mosaico cambiar el modo de sonido, por favor, accede a los ajustes y concede permiso para modificar los ajustes de No Molestar.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <string name="screen_on_tile_label">Pantalla activa</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">El servicio de pantalla activa está activado.\n¿Desactivar el servicio?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">El servicio de pantalla activa no está activado.\n¿Activar el servicio?</string>
+    <string name="screen_on_tile_service_notification_title">Servicio en uso</string>
+    <string name="screen_on_tile_service_notification_content_text">El dispositivo no se bloqueará. Pulsa para detener el servicio.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Servicio de pantalla activa</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Para permitir al mosaico acceder a la ubicación, por favor, accede a los ajustes y concede permiso para modificar los ajustes de ubicación.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Sincronización</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Temporizador</string>
+    <string name="timer_formatted_label">Temporizador\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_tile_label">Tiempo</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Para permitir al mosaico conseguir los datos del tiempo, por favor, accede a los ajustes y concede permiso para modificar los ajustes de ubicación.</string>
+    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Sensación térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Sensación térmica: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Punto de rocío: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Punto de rocío: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Humedad: &lt;b>%d&lt;/b>%%</string>
     <string name="weather_celsius">Celsius</string>
     <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_clear">Despejado</string>
+    <string name="weather_cloudy">Nublado</string>
+    <string name="weather_foggy">Neblinoso</string>
+    <string name="weather_hazy">Brumoso</string>
+    <string name="weather_icy">Helado</string>
+    <string name="weather_rainy">Lluvioso</string>
+    <string name="weather_snowy">Nevoso</string>
+    <string name="weather_stormy">Tormentoso</string>
+    <string name="weather_windy">Ventoso</string>
+    <string name="weather_conditions">Condiciones</string>
+    <string name="weather_temperature">Temperatura</string>
+    <string name="weather_feels_like">Sensación térmica</string>
+    <string name="weather_humidity">Humedad</string>
+    <string name="weather_dew_point">Punto de rocío</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">Búsqueda Web</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_label">Recordatorio</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Título (%d chars limited)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Contenido</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Persistencia</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Eliminar</string>
+    <string name="reminder_tile_empty_notification_text_fields">Error al crear recordatorio. Para crear un recordatorio válido, por favor, introduce un título y contenido válido.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar esta acción, por favor, concede permisos para dibujar sobre otras aplicaciones</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Texto copiado al portapapeles</string>
+    <string name="retrieving_location_dialog_message">Obteniendo localización. Por favor, espera.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_label">Tiempo para bloquear</string>
+    <string name="sleep_timeout_tile_formatted_label">Bloqueo\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Para permitir al mosaico cambiar el tiempo para bloquear, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
+    <string name="sleep_timeout_tile_value_15000">15 segundos</string>
+    <string name="sleep_timeout_tile_value_30000">30 segundos</string>
+    <string name="sleep_timeout_tile_value_60000">1 minuto</string>
+    <string name="sleep_timeout_tile_value_120000">2 minutos</string>
+    <string name="sleep_timeout_tile_value_300000">5 minutos</string>
+    <string name="sleep_timeout_tile_value_600000">10 minutos</string>
+    <string name="sleep_timeout_tile_value_1800000">30 minutos</string>
     <!--location mode-->
-    <string name="location_tile_label">Location</string>
-    <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_tile_label_off">Location off</string>
-    <string name="location_tile_label_battery_saving">Battery saving</string>
-    <string name="location_tile_label_sensors_only">Device only</string>
-    <string name="location_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_tile_label">Ubicación</string>
+    <string name="location_tile_alert_dialog_message">Para permitir al mosaico realizar cambios en el modo de ubicación, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad</string>
+    <string name="location_tile_label_off">Ubicación off</string>
+    <string name="location_tile_label_battery_saving">Ahorro de batería</string>
+    <string name="location_tile_label_sensors_only">Sólo dispositivo</string>
+    <string name="location_tile_label_high_accuracy">Alta precisión</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">Grant</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Los ajustes de seguridad contienen opciones del sistema que las aplicaciones pueden leer pero no escribir. Este tipo de permisos sólo pueden ser concedidos a aplicaciones del sistema. Si la aplicación no es una aplicación de sistema, no podrá usar estos permisos.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles tiene permisos de usuario para consola interactiva. ¿Quieres permitir a Tile %s modificar los ajustes de seguridad utilizando este permiso de superusuario?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Para %1$s manualmente este permiso, conecta tu dispositivo a un ordenador y utiliza el siguiente comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Permitir</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Denegar</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Dormir</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
+    <string name="screenshot_tile_label">Captura de pantalla</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir al mosaico tomar y almacenar la captura de pantalla, por favor, accede a los ajustes y concede permiso para escribir en el almacenamiento externo.</string>
+    <string name="screenshot_tile_screenshot_captured">Captura de pantalla realizada.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Toca para ver tu captura de pantalla.</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Eliminar</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Modo inmersivo</string>
+    <string name="immersive_mode_tile_off">Modo inmersivo off</string>
+    <string name="immersive_mode_tile_hide_system_bars">Ocultar la barra de sistema</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Ocultar la barra de navegación</string>
+    <string name="immersive_mode_tile_hide_status_bar">Ocultar la barra de estado</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Para permitir al mosaico cambiar los ajustes de modo inmersivo, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Pantalla ambiente</string>
+    <string name="ambient_display_tile_alert_dialog_message">Para permitir al mosaico cambiar los ajustes de pantalla ambiente, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
-    <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label">Animaciones</string>
+    <string name="animations_tile_label_animator">Animador</string>
+    <string name="animations_tile_label_transition">Transición</string>
+    <string name="animations_tile_label_window">Ventana</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animación off</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Escala de duración de animación %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Para permitir al mosaico cambiar los ajustes de modo inmersivo, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">Sleep time</string>
     <string name="sleep_time_tile_awake">Awake</string>

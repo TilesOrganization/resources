@@ -38,8 +38,8 @@
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
     <string name="choose_contact">Выберите контакт</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Фото</string>
-    <string name="camera_tile_video_label">Видео</string>
+    <string name="camera_tile_camera_label">Сделать фото</string>
+    <string name="camera_tile_video_label">Записать видео</string>
     <!--email -->
     <string name="email_tile_label">Почта</string>
     <string name="email_tile_formatted_label">Написать %s</string>
@@ -90,8 +90,8 @@
     <string name="weather_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать погоду, пожалуйста откройте настройки и разрешите доступ к определению местоположения.</string>
     <string name="weather_formatted_temperature_celsius">Температура: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Температура: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Ощущается: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Ощущается: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">По ощущению: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">По ощущению: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_dew_point_celsius">Точка росы: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_dew_point_fahrenheit">Точка росы: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_humidity">Влажность: &lt;b>%d&lt;/b>%%</string>
@@ -108,7 +108,7 @@
     <string name="weather_windy">Ветрено</string>
     <string name="weather_conditions">Условия</string>
     <string name="weather_temperature">Температура</string>
-    <string name="weather_feels_like">Ощущается</string>
+    <string name="weather_feels_like">По ощущению</string>
     <string name="weather_humidity">Влажность</string>
     <string name="weather_dew_point">Точка росы</string>
     <!--web search-->

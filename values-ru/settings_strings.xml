@@ -72,7 +72,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
     <string name="settings_brightness_tile_action_change_brightness">Изменить яркость</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Уровни яркости</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Высокий: %1$.1f%%\nВысокий: %2$.1f%%\nНизкий: %3$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Высокий: %1$.1f%%\Средний: %2$.1f%%\nНизкий: %3$.1f%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Открыть приложение телефона</string>
     <string name="settings_call_tile_action_make_call">Позвонить указанному контакту</string>
@@ -90,8 +90,8 @@
     <string name="settings_lock_tile_device_admin_summary_off">Выключено. Плитка не может блокировать устройство</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Доступ к режиму Не беспокоить</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Разрешено. Приложение может включать/выключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Запрещено. Приложение не может включать/выключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Разрешено. Приложение может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Запрещено. Приложение не может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Открыть настройки звука</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Изменить режим звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Воспроизвести звук</string>
@@ -100,7 +100,7 @@
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Запустить/остановить сервис</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Уведомление о работающем сервисе</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Показывать постоянное уведомление пока сервис запущен</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Показывать постоянное уведомление, пока сервис запущен</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Спрятать уведомление</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Скрыть действие</string>
@@ -124,7 +124,7 @@
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">Запрещено. Плитка не имеет доступа к местоположению устройства и не может получить информацию о погоде</string>
     <string name="settings_weather_tile_location_permissions_summary_on">Разрешено. Плитка имеет доступ к местоположению устройства и может получить информацию о погоде</string>
-    <string name="settings_units">Меры измерения</string>
+    <string name="settings_units">Мера измерения</string>
     <string name="settings_summary_off_hidden">Скрыть</string>
     <string name="settings_summary_on_shown">Показать</string>
     <!--reminder-->
@@ -204,9 +204,9 @@
     <string name="settings_font_size_tile_font_scale_default">Обычный</string>
     <string name="settings_font_size_tile_font_scale_large">Большой</string>
     <string name="settings_font_size_tile_font_scale_largest">Очень большой</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять размер шрифтов</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять размер шрифтов</string>
-    <string name="settings_font_size_tile_action_change_font_size">Изменить размер шрифтов</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять размер шрифта</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять размер шрифта</string>
+    <string name="settings_font_size_tile_action_change_font_size">Изменить размер шрифта</string>
     <!--nfc-->
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может включать NFC</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может включать NFC</string>

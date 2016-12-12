@@ -187,8 +187,8 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять полноэкранный режим</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Полноэкранный режим</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять режим автовключения экрана</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять режим автовключения экрана</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять режим пробуждения экрана</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять режим пробуждения экрана</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять анимации</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять анимации</string>

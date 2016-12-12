@@ -143,7 +143,7 @@
     <string name="location_tile_label_high_accuracy">Alta precisión</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Los ajustes de seguridad contienen opciones del sistema que las aplicaciones pueden leer pero no escribir. Este tipo de permisos sólo pueden ser concedidos a aplicaciones del sistema. Si la aplicación no es una aplicación de sistema, no podrá usar estos permisos.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles tiene permisos de usuario para consola interactiva. ¿Quieres permitir a Tile %s modificar los ajustes de seguridad utilizando este permiso de superusuario?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles tiene permisos de usuario para consola interactiva. ¿Quieres %s a Tile modificar los ajustes de seguridad utilizando este permiso de superusuario?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Para %1$s manualmente este permiso, conecta tu dispositivo a un ordenador y utiliza el siguiente comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="write_secure_settings_permission_dialog_message_grant">Permitir</string>
     <string name="write_secure_settings_permission_dialog_message_revoke">Denegar</string>

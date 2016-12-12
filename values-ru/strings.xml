@@ -1,205 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something went wrong. Please try again</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">High</string>
-    <string name="medium">Medium</string>
-    <string name="low">Low</string>
-    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
-    <string name="not_available">Not available</string>
+    <string name="something_went_wrong">Что-то пошло не так. Пожалуйста, попробуйте еще раз</string>
+    <string name="location_off_alert_dialog_message">Определение местоположения отключено. Чтобы дать плитке доступ к получению текущего местоположения, пожалуйста откройте настройки и дайте приложению соответствующий доступ.</string>
+    <string name="resolve_activity_alert_dialog_message">Нет приложений, которые могли бы выполнить данное действие.</string>
+    <string name="su_alert_dialog_message">Для выполнения этого действия, пожалуйста дайте приложению права суперпользователя для интерактивного доступа через терминал.</string>
+    <string name="play_services_alert_dialog_message">Сервисы Google Play должны быть установлены для выполнения этого действия. Пожалуйста установите их и попробуйте еще раз.</string>
+    <string name="high">Высокий</string>
+    <string name="medium">Средний</string>
+    <string name="low">Низкий</string>
+    <string name="checking_features_progress_dialog_message">Поиск дополнительных возможностей данного устройства</string>
+    <string name="not_available">Недоступно</string>
     <!--adaptive brightness-->
-    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
     <!--application-->
-    <string name="application_tile_label">Application</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_label">Приложение</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Приложение не выбрано, пожалуйста откройте настройки и выберите приложение.</string>
+    <string name="application_info_dialog_message">Для быстрого запуска, пожалуйста выберите только одно приложение.</string>
     <!--brightness-->
-    <string name="brightness_tile_label">Brightness</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$.1f%%</string>
-    <string name="brightness_tile_undefined_label">Brightness undefined</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
+    <string name="brightness_tile_label">Яркость</string>
+    <string name="brightness_tile_label_formatted">Яркость %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Высокая: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_medium">Средняя: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_low">Низкая: %1$.1f%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Яркость: %1$.1f%%</string>
+    <string name="brightness_tile_undefined_label">Яркость не задана</string>
+    <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
     <!--calculator-->
-    <string name="calculator_tile_label">Calculator</string>
+    <string name="calculator_tile_label">Калькулятор</string>
     <!--calendar-->
-    <string name="calendar_tile_label">Calendar</string>
+    <string name="calendar_tile_label">Календарь</string>
     <!--call-->
-    <string name="call_tile_label">Call</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="call_tile_label">Вызов</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Чтобы позволить плитке инициировать телефонный вызов, пожалуйста откройте настройки и дайте приложению доступ к телефонным звонкам.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Не указан контакт для вызова, пожалуйста откройте настройки и выберите контакт. Или выберите другое действие.</string>
+    <string name="call_tile_formatted_label">Вызов %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">Выберите контакт</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">Фото</string>
+    <string name="camera_tile_video_label">Видео</string>
     <!--email -->
-    <string name="email_tile_label">Email</string>
-    <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_label">Почта</string>
+    <string name="email_tile_formatted_label">Написать %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Не указан почтовый адресат, пожалуйста откройте настройки и выберите адресата. Или выберите другое действие.</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\'t be allowed to lock the device.</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <string name="lock_tile_label">Блокировка</string>
+    <string name="lock_tile_device_admin_description">Позволить плитке блокировать устройство</string>
+    <string name="lock_tile_device_admin_activated">Администратор устройства активирован</string>
+    <string name="lock_tile_device_admin_deactivated">Администратор устройства деактивирован</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Если деактивировать, плитка не сможет блокировать устройство.</string>
+    <string name="lock_tile_alert_dialog_message">Чтобы позволить плитке блокировать устройство, пожалуйста откройте настройки и активируйте приложение как администратора устройства.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Если активировать, плитка сможет блокировать устройство.</string>
     <!--map-->
-    <string name="maps_tile_label">Maps</string>
+    <string name="maps_tile_label">Карты</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_alert_dialog_message">Чтобы позволить плитке переключать NFC, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_dialog">Диалог выключения</string>
+    <string name="power_tile_label">Выключение</string>
+    <string name="power_tile_action_reboot">Перезагрузка</string>
+    <string name="power_tile_action_reboot_recovery">Перезагрузка в режим восстановления</string>
+    <string name="power_tile_action_reboot_bootloader">Перезагрузка в загрузчик</string>
+    <string name="power_tile_action_power_off">Выключить</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
-    <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label">Режим звонка</string>
+    <string name="ringer_mode_tile_label_normal">Обычный</string>
+    <string name="ringer_mode_tile_label_silent">Тихий</string>
+    <string name="ringer_mode_tile_label_vibrate">Вибрация</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <string name="screen_on_tile_label">Режим бодрствования</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Сервис режима бодрствования включен.\Остановить сервис?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Сервис режима бодрствования выключен.\Включить сервис?</string>
+    <string name="screen_on_tile_service_notification_title">Сервис запущен</string>
+    <string name="screen_on_tile_service_notification_content_text">Устройство не заснет. Нажмите, чтобы остановить сервис.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Сервис режима бодрствования</string>
     <!--streetview-->
-    <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_tile_label">Просмотр улиц</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать текущее местоположение, пожалуйста откройте настройки и разрешите доступ к определению местоположения.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Синхронизация</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Таймер</string>
+    <string name="timer_formatted_label">Таймер\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_tile_label">Погода</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать погоду, пожалуйста откройте настройки и разрешите доступ к определению местоположения.</string>
+    <string name="weather_formatted_temperature_celsius">Температура: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Температура: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Ощущается: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Ощущается: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Точка росы: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Точка росы: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Влажность: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Цельсий</string>
+    <string name="weather_fahrenheit">Фаренгейт</string>
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_foggy">Туман</string>
+    <string name="weather_hazy">Дымка</string>
+    <string name="weather_icy">Гололед</string>
+    <string name="weather_rainy">Дождь</string>
+    <string name="weather_snowy">Снег</string>
+    <string name="weather_stormy">Гроза</string>
+    <string name="weather_windy">Ветрено</string>
+    <string name="weather_conditions">Условия</string>
+    <string name="weather_temperature">Температура</string>
+    <string name="weather_feels_like">Ощущается</string>
+    <string name="weather_humidity">Влажность</string>
+    <string name="weather_dew_point">Точка росы</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">Поиск в Сети</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_label">Напоминание</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Заголовок (%d символов максимум)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Текст</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Постоянное</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Удалить</string>
+    <string name="reminder_tile_empty_notification_text_fields">Нет активных напоминаний. Чтобы добавить активное напоминание, пожалуйста введите заголовок или текст.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Для выполнения данного действия, пожалуйста дайте приложению доступ к наложению поверх других приложений</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="retrieving_location_dialog_message">Получение местоположения. Пожалуйста, подождите.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_label">Время бодрствования</string>
+    <string name="sleep_timeout_tile_formatted_label">Сон через\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Чтобы позволить плитке менять время бодрствования, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
+    <string name="sleep_timeout_tile_value_15000">15 секунд</string>
+    <string name="sleep_timeout_tile_value_30000">30 секунд</string>
+    <string name="sleep_timeout_tile_value_60000">1 минута</string>
+    <string name="sleep_timeout_tile_value_120000">2 минуты</string>
+    <string name="sleep_timeout_tile_value_300000">5 минут</string>
+    <string name="sleep_timeout_tile_value_600000">10 минут</string>
+    <string name="sleep_timeout_tile_value_1800000">30 минут</string>
     <!--location mode-->
-    <string name="location_tile_label">Location</string>
-    <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_tile_label_off">Location off</string>
-    <string name="location_tile_label_battery_saving">Battery saving</string>
-    <string name="location_tile_label_sensors_only">Device only</string>
-    <string name="location_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_tile_label">Местоположение</string>
+    <string name="location_tile_alert_dialog_message">Чтобы позволить плитке менять режим определения местоположения, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
+    <string name="location_tile_label_off">Местоположение выключено</string>
+    <string name="location_tile_label_battery_saving">По координатам сети</string>
+    <string name="location_tile_label_sensors_only">По спутникам GPS</string>
+    <string name="location_tile_label_high_accuracy">По всем источникам</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">Grant</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Системные настройки безопасности содержат значения, которые по умолчанию приложения могут считывать, но не могут менять. Такие привилегии имеют только системные приложения. Если приложение является пользовательским, оно никогда не сможет иметь подобные привилегии.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Приложение получило права суперпользователя к интерактивному доступу через терминал. Хотите ли Вы программно %s изменить системные настройки безопасности через терминальный режим суперпользователя?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Чтобы %1$s разрешение вручную, подключите устройство к компьютеру, запустите консоль с adb и введите команду: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_grant">Разрешить</string>
+    <string name="write_secure_settings_permission_dialog_message_revoke">Запретить</string>
     <!--timer H M S symbols -->
-    <string name="hour_symbol">H</string>
-    <string name="minute_symbol">M</string>
-    <string name="second_symbol">S</string>
+    <string name="hour_symbol">Ч</string>
+    <string name="minute_symbol">М</string>
+    <string name="second_symbol">С</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Сон</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
+    <string name="screenshot_tile_label">Скриншот</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Чтобы позволить плитке сделать и сохранить скриншот, пожалуйста откройте настройки и дайте доступ к записи в хранилище устройства.</string>
+    <string name="screenshot_tile_screenshot_captured">Скриншот сделан.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Нажмите, чтобы посмотреть скриншот.</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Полноэкранный режим</string>
+    <string name="immersive_mode_tile_off">Полноэкранный режим выключен</string>
+    <string name="immersive_mode_tile_hide_system_bars">Спрятать системные панели</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Спрятать панель навигации</string>
+    <string name="immersive_mode_tile_hide_status_bar">Спрятать панель уведомлений</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Чтобы позволить плитке переключать полноэкранный режим, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Пробуждение экрана</string>
+    <string name="ambient_display_tile_alert_dialog_message">Чтобы позволить плитке менять режим пробуждения экрана, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
-    <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label">Анимации</string>
+    <string name="animations_tile_label_animator">Аниматор</string>
+    <string name="animations_tile_label_transition">Переход</string>
+    <string name="animations_tile_label_window">Окно</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Анимация выключена</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Длительность анимации %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке to менять анимации, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
-    <string name="sleep_time_tile_awake">Awake</string>
-    <string name="sleep_time_tile_sleep">Sleep</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
-    <string name="sleep_time_tile_unplugged">Unplugged</string>
-    <string name="sleep_time_tile_plugged_usb">Plugged USB</string>
-    <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
+    <string name="sleep_time_tile_label">Время засыпания</string>
+    <string name="sleep_time_tile_awake">Пробуждение</string>
+    <string name="sleep_time_tile_sleep">Сон</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Батарея %d%%</string>
+    <string name="sleep_time_tile_unplugged">Отключено</string>
+    <string name="sleep_time_tile_plugged_usb">Подключено к USB</string>
+    <string name="sleep_time_tile_plugged_ac">Подключено к сети</string>
+    <string name="sleep_time_tile_plugged_wireless">Подключено без проводов</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_label">Будильник</string>
+    <string name="alarm_tile_no_alarm_set">Будильник не установлен</string>
     <!--files-->
-    <string name="files_tile_label">Files</string>
+    <string name="files_tile_label">Файлы</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <string name="settings_shortcut_tile_label">Ярлык настроек</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Размер шрифта</string>
+    <string name="font_size_tile_alert_dialog_message">Чтобы позволить плитке менять размер шрифта, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Голос</string>
     <!--text-->
-    <string name="text_tile_label">Text</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_label">Текст</string>
+    <string name="text_tile_empty_chat_text_field">Текст не добавлен, пожалуйста введите содержимое.</string>
 </resources>

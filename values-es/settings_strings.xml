@@ -50,9 +50,9 @@
     <string name="settings_translations_locale_it">Italiano</string>
     <string name="settings_translations_locale_hu">Húngaro</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Visibilidad de los mosaicos</string>
-    <string name="settings_component_summary_off">Esconde el mosaico en el panel de Ajustes Rápidos</string>
-    <string name="settings_component_summary_on">Muestra el mosaico en el panel de Ajustes Rápidos</string>
+    <string name="settings_component_summary_title">Visibilidad de Tile</string>
+    <string name="settings_component_summary_off">Esconde esta opción en el panel de Ajustes Rápidos</string>
+    <string name="settings_component_summary_on">Muestra esta opción en el panel de Ajustes Rápidos</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para modificar el modo de brillo</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para modificar el modo de brillo</string>

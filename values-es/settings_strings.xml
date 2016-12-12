@@ -206,7 +206,7 @@
     <string name="settings_font_size_tile_font_scale_largest">Lo más grande posible</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denegado. Tile no tiene permiso para cambiar el tamaño de letra</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitido. Tile tiene permiso para cambiar el tamaño de letra</string>
-    <string name="settings_font_size_tile_action_change_font_size">Cambiar el tamaño de letra</string>
+    <string name="settings_font_size_tile_action_change_font_size">Cambiar tamaño de letra</string>
     <!--nfc-->
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para modificar los ajustes de NFC</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar los ajustes de NFC</string>

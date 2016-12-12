@@ -95,8 +95,8 @@
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir el panel de volumen</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Cambiar el modo de timbre</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Reproducir sonido</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">No reproducir ningún sonido cuando el modo de timbre \'normal\' está seleccionado</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducir el sonido de notificación por defecto cuando el modo de timbre \'normal\' está seleccionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">No reproducir ningún sonido cuando el modo de timbre \normal\ está seleccionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducir el sonido de notificación por defecto cuando el modo de timbre \normal\ está seleccionado</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/detener servicio</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Servicio de notificación iniciado</string>
@@ -129,7 +129,7 @@
     <string name="settings_summary_on_shown">Mostrar</string>
     <!--reminder-->
     <string name="settings_reminder_tile_persistent_notification_summary_off">Eliminar el recordatorio deslizando a izquierda o derecha</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Elminar el recordatorio pulsando el botón de "eliminar"</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Elminar el recordatorio pulsando el botón de eliminar</string>
     <string name="settings_reminder_tile_persistent_notification_title">Notificación persistente</string>
     <string name="settings_reminder_tile_notification_play_sound_title">Reproducir sonido</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproducir el sonido de notificación por defecto al crear un nuevo recordatorio</string>

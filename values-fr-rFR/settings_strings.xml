@@ -9,7 +9,7 @@
     <string name="settings_enabled">Activée</string>
     <string name="settings_disabled">Désactivée</string>
     <string name="settings_action">Action</string>
-    <string name="settings_layout">Disposition</string>
+    <string name="settings_layout">Agencement</string>
     <string name="settings_night_mode">Mode Nuit</string>
     <string name="settings_night_mode_no">Jour</string>
     <string name="settings_night_mode_yes">Nuit</string>
@@ -40,7 +40,7 @@
     <string name="settings_credit">Crédit</string>
     <string name="settings_credit_app_icon">Icône de l\'application</string>
     <string name="settings_translations">Traductions</string>
-    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l\'appli vers votre langue, n\'hésitez pas à me contacter: rascarlo@gmail.com.\nMerci!</string>
+    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l\'appli vers votre langue, n\'hésitez pas à me contacter: rascarlo@gmail.com.\nThank you!</string>
     <string name="settings_translations_locale_de">Allemand</string>
     <string name="settings_translations_locale_pt_rBR">Portugais, Brésil</string>
     <string name="settings_translations_locale_nl">Néerlandais</string>
@@ -49,6 +49,8 @@
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">Chinois Traditionnel, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italien</string>
     <string name="settings_translations_locale_hu">Hongrois</string>
+    <string name="settings_translations_locale_es">Spanish</string>
+    <string name="settings_translations_locale_ru">Russian</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilité de la tuile</string>
     <string name="settings_component_summary_off">Cacher la tuile dans la disposition des réglages rapides</string>
@@ -90,12 +92,12 @@
     <string name="settings_lock_tile_device_admin_summary_off">Désactivaté. La tuile n\'est pas authorisée à verrouiller l\'appareil</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Accès à Ne Pas déranger (DND)</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Authorisé. L\'application n\'est pas en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Authorisé. L\'application est en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Refusé. L\'application est en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Ouvrir le panneau de volume</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Changer le mode de sonnerie</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Jouer une sonnerie de notification</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">N\'émettre aucun son quand le mode de sonnerie normal est sélectionné</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">N\émettre aucun son quand le mode de sonnerie normal est sélectionné</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand le mode de sonnerie normal est sélectionné</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Démarrer/arrêter le service</string>
@@ -104,19 +106,19 @@
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Cacher la notification</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Montrer une action pour ouvrir les paramètres</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Cacher l\'action</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Jouer une sonnerie de notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">N\'émettre aucun son au démarrage du service</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut au démarrage du service</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Émettre du son</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">N\émettre aucun son au démarrage du service</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Jouer le son de notification par défaut au démarrage du service</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrer</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Ne pas vibrer au démarrage du service</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrer au démarrage du service</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Basculer l\'état de la synchronisation</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Ouvrir les réglages de synchronisation</string>
+    <string name="settings_sync_tile_action_change_sync">Changer l\'état de la synchronisation</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Ouvrir les réglages de la synchronisation</string>
     <!--timer -->
     <string name="settings_timer_tile_skip_ui_title">Sauter l\'UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Countourner toute UI de confirmation et simplement démarrer le minuteur</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Afficher une UI de confirmation avant de démarrer le minuteur</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Montrer une UI de confirmation avant de démarrer le minuteur</string>
     <string name="settings_timer_tile_default_duration">Durée par défaut</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l\'appareil.</string>
@@ -129,14 +131,14 @@
     <string name="settings_summary_on_shown">Montrées</string>
     <!--reminder-->
     <string name="settings_reminder_tile_persistent_notification_summary_off">Supprimer un rappel en le glissant à gauche ou à droite</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Supprimer un rappel en tappant sur le bouton d\'action supprimer</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Supprimer un rappel en tappant le bouton d\'action supprimer</string>
     <string name="settings_reminder_tile_persistent_notification_title">Notification persistante</string>
     <string name="settings_reminder_tile_notification_play_sound_title">Jouer une sonnerie de notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand un nouvel évènement est crée</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">N\'émettre aucun son quand un nouvel évènement est crée</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">N\émettre aucun son quand un nouvel évènement est ajouté</string>
     <string name="settings_reminder_tile_notification_vibrate_title">Vibrer</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrer quand un nouvel évènement est crée</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Ne pas vibrer quand un nouvel évènement est crée</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrer quand un nouvel évènement est ajouté</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Ne pas vibrer quand un nouvel évènement est ajouté</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Style d\'horodatage</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Chronomètre</string>
@@ -147,7 +149,7 @@
     <string name="settings_reminder_tile_draw_over_apps_summary_off">Refusée. Rappel n\'est pas authorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Afficher les évènements</string>
-    <string name="settings_calendar_tile_action_add">Créer un évènement</string>
+    <string name="settings_calendar_tile_action_add">Ajouter un évènement</string>
     <!--location mode-->
     <string name="settings_location_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer le mode de localisation</string>
     <string name="settings_location_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer le mode de localisation</string>
@@ -155,14 +157,14 @@
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à changer le délai de mise en veille</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est authorisée à changer le délai de mise en veille</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Modifier le délai de mise en veille</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Changer le délai de mise en veille</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Permission d\'écrire sur le stockage externe</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Accordée. La tuile est authorisée à effectuer et enregistrer des captures d\'écran</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à effectuer et enregistrer des captures d\'écran</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Jouer une sonnerie de notification</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut en effectuant une capture d\'écran</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">N\'émettre aucun son en effectuant une capture d\'écran</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">N\émettre aucun son en effectuant une capture d\'écran</string>
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrer</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrer en effectuant une capture d\'écran</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Ne pas vibrer en effectuant une capture d\'écran</string>
@@ -178,38 +180,38 @@
     <string name="settings_ringer_mode_tile_dnd_mode_none">Silence total</string>
     <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Prioritaires uniquement</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Afficher un dialogue</string>
+    <string name="settings_show_dialog">Montrer un dialogue</string>
     <string name="settings_notification_share_action_title">Action partage</string>
     <string name="settings_notification_settings_action_title">Action paramètres</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Permission d\'écrire les paramètres sécurisés</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à basculer le mode immersif</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à basculer le mode immersif</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Changer le mode immersif</string>
+    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer l\'état de l\'affichage en mode veille</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer l\'état de l\'affichage en mode veille</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer les animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer les animations</string>
-    <string name="settings_show_milliseconds">Montrer les millisecondes</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_show_milliseconds">Show milliseconds</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Ajouter une alarme</string>
-    <string name="settings_alarm_tile_action_show_alarms">Montrer les alarmes</string>
-    <string name="settings_date_format">Format de la date</string>
+    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
+    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
+    <string name="settings_date_format">Date format</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Format de l\'heure</string>
+    <string name="settings_time_format">Time format</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Petit</string>
-    <string name="settings_font_size_tile_font_scale_default">Défaut</string>
-    <string name="settings_font_size_tile_font_scale_large">Grand</string>
-    <string name="settings_font_size_tile_font_scale_largest">Le plus grand</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Accordée. La tuile est authorisée à modifier la taille de la police</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Refusée. La tuile n\'est pas authorisée à modifier la taille de la police</string>
-    <string name="settings_font_size_tile_action_change_font_size">Changer la taille de la police</string>
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer l\'état de la NFC</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer l\'état de la NFC</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Changer l\'état de la NFC</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Ouvrir les paramètres de la NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
 </resources>

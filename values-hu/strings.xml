@@ -75,7 +75,7 @@
     <string name="screen_on_tile_dialog_wake_lock_running">Az aktív képernyő szolgáltatás fut.\nLeállítja a szolgáltatást?</string>
     <string name="screen_on_tile_dialog_wake_lock_not_running">Az aktív képernyő szolgáltatás nem fut.\nElindítja a szolgáltatást?</string>
     <string name="screen_on_tile_service_notification_title">A szolgáltatás fut</string>
-    <string name="screen_on_tile_service_notification_content_text">Az eszköz nem fog alvó módba kapcsolni. Nyomj ide a szolgáltatás leállításához.</string>
+    <string name="screen_on_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ezt meg nem nyomod.</string>
     <string name="screen_on_tile_service_notification_sub_text">Aktív képernyő szolgáltatás</string>
     <!--streetview-->
     <string name="streetview_tile_label">Utcakép</string>
@@ -135,7 +135,7 @@
     <string name="sleep_timeout_tile_value_600000">10 perc</string>
     <string name="sleep_timeout_tile_value_1800000">30 perc</string>
     <!--location mode-->
-    <string name="location_tile_label">Hely</string>
+    <string name="location_tile_label">Tartózkodási hely</string>
     <string name="location_tile_alert_dialog_message">A helymeghtározási mód csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <string name="location_tile_label_off">Hely kikapcsolva</string>
     <string name="location_tile_label_battery_saving">Energiatakarékos</string>
@@ -179,8 +179,8 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">%1$.1fx időtartalm skála</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Az animációk csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Alvó mód ideje</string>
-    <string name="sleep_time_tile_awake">Éberség</string>
+    <string name="sleep_time_tile_label">Alvás ideje</string>
+    <string name="sleep_time_tile_awake">Ébren</string>
     <string name="sleep_time_tile_sleep">Alvás</string>
     <string name="sleep_time_tile_formatted_battery_percentage">Akkumulátor %d%%</string>
     <string name="sleep_time_tile_unplugged">Kihúzva</string>
@@ -198,7 +198,7 @@
     <string name="font_size_tile_label">Betűméret</string>
     <string name="font_size_tile_alert_dialog_message">A betűméret csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--voice-->
-    <string name="voice_tile_label">Hang</string>
+    <string name="voice_tile_label">Hangalapú keresés</string>
     <!--text-->
     <string name="text_tile_label">Üzenet</string>
     <string name="text_tile_empty_chat_text_field">Nincs megadott üzenet, kérlek írj be valamilyen tartalmat.</string>

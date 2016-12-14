@@ -13,15 +13,15 @@
     <string name="settings_night_mode">Éjszakai mód</string>
     <string name="settings_night_mode_no">Nappal</string>
     <string name="settings_night_mode_yes">Éjszaka</string>
-    <string name="settings_night_mode_auto">Auto</string>
+    <string name="settings_night_mode_auto">Automatikus</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigációs sáv beszínezése</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">Nincs színezés</string>
+    <string name="settings_design_navigation_bar_tint_title">Navigációs sáv színe</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Nincs szín</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">Elsődleges sötét szín</string>
     <string name="settings_design_navigation_bar_tint_primary">Elsődleges szín</string>
     <string name="settings_design_navigation_bar_tint_accent">Hangsúlyos szín</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Értesítési sáv beszínezése</string>
+    <string name="settings_design_status_bar_tint_title">Értesítési sáv színe</string>
     <string name="settings_design_status_bar_tint_primary_dark">Elsődleges sötét szín</string>
     <string name="settings_design_status_bar_tint_primary">Elsődleges szín</string>
     <string name="settings_design_status_bar_tint_accent">Hangsúlyos szín</string>
@@ -53,8 +53,8 @@
     <string name="settings_translations_locale_ru">Orosz</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Csempe láthatósága</string>
-    <string name="settings_component_summary_off">Csempe elrejtése a Gyorsbeállítások felületen</string>
-    <string name="settings_component_summary_on">Csempe megjelenítése a Gyorsbeállítások felületen</string>
+    <string name="settings_component_summary_off">Csempe elerjtve a Gyorsbeállítások felületen</string>
+    <string name="settings_component_summary_on">Csempe megjelenítve a Gyorsbeállítások felületen</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem állíthat a fényerő módon.</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe állíthat a fényerő módon.</string>

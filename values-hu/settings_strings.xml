@@ -215,10 +215,10 @@
     <string name="settings_nfc_tile_action_change_nfc_state">NFC helyzetének megváltoztatása</string>
     <string name="settings_nfc_tile_open_nfc_settings">NFC beállítások módosítása</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe megváltoztathatja az adatbarangolást.</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem változtathatja meg az adatbarangolást.</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Alapértelmezett képpontsűrűség</string>
+    <string name="settings_density_tile_current_density_title">Jelenlegi képpontsűrűség</string>
+    <string name="settings_density_tile_restore_default_density_title">Alapértelmezett képpontsűrűség visszaállítása</string>
 </resources>

@@ -215,10 +215,10 @@
     <string name="settings_nfc_tile_action_change_nfc_state">Zmeniť stav NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Otvoriť nastavenia NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť dátový roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť dátový roaming</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Predvolená hustota</string>
+    <string name="settings_density_tile_current_density_title">Aktuálna hustota</string>
+    <string name="settings_density_tile_restore_default_density_title">Obnoviť predvolenú hustotu</string>
 </resources>

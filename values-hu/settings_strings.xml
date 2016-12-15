@@ -53,7 +53,7 @@
     <string name="settings_translations_locale_ru">Orosz</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Csempe láthatósága</string>
-    <string name="settings_component_summary_off">Csempe elerjtve a Gyorsbeállítások felületen</string>
+    <string name="settings_component_summary_off">Csempe elrejtve a Gyorsbeállítások felületen</string>
     <string name="settings_component_summary_on">Csempe megjelenítve a Gyorsbeállítások felületen</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem állíthat a fényerő módon.</string>

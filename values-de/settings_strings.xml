@@ -215,10 +215,10 @@
     <string name="settings_nfc_tile_action_change_nfc_state">Ändere NFC Status</string>
     <string name="settings_nfc_tile_open_nfc_settings">Öffne NFC-Einstellungen</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Daten-Roaming Einstellung ändern</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Daten-Roaming Einstellung nicht ändern</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Standard Anzeigegröße</string>
+    <string name="settings_density_tile_current_density_title">Aktuelle Anzeigegröße</string>
+    <string name="settings_density_tile_restore_default_density_title">Standard Anzeigegröße wiederherstellen</string>
 </resources>

@@ -203,18 +203,18 @@
     <string name="text_tile_label">Text</string>
     <string name="text_tile_empty_chat_text_field">Kein Text hinzugefügt, bitte füge einen Inhalt hinzu.</string>
     <!--data roaming-->
-    <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_label">Daten-Roaming</string>
+    <string name="data_roaming_tile_alert_dialog_message">Damit die Kachel die Daten-Roaming Einstellungen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--density-->
-    <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default: %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
-    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_label">Anzeigegröße</string>
+    <string name="density_tile_label_formatted">Anzeigegröße: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Kleinste Breite: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Bildschirmgröße: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Standard: %ddp</string>
+    <string name="density_tile_density_low">Kleiner (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Klein (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">Standard (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">Groß (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">Größer (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">Am Größten (xxxhdpi): ~640dpi</string>
 </resources>

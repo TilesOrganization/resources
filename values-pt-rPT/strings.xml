@@ -202,4 +202,19 @@
     <!--text-->
     <string name="text_tile_label">Mensagem</string>
     <string name="text_tile_empty_chat_text_field">Nenhum texto adicionado, introduza a mensagem.</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">Data roaming</string>
+    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <!--density-->
+    <string name="density_tile_label">Density</string>
+    <string name="density_tile_label_formatted">Density: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Default: %ddp</string>
+    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
 </resources>

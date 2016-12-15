@@ -214,4 +214,11 @@
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare stato NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Cambia stato NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Apri impostazioni NFC</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare roaming dati</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare roaming dati</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">Densità predefinita</string>
+    <string name="settings_density_tile_current_density_title">Densità corrente</string>
+    <string name="settings_density_tile_restore_default_density_title">Reimposta densità predefinita</string>
 </resources>

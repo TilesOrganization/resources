@@ -214,4 +214,11 @@
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar los ajustes de NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Cambiar estado del NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Abrir ajustes de NFC</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">Default density</string>
+    <string name="settings_density_tile_current_density_title">Current density</string>
+    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
 </resources>

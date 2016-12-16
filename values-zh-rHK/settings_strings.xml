@@ -215,10 +215,10 @@
     <string name="settings_nfc_tile_action_change_nfc_state">變更NFC狀態</string>
     <string name="settings_nfc_tile_open_nfc_settings">開啟NFC設定</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更數據漫遊模式</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更數據漫遊模式</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">預設密度</string>
+    <string name="settings_density_tile_current_density_title">現時密度</string>
+    <string name="settings_density_tile_restore_default_density_title">回復預設密度</string>
 </resources>

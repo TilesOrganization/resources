@@ -203,18 +203,18 @@
     <string name="text_tile_label">文本分享</string>
     <string name="text_tile_empty_chat_text_field">請輸入文本分享內容。</string>
     <!--data roaming-->
-    <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_label">數據漫遊</string>
+    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定磚變更數據漫遊，請前往設定並允許可修改系統設定的權限。</string>
     <!--density-->
-    <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default: %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
-    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_label">顯示大小</string>
+    <string name="density_tile_label_formatted">密度: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">最小闊度: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">屏幕尺寸: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">預設: %ddp</string>
+    <string name="density_tile_density_low">低 (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">中 (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">中高 (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">高 (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">超高 (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
 </resources>

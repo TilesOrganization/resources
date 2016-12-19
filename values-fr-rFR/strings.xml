@@ -4,19 +4,19 @@
     <string name="location_off_alert_dialog_message">La localisation est désactivée. Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et activer la localisation.</string>
     <string name="resolve_activity_alert_dialog_message">Aucune application trouvée pour effectuer cette action.</string>
     <string name="su_alert_dialog_message">Pour effectuer une telle action, veuillez accorder les permissions super utilisateur pour un shell interactif.</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">High</string>
-    <string name="medium">Medium</string>
-    <string name="low">Low</string>
-    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
+    <string name="play_services_alert_dialog_message">Services Google Play est requis pour effectuer une telle action. Veuiller l'\installer et réessayez.</string>
+    <string name="high">Haut</string>
+    <string name="medium">Moyen</string>
+    <string name="low">Bas</string>
+    <string name="checking_features_progress_dialog_message">Inspection de l\'appareil pour activer des fonctionnalités spécifiques</string>
     <string name="not_available">Indisponible</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosité adaptative</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
     <!--application-->
     <string name="application_tile_label">Application</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Aucune appli détectée, veuillez ouvrir les réglages et sélectionnez une appli.</string>
+    <string name="application_info_dialog_message">Pour un lancement rapide, veuillez sélectionnez une seule appli.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Luminosité</string>
     <string name="brightness_tile_label_formatted">Luminosité %1$s</string>
@@ -25,122 +25,122 @@
     <string name="brightness_tile_label_formatted_low">Basse: %1$.1f%%</string>
     <string name="brightness_tile_formatted_label_one_param">Luminosité: %1$.1f%%</string>
     <string name="brightness_tile_undefined_label">Luminosité non définie</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
+    <string name="brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le niveau de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
     <!--calculator-->
     <string name="calculator_tile_label">Calculatrice</string>
     <!--calendar-->
     <string name="calendar_tile_label">Calendrier</string>
     <!--call-->
     <string name="call_tile_label">Appel</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Pour permettre à la tuile d\'effectuer un appel, veuillez ouvrir les paramètres et accordez la permission d\'appels téléphoniques.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Aucun contact d\'appel sélectionné, veuillez ouvrir les réglages et choisissez un contact. Ou alors définissez une action différente.</string>
+    <string name="call_tile_formatted_label">Appel %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">Choisir un contact</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">Caméra</string>
+    <string name="camera_tile_video_label">Caméra vidéo</string>
     <!--email -->
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Aucun contact par email sélectionné, veuillez ouvrir les réglages et choisissez un contact. Ou alors définissez une action différente.</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\'t be allowed to lock the device.</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <string name="lock_tile_label">Verrouillage</string>
+    <string name="lock_tile_device_admin_description">Authoriser la tuile Verrouillage à verrouiller l\'appareil</string>
+    <string name="lock_tile_device_admin_activated">Administrateur de l\'appareil activé</string>
+    <string name="lock_tile_device_admin_deactivated">Administrateur de l\'appareil désactivé</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Si désactivé, la tuile Verrouillage ne sera pas authorisée à verrouiller l\'appareil.</string>
+    <string name="lock_tile_alert_dialog_message">Pour permettre à la tuile de verrrouiller l\'appareil, veuillez ouvrir les paramètres et l\'activer en tant qu\'administrateur de l\'appareil.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Si désactivé, la tuile Verrouillage ne sera pas authorisée à verrouiller l\'appareil.</string>
     <!--map-->
-    <string name="maps_tile_label">Map</string>
+    <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_alert_dialog_message">Pour permettre à la tuile de changer l\'état de la NFC, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--power-->
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_dialog">Menu Marche/Arrêt</string>
+    <string name="power_tile_label">Marche/Arrêt</string>
+    <string name="power_tile_action_reboot">Redémarrer</string>
+    <string name="power_tile_action_reboot_recovery">Redémarrer en récuperation</string>
+    <string name="power_tile_action_reboot_bootloader">Redémarrer en bootloader</string>
+    <string name="power_tile_action_power_off">Éteindre</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
+    <string name="ringer_mode_tile_label">Mode de sonnerie</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
+    <string name="ringer_mode_tile_label_silent">Silencieux</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibreur</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
     <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\'t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <string name="screen_on_tile_label">Garder allumé</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Le service Garder allumé est en cours d\'exécution.\nArrêter le service?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Le service Garder allumé est arrêté.\nDémarrer le service?</string>
+    <string name="screen_on_tile_service_notification_title">Le service est en cours d\'exécution</string>
+    <string name="screen_on_tile_service_notification_content_text">L\'appareil ne se mettra pas en veille. Appuyez pour arrêter le service.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Service Garder allumé</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et accordez la permission de localisation.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Synchronisation</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Minuteur</string>
+    <string name="timer_formatted_label">Minuteur\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_tile_label">Météo</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir les conditions météo, veuillez ouvrir les paramètres et accordez
+        <string name="weather_formatted_temperature_celsius">Température: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Température: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Ressentie: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Ressentie: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Point de rosée: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Point de rosée: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Humidité: &lt;b>%d&lt;/b>%%</string>
     <string name="weather_celsius">Celsius</string>
     <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
+    <string name="weather_clear">Clair</string>
+    <string name="weather_cloudy">Nuageux</string>
+    <string name="weather_foggy">Brouillard</string>
+    <string name="weather_hazy">Brumeux</string>
+    <string name="weather_icy">Verglacé</string>
+    <string name="weather_rainy">Pluvieux</string>
+    <string name="weather_snowy">Neigeux</string>
+    <string name="weather_stormy">Orageux</string>
+    <string name="weather_windy">Venteux</string>
     <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_temperature">Température</string>
+    <string name="weather_feels_like">Ressentie</string>
+    <string name="weather_humidity">Humidité</string>
+    <string name="weather_dew_point">Point de rosée</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">Recherche web</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Content</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">To perform such action, please grant draw over apps permission</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Text copied to clipboard</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_label">Rappel</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titre (%d chars limited)</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">Contenu</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">Persistant</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Supprimer</string>
+    <string name="reminder_tile_empty_notification_text_fields">Aucun rappel ajoué. Pour ajouter un rappel valide, veuillez saisir un titre ou du contenu.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Pour effectuer une telle action, veuillez accorder la permission de se superposer aux autres applications</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Texte copié dans le presse-papier</string>
+    <string name="retrieving_location_dialog_message">Récupération de la position. Veuillez attendre.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
+    <string name="sleep_timeout_tile_label">Délai de mise en veille</string>
+    <string name="sleep_timeout_tile_formatted_label">Veille\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Pour permettre à la tuile de changer le délai de mise en veille, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
+    <string name="sleep_timeout_tile_value_15000">15 secondes</string>
+    <string name="sleep_timeout_tile_value_30000">30 secondes</string>
     <string name="sleep_timeout_tile_value_60000">1 minute</string>
     <string name="sleep_timeout_tile_value_120000">2 minutes</string>
     <string name="sleep_timeout_tile_value_300000">5 minutes</string>
     <string name="sleep_timeout_tile_value_600000">10 minutes</string>
     <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
     <!--location mode-->
-    <string name="location_tile_label">Location mode</string>
-    <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_tile_label_off">Location off</string>
-    <string name="location_tile_label_battery_saving">Battery saving</string>
-    <string name="location_tile_label_sensors_only">Device only</string>
-    <string name="location_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_tile_label">Mode de localisation</string>
+    <string name="location_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode de localisation, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
+    <string name="location_tile_label_off">Localisation désactivée</string>
+    <string name="location_tile_label_battery_saving">Économie de batterie</string>
+    <string name="location_tile_label_sensors_only">Appareil uniquement</string>
+    <string name="location_tile_label_high_accuracy">Haute précision</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>

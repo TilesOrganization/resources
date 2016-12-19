@@ -87,8 +87,8 @@
     <string name="timer_formatted_label">Minuteur\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Météo</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir les conditions météo, veuillez ouvrir les paramètres et accordez
-        <string name="weather_formatted_temperature_celsius">Température: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir les conditions météo, veuillez ouvrir les paramètres et accordez la permission de localisation.</string>
+    <string name="weather_formatted_temperature_celsius">Température: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Température: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Ressentie: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_feels_like_fahrenheit">Ressentie: &lt;b>%1$.1f&lt;/b> \u2109</string>

@@ -221,4 +221,7 @@
     <string name="settings_density_tile_default_density_title">Densità predefinita</string>
     <string name="settings_density_tile_current_density_title">Densità corrente</string>
     <string name="settings_density_tile_restore_default_density_title">Reimposta densità predefinita</string>
+    <!--awake while plugged in-->
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare acceso quando collegato</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare acceso quando collegato</string>
 </resources>

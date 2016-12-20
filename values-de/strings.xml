@@ -218,6 +218,6 @@
     <string name="density_tile_density_xxhigh">Größer (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">Am Größten (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">Aktiv lassen während des Ladens</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Damit die Kachel das Aktiv lassen während des Ladens ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
 </resources>

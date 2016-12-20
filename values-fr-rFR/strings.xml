@@ -4,7 +4,7 @@
     <string name="location_off_alert_dialog_message">La localisation est désactivée. Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et activer la localisation.</string>
     <string name="resolve_activity_alert_dialog_message">Aucune application trouvée pour effectuer cette action.</string>
     <string name="su_alert_dialog_message">Pour effectuer une telle action, veuillez accorder les permissions super utilisateur pour un shell interactif.</string>
-    <string name="play_services_alert_dialog_message">Services Google Play est requis pour effectuer une telle action. Veuiller l'\installer et réessayez.</string>
+    <string name="play_services_alert_dialog_message">Services Google Play est requis pour effectuer une telle action. Veuiller l\'installer et réessayez.</string>
     <string name="high">Haut</string>
     <string name="medium">Moyen</string>
     <string name="low">Bas</string>

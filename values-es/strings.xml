@@ -145,8 +145,8 @@
     <string name="write_secure_settings_permission_dialog_message_about">Los ajustes de seguridad contienen opciones del sistema que las aplicaciones pueden leer pero no escribir. Este tipo de permisos sólo pueden ser concedidos a aplicaciones del sistema. Si la aplicación no es una aplicación de sistema, no podrá usar estos permisos.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles tiene permisos de usuario para consola interactiva. ¿Quieres %s a Tile modificar los ajustes de seguridad utilizando este permiso de superusuario?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Para %1$s manualmente este permiso, conecta tu dispositivo a un ordenador y utiliza el siguiente comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">Permitir</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">Denegar</string>
+    <string name="permission_dialog_message_grant">Permitir</string>
+    <string name="permission_dialog_message_revoke">Denegar</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
@@ -220,4 +220,34 @@
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">Demo mode</string>
+    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
+    <string name="demo_mode_tile_system_bars">System bars</string>
+    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
+    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
+    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
+    <string name="demo_mode_tile_system_bars_warning">Warning</string>
+    <string name="demo_mode_tile_battery">Battery</string>
+    <string name="demo_mode_tile_state_plugged">Plugged</string>
+    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
+    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">Bluetooth</string>
+    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
+    <string name="demo_mode_tile_state_connected">Connected</string>
+    <string name="demo_mode_tile_mobile">Cellular networks</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
+    <string name="demo_mode_tile_notifications">Notifications</string>
+    <string name="demo_mode_tile_alarm">Alarm</string>
+    <string name="demo_mode_tile_location">Location</string>
+    <string name="demo_mode_tile_clock">Clock</string>
+    <string name="demo_mode_tile_mute">Mute</string>
+    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
+    <string name="demo_mode_tile_vibrate">Vibrate</string>
 </resources>

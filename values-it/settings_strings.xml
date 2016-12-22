@@ -224,4 +224,10 @@
     <!--awake while plugged in-->
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare acceso quando collegato</string>
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare acceso quando collegato</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità demo</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità demo</string>
+    <string name="settings_dump_permission_title">Autorizzazione dump</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a recuperare informazioni di stato dump dai servizi di sistema</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Concessa. La funzione non ha l\'autorizzazione a recuperare informazioni di stato dump dai servizi di sistema</string>
 </resources>

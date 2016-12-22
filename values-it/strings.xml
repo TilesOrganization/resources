@@ -145,8 +145,8 @@
     <string name="write_secure_settings_permission_dialog_message_about">Impostazioni sicure di sistema contengono preference di sistema che le applicazioni hanno l\'autorizzazione a leggere, ma non a modificare. Autorizzazioni con questo livello di protezione sono concesse solo alle applicazioni di sistema. Se un\'applicazione è una normale applicazione non di sistema, non potrà mai usare queste autorizzazioni.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles ha ottenuto i permessi superuser per una shell interattiva. Vuoi programmaticamente %s l\'autorizzazione scrivi impostazioni sicure utilizzando la shell interattiva superuser?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="write_secure_settings_permission_dialog_message_grant">Concedere</string>
-    <string name="write_secure_settings_permission_dialog_message_revoke">Revocare</string>
+    <string name="permission_dialog_message_grant">Concedere</string>
+    <string name="permission_dialog_message_revoke">Revocare</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
@@ -220,4 +220,34 @@
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Acceso quando collegato</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Per permettere alla funzione di cambiare acceso quando collegato, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">L\'autorizzazione dump permette di recuperare informazioni di stato dump dai servizi di sistema. Autorizzazioni con questo livello di protezione sono concesse solo alle applicazioni di sistema. Se un\'applicazione è una normale applicazione non di sistema, non potrà mai usare queste autorizzazioni.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles ha ottenuto i permessi superuser per una shell interattiva. Vuoi programmaticamente %s l\'autorizzazione dump utilizzando la shell interattiva superuser?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">Modalità demo</string>
+    <string name="demo_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità demo, per favore aprire le impostazione e concedere l\'autorizzazione scrivi impostazioni sicure e l\'autorizzazione dump.</string>
+    <string name="demo_mode_tile_system_bars">Barre di sistema</string>
+    <string name="demo_mode_tile_system_bars_transparent">Transparente</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparente</string>
+    <string name="demo_mode_tile_system_bars_translucent">Traslucido</string>
+    <string name="demo_mode_tile_system_bars_opaque">Opaco</string>
+    <string name="demo_mode_tile_system_bars_warning">Avviso</string>
+    <string name="demo_mode_tile_battery">Batteria</string>
+    <string name="demo_mode_tile_state_plugged">Collegato</string>
+    <string name="demo_mode_tile_state_unplugged">Non collegato</string>
+    <string name="demo_mode_tile_level_formatted">Livello %1d</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">Bluetooth</string>
+    <string name="demo_mode_tile_state_disconnected">Non connesso</string>
+    <string name="demo_mode_tile_state_connected">Connesso</string>
+    <string name="demo_mode_tile_mobile">Reti cellulari</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
+    <string name="demo_mode_tile_notifications">Notifiche</string>
+    <string name="demo_mode_tile_alarm">Sveglia</string>
+    <string name="demo_mode_tile_location">Geolocalizzazione</string>
+    <string name="demo_mode_tile_clock">Orologio</string>
+    <string name="demo_mode_tile_mute">Mute</string>
+    <string name="demo_mode_tile_speakerphone">Altoparlante telefono</string>
+    <string name="demo_mode_tile_vibrate">Vibrazione</string>
 </resources>

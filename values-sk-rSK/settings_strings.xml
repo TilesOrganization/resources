@@ -224,4 +224,10 @@
     <!--awake while plugged in-->
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť stav obrazovky pri nabíjaní</string>
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť stav obrazovky pri nabíjaní</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
+    <string name="settings_dump_permission_title">Dump permission</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
 </resources>

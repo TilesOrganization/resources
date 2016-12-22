@@ -222,12 +222,12 @@
     <string name="settings_density_tile_current_density_title">Huidige dichtheid</string>
     <string name="settings_density_tile_restore_default_density_title">Herstel standaard dichtheid</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om wakker te blijven te veranderen wanneer lader is aangesloten</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om wakker te blijven te veranderen wanneer lader is aangesloten</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om demo modus te veranderen</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om demo modus te veranderen</string>
     <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Toegekend. De tegel heeft toestemming om state dump informatie van de systeem services te achterhalen</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om state dump informatie van de systeem services te achterhalen</string>
 </resources>

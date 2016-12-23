@@ -143,8 +143,8 @@
     <string name="location_tile_label_high_accuracy">По всем источникам</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Системные настройки безопасности содержат значения, которые по умолчанию приложения могут считывать, но не могут менять. Такие привилегии имеют только системные приложения. Если приложение является пользовательским, оно никогда не сможет иметь подобные привилегии.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Приложение получило права суперпользователя к интерактивному доступу через терминал. Хотите ли Вы программно %s изменить системные настройки безопасности через терминальный режим суперпользователя?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Чтобы %1$s разрешение вручную, подключите устройство к компьютеру, запустите консоль с adb и введите команду: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Приложение получило права суперпользователя к интерактивному доступу через терминал. Хотите ли Вы программно %s изменять системные настройки безопасности через терминальный режим суперпользователя?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Чтобы %1$s доступ вручную, подключите устройство к компьютеру, запустите консоль с adb и введите команду: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">Разрешить</string>
     <string name="permission_dialog_message_revoke">Запретить</string>
     <!--timer H M S symbols -->
@@ -177,7 +177,7 @@
     <string name="animations_tile_label_window">Окно</string>
     <string name="animations_tile_label_dialog_check_box_off_label">Анимация выключена</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Длительность анимации %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке to менять анимации, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке менять анимации, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">Время засыпания</string>
     <string name="sleep_time_tile_awake">Пробуждение</string>
@@ -221,33 +221,33 @@
     <string name="awake_while_plugged_on_tile_label">Пробуждаться при подключении питания</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Чтобы позволить плитке пробуждать телефон при подключении питания, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">Позволяет приложению получать выгрузку информации из системных сервисов. Такие привилегии имеют только системные приложения. Если приложение является пользовательским, оно никогда не сможет иметь подобные привилегии.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Приложение получило права суперпользователя к интерактивному доступу через терминал. Хотите ли Вы программно %s выгружать системную информацию через терминальный режим суперпользователя?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Чтобы %1$s доступ вручную, подключите устройство к компьютеру, запустите консоль с adb и введите команду: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_label">Режим демонстрации</string>
+    <string name="demo_mode_tile_alert_dialog_message">Чтобы позволить плитке менять состояние режима демонстрации, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности и выгрузке системных данных.</string>
+    <string name="demo_mode_tile_system_bars">Системные панели</string>
+    <string name="demo_mode_tile_system_bars_transparent">Прозрачные</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Полупрозрачные</string>
+    <string name="demo_mode_tile_system_bars_translucent">Слегка прозрачные</string>
+    <string name="demo_mode_tile_system_bars_opaque">Непрозрачные</string>
+    <string name="demo_mode_tile_system_bars_warning">Предупреждение</string>
+    <string name="demo_mode_tile_battery">Батарея</string>
+    <string name="demo_mode_tile_state_plugged">Подключено к сети</string>
+    <string name="demo_mode_tile_state_unplugged">Отключено от сети</string>
+    <string name="demo_mode_tile_level_formatted">Уровень %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
-    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
-    <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_state_disconnected">Отключено</string>
+    <string name="demo_mode_tile_state_connected">Подключено</string>
+    <string name="demo_mode_tile_mobile">Мобильные сети</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Роуминг</string>
+    <string name="demo_mode_tile_notifications">Уведомления</string>
+    <string name="demo_mode_tile_alarm">Будильник</string>
+    <string name="demo_mode_tile_location">Местоположение</string>
+    <string name="demo_mode_tile_clock">Часы</string>
+    <string name="demo_mode_tile_mute">Без звука</string>
+    <string name="demo_mode_tile_speakerphone">Динамик телефона</string>
+    <string name="demo_mode_tile_vibrate">Вибрировать</string>
 </resources>

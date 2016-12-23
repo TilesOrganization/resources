@@ -227,7 +227,7 @@
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe megváltoztathatja a demo módot.</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem változtathatja meg a demo módot.</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
+    <string name="settings_dump_permission_title">Dump engedély</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Engedélyezve. A csempe átvehet rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Megtagadva. A csempe nem vehet át rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
 </resources>

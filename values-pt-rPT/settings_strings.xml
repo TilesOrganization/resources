@@ -207,27 +207,27 @@
     <string name="settings_font_size_tile_font_scale_large">Grande</string>
     <string name="settings_font_size_tile_font_scale_largest">Maior</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode alterar o tamanho da vizualização</string>
     <string name="settings_font_size_tile_action_change_font_size">Alterar o tamanho da visualização</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar o estado do NFC</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Alterar estado do NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Abrir definições do NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar os dados em roaming</string>
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Densidade padrão</string>
     <string name="settings_density_tile_current_density_title">Densidade atual</string>
     <string name="settings_density_tile_restore_default_density_title">Restaurar densidade padrão</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar awake while plugged in</string>
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_dump_permission_title">Esquecer a permissão</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Permitida. O mosaico pode  retrieve state dump information from system services</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
 </resources>

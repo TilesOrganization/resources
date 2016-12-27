@@ -223,7 +223,7 @@
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Permite que uma aplicação descarrege informação state dump dos serviços do sistema. Permissões com este nível só são atribuídas a aplicações de sistema. Se a aplicação não for de sistema não poderá usar esta permissão.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Foi dada permissão superuser ao Tiles para uma shell interativa. Quer que %s periodicamente faça um dump utilizando o superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Para %1$s manualmente a permissão, ligue o dispositivo a um computador e execute o comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Modo de demonstração</string>
     <string name="demo_mode_tile_alert_dialog_message">Para permitir que o mosaico ative o modo de demonstração, abra as definições e conceda permissão para modificar definições seguras and dump permission.</string>

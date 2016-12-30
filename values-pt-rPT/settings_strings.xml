@@ -211,7 +211,7 @@
     <string name="settings_font_size_tile_action_change_font_size">Alterar o tamanho da visualização</string>
     <!--nfc-->
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar o estado do NFC</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar o estado do NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Alterar estado do NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Abrir definições do NFC</string>
     <!--data roaming-->

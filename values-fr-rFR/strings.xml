@@ -155,7 +155,7 @@
     <string name="sleep_tile_label">Veille</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Capture d\'écran</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Pour permettre à la tuile d\'effectuer et enregistrer des captures d\'écran, veuillez ouvrir les réglages et accrodez la permission d'\écrire le stockage externe.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Pour permettre à la tuile d\'effectuer et enregistrer des captures d\'écran, veuillez ouvrir les réglages et accrodez la permission d\'écrire le stockage externe.</string>
     <string name="screenshot_tile_screenshot_captured">Écran capturé.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Appuyez pour voir votre capture d\'écran.</string>
     <string name="share">Partager</string>
@@ -221,7 +221,7 @@
     <string name="awake_while_plugged_on_tile_label">Rester activé pendant le chargement</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Pour permettre à la tuile de changer Rester activé pendant le chargement, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Permet à l'application de récupérer l'état interne du système. Les permissions avec ce niveau de protection sont accordées uniquement aux applications système. Si une appli est ordinaire et non-système, elle ne sera jamais en mesure d\'utiliser ces permissions.</string>
+    <string name="dump_permission_dialog_message_about">Permet à l\'application de récupérer l\'état interne du système. Les permissions avec ce niveau de protection sont accordées uniquement aux applications système. Si une appli est ordinaire et non-système, elle ne sera jamais en mesure d\'utiliser ces permissions.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles s\'est vue accorder les permissions super-utilisateur pour un shell interactif. Voulez-vous %s par programme la permission de récupérer les journaux système (dumpsys) en utilisant un shell interactif super-utilisateur ?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">Pour %1$s manuellement cette permission, connectez votre appareil à un ordinateur et exécutez la commande adb suivante: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->

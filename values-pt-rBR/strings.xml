@@ -218,14 +218,14 @@
     <string name="density_tile_density_xxhigh">Muito Grande (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">Enorme (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Acordar enquanto estiver conectado</string>
+    <string name="awake_while_plugged_on_tile_label">Permanecer ativo ao carregar</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Para permitir que o bloco altere a reação ao estiver conectado, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Permite um aplicativo recuperar informações de estado dump dos serviços do sistema. Permissões com este nível de proteção só são concedidos aos aplicativos do sistema. Se um aplicativo é um aplicativo de terceiro que não pertence ao sistema, ele nunca vai ser capaz de usar essas permissões.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles foi concedido com permissões de superusuário para um shell interativo. Você quer programaticamente %s a permissão dump usando shell interativo de superusuário?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">Para permitir %1$s manualmente, conecte seu dispositivo a um computador e execute o seguinte comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
+    <string name="demo_mode_tile_label">Modo de demonstração</string>
     <string name="demo_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo de demonstração, abra as configurações e conceda a permissão para modificar configurações de segurança e a permissão dump.</string>
     <string name="demo_mode_tile_system_bars">Barras do sistema</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparente</string>

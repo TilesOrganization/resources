@@ -61,8 +61,8 @@
     <string name="power_tile_action_power_dialog">電源選單</string>
     <string name="power_tile_label">電源</string>
     <string name="power_tile_action_reboot">重新啟動</string>
-    <string name="power_tile_action_reboot_recovery">重啟recovery</string>
-    <string name="power_tile_action_reboot_bootloader">重啟bootloader</string>
+    <string name="power_tile_action_reboot_recovery">重啟Recovery</string>
+    <string name="power_tile_action_reboot_bootloader">重啟Bootloader</string>
     <string name="power_tile_action_power_off">關機</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">音效模式</string>
@@ -105,7 +105,7 @@
     <string name="weather_rainy">多雨</string>
     <string name="weather_snowy">落雪</string>
     <string name="weather_stormy">狂風暴雨</string>
-    <string name="weather_windy">Windy</string>
+    <string name="weather_windy">刮風</string>
     <string name="weather_conditions">天氣狀況</string>
     <string name="weather_temperature">溫度</string>
     <string name="weather_feels_like">體感</string>
@@ -218,8 +218,8 @@
     <string name="density_tile_density_xxhigh">超高 (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">充電時保持屏幕開啟</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚使用充電時保持屏幕開啟，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="awake_while_plugged_on_tile_label">充電時保持亮屏</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚使用充電時保持亮屏，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>

@@ -49,8 +49,9 @@
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">繁體中文,香港、台灣、澳門</string>
     <string name="settings_translations_locale_it">意大利文</string>
     <string name="settings_translations_locale_hu">匈牙利文</string>
-    <string name="settings_translations_locale_es">西班牙語</string>
-    <string name="settings_translations_locale_ru">俄語</string>
+    <string name="settings_translations_locale_es">西班牙文</string>
+    <string name="settings_translations_locale_ru">俄文</string>
+    <string name="settings_translations_locale_fr">法文</string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>
@@ -117,8 +118,8 @@
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>
     <!--timer -->
     <string name="settings_timer_tile_skip_ui_title">跳過界面</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">直接跳過所有確認界面並立即開始計時</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">開始計時前顯示確認界面</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">直接跳過所有確認界面並立即開始們倒數計時</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">開始倒數計時前顯示確認界面</string>
     <string name="settings_timer_tile_default_duration">預計時限</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">已禁止。程式禁止存取裝置位置</string>
@@ -222,12 +223,12 @@
     <string name="settings_density_tile_current_density_title">現時密度</string>
     <string name="settings_density_tile_restore_default_density_title">回復預設密度</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許使用充電時保持屏幕開啟</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止使用充電時保持屏幕開啟</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許使用示範模式</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止使用示範模式</string>
+    <string name="settings_dump_permission_title">檢測資訊權限</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">已授權。此快速設定磚允許程式從系統服務檢測裝置狀態資訊</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">已禁止。此快速設定磚禁止從系統服務檢測裝置狀態資訊</string>
 </resources>

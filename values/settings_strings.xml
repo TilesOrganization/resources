@@ -51,6 +51,7 @@
     <string name="settings_translations_locale_hu">Hungarian</string>
     <string name="settings_translations_locale_es">Spanish</string>
     <string name="settings_translations_locale_ru">Russian</string>
+    <string name="settings_translations_locale_fr">French</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tile visibility</string>
     <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>

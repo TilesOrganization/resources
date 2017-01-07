@@ -69,7 +69,7 @@
     <string name="ringer_mode_tile_label_normal">Normal</string>
     <string name="ringer_mode_tile_label_silent">Silencieux</string>
     <string name="ringer_mode_tile_label_vibrate">Vibreur</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Pour permettre à la tuile changer le mode de sonnerie, veuillez ouvrir les paramètres et authorisez l\'accès à Ne Pas Déranger (DND).</string>
     <!--screen on-->
     <string name="screen_on_tile_label">Garder allumé</string>
     <string name="screen_on_tile_dialog_wake_lock_running">Le service Garder allumé est en cours d\'exécution.\nArrêter le service?</string>
@@ -115,7 +115,7 @@
     <string name="web_search_tile_label">Recherche web</string>
     <!--reminder-->
     <string name="reminder_tile_label">Rappel</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titre (%d chars limited)</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titre (%d caractères limités)</string>
     <string name="reminder_tile_dialog_formatted_content_hint">Contenu</string>
     <string name="reminder_tile_dialog_persistent_checkbox">Persistant</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Supprimer</string>
@@ -142,112 +142,112 @@
     <string name="location_tile_label_sensors_only">Appareil uniquement</string>
     <string name="location_tile_label_high_accuracy">Haute précision</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="permission_dialog_message_grant">Grant</string>
-    <string name="permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Les paramètres système sécurisés contiennent des réglages système que les applications peuvent lire mais pas écrire. Les permissions avec ce niveau de protection sont accordées uniquement aux applications système. Si une appli est ordinaire et non-système, elle ne sera jamais en mesure d\'utiliser ces permissions.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles s\'est vue accorder les permissions super-utilisateur pour un shell interactif. Voulez-vous %s par programme la permission d\'écrire les réglages sécurisés en utilisant un shell interactif super-utilisateur ?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Pour %1$s manuellement cette permission, connectez votre appareil à un ordinateur et exécutez la commande adb suivante: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">Accorder</string>
+    <string name="permission_dialog_message_revoke">Révoquer</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Veille</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
+    <string name="screenshot_tile_label">Capture d\'écran</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Pour permettre à la tuile d\'effectuer et enregistrer des captures d\'écran, veuillez ouvrir les réglages et accrodez la permission d\'écrire le stockage externe.</string>
+    <string name="screenshot_tile_screenshot_captured">Écran capturé.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Appuyez pour voir votre capture d\'écran.</string>
+    <string name="share">Partager</string>
+    <string name="delete">Supprimer</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">Mode immersif</string>
+    <string name="immersive_mode_tile_off">Mode immersif désactivé</string>
+    <string name="immersive_mode_tile_hide_system_bars">Cacher les barres système</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Cacher la barre de navigation</string>
+    <string name="immersive_mode_tile_hide_status_bar">Cacher la barre d\'état</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode immersif, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Affichage en mode veille</string>
+    <string name="ambient_display_tile_alert_dialog_message">Pour permettre à la tuile de changer l\'affichage en mode veille, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--animations-->
     <string name="animations_tile_label">Animations</string>
-    <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label_animator">Animations</string>
+    <string name="animations_tile_label_transition">Transitions</string>
+    <string name="animations_tile_label_window">Fenêtres</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animation désactivée</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Échelle d\'animation %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Pour permettre à la tuile de changer les animations, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Sleep time</string>
-    <string name="sleep_time_tile_awake">Awake</string>
-    <string name="sleep_time_tile_sleep">Sleep</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Battery %d%%</string>
-    <string name="sleep_time_tile_unplugged">Unplugged</string>
-    <string name="sleep_time_tile_plugged_usb">Plugged USB</string>
-    <string name="sleep_time_tile_plugged_ac">Plugged AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Plugged wireless</string>
+    <string name="sleep_time_tile_label">Temps en veille</string>
+    <string name="sleep_time_tile_awake">Activité</string>
+    <string name="sleep_time_tile_sleep">Veille</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Batterie %d%%</string>
+    <string name="sleep_time_tile_unplugged">Débranché</string>
+    <string name="sleep_time_tile_plugged_usb">Branché USB</string>
+    <string name="sleep_time_tile_plugged_ac">Branché AC</string>
+    <string name="sleep_time_tile_plugged_wireless">Chargement sans fil</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_label">Alarme</string>
+    <string name="alarm_tile_no_alarm_set">Aucune alarme prévue</string>
     <!--files-->
-    <string name="files_tile_label">Files</string>
+    <string name="files_tile_label">Fichiers</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <string name="settings_shortcut_tile_label">Raccourci réglages</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Taille de la police</string>
+    <string name="font_size_tile_alert_dialog_message">Pour permettre à la tuile de changer la taille de la police, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--voice-->
     <string name="voice_tile_label">Voix</string>
     <!--text-->
     <string name="text_tile_label">Texte</string>
     <string name="text_tile_empty_chat_text_field">Aucun texte ajouté, veuillez saisir du texte.</string>
     <!--data roaming-->
-    <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_label">Données en itinérance</string>
+    <string name="data_roaming_tile_alert_dialog_message">Pour permettre à la tuile de changer l\'état de l\'itinérance des données, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--density-->
-    <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default: %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
-    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_label">Taille d\'affichage</string>
+    <string name="density_tile_label_formatted">Densité: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">La plus petite largeur: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Taille d\'écran: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Défaut: %ddp</string>
+    <string name="density_tile_density_low">Basse (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Moyenne (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">Haute (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">Très Haute (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">Très Très Haute (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">Très Très Très Haute (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">Rester activé pendant le chargement</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Pour permettre à la tuile de changer Rester activé pendant le chargement, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">Permet à l\'application de récupérer l\'état interne du système. Les permissions avec ce niveau de protection sont accordées uniquement aux applications système. Si une appli est ordinaire et non-système, elle ne sera jamais en mesure d\'utiliser ces permissions.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles s\'est vue accorder les permissions super-utilisateur pour un shell interactif. Voulez-vous %s par programme la permission de récupérer les journaux système (dumpsys) en utilisant un shell interactif super-utilisateur ?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Pour %1$s manuellement cette permission, connectez votre appareil à un ordinateur et exécutez la commande adb suivante: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_label">Mode de démonstration</string>
+    <string name="demo_mode_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode de démonstration, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
+    <string name="demo_mode_tile_system_bars">Barre système</string>
+    <string name="demo_mode_tile_system_bars_transparent">Transparentes</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparentes</string>
+    <string name="demo_mode_tile_system_bars_translucent">Translucides</string>
+    <string name="demo_mode_tile_system_bars_opaque">Opaques</string>
+    <string name="demo_mode_tile_system_bars_warning">Avertissement</string>
+    <string name="demo_mode_tile_battery">Batterie</string>
+    <string name="demo_mode_tile_state_plugged">Branché</string>
+    <string name="demo_mode_tile_state_unplugged">Débranché</string>
+    <string name="demo_mode_tile_level_formatted">Niveau %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
-    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
+    <string name="demo_mode_tile_state_disconnected">Déconnecté</string>
+    <string name="demo_mode_tile_state_connected">Connecté</string>
+    <string name="demo_mode_tile_mobile">Réseaux cellulaires</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Itinérance</string>
     <string name="demo_mode_tile_notifications">Notifications</string>
-    <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_alarm">Alarme</string>
+    <string name="demo_mode_tile_location">Localisation</string>
+    <string name="demo_mode_tile_clock">Horloge</string>
+    <string name="demo_mode_tile_mute">Muet</string>
+    <string name="demo_mode_tile_speakerphone">Haut-parleur</string>
+    <string name="demo_mode_tile_vibrate">Vibrer</string>
 </resources>

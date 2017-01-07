@@ -61,8 +61,8 @@
     <string name="power_tile_action_power_dialog">電源選單</string>
     <string name="power_tile_label">電源</string>
     <string name="power_tile_action_reboot">重新啟動</string>
-    <string name="power_tile_action_reboot_recovery">重啟recovery</string>
-    <string name="power_tile_action_reboot_bootloader">重啟bootloader</string>
+    <string name="power_tile_action_reboot_recovery">重啟Recovery</string>
+    <string name="power_tile_action_reboot_bootloader">重啟Bootloader</string>
     <string name="power_tile_action_power_off">關機</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">音效模式</string>
@@ -83,8 +83,8 @@
     <!--sync-->
     <string name="sync_tile_label">同步</string>
     <!--timer-->
-    <string name="timer_tile_label">計時器</string>
-    <string name="timer_formatted_label">計時\n%s</string>
+    <string name="timer_tile_label">倒數計時器</string>
+    <string name="timer_formatted_label">倒數計時\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">天氣</string>
     <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定磚取得天氣狀況，請前往設定並允許位置權限。</string>
@@ -105,7 +105,7 @@
     <string name="weather_rainy">多雨</string>
     <string name="weather_snowy">落雪</string>
     <string name="weather_stormy">狂風暴雨</string>
-    <string name="weather_windy">Windy</string>
+    <string name="weather_windy">刮風</string>
     <string name="weather_conditions">天氣狀況</string>
     <string name="weather_temperature">溫度</string>
     <string name="weather_feels_like">體感</string>
@@ -218,36 +218,36 @@
     <string name="density_tile_density_xxhigh">超高 (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">充電時保持亮屏</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚使用充電時保持亮屏，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限, 將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_label">示範模式</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式, 請前往設定並允許可寫入安全設定及檢測的權限。</string>
+    <string name="demo_mode_tile_system_bars">狀態列</string>
+    <string name="demo_mode_tile_system_bars_transparent">透明</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
+    <string name="demo_mode_tile_system_bars_translucent">半透明</string>
+    <string name="demo_mode_tile_system_bars_opaque">不透明</string>
+    <string name="demo_mode_tile_system_bars_warning">警告</string>
+    <string name="demo_mode_tile_battery">電源</string>
+    <string name="demo_mode_tile_state_plugged">連接電源</string>
+    <string name="demo_mode_tile_state_unplugged">斷開電源</string>
+    <string name="demo_mode_tile_level_formatted">級數 %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
-    <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
-    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
-    <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_bluetooth">藍芽</string>
+    <string name="demo_mode_tile_state_disconnected">中斷連接</string>
+    <string name="demo_mode_tile_state_connected">連接</string>
+    <string name="demo_mode_tile_mobile">流動網絡</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">漫遊</string>
+    <string name="demo_mode_tile_notifications">通知</string>
+    <string name="demo_mode_tile_alarm">鬧鐘</string>
+    <string name="demo_mode_tile_location">位置</string>
+    <string name="demo_mode_tile_clock">時鐘</string>
+    <string name="demo_mode_tile_mute">靜音</string>
+    <string name="demo_mode_tile_speakerphone">裝置喇叭</string>
+    <string name="demo_mode_tile_vibrate">震動</string>
 </resources>

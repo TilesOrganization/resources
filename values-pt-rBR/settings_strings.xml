@@ -51,6 +51,7 @@
     <string name="settings_translations_locale_hu">Húngaro</string>
     <string name="settings_translations_locale_es">Espanhol</string>
     <string name="settings_translations_locale_ru">Russo</string>
+    <string name="settings_translations_locale_fr">Francês</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do bloco</string>
     <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
@@ -222,12 +223,12 @@
     <string name="settings_density_tile_current_density_title">Densidade atual</string>
     <string name="settings_density_tile_restore_default_density_title">Restaurar densidade padrão</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o despertar enquanto plugado</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o despertar enquanto plugado</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo de demonstração</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo de demonstração</string>
+    <string name="settings_dump_permission_title">Permissão Dump</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Concedido. O bloco está permitido para recuperar informações de estado dump dos serviços do sistema</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Negado. O bloco não está permitido para recuperar informações de estado dump dos serviços do sistema</string>
 </resources>

@@ -196,7 +196,7 @@
     <string name="settings_shortcut_tile_label">Definições</string>
     <!--font size-->
     <string name="font_size_tile_label">Tamanho da visualização</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_alert_dialog_message">Para permitir que o mosaico altere o tamanho da visualização, abra as definições e conceda permissão para modificar definições de sistema.</string>
     <!--voice-->
     <string name="voice_tile_label">Voz</string>
     <!--text-->
@@ -204,7 +204,7 @@
     <string name="text_tile_empty_chat_text_field">Nenhum texto adicionado, introduza a mensagem.</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">Roaming de dados</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_alert_dialog_message">Para permitir que o mosaico altere o roaming de dados, abra as definições e conceda permissão para modificar definições seguras.</string>
     <!--density-->
     <string name="density_tile_label">Densidade</string>
     <string name="density_tile_label_formatted">Densidade: %ddp</string>
@@ -218,36 +218,36 @@
     <string name="density_tile_density_xxhigh">XXAlta (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">XXXAlta (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">Acordado ao carregar</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Para permitir que o mosaico altere o estar acordado a carregar, abra as definições e conceda permissão para modificar definições seguras.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">Permite que uma aplicação descarrege informação state dump dos serviços do sistema. Permissões com este nível só são atribuídas a aplicações de sistema. Se a aplicação não for de sistema não poderá usar esta permissão.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Foi dada permissão superuser ao Tiles para uma shell interativa. Quer que %s periodicamente faça um dump utilizando o superuser interactive shell?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Para %1$s manualmente a permissão, ligue o dispositivo a um computador e execute o comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_label">Modo de demonstração</string>
+    <string name="demo_mode_tile_alert_dialog_message">Para permitir que o mosaico ative o modo de demonstração, abra as definições e conceda permissão para modificar definições seguras and dump permission.</string>
+    <string name="demo_mode_tile_system_bars">Barras de sistema</string>
+    <string name="demo_mode_tile_system_bars_transparent">Transparentes</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Semi transparentes</string>
+    <string name="demo_mode_tile_system_bars_translucent">Translucidas</string>
+    <string name="demo_mode_tile_system_bars_opaque">Opacas</string>
+    <string name="demo_mode_tile_system_bars_warning">Aviso</string>
+    <string name="demo_mode_tile_battery">Bateria</string>
+    <string name="demo_mode_tile_state_plugged">Ligado</string>
+    <string name="demo_mode_tile_state_unplugged">Desligado</string>
+    <string name="demo_mode_tile_level_formatted">Nível %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
+    <string name="demo_mode_tile_state_disconnected">Desligado</string>
+    <string name="demo_mode_tile_state_connected">Ativado</string>
+    <string name="demo_mode_tile_mobile">Redes móveis</string>
     <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
-    <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_notifications">Notificações</string>
+    <string name="demo_mode_tile_alarm">Alarme</string>
+    <string name="demo_mode_tile_location">Localização</string>
+    <string name="demo_mode_tile_clock">Relógio</string>
+    <string name="demo_mode_tile_mute">Silêncio</string>
+    <string name="demo_mode_tile_speakerphone">Altifalante</string>
+    <string name="demo_mode_tile_vibrate">Vibração</string>
 </resources>

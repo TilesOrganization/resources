@@ -250,4 +250,7 @@
     <string name="demo_mode_tile_mute">Mute</string>
     <string name="demo_mode_tile_speakerphone">Altoparlante telefono</string>
     <string name="demo_mode_tile_vibrate">Vibrazione</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">Appunti</string>
+    <string name="clipboard_tile_empty_clip">Gli appunti non contengono testo.</string>
 </resources>

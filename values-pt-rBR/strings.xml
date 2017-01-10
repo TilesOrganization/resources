@@ -250,4 +250,7 @@
     <string name="demo_mode_tile_mute">Silencioso</string>
     <string name="demo_mode_tile_speakerphone">Alto-falante do telefone</string>
     <string name="demo_mode_tile_vibrate">Vibrar</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">Clipboard</string>
+    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
 </resources>

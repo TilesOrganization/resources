@@ -250,4 +250,7 @@
     <string name="demo_mode_tile_mute">Némítás</string>
     <string name="demo_mode_tile_speakerphone">Telefon kihangosító</string>
     <string name="demo_mode_tile_vibrate">Rezgés</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">Clipboard</string>
+    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
 </resources>

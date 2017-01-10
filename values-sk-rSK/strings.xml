@@ -251,6 +251,6 @@
     <string name="demo_mode_tile_speakerphone">Reproduktor</string>
     <string name="demo_mode_tile_vibrate">Vibrácie</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Schránka</string>
+    <string name="clipboard_tile_empty_clip">Schránka neobsahuje text.</string>
 </resources>

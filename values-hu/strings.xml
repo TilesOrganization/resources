@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Hiba történt, kérlek próbáld újra.</string>
     <string name="location_off_alert_dialog_message">A helymeghatározás ki van kapcsolva. A csempe aktuális helyhez való hozzáféréséhez kérlek engedélyezd a helymeghatározást a beállításokban.</string>
+    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Nem található megfelelő alkalmazás a művelet végrehajtásához.</string>
     <string name="su_alert_dialog_message">Ilyen művelet végrehajtásához superuser engedélyre van szükség egy interaktív shell parancshoz.</string>
     <string name="play_services_alert_dialog_message">Ilyen művelet végrehajtásához Google Play Szolgáltatásokra van szükség. Kérlek telepítsd előbb fel, majd próbáld újra.</string>
@@ -88,6 +89,7 @@
     <!--weather-->
     <string name="weather_tile_label">Időjárás</string>
     <string name="weather_tile_location_permission_alert_dialog_message">A csempe időjárási körülményekhez való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a helyhez való hozzáférést.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
     <string name="weather_formatted_temperature_celsius">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Érzet: &lt;b>%1$.1f&lt;/b> \u2103</string>

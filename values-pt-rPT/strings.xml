@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Algo correu mal, tente novamente.</string>
     <string name="location_off_alert_dialog_message">Localização desativada. Para permitir que o mosaico obtenha a localização, vá às definições e ative a localização.</string>
+    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Não foi encontrada nenhuma aplicação para executar esta ação.</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services_alert_dialog_message">Os Serviços Google Play são necessários, instale e tente novamente.</string>
@@ -88,6 +89,7 @@
     <!--weather-->
     <string name="weather_tile_label">Meteorologia</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Para permitir que o mosaico tenha acesso à meteorologia, abra as definiçoes e conceda a permissão de localização.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
     <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>

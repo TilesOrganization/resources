@@ -2,6 +2,7 @@
 <resources>
     <string name="something_went_wrong">Er is iets misgegaan. Probeer het nog een keer</string>
     <string name="location_off_alert_dialog_message">Locatie is uit. Om de tegel toe te staan om de huidige locatie te verkrijgen, open instellingen en zet locatie aan.</string>
+    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Geen applicatie gevonden om deze actie uit te voeren.</string>
     <string name="su_alert_dialog_message">Om een dergelijke actie uit te voeren, geef superuser toestemming voor een interactieve schil.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is benodigd om deze actie uit te voeren. Installeer het en probeer nog een keer.</string>
@@ -88,6 +89,7 @@
     <!--weather-->
     <string name="weather_tile_label">Weer</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Om de tegel de huidige weersomstandigheden te laten verkrijgen, open instellingen en verleen locatie toestemming</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
     <string name="weather_formatted_temperature_celsius">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Voelt als: &lt;b>%1$.1f&lt;/b> \u2103</string>

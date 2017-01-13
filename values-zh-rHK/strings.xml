@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">發生錯誤,請重試。</string>
     <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
+    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
     <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限給交互式shell</string>
     <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此類操作。請安裝然後重試。</string>
@@ -88,6 +89,7 @@
     <!--weather-->
     <string name="weather_tile_label">天氣</string>
     <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定磚取得天氣狀況，請前往設定並允許位置權限。</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
     <string name="weather_formatted_temperature_celsius">溫度: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">溫度: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">體感: &lt;b>%1$.1f&lt;/b> \u2103</string>

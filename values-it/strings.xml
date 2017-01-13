@@ -2,13 +2,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
     <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
+    <string name="location_device_only_alert_dialog_message">Geolocalizzazione in modalità Solo dispositivo. Per un risultato più veloce e accurato, per favore aprire le impostazioni e attivare una diversa modalità di geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
     <string name="su_alert_dialog_message">Per eseguire questa azione, per favore concedere i permessi superuser per una shell interattiva.</string>
     <string name="play_services_alert_dialog_message">Google Play Services è richiesta per eseguire tale azione. Per favore installare l\'applicazione e provare nuovamente.</string>
     <string name="high">Alta</string>
     <string name="medium">Media</string>
     <string name="low">Bassa</string>
-    <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>
+    <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>>Geolocalizzazione
     <string name="not_available">Non disponibile</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
@@ -88,6 +89,7 @@
     <!--weather-->
     <string name="weather_tile_label">Meteo</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Per permettere alla funzione di visualizzare le condizioni meteo, per favore aprire le impostazioni e concedere l\'autorizzazione posizione.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Ottendendo meteo. Per favore attendere.</string>
     <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Percepita: &lt;b>%1$.1f&lt;/b> \u2103</string>

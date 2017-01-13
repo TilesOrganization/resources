@@ -57,6 +57,7 @@
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_service_description">Servizio per osservare lo stato NFC, verrà interroto quando la funzione è rimossa. L\'interruzione potrebbere bloccare la funzione.</string>
     <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Dialogo accensione</string>

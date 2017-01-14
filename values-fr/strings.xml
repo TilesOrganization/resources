@@ -57,7 +57,7 @@
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service pour observer l\'état de la NFC, Il sera arrêté à la suppression de la tuile. L'arrêter manuellement peut causer un dysfonctionnement de la tuile.</string>
+    <string name="nfc_tile_service_description">Service pour observer l\'état de la NFC, Il sera arrêté à la suppression de la tuile. La tuile peut échouer si vous l\'arrêtez.</string>
     <string name="nfc_tile_alert_dialog_message">Pour permettre à la tuile de changer l\'état de la NFC, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Menu Marche/Arrêt</string>

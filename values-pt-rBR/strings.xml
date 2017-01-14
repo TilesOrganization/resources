@@ -57,7 +57,7 @@
     <string name="maps_tile_label">Mapa</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
+    <string name="nfc_tile_service_description">Serviço para observar o estado do NFC, ele será parado quando o bloco for removido. Pará-lo pode fazer com que o bloco falhe.</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir que o bloco altere o estado do NFC, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Menu de energia</string>
@@ -254,6 +254,6 @@
     <string name="demo_mode_tile_speakerphone">Alto-falante do telefone</string>
     <string name="demo_mode_tile_vibrate">Vibrar</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Prancheta</string>
+    <string name="clipboard_tile_empty_clip">A área de transferência não contém texto.</string>
 </resources>

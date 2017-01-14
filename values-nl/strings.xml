@@ -57,7 +57,7 @@
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
+    <string name="nfc_tile_service_description">Service om NFC status te observeren, het zal stoppen wanneer de tegel wordt verwijderd. De service stoppen zou de tegel kunnen doen laten falen.</string>
     <string name="nfc_tile_alert_dialog_message">Om de tegel toestemming te geven om de NFC status te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Power dialoog</string>

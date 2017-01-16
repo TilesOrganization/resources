@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">發生錯誤,請重試。</string>
     <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
+    <string name="location_device_only_alert_dialog_message">定位模式是僅限裝置。要提高定位精確度，請前往設定啟用其他定位模式以更迅速準確地獲得結果。</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
     <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限給交互式shell</string>
     <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此類操作。請安裝然後重試。</string>
@@ -57,7 +57,7 @@
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
+    <string name="nfc_tile_service_description">啟用服務以檢察NFC狀態，當設定磚被等移除時，服務將會停止。手動停止服務亦會令快速設定磚失效。</string>
     <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">電源選單</string>
@@ -254,6 +254,6 @@
     <string name="demo_mode_tile_speakerphone">裝置喇叭</string>
     <string name="demo_mode_tile_vibrate">震動</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">剪貼板</string>
+    <string name="clipboard_tile_empty_clip">剪貼板內沒有任何文字</string>
 </resources>

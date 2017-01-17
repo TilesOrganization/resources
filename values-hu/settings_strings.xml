@@ -10,6 +10,7 @@
     <string name="settings_disabled">Kikapcsolva</string>
     <string name="settings_action">Művelet</string>
     <string name="settings_layout">Kinézet</string>
+    <string name="settings_notification">Értesítés</string>
     <string name="settings_night_mode">Éjszakai mód</string>
     <string name="settings_night_mode_no">Nappal</string>
     <string name="settings_night_mode_yes">Éjszaka</string>

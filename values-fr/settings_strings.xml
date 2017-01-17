@@ -10,6 +10,7 @@
     <string name="settings_disabled">Désactivée</string>
     <string name="settings_action">Action</string>
     <string name="settings_layout">Disposition</string>
+    <string name="settings_notification">Notification</string>
     <string name="settings_night_mode">Mode Nuit</string>
     <string name="settings_night_mode_no">Jour</string>
     <string name="settings_night_mode_yes">Nuit</string>

@@ -10,6 +10,7 @@
     <string name="settings_disabled">Выключено</string>
     <string name="settings_action">Действие</string>
     <string name="settings_layout">Разметка</string>
+    <string name="settings_notification">Уведомление</string>
     <string name="settings_night_mode">Ночной режим</string>
     <string name="settings_night_mode_no">День</string>
     <string name="settings_night_mode_yes">Ночь</string>

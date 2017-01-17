@@ -10,6 +10,7 @@
     <string name="settings_disabled">Zakázané</string>
     <string name="settings_action">Akcia</string>
     <string name="settings_layout">Rozloženie</string>
+    <string name="settings_notification">Upozornenie</string>
     <string name="settings_night_mode">Nočný režim</string>
     <string name="settings_night_mode_no">Deň</string>
     <string name="settings_night_mode_yes">Noc</string>

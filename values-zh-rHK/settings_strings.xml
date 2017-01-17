@@ -10,6 +10,7 @@
     <string name="settings_disabled">禁用</string>
     <string name="settings_action">動作</string>
     <string name="settings_layout">佈局</string>
+    <string name="settings_notification">通知</string>
     <string name="settings_night_mode">夜間模式</string>
     <string name="settings_night_mode_no">日光</string>
     <string name="settings_night_mode_yes">夜間</string>

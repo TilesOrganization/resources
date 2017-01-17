@@ -57,7 +57,7 @@
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">啟用服務以檢察NFC狀態，當設定磚被等移除時，服務將會停止。手動停止服務亦會令快速設定磚失效。</string>
+    <string name="nfc_tile_service_description">當快速設定磚被加入時，檢察NFC狀態的服務將會啟用，反之亦然。注意：手動停止服務亦會導致設定磚狀態無法更新或反應延遲。</string>
     <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">電源選單</string>

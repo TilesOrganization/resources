@@ -90,7 +90,7 @@
     <!--weather-->
     <string name="weather_tile_label">天氣</string>
     <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定磚取得天氣狀況，請前往設定並允許位置權限。</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">請稍候，正在取得天氣狀況。</string>
     <string name="weather_formatted_temperature_celsius">溫度: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">溫度: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">體感: &lt;b>%1$.1f&lt;/b> \u2103</string>

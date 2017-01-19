@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Разрешение местоположения</string>
     <string name="settings_modify_system_settings_permissions_title">Изменить настройки местоположения системы</string>
-    <string name="settings_feedback">Обратная связь</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
     <string name="settings_send_email">Отправить письмо</string>

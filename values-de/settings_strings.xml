@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
     <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ändern von Systemeinstellungen</string>
-    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">Bewerte die App</string>
     <string name="settings_support_title">Danke für deine Unterstützung!</string>
     <string name="settings_send_email">Schreib eine Email</string>

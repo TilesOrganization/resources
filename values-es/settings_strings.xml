@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Permiso de localización</string>
     <string name="settings_modify_system_settings_permissions_title">Permiso para modificar los ajustes del sistema</string>
-    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">Puntua o deja una opinión sobre la aplicación</string>
     <string name="settings_support_title">¡Gracias por apoyar el proyecto!</string>
     <string name="settings_send_email">Enviar un email</string>

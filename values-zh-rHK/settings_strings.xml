@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
-    <string name="settings_feedback">意見回饋</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">感謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>

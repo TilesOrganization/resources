@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Autorizzazione posizione</string>
     <string name="settings_modify_system_settings_permissions_title">Autorizzazione modifica impostazioni di sistema</string>
-    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback">Feedback &amp; Supporto</string>
     <string name="settings_rate_or_review">Valuta o scrivi una recensione</string>
     <string name="settings_support_title">Grazie per il tuo supporto!</string>
     <string name="settings_send_email">Spedisci e-mail</string>

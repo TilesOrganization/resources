@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Locatie toestemming</string>
     <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstellingen te wijzigen</string>
-    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">Beoordeel of waardeer de app</string>
     <string name="settings_support_title">Bedankt voor je steun!</string>
     <string name="settings_send_email">Stuur email</string>

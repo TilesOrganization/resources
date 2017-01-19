@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Engedély helyadatokhoz</string>
     <string name="settings_modify_system_settings_permissions_title">Rendszerbeállítások módosításának engedélyezése</string>
-    <string name="settings_feedback">Visszajelzés</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
     <string name="settings_rate_or_review">Alkalmazás értékelése</string>
     <string name="settings_support_title">Köszönöm a támogatásodat!</string>
     <string name="settings_send_email">Email küldése</string>

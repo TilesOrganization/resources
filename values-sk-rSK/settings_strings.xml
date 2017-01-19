@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Povolenie Poloha</string>
     <string name="settings_modify_system_settings_permissions_title">Povolenie Úpravy nastavení systému</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_feedback">Spätná väzba a podpora</string>
     <string name="settings_rate_or_review">Ohodnoťte alebo napíšte komentár k aplikácii</string>
     <string name="settings_support_title">Ďakujeme za vašu podporu!</string>
     <string name="settings_send_email">Poslať e-mail</string>

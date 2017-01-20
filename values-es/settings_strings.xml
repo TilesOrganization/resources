@@ -217,19 +217,19 @@
     <string name="settings_nfc_tile_action_change_nfc_state">Cambiar estado del NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Abrir ajustes de NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permisos para cambiar el roaming de datos</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permisos para cambiar el roaming de datos</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para cambiar el roaming de datos</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para cambiar el roaming de datos</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Densidad de pantalla por defecto</string>
     <string name="settings_density_tile_current_density_title">Densidad de pantalla actual</string>
     <string name="settings_density_tile_restore_default_density_title">Restaurar densidad de pantalla por defecto</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para mantener despierto durante la carga</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para mantener despierto durante la carga</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para activar el modo demo</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para activar el modo demo</string>
+    <string name="settings_dump_permission_title">Permisos Dump</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Permitido. Tile tiene permiso para realizar un volcado de la información del sistema</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denegado. Tile no tiene permiso para realizar un volcado de la información del sistema</string>
 </resources>

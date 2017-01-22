@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Engedély helyadatokhoz</string>
     <string name="settings_modify_system_settings_permissions_title">Rendszerbeállítások módosításának engedélyezése</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_feedback">Visszajelzés &amp; Támogatás</string>
     <string name="settings_rate_or_review">Alkalmazás értékelése</string>
     <string name="settings_support_title">Köszönöm a támogatásodat!</string>
     <string name="settings_send_email">Email küldése</string>
@@ -52,7 +52,7 @@
     <string name="settings_translations_locale_hu">Magyar</string>
     <string name="settings_translations_locale_es">Spanyol</string>
     <string name="settings_translations_locale_ru">Orosz</string>
-    <string name="settings_translations_locale_fr">Franciaország</string>
+    <string name="settings_translations_locale_fr">Francia</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Csempe láthatósága</string>
     <string name="settings_component_summary_off">Csempe elrejtve a Gyorsbeállítások felületen</string>

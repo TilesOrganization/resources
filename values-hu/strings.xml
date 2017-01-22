@@ -57,7 +57,7 @@
     <string name="maps_tile_label">Térkép</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
+    <string name="nfc_tile_service_description">Szolgáltatás az NFC állapotának megfigyelésére. Leáll, amint a gyorsbeállítások csempe eltávolításra kerül. Manuális leállítás esetén a csempe működése nem biztosított.</string>
     <string name="nfc_tile_alert_dialog_message">Az NFC helyzetének csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">Kikapcsolás menü</string>

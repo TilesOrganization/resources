@@ -232,4 +232,7 @@
     <string name="settings_dump_permission_title">Dump engedély</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Engedélyezve. A csempe átvehet rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Megtagadva. A csempe nem vehet át rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
 </resources>

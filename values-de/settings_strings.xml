@@ -232,4 +232,7 @@
     <string name="settings_dump_permission_title">Speicherauszug-Rechte</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Gewährt. Die Kachel darf einen Status-Informationen Speicherauszug von System-Diensten abrufen</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Verweigert. Die Kachel darf keinen Status-Informationen Speicherauszug von System-Diensten abrufen</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
 </resources>

@@ -18,6 +18,7 @@
     <string name="delete">Elimina</string>
     <string name="save">Salva</string>
     <string name="save_and_close">Salva &amp; Chiudi</string>
+    <string name="warning">Avvertimento</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -267,4 +268,8 @@
     <string name="clipboard_tile_empty_clip">Gli appunti non contengono testo.</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
+    <!--heads up notification-->
+    <string name="heads_up_notifications_tile_label"> Notifiche heads-up</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Per permettere alla funzione di cambiare notifiche heads-up, per favore aprire le impostazione e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Il frameworks Android non espone alcuna impostazione visibile per cambiare notifiche heads-up. Per favore ricordarsi di riattivare le notifiche heads-up prima di disinstallare l\'applicazione per ripristinare correttamente il comportamento originale.</string>
 </resources>

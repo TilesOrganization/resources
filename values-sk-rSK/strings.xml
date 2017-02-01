@@ -18,7 +18,7 @@
     <string name="delete">Vymazať</string>
     <string name="save">Uložiť</string>
     <string name="save_and_close">Uložiť a zavrieť</string>
-    <string name="warning">Warning</string>
+    <string name="warning">Upozornenie</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Náhľad upozornenia</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Aby dlaždica mohla zmeniť zobrazenie náhľadu upozornenia, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Android neobsahuje žiadne viditeľné nastavenie pre zmenu zobrazenia náhľadu upozornenia. Prosím, nezabudnite prepnúť nastavenie späť pred odinštalovaním aplikácie pre správne obnovenie pôvodného správania.</string>
 </resources>

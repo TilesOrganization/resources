@@ -11,13 +11,13 @@
     <string name="low">Низкий</string>
     <string name="checking_features_progress_dialog_message">Поиск дополнительных возможностей данного устройства</string>
     <string name="not_available">Недоступно</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">Отменить</string>
+    <string name="revert">Вернуть</string>
+    <string name="discard">Сбросить</string>
     <string name="share">Поделиться</string>
     <string name="delete">Удалить</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
+    <string name="save">Сохранить</string>
+    <string name="save_and_close">Сохранить и закрыть</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
@@ -132,10 +132,10 @@
     <string name="reminder_tile_empty_notification_text_fields">Нет активных напоминаний. Чтобы добавить активное напоминание, пожалуйста введите заголовок или текст.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Для выполнения данного действия, пожалуйста дайте приложению доступ к наложению поверх других приложений</string>
     <string name="reminder_tile_text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Удалить напоминание?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Вернуть напоминание?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Отменить изменения?</string>
+    <string name="reminder_tile_remind_me">Напомни мне</string>
     <string name="retrieving_location_dialog_message">Получение местоположения. Пожалуйста, подождите.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Время бодрствования</string>

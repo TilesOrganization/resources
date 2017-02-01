@@ -11,6 +11,13 @@
     <string name="low">Bas</string>
     <string name="checking_features_progress_dialog_message">Inspection de l\'appareil pour activer des fonctionnalités spécifiques</string>
     <string name="not_available">Indisponible</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Partager</string>
+    <string name="delete">Supprimer</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosité adaptative</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Recherche web</string>
     <!--reminder-->
     <string name="reminder_tile_label">Rappel</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titre (%d caractères limités)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Contenu</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistant</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Titre (%d caractères limités)</string>
+    <string name="reminder_tile_content_hint">Contenu</string>
+    <string name="reminder_tile_persistent_checkbox">Persistant</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Supprimer</string>
     <string name="reminder_tile_empty_notification_text_fields">Aucun rappel ajoué. Pour ajouter un rappel valide, veuillez saisir un titre ou du contenu.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Pour effectuer une telle action, veuillez accorder la permission de se superposer aux autres applications</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texte copié dans le presse-papier</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Récupération de la position. Veuillez attendre.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Délai de mise en veille</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Pour permettre à la tuile d\'effectuer et enregistrer des captures d\'écran, veuillez ouvrir les réglages et accrodez la permission d\'écrire le stockage externe.</string>
     <string name="screenshot_tile_screenshot_captured">Écran capturé.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Appuyez pour voir votre capture d\'écran.</string>
-    <string name="share">Partager</string>
-    <string name="delete">Supprimer</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Mode immersif</string>
     <string name="immersive_mode_tile_off">Mode immersif désactivé</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Presse-papier</string>
     <string name="clipboard_tile_empty_clip">Le presse-papier ne contient pas de texte.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

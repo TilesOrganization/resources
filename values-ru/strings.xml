@@ -11,6 +11,13 @@
     <string name="low">Низкий</string>
     <string name="checking_features_progress_dialog_message">Поиск дополнительных возможностей данного устройства</string>
     <string name="not_available">Недоступно</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Поиск в Сети</string>
     <!--reminder-->
     <string name="reminder_tile_label">Напоминание</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Заголовок (максимум %d символов)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Текст</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Постоянное</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Заголовок (максимум %d символов)</string>
+    <string name="reminder_tile_content_hint">Текст</string>
+    <string name="reminder_tile_persistent_checkbox">Постоянное</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Удалить</string>
     <string name="reminder_tile_empty_notification_text_fields">Нет активных напоминаний. Чтобы добавить активное напоминание, пожалуйста введите заголовок или текст.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Для выполнения данного действия, пожалуйста дайте приложению доступ к наложению поверх других приложений</string>
     <string name="reminder_tile_text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Получение местоположения. Пожалуйста, подождите.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Время бодрствования</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Чтобы позволить плитке сделать и сохранить скриншот, пожалуйста откройте настройки и дайте доступ к записи в хранилище устройства.</string>
     <string name="screenshot_tile_screenshot_captured">Скриншот сделан.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Нажмите, чтобы посмотреть скриншот.</string>
-    <string name="share">Поделиться</string>
-    <string name="delete">Удалить</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Полноэкранный режим</string>
     <string name="immersive_mode_tile_off">Полноэкранный режим выключен</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Буфер обмена</string>
     <string name="clipboard_tile_empty_clip">Буфер обмена пуст.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

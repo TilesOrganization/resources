@@ -11,6 +11,13 @@
     <string name="low">Bajo</string>
     <string name="checking_features_progress_dialog_message">Comprobando las características de tu dispositivo</string>
     <string name="not_available">No disponible</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Eliminar</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brillo adaptativo</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir a Tile acceder al brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Búsqueda Web</string>
     <!--reminder-->
     <string name="reminder_tile_label">Recordatorio</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Título (%d chars limited)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Contenido</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistencia</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Título (%d chars limited)</string>
+    <string name="reminder_tile_content_hint">Contenido</string>
+    <string name="reminder_tile_persistent_checkbox">Persistencia</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Eliminar</string>
     <string name="reminder_tile_empty_notification_text_fields">Error al crear recordatorio. Para crear un recordatorio válido, por favor, introduce un título y contenido válido.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar esta acción, por favor, concede permisos para dibujar sobre otras aplicaciones</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado al portapapeles</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Obteniendo localización. Por favor, espera.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tiempo para bloquear</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir a Tile tomar y almacenar la captura de pantalla, por favor, accede a los ajustes y concede permiso para escribir en el almacenamiento externo.</string>
     <string name="screenshot_tile_screenshot_captured">Captura de pantalla realizada.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Toca para ver tu captura de pantalla.</string>
-    <string name="share">Compartir</string>
-    <string name="delete">Eliminar</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modo inmersivo</string>
     <string name="immersive_mode_tile_off">Modo inmersivo off</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Portapapeles</string>
     <string name="clipboard_tile_empty_clip">El portapapeles no contiene ningún texto.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

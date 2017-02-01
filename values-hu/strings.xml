@@ -11,6 +11,13 @@
     <string name="low">Alacsony</string>
     <string name="checking_features_progress_dialog_message">Eszköz specifikus funkciók engedélyezésének ellenőrzése</string>
     <string name="not_available">Nem elérhető</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Megosztás</string>
+    <string name="delete">Törlés</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Alkalmazkodó fényerő</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">A fényerő mód csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Webes keresés</string>
     <!--reminder-->
     <string name="reminder_tile_label">Emlékeztető</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Cím (max. %d karakter)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Tartalom</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Állandó</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Cím (max. %d karakter)</string>
+    <string name="reminder_tile_content_hint">Tartalom</string>
+    <string name="reminder_tile_persistent_checkbox">Állandó</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Törlés</string>
     <string name="reminder_tile_empty_notification_text_fields">Új emlékeztető nincs elmentve. Megfelelő emlékeztető hozzáadásához kérlek adj meg egy címet vagy tartalmat.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Ilyen művelet végrehajtásához kérlek engedélyezd az alkalmazás számára a mások felett való megjelenést.</string>
     <string name="reminder_tile_text_copied_to_clipboard">Szöveg vágólapra másolva</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Helymeghatározás folyamatban, kérlek várj…</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Alvó mód ideje</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">A képernyőkép csempe általi készítésének és mentésének engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a (külső) tárhelyre való íráshoz.</string>
     <string name="screenshot_tile_screenshot_captured">Képernyőkép elkészült.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Nyomj ide a megtekintéshez.</string>
-    <string name="share">Megosztás</string>
-    <string name="delete">Törlés</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Kiterjesztett képernyő mód</string>
     <string name="immersive_mode_tile_off">Kiterjesztett képernyő mód kikapcsolva</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Clipboard</string>
     <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

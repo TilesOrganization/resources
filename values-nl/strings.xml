@@ -11,6 +11,13 @@
     <string name="low">Laag</string>
     <string name="checking_features_progress_dialog_message">Controleren op toestel specifieke kenmerken om in te schakelen</string>
     <string name="not_available">Niet beschikbaar</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Delen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Op het web zoeken</string>
     <!--reminder-->
     <string name="reminder_tile_label">Herinnering</string>
-    <string name="reminder_tile_dialog_formatted_title_hint">Titel (%d beperkte tekens)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Inhoud</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Blijvend</string>
+    <string name="reminder_tile_formatted_title_hint">Titel (%d beperkte tekens)</string>
+    <string name="reminder_tile_content_hint">Inhoud</string>
+    <string name="reminder_tile_persistent_checkbox">Blijvend</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Verwijder</string>
     <string name="reminder_tile_empty_notification_text_fields">Geen herinnering toegevoegd. Om een geldige herinnering toe te voegen, voer een titel of inhoud in.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Om een dergelijke actie uit te voeren, verleen toestemming om over andere apps heen te tekenen</string>
     <string name="reminder_tile_text_copied_to_clipboard">Tekst gekopieerd naar klembord</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Locatie aan het ophalen. Even geduld alsjeblieft.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Slaap pauzeren</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Om de tegel toestemming te geven om een screenshot te nemen, open instellingen en geef toestemming om op externe opslag op te slaan.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot genomen.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tik om screenshot te tonen.</string>
-    <string name="share">Delen</string>
-    <string name="delete">Verwijderen</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Immersive modus</string>
     <string name="immersive_mode_tile_off">Immersive modus uit</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Clipboard</string>
     <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

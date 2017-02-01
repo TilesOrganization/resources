@@ -11,6 +11,13 @@
     <string name="low">Tief</string>
     <string name="checking_features_progress_dialog_message">Überprüfe die Aktivierung gerätespezifischer Features</string>
     <string name="not_available">Nicht verfügbar</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Teile</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Web-Suche</string>
     <!--reminder-->
     <string name="reminder_tile_label">Erinnerung</string>
-    <string name="reminder_tile_dialog_formatted_title_hint">Kachel (auf %d Zeichen begrenzt)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Inhalt</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistent</string>
+    <string name="reminder_tile_formatted_title_hint">Kachel (auf %d Zeichen begrenzt)</string>
+    <string name="reminder_tile_content_hint">Inhalt</string>
+    <string name="reminder_tile_persistent_checkbox">Persistent</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Löschen</string>
     <string name="reminder_tile_empty_notification_text_fields">Keine Erinnerung hinzugefügt. Um eine Erinnerung hinzuzufügen, füge einen Titel oder Inhalt ein.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Um diese Aktion auszuführen, erteile der App das Recht über andere Apps sich einzublenden</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text in die Zwischenablage kopiert</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Bestimme Standort. Bitte warten.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Ruhezustand</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstellen und speichern darf, öffne bitte die Einstellungen und erteile Schreibrechte für den Speicher.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot erstellt.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klicke um den Screenshot anzuzeigen.</string>
-    <string name="share">Teile</string>
-    <string name="delete">Delete</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Immersiver Modus</string>
     <string name="immersive_mode_tile_off">Immersiver Modus aus</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Clipboard</string>
     <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

@@ -11,6 +11,13 @@
     <string name="low">Bassa</string>
     <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>>Geolocalizzazione
     <string name="not_available">Non disponibile</string>
+    <string name="cancel">Cancella</string>
+    <string name="revert">Ripristina</string>
+    <string name="discard">Ignora</string>
+    <string name="share">Condividi</string>
+    <string name="delete">Elimina</string>
+    <string name="save">Salva</string>
+    <string name="save_and_close">Salva &amp; Chiudi</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Ricerca web</string>
     <!--reminder-->
     <string name="reminder_tile_label">Promemoria</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Titolo (%d limite caratteri)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Contenuto</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistente</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Titolo (%d limite caratteri)</string>
+    <string name="reminder_tile_content_hint">Contenuto</string>
+    <string name="reminder_tile_persistent_checkbox">Persistente</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Elimina</string>
     <string name="reminder_tile_empty_notification_text_fields">Nessun promemoria aggiunto. Per aggiungere un valido promemoria, per favore inserire titolo o contenuto.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Per eseguire tale azione, per favore aprire le impostazioni e concedere l\'autorizzazione posizionamento davanti ad altre app</string>
     <string name="reminder_tile_text_copied_to_clipboard">Testo copiato negli appunti</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Eliminare promemoria?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Ripristinare promemoria?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Ignorare le modifiche?</string>
+    <string name="reminder_tile_remind_me">Ricordami</string>
     <string name="retrieving_location_dialog_message">Ottendo geolocalizzazione. Per favore, attendere.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Timeout sospensione</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Per permettere alla funzione di acquisire e archiviare screenshot, per favore aprire le impostazioni e concedere l\'autorizzazione archiviazione.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot acquisito.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tocca per vedere il tuo screenshot.</string>
-    <string name="share">Condividi</string>
-    <string name="delete">Elimina</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modalità immersiva</string>
     <string name="immersive_mode_tile_off">Modalità immersiva disattivata</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Appunti</string>
     <string name="clipboard_tile_empty_clip">Gli appunti non contengono testo.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

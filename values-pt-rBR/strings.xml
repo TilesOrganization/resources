@@ -11,6 +11,13 @@
     <string name="low">Baixo</string>
     <string name="checking_features_progress_dialog_message">Verificando as características específicas do dispositivo para ativar as funcionalidades</string>
     <string name="not_available">Não disponível</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Pesquisa na web</string>
     <!--reminder-->
     <string name="reminder_tile_label">Lembrete</string>
-    <string name="reminder_tile_dialog_formatted_title_hint">Título (%d caracteres limitados)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Conteúdo</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Persistente</string>
+    <string name="reminder_tile_formatted_title_hint">Título (%d caracteres limitados)</string>
+    <string name="reminder_tile_content_hint">Conteúdo</string>
+    <string name="reminder_tile_persistent_checkbox">Persistente</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Excluir</string>
     <string name="reminder_tile_empty_notification_text_fields">Lembrete não adicionado. Para adicionar um lembrete válido, por favor entre com um título ou conteúdo.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar essa ação, conceda a permissão para sobrepor a outros apps</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Recuperando localização. Por favor, aguarde.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda a permissão de gravação no armazenamento externo.</string>
     <string name="screenshot_tile_screenshot_captured">Captura de tela obtida.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Toque para ver sua captura de tela.</string>
-    <string name="share">Compartilhar</string>
-    <string name="delete">Delete</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modo Imersivo</string>
     <string name="immersive_mode_tile_off">Modo imersivo desativado</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Prancheta</string>
     <string name="clipboard_tile_empty_clip">A área de transferência não contém texto.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

@@ -11,6 +11,13 @@
     <string name="low">Nízky</string>
     <string name="checking_features_progress_dialog_message">Kontrolujú sa špecifické funkcie zariadenia pre ich povolenie</string>
     <string name="not_available">Nie je dostupné</string>
+    <string name="cancel">Cancel</string>
+    <string name="revert">Revert</string>
+    <string name="discard">Discard</string>
+    <string name="share">Zdieľať</string>
+    <string name="delete">Vymazať</string>
+    <string name="save">Save</string>
+    <string name="save_and_close">Save &amp; Close</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -118,13 +125,17 @@
     <string name="web_search_tile_label">Vyhľadávanie na webe</string>
     <!--reminder-->
     <string name="reminder_tile_label">Pripomienka</string>
-    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">Názov (max. %d znakov)</string>
-    <string name="reminder_tile_dialog_formatted_content_hint">Obsah</string>
-    <string name="reminder_tile_dialog_persistent_checkbox">Trvalá</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Názov (max. %d znakov)</string>
+    <string name="reminder_tile_content_hint">Obsah</string>
+    <string name="reminder_tile_persistent_checkbox">Trvalá</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Vymazať</string>
     <string name="reminder_tile_empty_notification_text_fields">Pripomienka nebola pridaná. Pre pridanie platnej pripomienky, prosím, zadajte názov alebo obsah.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Pre vykonanie tejto akcie , prosím, povoľte Vykreslenie cez ďalšie aplikácie.</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text bol skopírovaný do schránky</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Získavanie polohy. Prosím, čakajte.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Režim spánku</string>
@@ -161,8 +172,6 @@
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Aby dlaždica mohla zaznamenať snímku obrazovky, prosím, otvorte nastavenia a povoľte zápis do Úložiska.</string>
     <string name="screenshot_tile_screenshot_captured">Snímka obrazovky bola zaznamenaná.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klepnutím zobrazíte snímku obrazovky.</string>
-    <string name="share">Zdieľať</string>
-    <string name="delete">Vymazať</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Režim na celú obrazovku</string>
     <string name="immersive_mode_tile_off">Režim na celú obrazovku je vypnutý</string>
@@ -256,4 +265,6 @@
     <!--clipboard-->
     <string name="clipboard_tile_label">Schránka</string>
     <string name="clipboard_tile_empty_clip">Schránka neobsahuje text.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
 </resources>

@@ -132,7 +132,7 @@
     <string name="settings_summary_off_hidden">Verborgen</string>
     <string name="settings_summary_on_shown">Wordt getoond</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Verwijder herinnering door naar recht of naar links te vegen</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Verwijder herinnering door naar rechts of naar links te vegen</string>
     <string name="settings_reminder_tile_persistent_notification_summary_on">Verwijder de herinnering door op de verwijderknop te klikken</string>
     <string name="settings_reminder_tile_persistent_notification_title">Blijvende notificatie</string>
     <string name="settings_reminder_tile_notification_play_sound_title">Speel geluid af</string>
@@ -153,8 +153,8 @@
     <string name="settings_calendar_tile_action_view">Bekijk gebeurtenis</string>
     <string name="settings_calendar_tile_action_add">Voeg gebeurtenis toe</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming omde locatie modus te veranderen</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om de locatei modus te veranderen</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om de locatie modus te veranderen</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om de locatie modus te veranderen</string>
     <string name="settings_location_tile_action_change_location_mode">Verander locatie modus</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om slaap te pauzeren</string>
@@ -162,7 +162,7 @@
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Verander slaap time-out</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Toestemming om op externe opslag op te slaan</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Toegekend. De tegel heeft toesstemming om een screenshot te maken en op te slaan</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Toegekend. De tegel heeft toesstemming om een screenshot te maken en om op te slaan</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Geweigerd. De tegel heeft geen toesstemming om een screenshot te maken en op te slaan</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Speel geluid af</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Speel standaard notificatie geluid af wanneer er een screenshot gemaakt wordt</string>
@@ -229,10 +229,10 @@
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om demo modus te veranderen</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om demo modus te veranderen</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
+    <string name="settings_dump_permission_title">Dump permissie</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Toegekend. De tegel heeft toestemming om state dump informatie van de systeem services te achterhalen</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om state dump informatie van de systeem services te achterhalen</string>
     <!--heads up notifications-->
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om heads-up notificaties te veranderen</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Gewijgerd. De tegel heeft geen toestemming om heads-up notificaties te veranderen</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om heads-up notificaties te veranderen</string>
 </resources>

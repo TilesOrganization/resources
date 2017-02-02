@@ -11,14 +11,14 @@
     <string name="low">Tief</string>
     <string name="checking_features_progress_dialog_message">Überprüfe die Aktivierung gerätespezifischer Features</string>
     <string name="not_available">Nicht verfügbar</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
-    <string name="share">Teile</string>
-    <string name="delete">Delete</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="revert">Zurücksetzen</string>
+    <string name="discard">Verwerfen</string>
+    <string name="share">Teilen</string>
+    <string name="delete">Löschen</string>
+    <string name="save">Sichern</string>
+    <string name="save_and_close">Sichern &amp; Schliessen</string>
+    <string name="warning">Warnung</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -98,7 +98,7 @@
     <!--weather-->
     <string name="weather_tile_label">Wetter</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Damit die Kachel auf das Wetter zugreifen kann, öffne die System-Einstellungen und erteile Standort-Rechte.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Erfasse Wetter-Daten. Bitte warte.</string>
     <string name="weather_formatted_temperature_celsius">Temperatur: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatur: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Gefühlt: &lt;b>%1$.1f&lt;/b> \u2103</string>
@@ -133,9 +133,9 @@
     <string name="reminder_tile_empty_notification_text_fields">Keine Erinnerung hinzugefügt. Um eine Erinnerung hinzuzufügen, füge einen Titel oder Inhalt ein.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Um diese Aktion auszuführen, erteile der App das Recht über andere Apps sich einzublenden</string>
     <string name="reminder_tile_text_copied_to_clipboard">Text in die Zwischenablage kopiert</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Errinnerung löschen?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Errinnerung zurücksetzen?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Änderungen verwerfen?</string>
     <string name="reminder_tile_remind_me">Remind me</string>
     <string name="retrieving_location_dialog_message">Bestimme Standort. Bitte warten.</string>
     <!--sleep timeout-->
@@ -192,7 +192,7 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">Skalierung der Dauer %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Damit die Kachel die Animationen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Ruhezustand</string>
+    <string name="sleep_time_tile_label">Ruhezeiten</string>
     <string name="sleep_time_tile_awake">Aktiv</string>
     <string name="sleep_time_tile_sleep">Schlafend</string>
     <string name="sleep_time_tile_formatted_battery_percentage">Batterie %d%%</string>
@@ -264,12 +264,12 @@
     <string name="demo_mode_tile_speakerphone">Lautsprecher</string>
     <string name="demo_mode_tile_vibrate">Vibration</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Zwischenablage</string>
+    <string name="clipboard_tile_empty_clip">Die Zwischenablage beinhaltet keinen Text.</string>
     <!--keep-->
-    <string name="keep_tile_label">Keep</string>
+    <string name="keep_tile_label">Notizen</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Heads-up Benachrichtigungen</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Damit die Kachel die Einstellungen für Heads-up Benachrichtigungen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Das Android Framework besitzt keine sichtbaren Einstellmöglichkeiten für Heads-up Benachrichtigungen. Mache sicher, dass du die Heads-up Benachrichtigungen wieder aktivierst bevor du die App deinstallierst um das alte Verhalten widerherzustellen.</string>
 </resources>

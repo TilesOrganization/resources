@@ -5,7 +5,7 @@
     <string name="settings_design">Aussehen</string>
     <string name="settings_animations">Animationen</string>
     <string name="settings_animations_reveal_animation_title">Aufdeckende Animationen</string>
-    <string name="settings_animations_drawable_animation_title">Auslosbare Animationen</string>
+    <string name="settings_animations_drawable_animation_title">Auslösbare Animationen</string>
     <string name="settings_enabled">Aktiviert</string>
     <string name="settings_disabled">Deaktiviert</string>
     <string name="settings_action">Aktion</string>

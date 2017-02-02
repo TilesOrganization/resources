@@ -233,6 +233,6 @@
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Permitido. Tile tiene permiso para realizar un volcado de la información del sistema</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Denegado. Tile no tiene permiso para realizar un volcado de la información del sistema</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Permitido. Tile tiene permiso para modificar las notificaciones heads-up</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denegado. Tile no tiene permiso para modificar las notificaciones heads-up</string>
 </resources>

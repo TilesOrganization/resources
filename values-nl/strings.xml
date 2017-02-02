@@ -18,7 +18,7 @@
     <string name="delete">Verwijderen</string>
     <string name="save">Save</string>
     <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="warning">Waarschuwing</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
@@ -217,7 +217,7 @@
     <string name="text_tile_empty_chat_text_field">Geen tekst toegevoegd, voeg inhoud toe.</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">Om de tegel toestemming te geven om data roaming te veranderemming, open instellingen en geef toestemming om systeem instellingen te wijzigen.</string>
+    <string name="data_roaming_tile_alert_dialog_message">Om de tegel toestemming te geven om data roaming te veranderen, open instellingen en geef toestemming om systeem instellingen te wijzigen.</string>
     <!--density-->
     <string name="density_tile_label">Dichtheid</string>
     <string name="density_tile_label_formatted">Dichtheid: %ddp</string>
@@ -239,7 +239,7 @@
     <string name="dump_permission_dialog_message_action_adb_formatted">Om handmatig %1$s toestemming te geven, verbindt je toestel met een computer en voer het volgende adb commando in: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Demo modus</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
+    <string name="demo_mode_tile_alert_dialog_message">Om de tegel toestemming te geven om demo modus te veranderen, open instellingen en geef toestemming om beveiligde schrijf instellingen en dump instellingen te wijzigen.</string>
     <string name="demo_mode_tile_system_bars">Systeem balken</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparant</string>
     <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparant</string>
@@ -254,7 +254,7 @@
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
     <string name="demo_mode_tile_state_disconnected">Niet aangesloten</string>
     <string name="demo_mode_tile_state_connected">Aangesloten</string>
-    <string name="demo_mode_tile_mobile">Mobiele networken</string>
+    <string name="demo_mode_tile_mobile">Mobiele netwerken</string>
     <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
     <string name="demo_mode_tile_notifications">Notificaties</string>
     <string name="demo_mode_tile_alarm">Alarm</string>
@@ -264,12 +264,12 @@
     <string name="demo_mode_tile_speakerphone">Telefoon speaker</string>
     <string name="demo_mode_tile_vibrate">Trillen</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Klemboard</string>
+    <string name="clipboard_tile_empty_clip">Het klembord bevat geen tekst.</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Heads-up notificaties</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Om de tegel toestemming te geven om heads-up notificaties te veranderen, open instellingen en geef toestemming om beveiligde schrijf instellingen te wijzigen.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Het Android frameworks laat geen instelling zien om heads-up notificaties te veranderen. Let op dat je heads-up notificaties weer aanzet wanneer je de app deïnstalleert, zodat het oorspronkelijke gedrag hersteld wordt.</string>
 </resources>

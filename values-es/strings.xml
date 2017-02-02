@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Algo ha fallado. Por favor, vuelve a intentarlo</string>
     <string name="location_off_alert_dialog_message">La ubicación está desactivada. Para permitir a Tile acceder a la ubicación, por favor, accede a los ajustes y activa la ubicación.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
+    <string name="location_device_only_alert_dialog_message">El modo de ubicación seleccionado es Solo Dispositivo. Para unos resultados más rápidos y precisos, por favor, accede a los ajustes y activa otromodo de ubicación.</string>
     <string name="resolve_activity_alert_dialog_message">No se ha encontrado ninguna aplicación para realizar esta acción.</string>
     <string name="su_alert_dialog_message">Para realizar esta acción, por favor, concede permisos de usuarios para consola interactiva.</string>
     <string name="play_services_alert_dialog_message">Se necesita Google Play Services para realizar esta acción. Por favor, instálalo y prueba de nuevo.</string>
@@ -16,9 +16,9 @@
     <string name="discard">Discard</string>
     <string name="share">Compartir</string>
     <string name="delete">Eliminar</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="save">Guardar</string>
+    <string name="save_and_close">Guardar &amp; Cerrar</string>
+    <string name="warning">Precaución</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brillo adaptativo</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir a Tile acceder al brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
@@ -133,10 +133,10 @@
     <string name="reminder_tile_empty_notification_text_fields">Error al crear recordatorio. Para crear un recordatorio válido, por favor, introduce un título y contenido válido.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar esta acción, por favor, concede permisos para dibujar sobre otras aplicaciones</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado al portapapeles</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">¿Eliminar recordatorio?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">¿Recuperar recordatorio?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">¿Descartar cambios?</string>
+    <string name="reminder_tile_remind_me">Recuérdamelo</string>
     <string name="retrieving_location_dialog_message">Obteniendo localización. Por favor, espera.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tiempo para bloquear</string>

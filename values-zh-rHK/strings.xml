@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">發生錯誤,請重試。</string>
+    <string name="something_went_wrong">發生錯誤，請重試。</string>
     <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
     <string name="location_device_only_alert_dialog_message">定位模式是僅限裝置。要提高定位精確度，請前往設定啟用其他定位模式以更迅速準確地獲得結果。</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
-    <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限給交互式shell</string>
-    <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此類操作。請安裝然後重試。</string>
+    <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限給交互式shell。</string>
+    <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此類操作，請安裝然後重試。</string>
     <string name="high">高</string>
     <string name="medium">中</string>
     <string name="low">低</string>
@@ -25,7 +25,7 @@
     <!--application-->
     <string name="application_tile_label">應用程式</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
-    <string name="application_info_dialog_message">只選取一個應用程以快速啟動。</string>
+    <string name="application_info_dialog_message">只選取一個應用程以快速啟動</string>
     <!--brightness-->
     <string name="brightness_tile_label">亮度</string>
     <string name="brightness_tile_label_formatted">亮度 %1$s</string>
@@ -52,7 +52,7 @@
     <!--email -->
     <string name="email_tile_label">電子郵件</string>
     <string name="email_tile_formatted_label">電郵至 %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">沒有選取任何電郵地址, 請開啟設定並選取電郵地址或選擇進行其他動作。</string>
+    <string name="email_tile_empty_email_alert_dialog_message">沒有選取任何電郵地址，請開啟設定並選取電郵地址或選擇進行其他動作。</string>
     <!--lock-->
     <string name="lock_tile_label">鎖定</string>
     <string name="lock_tile_device_admin_description">允許快速設定磚鎖定裝置</string>
@@ -79,7 +79,7 @@
     <string name="ringer_mode_tile_label_normal">正常</string>
     <string name="ringer_mode_tile_label_silent">靜音</string>
     <string name="ringer_mode_tile_label_vibrate">震動</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式, 請前往設定並允許請勿打擾模式的存取權限。</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許請勿打擾模式的存取權限。</string>
     <!--screen on-->
     <string name="screen_on_tile_label">保持屏幕開啟</string>
     <string name="screen_on_tile_dialog_wake_lock_running">保持屏幕開啟的服務正在運行，\n要停止服務嗎？</string>
@@ -151,7 +151,7 @@
     <string name="sleep_timeout_tile_value_1800000">30 分鐘</string>
     <!--location mode-->
     <string name="location_tile_label">定位模式</string>
-    <string name="location_tile_alert_dialog_message">要允許快速設定磚變更定位模式, 請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="location_tile_alert_dialog_message">要允許快速設定磚變更定位模式，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="location_tile_label_off">定位關閉</string>
     <string name="location_tile_label_battery_saving">省電模式</string>
     <string name="location_tile_label_sensors_only">只限裝置</string>
@@ -159,7 +159,7 @@
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">安全系統設置包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s寫入安全設置權限嗎？</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限, 將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">允許</string>
     <string name="permission_dialog_message_revoke">撤銷</string>
     <!--timer H M S symbols -->
@@ -170,7 +170,7 @@
     <string name="sleep_tile_label">休眠</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">屏幕截圖</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定磚進行屏幕截圖, 請前往設定並允許可寫入外部儲存空間的權限。</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定磚進行屏幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
     <string name="screenshot_tile_screenshot_captured">已擷取屏幕畫面</string>
     <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看屏幕截圖</string>
     <!--immersive mode-->
@@ -236,10 +236,10 @@
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限, 將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">示範模式</string>
-    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式的使用狀態, 請前往設定並允許可寫入安全設定及檢測的權限。</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式的使用狀態，請前往設定並允許可寫入安全設定及檢測的權限。</string>
     <string name="demo_mode_tile_system_bars">狀態列</string>
     <string name="demo_mode_tile_system_bars_transparent">透明</string>
     <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
@@ -267,9 +267,9 @@
     <string name="clipboard_tile_label">剪貼板</string>
     <string name="clipboard_tile_empty_clip">剪貼板內沒有任何文字</string>
     <!--keep-->
-    <string name="keep_tile_label">Keep</string>
+    <string name="keep_tile_label">Google Keep</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">浮動通知</string>
     <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
-    <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統的框架中並沒有提供任何設定選項去變更浮動通知的使用狀態。請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能回復正常運作，謝謝。</string>
+    <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統中並沒有提供任何設定選項去變更浮動通知的使用狀態，請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能回復正常運作，謝謝。</string>
 </resources>

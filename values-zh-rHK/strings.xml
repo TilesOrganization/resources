@@ -11,14 +11,14 @@
     <string name="low">低</string>
     <string name="checking_features_progress_dialog_message">正在檢查裝置以啟用特定的功能</string>
     <string name="not_available">不可用</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">取消</string>
+    <string name="revert">回復</string>
+    <string name="discard">捨棄</string>
     <string name="share">分享</string>
     <string name="delete">刪除</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="save">儲存</string>
+    <string name="save_and_close">儲存及關閉</string>
+    <string name="warning">警告</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">自動亮度模式</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
@@ -66,7 +66,7 @@
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_service_description">當快速設定磚被加入時，檢察NFC狀態的服務將會啟用，反之亦然。注意：手動停止服務亦會導致設定磚狀態無法更新或反應延遲。</string>
-    <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--power-->
     <string name="power_tile_action_power_dialog">電源選單</string>
     <string name="power_tile_label">電源</string>
@@ -133,10 +133,10 @@
     <string name="reminder_tile_empty_notification_text_fields">未有添加備忘提醒。如要添加有效的備忘提醒，請輸入標題或內容。</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">要執行此類操作，請授予可覆蓋其他應用程式權限。</string>
     <string name="reminder_tile_text_copied_to_clipboard">文本已複製至剪貼板</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">刪除備忘提醒？</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">回復備忘提醒？</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">捨棄更改？</string>
+    <string name="reminder_tile_remind_me">提醒我</string>
     <string name="retrieving_location_dialog_message">正在取得位置，請稍候。</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">休眠時限</string>
@@ -182,7 +182,7 @@
     <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全屏模式，請前往設定並允許可寫入安全設定的權限。</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">環境顯示</string>
-    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--animations-->
     <string name="animations_tile_label">動畫</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -190,7 +190,7 @@
     <string name="animations_tile_label_window">視窗</string>
     <string name="animations_tile_label_dialog_check_box_off_label">關閉動畫</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">動畫比例 %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">休眠時間</string>
     <string name="sleep_time_tile_awake">清醒</string>
@@ -217,7 +217,7 @@
     <string name="text_tile_empty_chat_text_field">請輸入文本分享內容。</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">數據漫遊</string>
-    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定磚變更數據漫遊，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定磚變更數據漫遊的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--density-->
     <string name="density_tile_label">顯示大小</string>
     <string name="density_tile_label_formatted">密度: %ddp</string>
@@ -232,14 +232,14 @@
     <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">充電時保持亮屏</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚使用充電時保持亮屏，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚變更充電時保持亮屏的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限, 將裝置連接至電腦並運行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">示範模式</string>
-    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式, 請前往設定並允許可寫入安全設定及檢測的權限。</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式的使用狀態, 請前往設定並允許可寫入安全設定及檢測的權限。</string>
     <string name="demo_mode_tile_system_bars">狀態列</string>
     <string name="demo_mode_tile_system_bars_transparent">透明</string>
     <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">浮動通知</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統的框架中並沒有提供任何設定選項去變更浮動通知的使用狀態。請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能回復正常運作，謝謝。</string>
 </resources>

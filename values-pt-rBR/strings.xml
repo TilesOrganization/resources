@@ -2,7 +2,7 @@
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
     <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
+    <string name="location_device_only_alert_dialog_message">O modo de localização está como Somente no dispositivo. Para um resultado mais rápido e preciso, abra as configurações e ative um modo de localização diferente.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
     <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Instale-o e tente novamente</string>
@@ -11,14 +11,14 @@
     <string name="low">Baixo</string>
     <string name="checking_features_progress_dialog_message">Verificando as características específicas do dispositivo para ativar as funcionalidades</string>
     <string name="not_available">Não disponível</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">Cancelar</string>
+    <string name="revert">Reverter</string>
+    <string name="discard">Descartar</string>
     <string name="share">Compartilhar</string>
-    <string name="delete">Delete</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="delete">Excluir</string>
+    <string name="save">Salvar</string>
+    <string name="save_and_close">Salvar e Fechar</string>
+    <string name="warning">Aviso</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -133,10 +133,10 @@
     <string name="reminder_tile_empty_notification_text_fields">Lembrete não adicionado. Para adicionar um lembrete válido, por favor entre com um título ou conteúdo.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar essa ação, conceda a permissão para sobrepor a outros apps</string>
     <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Excluir lembrete?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Restaurar lembrete?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Descartar edições?</string>
+    <string name="reminder_tile_remind_me">Lembra-me</string>
     <string name="retrieving_location_dialog_message">Recuperando localização. Por favor, aguarde.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
@@ -192,9 +192,9 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">Escala de duração %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Para permitir que o bloco altere as animações, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">Tempo de sono</string>
-    <string name="sleep_time_tile_awake">Acordado</string>
-    <string name="sleep_time_tile_sleep">Sono</string>
+    <string name="sleep_time_tile_label">Tempo de inatividade</string>
+    <string name="sleep_time_tile_awake">Ativo</string>
+    <string name="sleep_time_tile_sleep">Inativo</string>
     <string name="sleep_time_tile_formatted_battery_percentage">Bateria %d%%</string>
     <string name="sleep_time_tile_unplugged">Desconectado</string>
     <string name="sleep_time_tile_plugged_usb">Conectado por USB</string>
@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Notificações heads-up</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir que o bloco altere as notificações heads-up, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <string name="heads_up_notifications_tile_alert_summary">As frameworks do Android não expõem nenhuma configuração visível para alterar as notificações de heads-up. Certifique-se de ativar as notificações de heads-up novamente antes de desinstalar o aplicativo para restaurar corretamente o comportamento original.</string>
 </resources>

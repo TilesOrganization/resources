@@ -18,7 +18,7 @@
     <string name="delete">Удалить</string>
     <string name="save">Сохранить</string>
     <string name="save_and_close">Сохранить и закрыть</string>
-    <string name="warning">Warning</string>
+    <string name="warning">Предупреждение</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Всплывающие уведомления</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Чтобы позволить плитке менять состояние всплывающих уведомлений, пожалуйста откройте настройки и дайте доступ к изменению настроек безопасности.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Платформа Android не содержит видимой опции для изменения состояния всплывающих уведомлений. В связи с этим, пожалуйста, убедитесь, что всплывающие уведомления включены перед удалением приложения, чтобы восстановить поведение системы по умолчанию.</string>
 </resources>

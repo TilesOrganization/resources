@@ -11,14 +11,14 @@
     <string name="low">Bas</string>
     <string name="checking_features_progress_dialog_message">Inspection de l\'appareil pour activer des fonctionnalités spécifiques</string>
     <string name="not_available">Indisponible</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">Annuler</string>
+    <string name="revert">Retourner</string>
+    <string name="discard">Jeter</string>
     <string name="share">Partager</string>
     <string name="delete">Supprimer</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
+    <string name="save">Enregistrer</string>
+    <string name="save_and_close">Enregistrer &amp; Fermer</string>
+    <string name="warning">Avertissement</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosité adaptative</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Notifications Heads-up</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Pour permettre à la tuile de changer les notifications heads-up, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Les frameworks Android n\'exposent aucun paramètre visible pour changer les notifications heads-up. Assurez-vous de réactiver les notifications heads-up avant de désinstaller l\'appli afin de restaurer correctement le comportement originel.</string>
 </resources>

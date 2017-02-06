@@ -9,7 +9,7 @@
     <string name="high">Alta</string>
     <string name="medium">Media</string>
     <string name="low">Bassa</string>
-    <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>>Geolocalizzazione
+    <string name="checking_features_progress_dialog_message">Controllando le caratteristiche da attivare specifiche del dispositivo</string>
     <string name="not_available">Non disponibile</string>
     <string name="cancel">Cancella</string>
     <string name="revert">Ripristina</string>
@@ -19,6 +19,8 @@
     <string name="save">Salva</string>
     <string name="save_and_close">Salva &amp; Chiudi</string>
     <string name="warning">Avvertimento</string>
+    <string name="accessibility_service_label">Servizio accessibilità</string>
+    <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare il dialogo accensione di sistema, mostare le applicazioni recenti, cambiare multi-window.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -68,6 +70,9 @@
     <string name="nfc_tile_service_description">Servizio per osservare lo stato NFC, verrà interroto quando la funzione è rimossa. L\'interruzione potrebbere bloccare la funzione.</string>
     <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--power-->
+    <string name="power_dialog_accessibility_tile_label">Dialogo accensione</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di mostare il dialogo di accensione di sistema, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
+    <string name="power_tile_action_system_power_dialog">Dialog accensione di sistema</string>
     <string name="power_tile_action_power_dialog">Dialogo accensione</string>
     <string name="power_tile_label">Accensione</string>
     <string name="power_tile_action_reboot">Riavvia</string>
@@ -272,4 +277,10 @@
     <string name="heads_up_notifications_tile_label"> Notifiche heads-up</string>
     <string name="heads_up_notifications_tile_alert_dialog_message">Per permettere alla funzione di cambiare notifiche heads-up, per favore aprire le impostazione e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <string name="heads_up_notifications_tile_alert_summary">Il frameworks Android non espone alcuna impostazione visibile per cambiare notifiche heads-up. Per favore ricordarsi di riattivare le notifiche heads-up prima di disinstallare l\'applicazione per ripristinare correttamente il comportamento originale.</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">Multi-Window</string>
+    <string name="multi_window_tile_alert_dialog_message">Per permettere alla funzione di cambiare multi-window, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
+    <!--recents screen-->
+    <string name="recent_apps_tile_label">Applicazioni recenti</string>
+    <string name="recent_apps_tile_alert_dialog_message">Per permettere alla funzione di mostare applicazioni recenti, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
 </resources>

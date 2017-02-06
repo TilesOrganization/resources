@@ -19,6 +19,8 @@
     <string name="save">Guardar</string>
     <string name="save_and_close">Guardar &amp; Cerrar</string>
     <string name="warning">Precaución</string>
+    <string name="accessibility_service_label">Accessibility service</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recent apps, toggle multi-window.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brillo adaptativo</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir a Tile acceder al brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
@@ -68,6 +70,9 @@
     <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir a Tile realizar cambios en el estado del NFC, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--power-->
+    <string name="power_dialog_accessibility_tile_label">Power dialog</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
+    <string name="power_tile_action_system_power_dialog">System power dialog</string>
     <string name="power_tile_action_power_dialog">Menú de apagado</string>
     <string name="power_tile_label">Apagado</string>
     <string name="power_tile_action_reboot">Reiniciar</string>
@@ -272,4 +277,10 @@
     <string name="heads_up_notifications_tile_label">Notificaciones Heads-up</string>
     <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir a Tile modificar las notificaciones Heads-up, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <string name="heads_up_notifications_tile_alert_summary">Android no muestra en ajustes ninguna opción para modificar las notificaciones Heads-up. Por favor, vuelve a activar las notificaciones Heads-up antes de desinstalar esta aplicación para restablecer esta opción a su estado original.</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">Multi-Window</string>
+    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <!--recents screen-->
+    <string name="recent_apps_tile_label">Recent apps</string>
+    <string name="recent_apps_tile_alert_dialog_message">To allow the tile to show recent apps, please open settings and enable accessibility service.</string>
 </resources>

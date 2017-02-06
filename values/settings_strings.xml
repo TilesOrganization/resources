@@ -235,4 +235,13 @@
     <!--heads up notifications-->
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <!--power-->
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <!--multi-window-->
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <!--recent apps-->
+    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recent apps</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recent apps</string>
 </resources>

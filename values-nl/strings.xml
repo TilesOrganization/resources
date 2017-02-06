@@ -19,8 +19,8 @@
     <string name="save">Save</string>
     <string name="save_and_close">Save &amp; Close</string>
     <string name="warning">Waarschuwing</string>
-    <string name="accessibility_service_label">Toegankelijkheid service</string>
-    <string name="accessibility_service_description">Toegankelijkheid service om Tiles toestemming te geven om globale acties uit te voeren: laat systeem power dialoog zien, laat recente apps zien, multi-venster schakelen.</string>
+    <string name="accessibility_service_label">Toegankelijkheidsservice</string>
+    <string name="accessibility_service_description">Toegankelijkheidsservice om Tiles toestemming te geven om globale acties uit te voeren: laat systeem power dialoog zien, laat recente apps zien, multi-venster schakelen.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Aangepaste helderheid</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Om de tegel de helderheidsmodus te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
@@ -71,7 +71,7 @@
     <string name="nfc_tile_alert_dialog_message">Om de tegel toestemming te geven om de NFC status te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">Power dialoog</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">Om de tegel toestemming te geven om systeem power dialoog te laten zien, open instellingen en schakel toegankelijkheid service in.</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Om de tegel toestemming te geven om systeem power dialoog te laten zien, open instellingen en schakel toegankelijkheidsservice in.</string>
     <string name="power_tile_action_system_power_dialog">Systeem power dialoog</string>
     <string name="power_tile_action_power_dialog">Power dialoog</string>
     <string name="power_tile_label">Power</string>

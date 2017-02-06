@@ -269,7 +269,7 @@
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Notificações heads-up</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir que o mosaico altere as notificações heads-up, abra as definições e conceda permissão para modificar definições seguras.</string>
+    <string name="heads_up_notifications_tile_alert_summary">O Android não tem qualquer definição que altere as notificações heads-up.  Não se esqueça de reativar as notificações heads-up antes de desinstalar a aplicação.</string>
 </resources>

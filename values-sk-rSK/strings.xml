@@ -19,8 +19,8 @@
     <string name="save">Uložiť</string>
     <string name="save_and_close">Uložiť a zavrieť</string>
     <string name="warning">Upozornenie</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recent apps, toggle multi-window.</string>
+    <string name="accessibility_service_label">Služba Dostupnosť</string>
+    <string name="accessibility_service_description">Služba Dostupnosť umožňuje Tiles vykonávať globálne akcie: zobraziť systémovú ponuku napájania, zobraziť nedávne aplikácie, prepnúť rozdelenú obrazovku.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -70,9 +70,9 @@
     <string name="nfc_tile_service_description">Služba pre sledovanie stavu NFC, bude ukončená po odobratí dlaždice. Ukončenie môže spôsobiť nefunkčnosť dlaždice.</string>
     <string name="nfc_tile_alert_dialog_message">Aby dlaždica mohla zmeniť stav NFC, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power dialog</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
+    <string name="power_dialog_accessibility_tile_label">Ponuka napájania</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Aby dlaždica mohla zobraziť systémovú ponuku napájania, prosím, otvorte nastavenia a povoľte službu Dostupnosť.</string>
+    <string name="power_tile_action_system_power_dialog">Systémová ponuka napájania</string>
     <string name="power_tile_action_power_dialog">Ponuka napájania</string>
     <string name="power_tile_label">Napájanie</string>
     <string name="power_tile_action_reboot">Reštartovať</string>
@@ -278,9 +278,9 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">Aby dlaždica mohla zmeniť zobrazenie náhľadu upozornenia, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <string name="heads_up_notifications_tile_alert_summary">Android neobsahuje žiadne viditeľné nastavenie pre zmenu zobrazenia náhľadu upozornenia. Prosím, nezabudnite prepnúť nastavenie späť pred odinštalovaním aplikácie pre správne obnovenie pôvodného správania.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Rozdelená obrazovka</string>
+    <string name="multi_window_tile_alert_dialog_message">Aby dlaždica mohla prepnúť rozdelenú obrazovku, prosím, otvorte nastavenia a povoľte službu Dostupnosť.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Recent apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">To allow the tile to show recent apps, please open settings and enable accessibility service.</string>
+    <string name="recent_apps_tile_label">Nedávne aplikácie</string>
+    <string name="recent_apps_tile_alert_dialog_message">Aby dlaždica mohla zobraziť nedávne aplikácie, prosím, otvorte nastavenia a povoľte službu Dostupnosť.</string>
 </resources>

@@ -33,7 +33,7 @@
     <!--UX-->
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_feedback">意見及援助</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">感謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>
@@ -236,12 +236,12 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更浮動通知使用狀態。</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更浮動通知使用狀態。</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟電源選單。</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟電源選單。</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟多視窗模式。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟多視窗模式。</string>
     <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recent apps</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recent apps</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
 </resources>

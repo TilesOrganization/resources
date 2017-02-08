@@ -31,10 +31,10 @@
     <string name="settings_design_status_bar_icons_light">Ícones claros</string>
     <string name="settings_design_status_bar_icons_dark">Ícones escuros</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Avançado</string>
+    <string name="settings_restart_active_tiles_title">Reinicie blocos ativos</string>
+    <string name="settings_restart_active_tiles_summary">Força a reinicialização de blocos ativos. Use isso se alguns blocos não estiverem respondendo, depois de terem sido finalizados pelo sistema.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processando a reiniciação forçada de blocos ativos.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Permissão de localização</string>
     <string name="settings_modify_system_settings_permissions_title">Permissão de modificar configurações do sistema</string>

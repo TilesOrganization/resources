@@ -31,10 +31,10 @@
     <string name="settings_design_status_bar_icons_light">Lichte pictogrammen</string>
     <string name="settings_design_status_bar_icons_dark">Donkere pictogrammen</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Geavanceerd</string>
+    <string name="settings_restart_active_tiles_title">Herstart actieve tegels</string>
+    <string name="settings_restart_active_tiles_summary">Forceer herstarten actieve tegels. Gebruik deze actie wanneer sommige tegels niet reageren, nadat ze gestopt zijn door het systeem.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Verwerken van geforceerd herstarten van actieve tegels.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Locatie toestemming</string>
     <string name="settings_modify_system_settings_permissions_title">Toestemming om systeeminstellingen te wijzigen</string>

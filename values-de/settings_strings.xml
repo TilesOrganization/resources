@@ -30,6 +30,11 @@
     <string name="settings_design_status_bar_icons_title">Symbol der Statusleiste</string>
     <string name="settings_design_status_bar_icons_light">Helle Symbole</string>
     <string name="settings_design_status_bar_icons_dark">Dunkle Symbole</string>
+    <!--advanced-->
+    <string name="settings_advanced">Advanced</string>
+    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
+    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
     <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ändern von Systemeinstellungen</string>

@@ -30,6 +30,11 @@
     <string name="settings_design_status_bar_icons_title">Icone barra di stato</string>
     <string name="settings_design_status_bar_icons_light">Icone chiare</string>
     <string name="settings_design_status_bar_icons_dark">Icone scure</string>
+    <!--advanced-->
+    <string name="settings_advanced">Avanzate</string>
+    <string name="settings_restart_active_tiles_title">Riavvia funzioni attive</string>
+    <string name="settings_restart_active_tiles_summary">Riavvio forzato delle funzioni attive. Usare questa azione se alcune funzioni non rispondono, dopo essere state terminate dal sistema.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processando riavvio delle funzioni attive.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Autorizzazione posizione</string>
     <string name="settings_modify_system_settings_permissions_title">Autorizzazione modifica impostazioni di sistema</string>

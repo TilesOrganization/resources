@@ -31,10 +31,10 @@
     <string name="settings_design_status_bar_icons_light">Helle Symbole</string>
     <string name="settings_design_status_bar_icons_dark">Dunkle Symbole</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Erweitert</string>
+    <string name="settings_restart_active_tiles_title">Neustart der aktiven Kacheln</string>
+    <string name="settings_restart_active_tiles_summary">Zerzwinge einen Neustart für die aktiven Kacheln. Verwende diese Aktion nur, nachdem die Kacheln durch das Betriebssystem beendet worden sind und deswegen nicht mehr reagieren.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Neustart der aktiven Kacheln im Gange.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
     <string name="settings_modify_system_settings_permissions_title">Berechtigung zum Ändern von Systemeinstellungen</string>
@@ -241,12 +241,12 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf Heads-up Benachrichtigungen ändern</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf keine Heads-up Benachrichtigungen ändern</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf das System Power-Menü nicht anzeigen</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf das System Power-Menü anzeigen</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf den Mehrfenster-Modus nicht ändern</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf den Mehrfenster-Modus ändern</string>
     <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recent apps</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recent apps</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf die letzten Apps nicht anzeigen</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf die letzten Apps nicht anzeigen</string>
 </resources>

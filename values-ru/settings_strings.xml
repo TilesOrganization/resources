@@ -31,10 +31,10 @@
     <string name="settings_design_status_bar_icons_light">Светлые иконки</string>
     <string name="settings_design_status_bar_icons_dark">Темные иконки</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Дополнительно</string>
+    <string name="settings_restart_active_tiles_title">Перезагрузить активные плитки</string>
+    <string name="settings_restart_active_tiles_summary">Насильно перезагрузить активные плитки. Используйте эту опцию, если некоторые плитки перестали отвечать после их отключения системой.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Выполняю перезагрузку активных плиток.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Разрешение местоположения</string>
     <string name="settings_modify_system_settings_permissions_title">Изменить настройки местоположения системы</string>
@@ -241,12 +241,12 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять состояние всплывающих уведомлений</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять состояние всплывающих уведомлений</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Запрещено. Плитка не может показывать системный диалог выключения</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать системный диалог выключения</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Запрещено. Плитка не может сменять мультиоконный режим</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Разрешено. Плитка может сменять мультиоконный режим</string>
     <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recent apps</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recent apps</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Запрещено. Плитка не может показывать недавние приложения</string>
+    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
 </resources>

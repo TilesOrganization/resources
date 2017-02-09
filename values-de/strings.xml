@@ -19,8 +19,8 @@
     <string name="save">Sichern</string>
     <string name="save_and_close">Sichern &amp; Schliessen</string>
     <string name="warning">Warnung</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recent apps, toggle multi-window.</string>
+    <string name="accessibility_service_label">Erreichbarkeitsdienst</string>
+    <string name="accessibility_service_description">Erreichbarkeitsdienst um Tiles die Ausführung globaler Aktionen zu erlauben: Zeige den System Power-Menü, zeige letzte Apps, umschalten des Mehrfenster-Modus</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -68,11 +68,11 @@
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_service_description">Dienst zur Überwachung des NFC-Status, wird beendet, wenn die Kachel entfernt wird. Wird dieser beendet, kann es zu Fehlern kommen.</string>
-    <string name="nfc_tile_alert_dialog_message">Damit die Kachel den Status von NFC ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen</string>
+    <string name="nfc_tile_alert_dialog_message">Damit die Kachel den Status von NFC ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellunge.n</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power dialog</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
+    <string name="power_dialog_accessibility_tile_label">Power-Menü</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Damit die Kachel das Power-Menü anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
+    <string name="power_tile_action_system_power_dialog">System Power-Menü</string>
     <string name="power_tile_action_power_dialog">Ausschalt-Dialog</string>
     <string name="power_tile_label">Ausschalt-Menü</string>
     <string name="power_tile_action_reboot">Neustarten</string>
@@ -162,7 +162,7 @@
     <string name="location_tile_label_high_accuracy">Hohe Genauigkeit</string>
     <string name="location_tile_alert_dialog_message">Damit die Kachel den Standordmodus ändern kann, öffne die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Abgesicherte Systemeinstellungen beinhalten Systemeinstellungen welche Applikationen lesen aber nicht ändern können. Nur Systemapps haben Zugriff auf Rechte mit dieser Sicherheitsstufe. Eine Nicht-Systemapp kann diese Rechte niemals verwenden.</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Abgesicherte System-Einstellungen beinhalten System-Einstellungen welche Applikationen lesen aber nicht ändern können. Nur Systemapps haben Zugriff auf Rechte mit dieser Sicherheitsstufe. Eine Nicht-Systemapp kann diese Rechte niemals verwenden.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles wurden Superuser-Rechte für eine interaktive Shell erteilt. Möchtest du programmatisch Schreibrechte für abgesicherte Einstellungen mittels interaktiver Superuser Shell %s?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Um das Recht manuell zu %1$s, verbinde dein Gerät zu einem Computer und führe folgenden ADB-Befehl aus: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">Erteilen</string>
@@ -175,7 +175,7 @@
     <string name="sleep_tile_label">Ruhezustand</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstellen und speichern darf, öffne bitte die Einstellungen und erteile Schreibrechte für den Speicher.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Damit die Kachel einen Screenshot erstellen und speichern darf, öffne bitte die System-Einstellungen und erteile Schreibrechte für den Speicher.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot erstellt.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klicke um den Screenshot anzuzeigen.</string>
     <!--immersive mode-->
@@ -184,10 +184,10 @@
     <string name="immersive_mode_tile_hide_system_bars">Verstecke System-Bar</string>
     <string name="immersive_mode_tile_hide_navigation_bar">Verstecke Navigations-Bar</string>
     <string name="immersive_mode_tile_hide_status_bar">Verstecke Status-bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">Damit die Kachel den immersiven Modus ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Damit die Kachel den immersiven Modus ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Inaktivitätsdisplay</string>
-    <string name="ambient_display_tile_alert_dialog_message">Damit die Kachel den Status des Inaktivitätsdisplay ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="ambient_display_tile_alert_dialog_message">Damit die Kachel den Status des Inaktivitätsdisplay ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--animations-->
     <string name="animations_tile_label">Animationen</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -195,7 +195,7 @@
     <string name="animations_tile_label_window">Fenster</string>
     <string name="animations_tile_label_dialog_check_box_off_label">Animation aus</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Skalierung der Dauer %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Damit die Kachel die Animationen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Damit die Kachel die Animationen ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">Ruhezeiten</string>
     <string name="sleep_time_tile_awake">Aktiv</string>
@@ -222,7 +222,7 @@
     <string name="text_tile_empty_chat_text_field">Kein Text hinzugefügt, bitte füge einen Inhalt hinzu.</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">Daten-Roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">Damit die Kachel die Daten-Roaming Einstellungen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="data_roaming_tile_alert_dialog_message">Damit die Kachel die Daten-Roaming Einstellungen ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--density-->
     <string name="density_tile_label">Anzeigegröße</string>
     <string name="density_tile_label_formatted">Anzeigegröße: %ddp</string>
@@ -237,14 +237,14 @@
     <string name="density_tile_density_xxxhigh">Am Größten (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Aktiv lassen während des Ladens</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">Damit die Kachel das Aktiv lassen während des Ladens ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Damit die Kachel das Aktiv lassen während des Ladens ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Erlaubt der Anwendung Status-Informationen Speicherauszug von System-Diensten abzurufen. Nur Systemapps haben Zugriff auf Rechte mit dieser Sicherheitsstufe. Eine Nicht-Systemapp kann diese Rechte niemals verwenden.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles wurden Superuser-Rechte für eine interaktive Shell erteilt. Möchtest du programmatisch Speicherabzug-Rechte mittels interaktiver Superuser Shell %s?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">Um das Recht manuell zu %1$s, verbinde dein Gerät zu einem Computer und führe folgenden ADB-Befehl aus: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Demo-Modus</string>
-    <string name="demo_mode_tile_alert_dialog_message">Damit die Kachel den Demo-Modus ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen und Rechte für einen Speicherauszug.</string>
+    <string name="demo_mode_tile_alert_dialog_message">Damit die Kachel den Demo-Modus ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen und Rechte für einen Speicherauszug.</string>
     <string name="demo_mode_tile_system_bars">Systemleisten</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
     <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
@@ -278,9 +278,9 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">Damit die Kachel die Einstellungen für Heads-up Benachrichtigungen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <string name="heads_up_notifications_tile_alert_summary">Das Android Framework besitzt keine sichtbaren Einstellmöglichkeiten für Heads-up Benachrichtigungen. Mache sicher, dass du die Heads-up Benachrichtigungen wieder aktivierst bevor du die App deinstallierst um das alte Verhalten widerherzustellen.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Mehrfenster-Modus</string>
+    <string name="multi_window_tile_alert_dialog_message">Damit die Kachel den Mehrfenster-Modus ändern kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Recent apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">To allow the tile to show recent apps, please open settings and enable accessibility service.</string>
+    <string name="recent_apps_tile_label">Letzte Apps</string>
+    <string name="recent_apps_tile_alert_dialog_message"Damit die Kachel die letzten Apps anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
 </resources>

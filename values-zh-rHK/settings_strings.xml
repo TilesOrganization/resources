@@ -31,10 +31,10 @@
     <string name="settings_design_status_bar_icons_light">淺色圖示</string>
     <string name="settings_design_status_bar_icons_dark">暗色圖示</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">進階</string>
+    <string name="settings_restart_active_tiles_title">重啟已加入的設定磚</string>
+    <string name="settings_restart_active_tiles_summary">強制重啟已加入的設定磚。如發現已加入的快速設定磚沒有反應或被系統停止運作，可使用此選項強制重啟這些設定磚。</string>
+    <string name="settings_restart_active_tiles_summary_processing">正在重啟已加入的設定磚。</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>

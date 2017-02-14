@@ -213,7 +213,7 @@
     <string name="settings_font_size_tile_font_scale_default">Predefinição</string>
     <string name="settings_font_size_tile_font_scale_large">Grande</string>
     <string name="settings_font_size_tile_font_scale_largest">Maior</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode alterar o tamanho da vizualização</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode alterar o tamanho da vizualização</string>
     <string name="settings_font_size_tile_action_change_font_size">Alterar o tamanho da visualização</string>
     <!--nfc-->
@@ -241,11 +241,17 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar as notificações heads-up</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar as notificações heads-up</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar The tile is not allowed to show system power dialog</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Negada. O mosaico não pode ativar o ecrã divido</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Prmitida. O mosaico não pode ativar o ecrã divido</string>
+   
+    <!--recent apps-->
+  
+    <!--recent apps-->
+    <!--recent apps-->
+ 
     <!--recent apps-->
     <string name="settings_recent_apps_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recent apps</string>
     <string name="settings_recent_apps_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recent apps</string>

@@ -249,7 +249,7 @@
    
   
  
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar as aplicações recentes</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentesThe tile is allowe</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar as aplicações recentes</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentesThe tile is allowe</string>
 </resources>

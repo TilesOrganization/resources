@@ -246,7 +246,7 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Uitgeschakeld. De tegel heeft geen toestemming om multi-venster te schakelen</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Ingeschakeld. De tegel heeft toestemming om multi-venster te schakelen</string>
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Uitgeschakeld. De tegel heeft geen toestemming om recente apps te laten zien</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Ingeschakeld. De tegel heeft toestemming om recente apps te laten zien</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Uitgeschakeld. De tegel heeft geen toestemming om recente apps te laten zien</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Ingeschakeld. De tegel heeft toestemming om recente apps te laten zien</string>
 </resources>

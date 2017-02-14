@@ -246,7 +246,7 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf den Mehrfenster-Modus nicht ändern</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf den Mehrfenster-Modus ändern</string>
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf die letzten Apps nicht anzeigen</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf die letzten Apps nicht anzeigen</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf die letzten Apps nicht anzeigen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf die letzten Apps nicht anzeigen</string>
 </resources>

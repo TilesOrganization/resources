@@ -246,7 +246,7 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Запрещено. Плитка не может сменять мультиоконный режим</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Разрешено. Плитка может сменять мультиоконный режим</string>
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Запрещено. Плитка не может показывать недавние приложения</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Запрещено. Плитка не может показывать недавние приложения</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
 </resources>

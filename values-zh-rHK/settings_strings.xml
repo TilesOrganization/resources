@@ -246,7 +246,7 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟多視窗模式。</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟多視窗模式。</string>
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
 </resources>

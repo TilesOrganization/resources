@@ -20,7 +20,7 @@
     <string name="save_and_close">Salvar e Fechar</string>
     <string name="warning">Aviso</string>
     <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recent apps, toggle multi-window.</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -281,6 +281,6 @@
     <string name="multi_window_tile_label">Multi-Window</string>
     <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Recent apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">To allow the tile to show recent apps, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Recents screen</string>
+    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
 </resources>

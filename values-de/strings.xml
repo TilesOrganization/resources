@@ -281,6 +281,6 @@
     <string name="multi_window_tile_label">Mehrfenster-Modus</string>
     <string name="multi_window_tile_alert_dialog_message">Damit die Kachel den Mehrfenster-Modus ändern kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Letzte Apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">Damit die Kachel die letzten Apps anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
+    <string name="recents_screen_tile_label">Letzte Apps</string>
+    <string name="recents_screens_tile_alert_dialog_message">Damit die Kachel die letzten Apps anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
 </resources>

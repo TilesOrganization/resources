@@ -281,6 +281,6 @@
     <string name="multi_window_tile_label">Multi-Venster</string>
     <string name="multi_window_tile_alert_dialog_message">Om de tegel toestemming te geven om muti-venster te schakelen, open instellingen en schakel toegankelijkheidsservice in.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Recente apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">OM de tegel toestemming te geven om recente app te laten zien, open instellingen en schakel toegankelijkheidsservice in.</string>
+    <string name="recents_screen_tile_label">Recente apps</string>
+    <string name="recents_screens_tile_alert_dialog_message">OM de tegel toestemming te geven om recente app te laten zien, open instellingen en schakel toegankelijkheidsservice in.</string>
 </resources>

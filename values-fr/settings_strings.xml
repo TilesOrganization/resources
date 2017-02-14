@@ -246,7 +246,7 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à basculer le multi-fenêtre</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à basculer le multi-fenêtre</string>
-    <!--recent apps-->
-    <string name="settings_recent_apps_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à afficher les applis récentes</string>
-    <string name="settings_recent_apps_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à afficher les applis récentes</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à afficher les applis récentes</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à afficher les applis récentes</string>
 </resources>

@@ -11,16 +11,16 @@
     <string name="low">Bajo</string>
     <string name="checking_features_progress_dialog_message">Comprobando las características de tu dispositivo</string>
     <string name="not_available">No disponible</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">Cancelar</string>
+    <string name="revert">Revertir</string>
+    <string name="discard">Descartar</string>
     <string name="share">Compartir</string>
     <string name="delete">Eliminar</string>
     <string name="save">Guardar</string>
     <string name="save_and_close">Guardar &amp; Cerrar</string>
     <string name="warning">Precaución</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recent apps, toggle multi-window.</string>
+    <string name="accessibility_service_label">Servicio de accesibilidad</string>
+    <string name="accessibility_service_description">El servicio de accesibilidad permite a Tile realizar ciertas acciones como: mostrar el diálogo de apagado, mostrar las aplicaciones recientes o modificar la multi-ventana.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brillo adaptativo</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir a Tile acceder al brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
@@ -67,7 +67,7 @@
     <string name="maps_tile_label">Mapas</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
+    <string name="nfc_tile_service_description">Servicio para obtener el estado del NFC, se detendrá cuando elimines el Tile de NFC. Forzar su detención podría ocasionar problemas.</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir a Tile realizar cambios en el estado del NFC, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">Power dialog</string>
@@ -278,9 +278,9 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir a Tile modificar las notificaciones Heads-up, por favor, accede a los ajustes y concede permisos para modificar los ajustes de seguridad.</string>
     <string name="heads_up_notifications_tile_alert_summary">Android no muestra en ajustes ninguna opción para modificar las notificaciones Heads-up. Por favor, vuelve a activar las notificaciones Heads-up antes de desinstalar esta aplicación para restablecer esta opción a su estado original.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Multi-Ventana</string>
+    <string name="multi_window_tile_alert_dialog_message">Para permitir a Tile modificar la multi-ventana, por favor, accede a los ajustes y activa el servicio de accesibilidad.</string>
     <!--recents screen-->
-    <string name="recent_apps_tile_label">Recent apps</string>
-    <string name="recent_apps_tile_alert_dialog_message">To allow the tile to show recent apps, please open settings and enable accessibility service.</string>
+    <string name="recent_apps_tile_label">Aplicaciones recientes</string>
+    <string name="recent_apps_tile_alert_dialog_message">Para permitir a Tile modificar las aplicaciones recientes, por favor, accede a los ajustes y activa el servicio de accesibilidad.</string>
 </resources>

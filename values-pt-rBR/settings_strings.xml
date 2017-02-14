@@ -241,12 +241,12 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar as notificações de heads-up</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar as notificações de heads-up</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido mostrar o menu de energia do sistema</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Ativado. O bloco está permitido mostrar o menu de energia do sistema</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido alternar a divisão de tela</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Ativado. O bloco está permitido alternar a divisão de tela</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido mostrar a tela de recentes</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Ativado. O bloco está permitido mostrar a tela de recentes</string>
 </resources>

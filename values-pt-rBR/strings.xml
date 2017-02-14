@@ -19,8 +19,8 @@
     <string name="save">Salvar</string>
     <string name="save_and_close">Salvar e Fechar</string>
     <string name="warning">Aviso</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
+    <string name="accessibility_service_label">Serviço de acessibilidade</string>
+    <string name="accessibility_service_description">Serviço de acessibilidade serve para permitir que os blocos executem ações globais como: mostram o menu de energia do sistema, mostrar a tela de recentes, alternar tela dividida.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -70,9 +70,9 @@
     <string name="nfc_tile_service_description">Serviço para observar o estado do NFC, ele será parado quando o bloco for removido. Pará-lo pode fazer com que o bloco falhe.</string>
     <string name="nfc_tile_alert_dialog_message">Para permitir que o bloco altere o estado do NFC, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power dialog</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
+    <string name="power_dialog_accessibility_tile_label">Menu de energia</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Para permitir que o bloco mostre o menu de energia do sistema, abra as configurações e ative o serviço de acessibilidade.</string>
+    <string name="power_tile_action_system_power_dialog">Menu de energia do sistema</string>
     <string name="power_tile_action_power_dialog">Menu de energia</string>
     <string name="power_tile_label">Energia</string>
     <string name="power_tile_action_reboot">Reiniciar</string>
@@ -278,9 +278,9 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir que o bloco altere as notificações heads-up, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
     <string name="heads_up_notifications_tile_alert_summary">As frameworks do Android não expõem nenhuma configuração visível para alterar as notificações de heads-up. Certifique-se de ativar as notificações de heads-up novamente antes de desinstalar o aplicativo para restaurar corretamente o comportamento original.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Divisão de tela</string>
+    <string name="multi_window_tile_alert_dialog_message">Para permitir que o bloco alterne várias janelas, abra as configurações e ative o serviço de acessibilidade.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Tela de recentes</string>
+    <string name="recents_screens_tile_alert_dialog_message">Para permitir que o bloco mostre a tela de recentes, abra as configurações e ative o serviço de acessibilidade.</string>
 </resources>

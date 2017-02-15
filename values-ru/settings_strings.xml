@@ -36,8 +36,8 @@
     <string name="settings_restart_active_tiles_summary">Насильно перезагрузить активные плитки. Используйте эту опцию, если некоторые плитки перестали отвечать после их отключения системой.</string>
     <string name="settings_restart_active_tiles_summary_processing">Выполняю перезагрузку активных плиток.</string>
     <!--UX-->
-    <string name="settings_location_permissions_preference_title">Разрешение определения местоположения</string>
-    <string name="settings_modify_system_settings_permissions_title">Разрешение изменений настроек системы</string>
+    <string name="settings_location_permissions_preference_title">Разрешение на определение местоположения</string>
+    <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>

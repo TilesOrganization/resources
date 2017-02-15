@@ -36,8 +36,8 @@
     <string name="settings_restart_active_tiles_summary">Насильно перезагрузить активные плитки. Используйте эту опцию, если некоторые плитки перестали отвечать после их отключения системой.</string>
     <string name="settings_restart_active_tiles_summary_processing">Выполняю перезагрузку активных плиток.</string>
     <!--UX-->
-    <string name="settings_location_permissions_preference_title">Разрешение местоположения</string>
-    <string name="settings_modify_system_settings_permissions_title">Изменить настройки местоположения системы</string>
+    <string name="settings_location_permissions_preference_title">Разрешение определения местоположения</string>
+    <string name="settings_modify_system_settings_permissions_title">Разрешение изменений настроек системы</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
@@ -77,8 +77,8 @@
     <string name="settings_application_tile_application_list_launch_title">Приложение для запуска</string>
     <string name="settings_application_tile_loading_applications">Загрузка приложений…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим яркости</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может изменять уровень яркости</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может изменять уровень яркости</string>
     <string name="settings_brightness_tile_action_change_brightness">Изменить яркость</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Уровни яркости</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Высокий: %1$.1f%%\Средний: %2$.1f%%\nНизкий: %3$.1f%%</string>

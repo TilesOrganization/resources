@@ -250,7 +250,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Uitgeschakeld. De tegel heeft geen toestemming om recente schermen te laten zien</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Ingeschakeld. De tegel heeft toestemming om recente schermen te laten zien</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Toegang tot Niet Storen</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Toegekend. De app kan Niet Storen aan/uit zetten en het beltoon volume aanpassen</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Geweigerd. De app kan niet Niet Storen aan/uit zetten en het beltoon volume aanpassen</string>
 </resources>

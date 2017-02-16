@@ -250,7 +250,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Запрещено. Плитка не может показывать недавние приложения</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Доступ к режиму Не беспокоить</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Разрешено. Приложение может менять состояние режима Не беспокоить и менять громкость звонка</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Запрещено. Приложение не может менять состояние режима Не беспокоить и менять громкость звонка</string>
 </resources>

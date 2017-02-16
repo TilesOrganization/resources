@@ -284,11 +284,11 @@
     <string name="recents_screen_tile_label">Недавние приложения</string>
     <string name="recents_screens_tile_alert_dialog_message">Чтобы позволить плитке показывать недавние приложения, пожалуйста откройте настройки и включите сервис спец. возможностей.</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
-    <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_label">Звуки</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять громкость звонка, пожалуйста откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
+    <string name="volumes_tile_volume_keys_disabled">Кнопки громкости временно выключены</string>
+    <string name="volumes_tile_volume_alarm">Будильник</string>
+    <string name="volumes_tile_volume_media">Мультимедиа</string>
+    <string name="volumes_tile_volume_ring">Рингтон</string>
+    <string name="volumes_tile_volume_call">Звонок</string>
 </resources>

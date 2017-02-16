@@ -249,4 +249,8 @@
     <!--recents screen-->
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione a mostrare schermo recenti</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a mostrare schermo recenti</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Accesso Non disturbare</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concessa. La funzione ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negata. La funzione non ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
 </resources>

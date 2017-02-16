@@ -33,8 +33,8 @@
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
     <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
@@ -99,8 +99,8 @@
     <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and make changes to related settings</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and make changes to related settings</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
@@ -249,4 +249,8 @@
     <!--recents screen-->
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
 </resources>

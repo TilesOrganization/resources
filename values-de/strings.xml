@@ -283,4 +283,12 @@
     <!--recents screen-->
     <string name="recents_screen_tile_label">Letzte Apps</string>
     <string name="recents_screens_tile_alert_dialog_message">Damit die Kachel die letzten Apps anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">Volumes</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
+    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
+    <string name="volumes_tile_volume_alarm">Alarm</string>
+    <string name="volumes_tile_volume_media">Media</string>
+    <string name="volumes_tile_volume_ring">Ring</string>
+    <string name="volumes_tile_volume_call">Call</string>
 </resources>

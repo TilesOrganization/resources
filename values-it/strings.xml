@@ -283,4 +283,12 @@
     <!--recents screen-->
     <string name="recents_screen_tile_label">Schermo recenti</string>
     <string name="recents_screens_tile_alert_dialog_message">Per permettere alla funzione di mostare schermo recenti, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">Volumi</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Per permettere alla funzione di cambiare volume suoneria, per favore aprire le impostazioni e consentire Accesso Non disturbare.</string>
+    <string name="volumes_tile_volume_keys_disabled">Tasti volume temporaneamente disabilitati</string>
+    <string name="volumes_tile_volume_alarm">Sveglia</string>
+    <string name="volumes_tile_volume_media">Contenuti multimediali</string>
+    <string name="volumes_tile_volume_ring">Suoneria</string>
+    <string name="volumes_tile_volume_call">Chiamata</string>
 </resources>

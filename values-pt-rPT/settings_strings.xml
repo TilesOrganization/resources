@@ -246,10 +246,11 @@
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Negada. O mosaico não pode ativar o ecrã divido</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Prmitida. O mosaico pode ativar o ecrã divido</string>
-   
-  
- 
     <!--recents screen-->
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar as aplicações recentes</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentesThe tile is allowe</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
 </resources>

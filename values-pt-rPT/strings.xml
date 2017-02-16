@@ -18,9 +18,9 @@
     <string name="delete">Apagar</string>
     <string name="save">Save</string>
     <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
+    <string name="warning">Cuidado</string>
+    <string name="accessibility_service_label">Serviço de  acessibilidade</string>
+    <string name="accessibility_service_description">Serviço de   acessibilidade que permite ao Tiles  executar certas ações: ow system power dialog, show recents screen, toggle multi-window.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosidade adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminusidade adaptável, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>

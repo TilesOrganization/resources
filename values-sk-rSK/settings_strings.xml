@@ -250,7 +250,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Zakázané. Dlaždica nemôže zobraziť nedávne aplikácie</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Povolené. Dlaždica môže zobraziť nedávne aplikácie</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Prístup k Nerušiť</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Povolené. Aplikácia môže prepnúť režim Nerušiť a zmeniť hlasitosť zvonenia</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Zakázané. Aplikácia nemôže prepnúť režim Nerušiť a zmeniť hlasitosť zvonenia</string>
 </resources>

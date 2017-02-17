@@ -31,14 +31,14 @@
     <string name="settings_design_status_bar_icons_light">Ícones claros</string>
     <string name="settings_design_status_bar_icons_dark">Ícones escuros</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Avançado</string>
+    <string name="settings_restart_active_tiles_title">Reiniciar mosaicos ativos</string>
+    <string name="settings_restart_active_tiles_summary">Forçar o reinício dos mosaicos ativos. Use esta opção se os mosaicos não estiverem a reponder</string>
+    <string name="settings_restart_active_tiles_summary_processing">A forçar o reinício dos mosaicos ativos</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Permissão de localização</string>
     <string name="settings_modify_system_settings_permissions_title">Permissão de modificar definições do sistema</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_feedback">Feedback &amp; Suporte</string>
     <string name="settings_rate_or_review">Pontuar ou comentar a aplicação</string>
     <string name="settings_support_title">Obrigado pelo apoio!</string>
     <string name="settings_send_email">Enviar email</string>
@@ -46,7 +46,7 @@
     <string name="settings_credit">Créditos</string>
     <string name="settings_credit_app_icon">Ícone da aplicação</string>
     <string name="settings_translations">Traduções</string>
-    <string name="settings_translations_thanks"> Se quer traduzir a aplicação para a sua linguagem, contacte-me: rascarlo@gmail.com.\nObrigado!</string>
+    <string name="settings_translations_thanks">Se quer traduzir a aplicação para a sua linguagem, contacte-me: rascarlo@gmail.com.\nObrigado!</string>
     <string name="settings_translations_locale_de">Alemão</string>
     <string name="settings_translations_locale_pt_rBR">Português, Brazil</string>
     <string name="settings_translations_locale_nl">Holandês</string>
@@ -54,7 +54,7 @@
     <string name="settings_translations_locale_sk_rSK">Eslováquia, Eslovaco</string>
     <string name="settings_translations_locale_zh_rHK_rMO_rTW">Chinês Tradicional, Hong Kong, Macao &amp; Taiwan</string>
     <string name="settings_translations_locale_it">Italiano</string>
-    <string name="settings_translations_locale_hu">Hungarian</string>
+    <string name="settings_translations_locale_hu">Húngaro</string>
     <string name="settings_translations_locale_es">Espanhol</string>
     <string name="settings_translations_locale_ru">Russo</string>
     <string name="settings_translations_locale_fr">Francês</string>
@@ -241,14 +241,14 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar as notificações heads-up</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar as notificações heads-up</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar o diálogo de energia</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar o diálogo de energia</string>
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Negada. O mosaico não pode ativar o ecrã divido</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Prmitida. O mosaico pode ativar o ecrã divido</string>
     <!--recents screen-->
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Negada. O mosaico não pode mostrar as aplicações recentes</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentesThe tile is allowe</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentes</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>

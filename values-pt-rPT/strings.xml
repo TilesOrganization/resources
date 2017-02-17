@@ -278,17 +278,17 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir que o mosaico altere as notificações heads-up, abra as definições e conceda permissão para modificar definições seguras.</string>
     <string name="heads_up_notifications_tile_alert_summary">O Android não tem qualquer definição que altere as notificações heads-up.  Não se esqueça de reativar as notificações heads-up antes de desinstalar a aplicação.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Ecrã dividido</string>
+    <string name="multi_window_tile_alert_dialog_message">Para permitir que o mosaico ative o ecrã dividido, abrq as definições e ligue as definições de acessibilidade.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Items recentes</string>
+    <string name="recents_screens_tile_alert_dialog_message">Para permitir que o mosaico mostre os items recentes, abra as definições e ligue o serviço de acessibilidade.</string>
     <!--volumes-->
     <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
-    <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o mosaico altere o volume do toque, abra as definições e dê acesso ao não incomodar.</string>
+    <string name="volumes_tile_volume_keys_disabled">Botões de volume temporariamente desativados</string>
+    <string name="volumes_tile_volume_alarm">Alarme</string>
+    <string name="volumes_tile_volume_media">Multimedia</string>
+    <string name="volumes_tile_volume_ring">Tocar</string>
+    <string name="volumes_tile_volume_call">Chamada</string>
 </resources>

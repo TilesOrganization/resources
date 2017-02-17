@@ -278,17 +278,17 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統中並沒有提供任何設定選項去變更浮動通知的使用狀態，請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能回復正常運作，謝謝。</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">多視窗模式</string>
-    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟多視窗模式，請前往設定並允許Tiles的無障礙設定服務。</string>
+    <string name="multi_window_tile_label">分屏模式</string>
+    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟分屏模式，請前往設定並允許Tiles的無障礙設定服務。</string>
     <!--recents screen-->
     <string name="recents_screen_tile_label">最近使用的應用程式</string>
     <string name="recents_screens_tile_alert_dialog_message">要允許快速設定磚顯示最近使用的應用程式，請前往設定並允許Tiles的無障礙設定服務。</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
-    <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_label">音量</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音量，請前往設定並允許請勿打擾模式的存取權限。</string>
+    <string name="volumes_tile_volume_keys_disabled">音量鍵暫時禁止操作。</string>
+    <string name="volumes_tile_volume_alarm">鬧鐘</string>
+    <string name="volumes_tile_volume_media">媒體</string>
+    <string name="volumes_tile_volume_ring">鈴聲</string>
+    <string name="volumes_tile_volume_call">通話</string>
 </resources>

@@ -250,7 +250,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf die letzten Apps nicht anzeigen</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf die letzten Apps nicht anzeigen</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">"Bitte nicht stören" Zugriff</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Gewährt. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke ändern</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Verweigert. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke nicht ändern</string>
 </resources>

@@ -40,19 +40,19 @@
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
     <string name="settings_feedback">意見及援助</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
-    <string name="settings_support_title">感謝您的支持！</string>
+    <string name="settings_support_title">謝謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>
     <string name="settings_support_summary">Android Nougat專屬</string>
     <string name="settings_credit">嗚謝</string>
     <string name="settings_credit_app_icon">程式圖示</string>
-    <string name="settings_translations">翻譯</string>
+    <string name="settings_translations">程式翻譯</string>
     <string name="settings_translations_thanks">歡迎為本程式進行翻譯，請電郵至 rascarlo@gmail.com 與我聯絡\n謝謝!</string>
     <string name="settings_translations_locale_de">德文</string>
     <string name="settings_translations_locale_pt_rBR">巴西葡萄牙文</string>
     <string name="settings_translations_locale_nl">荷蘭文</string>
     <string name="settings_translations_locale_pt_rPT">葡萄牙文</string>
     <string name="settings_translations_locale_sk_rSK">斯洛伐克文</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">繁體中文,香港、台灣、澳門</string>
+    <string name="settings_translations_locale_zh_rHK_rMO_rTW">繁體中文（香港、台灣、澳門）</string>
     <string name="settings_translations_locale_it">意大利文</string>
     <string name="settings_translations_locale_hu">匈牙利文</string>
     <string name="settings_translations_locale_es">西班牙文</string>
@@ -244,8 +244,8 @@
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟電源選單。</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟電源選單。</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟多視窗模式。</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟多視窗模式。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟分屏模式。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟分屏模式。</string>
     <!--recents screen-->
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>

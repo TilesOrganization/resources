@@ -63,8 +63,8 @@
     <string name="settings_component_summary_off">Cacher la tuile dans la disposition des réglages rapides</string>
     <string name="settings_component_summary_on">Montrer la tuile dans la disposition des réglages rapides</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à changer le mode de luminosité</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est authorisée à changer le mode de luminosité</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à changer le mode de luminosité</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est autorisée à changer le mode de luminosité</string>
     <!-- application-->
     <string name="settings_application_tile_view_mode">Mode de vue</string>
     <string name="settings_application_tile_view_mode_list">Liste</string>
@@ -77,8 +77,8 @@
     <string name="settings_application_tile_application_list_launch_title">Application à lancer</string>
     <string name="settings_application_tile_loading_applications">Chargement des applications…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à changer le niveau de luminosité</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est authorisée à changer le niveau de luminosité</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à changer le niveau de luminosité</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est autorisée à changer le niveau de luminosité</string>
     <string name="settings_brightness_tile_action_change_brightness">Changer la luminosité</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Niveaux de luminosité</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Haut: %1$.1f%%\nMoyen: %2$.1f%%\nBas: %3$.1f%%</string>
@@ -86,8 +86,8 @@
     <string name="settings_call_tile_action_open_phone">Ouvrir l\'appli téléphone</string>
     <string name="settings_call_tile_action_make_call">Appeler le contact sélectionné</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Permission d\'appeler</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à effectuer des appels</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Accordée. La tuile est authorisée à effectuer des appels</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à effectuer des appels</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Accordée. La tuile est autorisée à effectuer des appels</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contact à appeler</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Ouvrir l\'appli email</string>
@@ -95,11 +95,11 @@
     <string name="settings_email_tile_contact_preference_title">Contact à joindre</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">Administrateur de l\'appareil</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activé. La tuile est authorisée à verrouiller l\'appareil</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Désactivaté. La tuile n\'est pas authorisée à verrouiller l\'appareil</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Activé. La tuile est autorisée à verrouiller l\'appareil</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Désactivaté. La tuile n\'est pas autorisée à verrouiller l\'appareil</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Accès à Ne Pas déranger (DND)</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Authorisé. L\'application n\'est pas en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Autorisé. L\'application n\'est pas en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Refusé. L\'application est en état de mettre sur ON/OFF le mode Ne Pas Déranger et effectuer des changements aux réglages associés.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Ouvrir le panneau de volume</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Changer le mode de sonnerie</string>
@@ -128,11 +128,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Afficher une UI de confirmation avant de démarrer le minuteur</string>
     <string name="settings_timer_tile_default_duration">Durée par défaut</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l\'appareil.</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l\'appareil.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à accéder à la position de l\'appareil.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est autorisée à accéder à la position de l\'appareil.</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est authorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est autorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
     <string name="settings_units">Unités</string>
     <string name="settings_summary_off_hidden">Cachées</string>
     <string name="settings_summary_on_shown">Montrées</string>
@@ -152,23 +152,23 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Montrer une action pour ouvrir les paramètres</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Cacher l\'action</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Permission de se superposer aux autres applications</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Accordée. Rappel est authorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Refusée. Rappel n\'est pas authorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Accordée. Rappel est autorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Refusée. Rappel n\'est pas autorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Afficher les évènements</string>
     <string name="settings_calendar_tile_action_add">Créer un évènement</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer le mode de localisation</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer le mode de localisation</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer le mode de localisation</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer le mode de localisation</string>
     <string name="settings_location_tile_action_change_location_mode">Changer le mode de localisation</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à changer le délai de mise en veille</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est authorisée à changer le délai de mise en veille</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à changer le délai de mise en veille</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Accordée. La tuile est autorisée à changer le délai de mise en veille</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Modifier le délai de mise en veille</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Permission d\'écrire sur le stockage externe</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Accordée. La tuile est authorisée à effectuer et enregistrer des captures d\'écran</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Refusée. La tuile n\'est pas authorisée à effectuer et enregistrer des captures d\'écran</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Accordée. La tuile est autorisée à effectuer et enregistrer des captures d\'écran</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à effectuer et enregistrer des captures d\'écran</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Jouer une sonnerie de notification</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Jouer la sonnerie de notification par défaut en effectuant une capture d\'écran</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">N\'émettre aucun son en effectuant une capture d\'écran</string>
@@ -192,15 +192,15 @@
     <string name="settings_notification_settings_action_title">Action paramètres</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Permission d\'écrire les paramètres sécurisés</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à basculer le mode immersif</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à basculer le mode immersif</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à basculer le mode immersif</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à basculer le mode immersif</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Changer le mode immersif</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer l\'état de l\'affichage en mode veille</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer l\'état de l\'affichage en mode veille</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer l\'état de l\'affichage en mode veille</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer l\'état de l\'affichage en mode veille</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer les animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer les animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer les animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer les animations</string>
     <string name="settings_show_milliseconds">Montrer les millisecondes</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">Ajouter une alarme</string>
@@ -213,33 +213,33 @@
     <string name="settings_font_size_tile_font_scale_default">Défaut</string>
     <string name="settings_font_size_tile_font_scale_large">Grand</string>
     <string name="settings_font_size_tile_font_scale_largest">Le plus grand</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Accordée. La tuile est authorisée à modifier la taille de la police</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Refusée. La tuile n\'est pas authorisée à modifier la taille de la police</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Accordée. La tuile est autorisée à modifier la taille de la police</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Refusée. La tuile n\'est pas autorisée à modifier la taille de la police</string>
     <string name="settings_font_size_tile_action_change_font_size">Changer la taille de la police</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer l\'état de la NFC</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer l\'état de la NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer l\'état de la NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer l\'état de la NFC</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Changer l\'état de la NFC</string>
     <string name="settings_nfc_tile_open_nfc_settings">Ouvrir les paramètres de la NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer l\'état de l\'itinérance des données</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer l\'état de l\'itinérance des données</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer l\'état de l\'itinérance des données</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer l\'état de l\'itinérance des données</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Taille par défaut</string>
     <string name="settings_density_tile_current_density_title">Taille actuelle</string>
     <string name="settings_density_tile_restore_default_density_title">Restorer la taille par défaut</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer Rester activé pendant le chargement</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer Rester activé pendant le chargement</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer Rester activé pendant le chargement</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer Rester activé pendant le chargement</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer le mode de démonstration</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer le mode de démonstration</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer le mode de démonstration</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer le mode de démonstration</string>
     <string name="settings_dump_permission_title">Permission de récupérer les journaux système (dumpsys)</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Accordée. La tuile est authorisée à récupérer l\'état interne du système</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Refusée. La tuile n\'est pas authorisée à récupérer l\'état interne du système</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Accordée. La tuile est autorisée à récupérer l\'état interne du système</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Refusée. La tuile n\'est pas autorisée à récupérer l\'état interne du système</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est authorisée à changer les notifications heads-up</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas authorisée à changer les notifications heads-up</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer les notifications heads-up</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer les notifications heads-up</string>
     <!--power-->
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">Désactivé. The tile is not allowed to show system power dialog</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">Activé. The tile is allowed to show system power dialog</string>
@@ -250,7 +250,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à afficher les applis récentes</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à afficher les applis récentes</string>
    <!--volumes-->
-   <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-   <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-   <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+   <string name="settings_volumes_tile_do_not_disturb_access_title">Accès à Ne Pas Déranger (DND)</string>
+   <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Autorisé. L\'appli peut activer/désactiver Ne Pas Déranger et changer le volume de sonnerie</string>
+   <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Refusé. L\'appli ne peut pas activer/désactiver Ne Pas Déranger et changer le volume de sonnerie</string>
 </resources>

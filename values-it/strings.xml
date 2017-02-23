@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Luminosità</string>
     <string name="brightness_tile_label_formatted">Luminosità %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Alta: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Media: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Bassa: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Luminosità: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Alta: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Media: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Bassa: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Luminosità: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosità non definita</string>
     <string name="brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare livello luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
     <!--calculator-->

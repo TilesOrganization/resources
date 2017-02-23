@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Helderheid</string>
     <string name="brightness_tile_label_formatted">Helderheid %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Hoog: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Laag: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Helderheid: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Hoog: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medium: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Laag: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Helderheid: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Helderheid onbepaald</string>
     <string name="brightness_tile_alert_dialog_message">Om de tegel het helderheidsniveau te laten veranderen, open instellingen en verleen toestemming om systeeminstelingen aan te passen.</string>
     <!--calculator-->

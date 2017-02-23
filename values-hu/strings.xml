@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Fényerő</string>
     <string name="brightness_tile_label_formatted">Fényerő %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Magas: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Közepes: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Alacsony: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Fényerő: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Magas: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Közepes: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Alacsony: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Fényerő: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Határozatlan fényerő</string>
     <string name="brightness_tile_alert_dialog_message">A fényerőszint csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--calculator-->

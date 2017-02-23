@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Яркость</string>
     <string name="brightness_tile_label_formatted">Яркость %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Высокая: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Средняя: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Низкая: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Яркость: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Высокая: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Средняя: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Низкая: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Яркость: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Яркость не задана</string>
     <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста откройте настройки и дайте приложению доступ к системным настройкам.</string>
     <!--calculator-->

@@ -81,7 +81,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf das Helligkeitslevel ändern</string>
     <string name="settings_brightness_tile_action_change_brightness">Ändere Helligkeit</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Helligkeitslevel</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Maximal: %1$.1f%%\nMittel: %2$.1f%%\nMinimal: %3$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Maximal: %1$d%%\nMittel: %2$d%%\nMinimal: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Öffne Telefon App</string>
     <string name="settings_call_tile_action_make_call">Rufe ausgewählten Kontakt an</string>

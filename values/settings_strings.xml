@@ -81,7 +81,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
     <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$.1f%%\nMedium: %2$.1f%%\nLow: %3$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Open phone app</string>
     <string name="settings_call_tile_action_make_call">Call selected contact</string>

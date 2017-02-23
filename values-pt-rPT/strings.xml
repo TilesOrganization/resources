@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Luminosidade</string>
     <string name="brightness_tile_label_formatted">Luminosidade %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Alta: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Média: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Baixa: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Luminosidade: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Alta: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Média: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Baixa: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Luminosidade: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosidade não definida</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminosidade, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>
     <!--calculator-->

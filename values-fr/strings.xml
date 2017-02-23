@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Luminosité</string>
     <string name="brightness_tile_label_formatted">Luminosité %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Haute: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Moyenne: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Basse: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Luminosité: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Haute: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Moyenne: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Basse: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Luminosité: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosité non définie</string>
     <string name="brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le niveau de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
     <!--calculator-->

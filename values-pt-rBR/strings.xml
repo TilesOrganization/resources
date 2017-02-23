@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Brilho</string>
     <string name="brightness_tile_label_formatted">Brilho %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Alto: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Médio: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Baixo: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brilho: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Alto: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Médio: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Baixo: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Brilho: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Brilho não definido</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir que o bloco mude o nível do brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
     <!--calculator-->

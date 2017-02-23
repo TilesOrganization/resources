@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Brillo</string>
     <string name="brightness_tile_label_formatted">Brillo %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Alto: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medio: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Bajo: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brillo: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Alto: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medio: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Bajo: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Brillo: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Brillo indefinido</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir a Tile cambiar el nivel de brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
     <!--calculator-->

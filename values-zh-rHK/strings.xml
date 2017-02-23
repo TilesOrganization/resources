@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">亮度</string>
     <string name="brightness_tile_label_formatted">亮度 %1$s</string>
-    <string name="brightness_tile_label_formatted_high">高: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">中: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">低: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">亮度: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">高: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">中: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">低: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">亮度: %1$d%%</string>
     <string name="brightness_tile_undefined_label">未定義亮度</string>
     <string name="brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度，請前往設定並允許修改系統設定的權限。</string>
     <!--calculator-->

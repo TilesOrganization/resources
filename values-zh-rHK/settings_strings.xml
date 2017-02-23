@@ -81,7 +81,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更亮度。</string>
     <string name="settings_brightness_tile_action_change_brightness">調校亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">亮度</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$.1f%%\n中: %2$.1f%%\n低: %3$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$d%%\n中: %2$d%%\n低: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">開啟電話程式</string>
     <string name="settings_call_tile_action_make_call">撥號給聯絡人</string>

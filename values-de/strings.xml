@@ -31,10 +31,10 @@
     <!--brightness-->
     <string name="brightness_tile_label">Helligkeit</string>
     <string name="brightness_tile_label_formatted">Helligkeit %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Hoch: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$.1f%%</string>
-    <string name="brightness_tile_label_formatted_low">Tief: %1$.1f%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Helligkeit: %1$.1f%%</string>
+    <string name="brightness_tile_label_formatted_high">Hoch: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medium: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Tief: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Helligkeit: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Keine Helligkeit gesetzt</string>
     <string name="brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--calculator-->

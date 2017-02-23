@@ -81,7 +81,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe állíthat a fényerő színtjén.</string>
     <string name="settings_brightness_tile_action_change_brightness">Fényerő megváltoztatása</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Fényerő szintjei</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Magas: %1$.1f%%\nKözepes: %2$.1f%%\nAlacsony: %3$.1f%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Magas: %1$d%%\nKözepes: %2$d%%\nAlacsony: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Telefon app megnyitása</string>
     <string name="settings_call_tile_action_make_call">Adott névjegy felhívása</string>

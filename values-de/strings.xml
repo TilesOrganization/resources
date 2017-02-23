@@ -155,7 +155,7 @@
     <string name="sleep_timeout_tile_value_600000">10 Minuten</string>
     <string name="sleep_timeout_tile_value_1800000">30 Minuten</string>
     <!--location mode-->
-    <string name="location_tile_label">Standortmodus</string>
+    <string name="location_tile_label">Standort-Modus</string>
     <string name="location_tile_label_off">Standort aus</string>
     <string name="location_tile_label_battery_saving">Energiesparmodus</string>
     <string name="location_tile_label_sensors_only">Nur Gerät</string>

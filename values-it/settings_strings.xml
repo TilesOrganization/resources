@@ -15,6 +15,10 @@
     <string name="settings_night_mode_no">Giorno</string>
     <string name="settings_night_mode_yes">Notte</string>
     <string name="settings_night_mode_auto">Auto</string>
+    <!--cancelable dialogs-->
+    <string name="settings_design_dialogs">Finestre di dialogo</string>
+    <string name="settings_design_dialogs_not_cancelable">Le finestre di dialogo possono essere dismesse con il bottone indietro di sistema</string>
+    <string name="settings_design_dialogs_cancelable">Le finestre di dialogo possono essere dismesse con un tap all\'esterno della finestra</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Tinta barra di navigazione</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nessuna tinta</string>
@@ -152,8 +156,8 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Visualizza azione per aprire le impostazioni</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Nascondi azione</string>
     <string name="settings_reminder_tile_draw_over_apps_title">Autorizzazione posizionamento davanti ad altre app</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concessa. Promemoria ha l\'autorizzazione a essere visualizzato come dialogo e spostato davanti ad altre applicazioni</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negata. Promemoria non ha l\'autorizzazione a essere visualizzato come dialogo e spostato davanti ad altre applicazioni</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concessa. Promemoria ha l\'autorizzazione a essere visualizzato come finestra di dialogo e spostato davanti ad altre applicazioni</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negata. Promemoria non ha l\'autorizzazione a essere visualizzato come finestra di dialogo e spostato davanti ad altre applicazioni</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_add">Aggiungi evento</string>
     <string name="settings_calendar_tile_action_view">Visualizza eventi</string>
@@ -187,7 +191,7 @@
     <string name="settings_ringer_mode_tile_dnd_mode_none">Silenzio totale</string>
     <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Solo con priorità</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Visualizza dialogo</string>
+    <string name="settings_show_dialog">Visualizza finestra di dialogo</string>
     <string name="settings_notification_share_action_title">Azione condividi</string>
     <string name="settings_notification_settings_action_title">Azione impostazioni</string>
     <!--immersive mode-->
@@ -241,8 +245,8 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare notifiche heads-up</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare notifiche heads-up</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione a mostrare il dialogo accensione di sistema</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a mostrare il dialogo accensione di sistema</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione a mostrare la finestra di dialogo accensione di sistema</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a mostrare la finestra di dialogo accensione di sistema</string>
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare multi-window</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare multi-window</string>

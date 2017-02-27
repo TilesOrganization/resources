@@ -20,7 +20,7 @@
     <string name="save_and_close">Salva &amp; Chiudi</string>
     <string name="warning">Avvertimento</string>
     <string name="accessibility_service_label">Servizio accessibilità</string>
-    <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window.</string>
+    <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare finestra di dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -70,10 +70,10 @@
     <string name="nfc_tile_service_description">Servizio per osservare lo stato NFC, verrà interroto quando la funzione è rimossa. L\'interruzione potrebbere bloccare la funzione.</string>
     <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Dialogo accensione</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di mostare il dialogo di accensione di sistema, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
-    <string name="power_tile_action_system_power_dialog">Dialog accensione di sistema</string>
-    <string name="power_tile_action_power_dialog">Dialogo accensione</string>
+    <string name="power_dialog_accessibility_tile_label">Finestra di dialogo accensione</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di mostare la finestra di dialogo di accensione di sistema, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
+    <string name="power_tile_action_system_power_dialog">Finestra di dialogo accensione di sistema</string>
+    <string name="power_tile_action_power_dialog">Finestra di dialogo accensione</string>
     <string name="power_tile_label">Accensione</string>
     <string name="power_tile_action_reboot">Riavvia</string>
     <string name="power_tile_action_reboot_recovery">Riavvia recovery</string>

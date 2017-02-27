@@ -15,6 +15,10 @@
     <string name="settings_night_mode_no">Claro</string>
     <string name="settings_night_mode_yes">Escuro</string>
     <string name="settings_night_mode_auto">Automático</string>
+    <!--cancelable dialogs-->
+    <string name="settings_design_dialogs">Dialogs</string>
+    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
+    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Cor da Barra de navegação</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>

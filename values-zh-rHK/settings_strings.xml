@@ -15,6 +15,10 @@
     <string name="settings_night_mode_no">日光</string>
     <string name="settings_night_mode_yes">夜間</string>
     <string name="settings_night_mode_auto">自動</string>
+    <!--cancelable dialogs-->
+    <string name="settings_design_dialogs">Dialogs</string>
+    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
+    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">導覽列變色</string>
     <string name="settings_design_navigation_bar_tint_no_tint">不變色</string>

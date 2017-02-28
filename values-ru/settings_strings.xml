@@ -16,9 +16,9 @@
     <string name="settings_night_mode_yes">Ночь</string>
     <string name="settings_night_mode_auto">Авто</string>
     <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogs</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
-    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
+    <string name="settings_design_dialogs">Диалоги</string>
+    <string name="settings_design_dialogs_not_cancelable">Диалог можно убрать, нажав кнопку Назад</string>
+    <string name="settings_design_dialogs_cancelable">Диалог можно убрать, нажав на экран вне диалога</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Оттенок панели навигации</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Без оттенка</string>
@@ -103,8 +103,8 @@
     <string name="settings_lock_tile_device_admin_summary_off">Выключено. Плитка не может блокировать устройство</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Доступ к режиму Не беспокоить</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Разрешено. Приложение может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Запрещено. Приложение не может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Разрешено. Плитка может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Запрещено. Плитка не может переключать режим Не беспокоить и вносить изменения в соответствующие настройки.</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Открыть настройки звука</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Изменить режим звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Воспроизвести звук</string>
@@ -255,6 +255,6 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Доступ к режиму Не беспокоить</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Разрешено. Приложение может менять состояние режима Не беспокоить и менять громкость звонка</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Запрещено. Приложение не может менять состояние режима Не беспокоить и менять громкость звонка</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Разрешено. Плитка может менять состояние режима Не беспокоить и менять громкость звонка</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Запрещено. Плитка не может менять состояние режима Не беспокоить и менять громкость звонка</string>
 </resources>

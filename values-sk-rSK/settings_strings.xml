@@ -257,4 +257,10 @@
     <string name="settings_volumes_tile_do_not_disturb_access_title">Prístup k Nerušiť</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Povolené. Dlaždica môže prepnúť režim Nerušiť a zmeniť hlasitosť zvonenia</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Zakázané. Dlaždica nemôže prepnúť režim Nerušiť a zmeniť hlasitosť zvonenia</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
 </resources>

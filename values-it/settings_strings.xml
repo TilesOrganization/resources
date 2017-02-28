@@ -257,4 +257,10 @@
     <string name="settings_volumes_tile_do_not_disturb_access_title">Accesso Non disturbare</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concessa. La funzione ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negata. La funzione non ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare vibra alla pressione</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare vibra alla pressione</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare suoni alla pressione</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare suoni alla pressione</string>
 </resources>

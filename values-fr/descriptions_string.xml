@@ -41,6 +41,8 @@
     <string name="description_sync_tile">Turn sync on or off, or open sync settings.</string>
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
+    <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
+    <string name="description_vibrate_on_tap_tile">Turn tap vibrations on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
     <string name="description_voice_tile">Use voice actions to control the device or perform supported actions.</string>
     <string name="description_volumes_tile">Control the volume streams of the device: alarm, media, ring and call (on voice capable devices). Do Not Disturb access is required to use this tile.</string>
     <string name="description_weather_tile">Open a dialog with the current weather conditions, temperature, feels like, humidity and dew point. This tile makes use of the Google Awareness API (https://developers.google.com/awareness).\nLocation permission (https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION) is required to use this tile.</string>

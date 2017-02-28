@@ -291,4 +291,10 @@
     <string name="volumes_tile_volume_media">Multimedia</string>
     <string name="volumes_tile_volume_ring">Tocar</string>
     <string name="volumes_tile_volume_call">Chamada</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">Vibrar ao tocar</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">Sons de toque</string>
+    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
 </resources>

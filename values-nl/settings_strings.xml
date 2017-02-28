@@ -257,4 +257,10 @@
     <string name="settings_volumes_tile_do_not_disturb_access_title">Toegang tot Niet Storen</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Toegekend. De app kan Niet Storen aan/uit zetten en het beltoon volume aanpassen</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Geweigerd. De app kan niet Niet Storen aan/uit zetten en het beltoon volume aanpassen</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
 </resources>

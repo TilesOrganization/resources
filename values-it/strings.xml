@@ -291,4 +291,10 @@
     <string name="volumes_tile_volume_media">Contenuti multimediali</string>
     <string name="volumes_tile_volume_ring">Suoneria</string>
     <string name="volumes_tile_volume_call">Chiamata</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">Vibra alla pressione</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Per permettere alla funzione di cambiare vibra alla pressione, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">Suoni alla pressione</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Per permettere alla funzione di cambiare suoni alla pressione, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
 </resources>

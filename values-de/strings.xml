@@ -293,8 +293,8 @@
     <string name="volumes_tile_volume_call">Anruf</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">Bei Berührung vibrieren</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Damit die Kachel die Vibration bei Berührung ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Töne bei Berührung</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">>Damit die Kachel die Töne bei Berührung ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
 </resources>

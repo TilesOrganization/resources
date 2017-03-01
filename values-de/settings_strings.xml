@@ -258,9 +258,9 @@
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Gewährt. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke ändern</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Verweigert. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke nicht ändern</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf die Vibration bei Berührung nicht ändern</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Gewährt.  Die Kachel darf die Vibration bei Berührung ändern</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf die Töne bei Berührung nicht ändern</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Töne bei Berührung ändern</string>
 </resources>

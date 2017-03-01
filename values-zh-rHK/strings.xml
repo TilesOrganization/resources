@@ -293,8 +293,8 @@
     <string name="volumes_tile_volume_call">通話</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">輕按時震動</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定磚變更輕按時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">輕觸音效</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
 </resources>

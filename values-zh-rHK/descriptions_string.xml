@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_adaptive_brightness_tile">Automatically change the brightness of the screen to the light around you, when enabled. The brightness level can still be adjusted while adaptive brightness is on.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
-    <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
+    <string name="description_adaptive_brightness_tile">自動亮度模式”開啟時會令手機根據現場周圍環境光亮情況，自動調節屏幕亮度。開啟後你仍然可以手動調節屏幕亮度。\n 使用此快速設定磚需要授予修改系統設定的權限。(https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
+    <string name="description_alarm_tile">提供“顯示下一個鬧鐘”及”新增鬧鐘” 兩個選項。如已決定鬧鐘時間，快速設定磚將會顯示下一個鬧鐘時間。除了內置原生的時鐘程式，此快速設定磚亦能支援其他第三方時鐘應用程式。</string>
     <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
     <string name="description_animations_tile">Set the scale of animations for animator, transition, and window.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog. If only one application is set, it will be launched without displaying the dialog.</string>
@@ -44,7 +44,7 @@
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
     <string name="description_vibrate_on_tap_tile">Turn tap vibrations on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
     <string name="description_voice_tile">Use voice actions to control the device or perform supported actions.</string>
-    <string name="description_volumes_tile">Control the volume streams of the device: alarm, media, ring and call (on voice capable devices). Do Not Disturb access is required to use this tile.</string>
-    <string name="description_weather_tile">Open a dialog with the current weather conditions, temperature, feels like, humidity and dew point. This tile makes use of the Google Awareness API (https://developers.google.com/awareness).\nLocation permission (https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION) is required to use this tile.</string>
-    <string name="description_web_search_tile">Start a web search. The action is compatible with third-party apps that can receive the Android default broadcast to initiate a web search.</string>
+    <string name="description_volumes_tile">開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取請勿打擾模式的權限才能使用。</string>
+    <string name="description_weather_tile">開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此設定磚採用Google的情境感知API（Google Awareness API）進行開發，詳情可參閱 (https://developers.google.com/awareness)。\n並需要獲取位置權限才能使用，詳情可參閱(https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION)</string>
+    <string name="description_web_search_tile">進行網絡搜尋。可配合支援網絡搜尋操作的第三方應用程式使用。</string>
 </resources>

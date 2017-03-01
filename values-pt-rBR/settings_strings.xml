@@ -258,9 +258,9 @@
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concedido. O aplicativo está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negado. O aplicativo não está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o vibrar ao tocar</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar o vibrar ao tocar</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o sons de toque</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco não está permitido alterar o sons de toque</string>
 </resources>

@@ -293,8 +293,8 @@
     <string name="volumes_tile_volume_call">Hovor</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">Vibrovať pri klepnutí</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Aby dlaždica mohla zmeniť vibrovanie pri klepnutí, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Zvuky klepnutia</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Aby dlaždica mohla zmeniť zvuky klepnutia, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
 </resources>

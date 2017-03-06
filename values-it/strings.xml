@@ -297,4 +297,15 @@
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Suoni alla pressione</string>
     <string name="touch_sounds_tile_alert_dialog_message">Per permettere alla funzione di cambiare suoni alla pressione, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--orientation lock-->
+    <string name="orientation_lock_tile_label">Blocco orientamento</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Per permettere alla funzione di cambiare e bloccare orientamento, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Orientamento 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Orientamento 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Orientamento 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Orientamento 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Rotazione automatica</string>
+    <!--vibrate for calls-->
+    <string name="vibrate_for_calls_tile_label">Vibrazione per le chiamate</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Per permettere alla funzione di cambiare vibrazione per le chiamate, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
 </resources>

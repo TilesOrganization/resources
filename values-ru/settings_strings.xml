@@ -264,10 +264,10 @@
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять состояние звука при прикосновении к экрану</string>
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять состояние звука при прикосновении к экрану</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Смена положения экрана</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять и фиксировать положение экрана</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять и фиксировать положение экрана</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим вибрации при звонке</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим вибрации при звонке</string>
 </resources>

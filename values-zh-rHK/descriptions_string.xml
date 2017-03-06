@@ -42,8 +42,8 @@
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
-    <string name="description_vibrate_on_tap_tile">Turn tap vibrations on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
-    <string name="description_voice_tile">Use voice actions to control the device or perform supported actions.</string>
+    <string name="description_vibrate_on_tap_tile">開啟或關閉觸控震動。\n使用此快速設定磚需要授予修改系統設定的權限。 (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
+    <string name="description_voice_tile">利用語音控制裝置或其他支援的操作。</string>
     <string name="description_volumes_tile">開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取請勿打擾模式的權限才能使用。</string>
     <string name="description_weather_tile">開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此設定磚採用Google的情境感知API（Google Awareness API）進行開發，詳情可參閱 (https://developers.google.com/awareness)。\n並需要獲取位置權限才能使用，詳情可參閱(https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION)</string>
     <string name="description_web_search_tile">進行網絡搜尋。可配合支援網絡搜尋操作的第三方應用程式使用。</string>

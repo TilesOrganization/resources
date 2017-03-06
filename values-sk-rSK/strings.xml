@@ -299,7 +299,7 @@
     <string name="touch_sounds_tile_alert_dialog_message">Aby dlaždica mohla zmeniť zvuky klepnutia, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">Uzamknutie otáčania</string>
-    <string name="orientation_lock_tile_alert_dialog_message">Aby dlaždica mohla zmeniť alebo zamknúť otočenie, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Aby dlaždica mohla zmeniť alebo zamknúť otáčanie, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
     <string name="orientation_lock_tile_label_rotation_0">Otočenie 0\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_90">Otočenie 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">Otočenie 180\u00B0</string>

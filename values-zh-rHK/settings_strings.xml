@@ -264,9 +264,9 @@
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更輕觸音效。</string>
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更輕觸音效。</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">變更及鎖定屏幕轉向</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更及鎖定屏幕轉向。</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更及鎖定屏幕轉向。</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">變更及鎖定屏幕旋轉</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更及鎖定屏幕旋轉。</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更及鎖定屏幕旋轉。</string>
     <!--vibrate for calls-->
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已禁止。 此快速設定磚禁止變更來電時震動的使用狀態。</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更來電時震動的使用狀態。</string>

@@ -298,14 +298,14 @@
     <string name="touch_sounds_tile_label">輕觸音效</string>
     <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">鎖定屏幕旋轉</string>
+    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定磚變更及鎖定屏幕旋轉，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="orientation_lock_tile_label_rotation_0">旋轉 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">旋轉 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">旋轉 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">旋轉 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">自動旋轉</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">來電時震動</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">要允許快速設定磚變更來電時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
 </resources>

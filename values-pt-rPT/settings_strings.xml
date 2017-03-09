@@ -268,6 +268,6 @@
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode alterar e bloquear a orientação</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Permitida.O mosaico pode alterar e bloquear a orientação</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode alterar o vibrar ao tocar</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode alterar o vibrar ao tocar</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode alterar o vibrar ao chamar</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode alterar o vibrar ao chamar</string>
 </resources>

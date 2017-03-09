@@ -306,7 +306,7 @@
     <string name="orientation_lock_tile_label_rotation_270">Orientação 270\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_auto_rotate">Rotação automático</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrar ao tocar</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">Para permitir que o mosaico alere o vibrar ao tocar, abra as definições e conceda permissão para modificar definições de sistema.</string>
+    <string name="vibrate_for_calls_tile_label">Vibrar ao chamar</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Para permitir que o mosaico alere o vibrar ao chamar, abra as definições e conceda permissão para modificar definições de sistema.</string>
 </resources>
 

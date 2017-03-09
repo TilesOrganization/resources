@@ -244,7 +244,7 @@
     <string name="dump_permission_dialog_message_action_adb_formatted">Para %1$s manualmente a permissão, ligue o dispositivo a um computador e execute o comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Modo de demonstração</string>
-    <string name="demo_mode_tile_alert_dialog_message">Para permitir que o mosaico ative o modo de demonstração, abra as definições e conceda permissão para modificar definições seguras and dump permission.</string>
+    <string name="demo_mode_tile_alert_dialog_message">Para permitir que o mosaico ative o modo de demonstração, abra as definições e conceda permissão para modificar definições seguras e permissão de dump.</string>
     <string name="demo_mode_tile_system_bars">Barras de sistema</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparentes</string>
     <string name="demo_mode_tile_system_bars_semitransparent">Semi transparentes</string>
@@ -293,19 +293,20 @@
     <string name="volumes_tile_volume_call">Chamada</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">Vibrar ao tocar</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Para permitir que o mosaico  altere o vibrar ao tocar , abra as definições e conceda permissão para modificar definições de sistema</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Sons de toque</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Para permitir que o mosaico altere os  sons de toque, abra as definições e conceda permissão para modificar definições do sistema.</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">Bloquear orientação</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Para permitir que o mosaico bloqueie a orientação, abra as definições e conceda permissão para modificar definições de sistema.</string>
     <string name="orientation_lock_tile_label_rotation_0">Orientação \u00B0</string>
     <string name="orientation_lock_tile_label_rotation_90">Orientação 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">Orientação 180\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_270">Orientação 270\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_auto_rotate">Rotação automático</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">Vibrar ao tocar</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Para permitir que o mosaico alere o vibrar ao tocar, abra as definições e conceda permissão para modificar definições de sistema.</string>
 </resources>
+

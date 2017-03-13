@@ -308,4 +308,8 @@
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Vibration bei Anrufen</string>
     <string name="vibrate_for_calls_tile_alert_dialog_message">Damit die Kachel die Vibration bei Anrufen ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Energiesparmodus</string>
+    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Der Energiesparmodus ist beim Aufladen nicht verfügbar.</string>
 </resources>

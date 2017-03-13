@@ -308,4 +308,8 @@
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Vibrar para chamadas</string>
     <string name="vibrate_for_calls_tile_alert_dialog_message">Para permitir que o bloco altere o vibrar para chamadas, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Economia de bateria</string>
+    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">A Economia de bateria não fica disponível durante o carregamento.</string>
 </resources>

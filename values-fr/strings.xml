@@ -308,4 +308,8 @@
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
     <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Économiseur de batterie</string>
+    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">L\'économiseur de batterie n\'est pas disponible lorsque l\'appareil est en charge.</string>
 </resources>

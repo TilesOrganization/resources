@@ -270,4 +270,7 @@
     <!--vibrate for calls-->
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare vibrazione per le chiamate</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare vibrazione per le chiamate</string>
+    <!--battery saver-->
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a disattivare e attivare risparmio energetico</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a disattivare e attivare risparmio energetico</string>
 </resources>

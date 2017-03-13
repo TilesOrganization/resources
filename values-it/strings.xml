@@ -244,7 +244,7 @@
     <string name="dump_permission_dialog_message_action_adb_formatted">Per %1$s manualmente l\'autorizzazione, collegare il proprio dispositivo ad un computer ed eseguire il seguento comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Modalità demo</string>
-    <string name="demo_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità demo, per favore aprire le impostazione e concedere l\'autorizzazione scrivi impostazioni sicure e l\'autorizzazione dump.</string>
+    <string name="demo_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità demo, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure e l\'autorizzazione dump.</string>
     <string name="demo_mode_tile_system_bars">Barre di sistema</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparente</string>
     <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparente</string>
@@ -275,7 +275,7 @@
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label"> Notifiche heads-up</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">Per permettere alla funzione di cambiare notifiche heads-up, per favore aprire le impostazione e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Per permettere alla funzione di cambiare notifiche heads-up, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <string name="heads_up_notifications_tile_alert_summary">Il frameworks Android non espone alcuna impostazione visibile per cambiare notifiche heads-up. Per favore ricordarsi di riattivare le notifiche heads-up prima di disinstallare l\'applicazione per ripristinare correttamente il comportamento originale.</string>
     <!--multi window-->
     <string name="multi_window_tile_label">Multi-Window</string>
@@ -308,4 +308,8 @@
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Vibrazione per le chiamate</string>
     <string name="vibrate_for_calls_tile_alert_dialog_message">Per permettere alla funzione di cambiare vibrazione per le chiamate, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Risparmio energetico</string>
+    <string name="battery_saver_tile_alert_dialog_message">Per permettere alla funzione di attivare e disattivare risparmio energetico, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Risparmio energetico non disponibile durante la ricarica.</string>
 </resources>

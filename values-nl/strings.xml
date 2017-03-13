@@ -310,6 +310,6 @@
     <string name="vibrate_for_calls_tile_alert_dialog_message">Om de tegel toestemming te geven om het trillen voor oproepen te veranderen, open instellingen en geef toestemmming om systeem instellingen te kunnen wijzigen.</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">Accubesparing</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_alert_dialog_message">Om de tegel toestemming te geven om accubesparing aan en uit te zetten, open instellingen en geef toestemming om beveiligde instellingen te overschrijven.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Accubesparing niet beschikbaar tijdens opladen.</string>
 </resources>

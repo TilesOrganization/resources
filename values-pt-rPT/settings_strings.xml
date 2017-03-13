@@ -271,6 +271,6 @@
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negada. O mosaico não pode alterar o vibrar ao chamar</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Permitida. O mosaico pode alterar o vibrar ao chamar</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode activar/desactivar a poupança de bateria</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode activar/desactivar a poupança de bateria</string>
 </resources>

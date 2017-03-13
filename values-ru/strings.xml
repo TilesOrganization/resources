@@ -310,6 +310,6 @@
     <string name="vibrate_for_calls_tile_alert_dialog_message">Чтобы позволить плитке менять режим вибрации при звонке, пожалуйста откройте настройки и разрешите доступ к изменению системных настроек.</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">Режим энергосбережения</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_alert_dialog_message">Чтобы позволить плитке изменять режим энергосбережения, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Режим энергосбережения нельзя включить во время зарядки.</string>
 </resources>

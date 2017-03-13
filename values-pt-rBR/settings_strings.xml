@@ -271,6 +271,6 @@
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o vibrar para chamadas</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar o vibrar para chamadas</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido ligar e desligar a economia de bateria</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido ligar e desligar a economia de bateria</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_adaptive_brightness_tile">自動亮度模式”開啟時會令手機根據現場周圍環境光亮情況，自動調節屏幕亮度。開啟後你仍然可以手動調節屏幕亮度。\n 使用此快速設定磚需要授予修改系統設定的權限。(https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
-    <string name="description_alarm_tile">提供“顯示下一個鬧鐘”及”新增鬧鐘” 兩個選項。如已決定鬧鐘時間，快速設定磚將會顯示下一個鬧鐘時間。除了內置原生的時鐘程式，此快速設定磚亦能支援其他第三方時鐘應用程式。</string>
-    <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
-    <string name="description_animations_tile">Set the scale of animations for animator, transition, and window.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
-    <string name="description_application_tile">Create a list of applications to be displayed in a dialog. If only one application is set, it will be launched without displaying the dialog.</string>
+    <string name="description_adaptive_brightness_tile">「自動亮度模式」開啟時會令手機根據現場周圍環境光亮情況而自動調節屏幕亮度，開啟後你仍然可以手動調節屏幕亮度。\n使用此快速設定磚需要授予修改系統設定的權限。(https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
+    <string name="description_alarm_tile">「鬧鐘」主要提供「顯示下一個鬧鐘」及「新增鬧鐘」 兩個選項。如已有設定的鬧鐘時間，快速設定磚將會顯示下一個鬧鐘時間。除了內置原生的時鐘程式，此快速設定磚亦能支援其他第三方時鐘應用程式。</string>
+    <string name="description_ambient_display_tile">「環境顯示」開啟後會在裝置收到通知時短暫在鎖定屏幕顯示通知供快速查閱。\n使用此快速設定磚需要授予可寫入安全設定的權限。(https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS)</string>
+    <string name="description_animations_tile">「動畫」允許變更視窗動畫比例、轉場動畫比例及Animator片長比例。\n使用此快速設定磚需要授予可寫入安全設定的權限。(https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS)</string>
+    <string name="description_application_tile">「應用程式」允許建立包含多個應用程式的清單/方塊並快速存取；如只選取一個應用程式，按下快速設定磚將可立即開啟應用程式。</string>
     <string name="description_awake_while_plugged_in_tile">Device will never go to sleep as long as it\'s plugged into a power source.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
     <string name="description_brightness_tile">Set three different levels (high, medim &amp; low) of brightness to cycle through.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>

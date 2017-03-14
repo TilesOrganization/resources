@@ -56,13 +56,13 @@
     <string name="email_tile_formatted_label">電郵至 %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">沒有選取任何電郵地址，請開啟設定並選取電郵地址或選擇進行其他動作。</string>
     <!--lock-->
-    <string name="lock_tile_label">鎖定</string>
-    <string name="lock_tile_device_admin_description">允許快速設定磚鎖定裝置</string>
+    <string name="lock_tile_label">鎖定螢幕</string>
+    <string name="lock_tile_device_admin_description">允許快速設定磚鎖定螢幕</string>
     <string name="lock_tile_device_admin_activated">裝置管理員已啟用</string>
     <string name="lock_tile_device_admin_deactivated">裝置管理員已停用</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">如在裝置管理員中停用，快速設定磚將不允許鎖定裝置。</string>
-    <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定裝置，請開啟設定並在裝置管理員中啟用。</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">如在裝置管理員中啟用，快速設定磚將允許鎖定裝置。</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">停用此裝置管理員，快速設定磚將不允許鎖定螢幕。</string>
+    <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定螢幕，請前往設定並啟用此裝置管理員。</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">啟用此裝置管理員，快速設定磚將允許鎖定螢幕。</string>
     <!--map-->
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
@@ -84,7 +84,7 @@
     <string name="ringer_mode_tile_label_normal">正常</string>
     <string name="ringer_mode_tile_label_silent">靜音</string>
     <string name="ringer_mode_tile_label_vibrate">震動</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許請勿打擾模式的存取權限。</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <!--screen on-->
     <string name="screen_on_tile_label">保持屏幕開啟</string>
     <string name="screen_on_tile_dialog_wake_lock_running">保持屏幕開啟的服務正在運行，\n要停止服務嗎？</string>
@@ -141,7 +141,7 @@
     <string name="reminder_tile_alert_delete_reminder_dialog_message">刪除備忘提醒？</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">回復備忘提醒？</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">捨棄更改？</string>
-    <string name="reminder_tile_remind_me">提醒我</string>
+    <string name="reminder_tile_remind_me">提醒</string>
     <string name="retrieving_location_dialog_message">正在取得位置，請稍候。</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">休眠時限</string>
@@ -285,7 +285,7 @@
     <string name="recents_screens_tile_alert_dialog_message">要允許快速設定磚顯示最近使用的應用程式，請前往設定並允許Tiles的無障礙設定服務。</string>
     <!--volumes-->
     <string name="volumes_tile_label">音量</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音量，請前往設定並允許請勿打擾模式的存取權限。</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音量，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <string name="volumes_tile_volume_keys_disabled">音量鍵暫時禁止操作。</string>
     <string name="volumes_tile_volume_alarm">鬧鐘</string>
     <string name="volumes_tile_volume_media">媒體</string>
@@ -298,12 +298,12 @@
     <string name="touch_sounds_tile_label">輕觸音效</string>
     <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">鎖定屏幕旋轉</string>
-    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定磚變更及鎖定屏幕旋轉，請前往設定並允許可修改系統設定的權限。</string>
-    <string name="orientation_lock_tile_label_rotation_0">旋轉 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">旋轉 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">旋轉 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">旋轉 270\u00B0</string>
+    <string name="orientation_lock_tile_label">屏幕旋轉方向</string>
+    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定磚變更屏幕旋轉方向，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="orientation_lock_tile_label_rotation_0">旋轉至 0\u00B0 (預設)</string>
+    <string name="orientation_lock_tile_label_rotation_90">旋轉至 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">旋轉至 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">旋轉至 270\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_auto_rotate">自動旋轉</string>
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">來電時同時震動</string>

@@ -32,13 +32,13 @@
     <string name="settings_design_status_bar_tint_accent">強調色</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">通知欄</string>
-    <string name="settings_design_status_bar_icons_light">淺色圖示</string>
+    <string name="settings_design_status_bar_icons_light">亮色圖示</string>
     <string name="settings_design_status_bar_icons_dark">暗色圖示</string>
     <!--advanced-->
     <string name="settings_advanced">進階</string>
-    <string name="settings_restart_active_tiles_title">重啟已加入的設定磚</string>
-    <string name="settings_restart_active_tiles_summary">強制重啟已加入的設定磚。如發現已加入的快速設定磚沒有反應或被系統停止運作，可使用此選項強制重啟這些設定磚。</string>
-    <string name="settings_restart_active_tiles_summary_processing">正在重啟已加入的設定磚。</string>
+    <string name="settings_restart_active_tiles_title">重啟已加入的快速設定磚</string>
+    <string name="settings_restart_active_tiles_summary">強制重啟已加入的快速設定磚。如發現已加入的快速設定磚沒有反應或被系統停止運作，可使用此選項強制重啟這些設定磚。</string>
+    <string name="settings_restart_active_tiles_summary_processing">正在重啟已加入的快速設定磚。</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
@@ -102,9 +102,9 @@
     <string name="settings_lock_tile_device_admin_summary_on">已啟用。此快速設定磚允許鎖定裝置。</string>
     <string name="settings_lock_tile_device_admin_summary_off">已停用。快速設定磚不允許鎖定裝置。</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">[請勿打擾]模式存取</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟請勿打擾模式及變更設定。</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟請勿打擾模式及變更設定。</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">「請勿打擾」模式存取</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟「請勿打擾」模式及變更設定。</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟「請勿打擾」模式及變更設定。</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">開啟音量設定面板</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">變更音效模式</string>
     <string name="settings_ringer_mode_tile_play_sound_title">播放音效</string>
@@ -180,13 +180,13 @@
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">屏幕截圖時震動</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">屏幕截圖時不震動</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">關閉快速設定面並進行屏幕截圖</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">不關閉快速設定面並進行屏幕截圖</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">不關閉快速設定面板並進行屏幕截圖</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">顯示截圖分享的動作</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">不顯示截圖分享的動作</string>
     <string name="settings_screenshot_tile_notification_delete_action_summary_on">顯示刪除截圖的動作</string>
     <string name="settings_screenshot_tile_notification_delete_action_summary_off">不顯示刪除截圖的動作</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">請勿打擾模式</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">「請勿打擾」模式</string>
     <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">僅限鬧鐘</string>
     <string name="settings_ringer_mode_tile_dnd_mode_none">完全靜音</string>
     <string name="settings_ringer_mode_tile_dnd_mode_priority_only">僅限優先</string>
@@ -254,9 +254,9 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">[請勿打擾]模式存取</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟[請勿打擾模式]及變更音量。</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟[請勿打擾模式]及變更音量。</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">「請勿打擾」模式存取</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟「請勿打擾」模式及變更音量。</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟「請勿打擾」模式及變更音量。</string>
     <!--vibrate on tap-->
     <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕按時震動。</string>
     <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕按時震動。</string>
@@ -264,9 +264,9 @@
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更輕觸音效。</string>
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更輕觸音效。</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">變更及鎖定屏幕旋轉</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更及鎖定屏幕旋轉。</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更及鎖定屏幕旋轉。</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">變更屏幕旋轉方向</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更屏幕旋轉方向。</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕旋轉方向。</string>
     <!--vibrate for calls-->
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已禁止。 此快速設定磚禁止變更來電時同時震動的使用狀態。</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更來電時同時震動的使用狀態。</string>

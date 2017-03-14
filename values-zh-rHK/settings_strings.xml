@@ -102,7 +102,7 @@
     <string name="settings_lock_tile_device_admin_summary_on">已啟用。此快速設定磚允許鎖定裝置。</string>
     <string name="settings_lock_tile_device_admin_summary_off">已停用。快速設定磚不允許鎖定裝置。</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">[請勿打擾]存取</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">[請勿打擾]模式存取</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟請勿打擾模式及變更設定。</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟請勿打擾模式及變更設定。</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">開啟音量設定面板</string>
@@ -254,7 +254,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">請勿打擾模式存取</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">[請勿打擾]模式存取</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟[請勿打擾模式]及變更音量。</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟[請勿打擾模式]及變更音量。</string>
     <!--vibrate on tap-->
@@ -268,9 +268,9 @@
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更及鎖定屏幕旋轉。</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更及鎖定屏幕旋轉。</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已禁止。 此快速設定磚禁止變更來電時震動的使用狀態。</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更來電時震動的使用狀態。</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已禁止。 此快速設定磚禁止變更來電時同時震動的使用狀態。</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更來電時同時震動的使用狀態。</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止開啟或關閉省電模式。</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許開啟或關閉省電模式。</string>
 </resources>

@@ -288,7 +288,7 @@
     <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o mosaico altere o volume do toque, abra as definições e dê acesso ao não incomodar.</string>
     <string name="volumes_tile_volume_keys_disabled">Botões de volume temporariamente desativados</string>
     <string name="volumes_tile_volume_alarm">Alarme</string>
-    <string name="volumes_tile_volume_media">Multimedia</string>
+    <string name="volumes_tile_volume_media">Multimédia</string>
     <string name="volumes_tile_volume_ring">Tocar</string>
     <string name="volumes_tile_volume_call">Chamada</string>
     <!--vibrate on tap-->

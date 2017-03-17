@@ -11,10 +11,10 @@
     <string name="description_calculator_tile">「計算機」，如有安裝Google的計算機，快速設定磚將會開啟應用程式。</string>
     <string name="description_calendar_tile">「日曆」提供「開啟日曆活動內容」或「新增活動」，此快速設定磚亦能支援其他第三方日曆應用程式。</string>
     <string name="description_call_tile">「電話」提供「選取指定聯絡人號碼並進行快速撥號」或「開啟電話應用程式」。此快速設定磚亦能支援其他第三方電話應用程式。\n使用此快速設定磚需要需要獲取電話通話及撥號的權限才能使用。詳情可參閱(https://developer.android.com/reference/android/Manifest.permission.html#CALL_PHONE)</string>
-    <string name="description_camera_tile">「相機」，利用快速設定磚打開相機應用程式的「相片拍攝」或「影片拍攝」Launch the camera app in photo or video mode. The action is compatible with third-party apps that can receive the Android default broadcast to launch the camera in photo and video mode.</string>
-    <string name="description_clipboard_tile">View the content of the latest clipping, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
-    <string name="description_data_roaming_tile">Turn data roaming on or off.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) is required to use this tile.</string>
-    <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS) and dump permission (https://developer.android.com/reference/android/Manifest.permission.html#DUMP) are required to use this tile.</string>
+    <string name="description_camera_tile">「相機」，利用快速設定磚直接打開相機應用程式的「相片拍攝」或「影片拍攝」模式。此快速設定磚亦能支援其他第三方相機應用程式。</string>
+    <string name="description_clipboard_tile">「剪貼板」，可查看剪貼板最新的內容，並可以進行複製、分享或儲存至其他應用程式。</string>
+    <string name="description_data_roaming_tile">「數據漫遊」，快速開啟或關閉數據漫遊。\n使用此快速設定磚需要授予可寫入安全設定的權限。 (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS)</string>
+    <string name="description_demo_mode_tile">「示範模式」，允許開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些屏幕截圖或演示需要。\n使用此快速設定磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。 (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SECURE_SETTINGS)； (https://developer.android.com/reference/android/Manifest.permission.html#DUMP) </string>
     <string name="description_density_tile">Change the density of the screen.</string>
     <string name="description_email_tile">Choose a contact to quickly email or launch the email app. The action is compatible with third-party apps that can receive the Android default broadcast to compose and send emails.</string>
     <string name="description_files_tile">Launch Android\'s built-in file manager to explore the storage of the device.</string>
@@ -45,9 +45,9 @@
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
     <string name="description_vibrate_for_calls_tile">Turn vibrations for incoming calls on or off.\nModify system settings permission (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS) is required to use this tile.</string>
-    <string name="description_vibrate_on_tap_tile">開啟或關閉觸控震動。\n使用此快速設定磚需要授予修改系統設定的權限。 (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
-    <string name="description_voice_tile">利用語音控制裝置或其他支援的操作。</string>
-    <string name="description_volumes_tile">開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取請勿打擾模式的權限才能使用。</string>
-    <string name="description_weather_tile">開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此設定磚採用Google的情境感知API（Google Awareness API）進行開發，詳情可參閱 (https://developers.google.com/awareness)。\n並需要獲取位置權限才能使用，詳情可參閱(https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION)</string>
-    <string name="description_web_search_tile">進行網絡搜尋。可配合支援網絡搜尋操作的第三方應用程式使用。</string>
+    <string name="description_vibrate_on_tap_tile">「開觸控震動」允許快速開啟或關閉觸控震動。\n使用此快速設定磚需要授予修改系統設定的權限。 (https://developer.android.com/reference/android/Manifest.permission.html#WRITE_SETTINGS)</string>
+    <string name="description_voice_tile">「語音」，利用語音控制裝置或其他支援的操作。</string>
+    <string name="description_volumes_tile">「音量」，開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取「請勿打擾」模式的權限才能使用。</string>
+    <string name="description_weather_tile">「天氣」，開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此設定磚採用Google的情境感知API（Google Awareness API）進行開發，詳情可參閱 (https://developers.google.com/awareness)。\n並需要獲取位置權限才能使用，詳情可參閱(https://developer.android.com/reference/android/Manifest.permission.html#ACCESS_FINE_LOCATION)</string>
+    <string name="description_web_search_tile">「網絡搜尋」，進行網絡搜尋，亦可配合支援網絡搜尋操作的第三方應用程式使用。</string>
 </resources>

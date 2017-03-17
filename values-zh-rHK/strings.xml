@@ -181,7 +181,7 @@
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">全屏模式</string>
     <string name="immersive_mode_tile_off">全屏模式關閉</string>
-    <string name="immersive_mode_tile_hide_system_bars">隱藏系統欄</string>
+    <string name="immersive_mode_tile_hide_system_bars">全屏模式</string>
     <string name="immersive_mode_tile_hide_navigation_bar">隱藏導航欄</string>
     <string name="immersive_mode_tile_hide_status_bar">隱藏狀態列</string>
     <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全屏模式，請前往設定並允許可寫入安全設定的權限。</string>
@@ -197,13 +197,13 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">動畫比例 %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">休眠時間</string>
+    <string name="sleep_time_tile_label">休眠統計表</string>
     <string name="sleep_time_tile_awake">清醒</string>
     <string name="sleep_time_tile_sleep">休眠</string>
     <string name="sleep_time_tile_formatted_battery_percentage">電量 %d%%</string>
-    <string name="sleep_time_tile_unplugged">已拔除</string>
-    <string name="sleep_time_tile_plugged_usb">已插入USB</string>
-    <string name="sleep_time_tile_plugged_ac">已插入AC</string>
+    <string name="sleep_time_tile_unplugged">已斷開充電/string>
+    <string name="sleep_time_tile_plugged_usb">插入USB充電</string>
+    <string name="sleep_time_tile_plugged_ac">插入AC充電<tring>
     <string name="sleep_time_tile_plugged_wireless">無線充電</string>
     <!--alarm-->
     <string name="alarm_tile_label">鬧鐘</string>

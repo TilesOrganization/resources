@@ -72,8 +72,8 @@
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">電源選單</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">要允許快速設定磚開啟電源選單，請前往設定並允許Tiles的無障礙設定服務。</string>
-    <string name="power_tile_action_system_power_dialog">系統電源選單</string>
-    <string name="power_tile_action_power_dialog">電源選單</string>
+    <string name="power_tile_action_system_power_dialog">電源選單</string>
+    <string name="power_tile_action_power_dialog">進階電源選單</string>
     <string name="power_tile_label">電源</string>
     <string name="power_tile_action_reboot">重新啟動</string>
     <string name="power_tile_action_reboot_recovery">重啟Recovery</string>
@@ -197,7 +197,7 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">動畫比例 %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
     <!--sleep time -->
-    <string name="sleep_time_tile_label">休眠統計表</string>
+    <string name="sleep_time_tile_label">休眠資訊</string>
     <string name="sleep_time_tile_awake">清醒</string>
     <string name="sleep_time_tile_sleep">休眠</string>
     <string name="sleep_time_tile_formatted_battery_percentage">電量 %d%%</string>
@@ -292,8 +292,8 @@
     <string name="volumes_tile_volume_ring">鈴聲</string>
     <string name="volumes_tile_volume_call">通話</string>
     <!--vibrate on tap-->
-    <string name="vibrate_on_tap_tile_label">輕按時震動</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定磚變更輕按時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="vibrate_on_tap_tile_label">輕觸震動</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定磚變更輕觸震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">輕觸音效</string>
     <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>

@@ -43,7 +43,7 @@
     <string name="calendar_tile_label">日曆</string>
     <!--call-->
     <string name="call_tile_label">電話</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">要允許快速設定磚進行撥號, 請前往設定並允許撥號權限。</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">要允許快速設定磚進行撥號，請前往設定並允許撥號權限。</string>
     <string name="call_tile_empty_contact_alert_dialog_message">沒有選取任何聯絡人， 請開啟設定並選取聯絡人或選擇進行其他動作。</string>
     <string name="call_tile_formatted_label">撥號給 %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>

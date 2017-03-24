@@ -70,6 +70,17 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим автонастройки яркости</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
     <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
+    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
+    <string name="settings_application_tile_single_app">Single application</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d application selected</item>
+        <item quantity="other">%d applications selected</item>
+        <item quantity="few">%d applications selected</item>
+        <item quantity="many">%d applications selected</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Selected application</string>
+    <!-- applications list-->
     <string name="settings_application_tile_view_mode">Режим отображения</string>
     <string name="settings_application_tile_view_mode_list">Список</string>
     <string name="settings_application_tile_view_mode_grid">Сетка</string>

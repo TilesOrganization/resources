@@ -70,6 +70,15 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
     <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Visualizza tutte le applicazioni</string>
+    <string name="settings_application_tile_action_show_selected_apps">Visualizza le applicazioni selezionate</string>
+    <string name="settings_application_tile_single_app">Singola applicazione</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d applicazione selezionata</item>
+        <item quantity="other">%d applicazioni selezionate</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Selected application</string>
+    <!-- applications list-->
     <string name="settings_application_tile_view_mode">Modalità vista</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
     <string name="settings_application_tile_view_mode_grid">Griglia</string>

@@ -24,7 +24,15 @@
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosidade adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminusidade adaptável, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">Applications</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <!--application-->
+    <string name="application_a_tile_label">Applicazione #1</string>
+    <string name="application_b_tile_label">Applicazione #2</string>
+    <string name="application_c_tile_label">Applicazione #3</string>
+    <string name="application_d_tile_label">Applicazione #4</string>
+    <string name="application_e_tile_label">Applicazione #5</string>
     <string name="application_tile_label">Applicação</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Nenhuma aplicação selecionada, abra as definições e escolha uma.</string>
     <string name="application_info_dialog_message">Para iniciar rapidamente, selecione apenas uma aplicação.</string>

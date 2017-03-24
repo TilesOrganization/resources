@@ -24,7 +24,15 @@
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brillo adaptativo</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir a Tile acceder al brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">Applications</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <!--application-->
+    <string name="application_a_tile_label">Application #1</string>
+    <string name="application_b_tile_label">Application #2</string>
+    <string name="application_c_tile_label">Application #3</string>
+    <string name="application_d_tile_label">Application #4</string>
+    <string name="application_e_tile_label">Application #5</string>
     <string name="application_tile_label">Aplicación</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Ninguna aplicación seleccionada, por favor, accede a los ajustes y selecciona una aplicación.</string>
     <string name="application_info_dialog_message">Para abrir rápidamente, por favor, selecciona sólo una aplicación.</string>

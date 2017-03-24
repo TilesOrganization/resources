@@ -24,7 +24,15 @@
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">自動亮度模式</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">Applications</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <!--application-->
+    <string name="application_a_tile_label">Applicazione #1</string>
+    <string name="application_b_tile_label">Applicazione #2</string>
+    <string name="application_c_tile_label">Applicazione #3</string>
+    <string name="application_d_tile_label">Applicazione #4</string>
+    <string name="application_e_tile_label">Applicazione #5</string>
     <string name="application_tile_label">應用程式</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
     <string name="application_info_dialog_message">只選取一個應用程以快速啟動</string>

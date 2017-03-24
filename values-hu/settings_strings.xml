@@ -70,6 +70,15 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem állíthat a fényerő módon.</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe állíthat a fényerő módon.</string>
     <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
+    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
+    <string name="settings_application_tile_single_app">Single application</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d application selected</item>
+        <item quantity="other">%d applications selected</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Selected application</string>
+    <!-- applications list-->
     <string name="settings_application_tile_view_mode">Megjelenítési mód</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
     <string name="settings_application_tile_view_mode_grid">Rács</string>

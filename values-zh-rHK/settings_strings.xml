@@ -70,14 +70,14 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止使用自動亮度模式</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許使用自動亮度模式</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">顯示所有應用程式</string>
+    <string name="settings_application_tile_action_show_selected_apps">顯示已選取的應用程式</string>
+    <string name="settings_application_tile_single_app">單一應用程式</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%d 應用程式已選取</item>
+        <item quantity="other">%d 應用程式已選取</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">已選取應用程式</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">顯示模式</string>
     <string name="settings_application_tile_view_mode_list">清單</string>
@@ -176,7 +176,7 @@
     <string name="settings_location_tile_action_change_location_mode">變更定位模式</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更屏幕休眠時限。</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕休眠時限限。</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕休眠時限。</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">變更休眠時限</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">寫入外部儲存空間權限</string>
@@ -251,8 +251,8 @@
     <string name="settings_demo_mode_tile_dump_permission_summary_on">已授權。此快速設定磚允許程式從系統服務檢測裝置狀態資訊。</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">已禁止。此快速設定磚禁止從系統服務檢測裝置狀態資訊。</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更浮動通知使用狀態。</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更浮動通知使用狀態。</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更浮動通知的使用狀態。</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更浮動通知的使用狀態。</string>
     <!--power-->
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟電源選單。</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟電源選單。</string>
@@ -267,13 +267,13 @@
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟「請勿打擾」模式及變更音量。</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟「請勿打擾」模式及變更音量。</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕按時震動。</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕按時震動。</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕觸震動。</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕觸震動。</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更輕觸音效。</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更輕觸音效。</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕觸音效。</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕觸音效。</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">變更屏幕旋轉方向</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">屏幕旋轉方向</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更屏幕旋轉方向。</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕旋轉方向。</string>
     <!--vibrate for calls-->

@@ -48,6 +48,6 @@
     <string name="description_vibrate_on_tap_tile">「輕觸震動」允許快速開啟或關閉「輕觸震動」的使用狀態。。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_voice_tile">「語音」，利用語音控制裝置或其他支援的操作。</string>
     <string name="description_volumes_tile">「音量」，開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取「請勿打擾」模式的權限才能使用。</string>
-    <string name="description_weather_tile">「天氣」，開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用。</string>
+    <string name="description_weather_tile">「天氣」，開啟視窗顯示現時的天氣情況，例如溫度、體感感度、濕度、露點等。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用。</string>
     <string name="description_web_search_tile">「網絡搜尋」，進行網絡搜尋，亦可配合支援網絡搜尋操作的第三方應用程式使用。</string>
 </resources>

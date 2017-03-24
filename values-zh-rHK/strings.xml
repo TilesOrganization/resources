@@ -128,7 +128,7 @@
     <string name="weather_humidity">濕度</string>
     <string name="weather_dew_point">露點</string>
     <!--web search-->
-    <string name="web_search_tile_label">網絡搜尋</string>
+    <string name="web_search_tile_label">網絡搜尋</string>
     <!--reminder-->
     <string name="reminder_tile_label">備忘提醒</string>
     <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">標題 (%d 字符限制)</string>
@@ -201,9 +201,9 @@
     <string name="sleep_time_tile_awake">清醒</string>
     <string name="sleep_time_tile_sleep">休眠</string>
     <string name="sleep_time_tile_formatted_battery_percentage">電量 %d%%</string>
-    <string name="sleep_time_tile_unplugged">已斷開充電/string>
+    <string name="sleep_time_tile_unplugged">已斷開充電</string>
     <string name="sleep_time_tile_plugged_usb">插入USB充電</string>
-    <string name="sleep_time_tile_plugged_ac">插入AC充電<tring>
+    <string name="sleep_time_tile_plugged_ac">插入AC充電</string>
     <string name="sleep_time_tile_plugged_wireless">無線充電</string>
     <!--alarm-->
     <string name="alarm_tile_label">鬧鐘</string>

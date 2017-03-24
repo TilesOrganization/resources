@@ -70,8 +70,12 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
     <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
+    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
     <string name="settings_application_tile_view_mode">View mode</string>
     <string name="settings_application_tile_view_mode_list">List</string>
+    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_selected_app">Selected application</string>
     <string name="settings_application_tile_view_mode_grid">Grid</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
     <string name="settings_application_tile_grid_columns">Grid columns</string>
@@ -80,6 +84,10 @@
     <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
     <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d application selected</item>
+        <item quantity="other">%d applications selected</item>
+    </plurals>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>

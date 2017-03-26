@@ -25,7 +25,7 @@
     <string name="adaptive_brightness_tile_label">自動亮度模式</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">應用程式清單</string>
+    <string name="applications_list_tile_label">應用程式</string>
     <string name="applications_list_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
     <!--application-->
     <string name="application_a_tile_label">應用程式 #1</string>

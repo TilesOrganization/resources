@@ -254,8 +254,8 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer les notifications heads-up</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer les notifications heads-up</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Désactivé. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Activé. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à afficher le menu de démarrage système</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à afficher le menu de démarrage système</string>
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Désactivé. La tuile n\'est pas autorisée à basculer le multi-fenêtre</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Activé. La tuile est autorisée à basculer le multi-fenêtre</string>

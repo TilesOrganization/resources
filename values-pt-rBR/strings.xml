@@ -25,14 +25,14 @@
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">Applications</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_label">Aplicativos</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Nenhum aplicativo selecionado, abra as configurações e escolha um app.</string>
     <!--application-->
-    <string name="application_a_tile_label">Applicazione #1</string>
-    <string name="application_b_tile_label">Applicazione #2</string>
-    <string name="application_c_tile_label">Applicazione #3</string>
-    <string name="application_d_tile_label">Applicazione #4</string>
-    <string name="application_e_tile_label">Applicazione #5</string>
+    <string name="application_a_tile_label">Aplicativo #1</string>
+    <string name="application_b_tile_label">Aplicativo #2</string>
+    <string name="application_c_tile_label">Aplicativo #3</string>
+    <string name="application_d_tile_label">Aplicativo #4</string>
+    <string name="application_e_tile_label">Aplicativo #5</string>
     <string name="application_tile_label">Aplicativo</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Nenhum app selecionado, abra as configurações e escolha um app.</string>
     <string name="application_info_dialog_message">Para iniciar rapidamente, selecione somente um app.</string>

@@ -45,6 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Brillo: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Brillo indefinido</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir a Tile cambiar el nivel de brillo, por favor, accede a los ajustes y concede permisos para modificar los ajustes del sistema.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Calculadora</string>
     <!--calendar-->

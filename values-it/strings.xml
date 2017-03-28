@@ -45,6 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Luminosità: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosità non definita</string>
     <string name="brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare livello luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Luminosità adattiva&lt;/b> è attiva</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Luminosità corrente: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Calcolatrice</string>
     <!--calendar-->

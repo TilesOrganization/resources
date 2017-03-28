@@ -4,7 +4,7 @@
     <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
     <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_animations_tile">Set the scale of animations for animator, transition, and window.\nWrite secure settings permission is required to use this tile.</string>
-    <string name="description_application_tile">Create a list of applications to be displayed in a dialog. If only one application is set, it will be launched without displaying the dialog.</string>
+    <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
     <string name="description_awake_while_plugged_in_tile">Device will never go to sleep as long as it\'s plugged into a power source.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_brightness_tile">Set three different levels (high, medium &amp; low) of brightness to cycle through.\nModify system settings permission is required to use this tile.</string>

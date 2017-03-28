@@ -45,6 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Luminosité: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosité non définie</string>
     <string name="brightness_tile_alert_dialog_message">Pour permettre à la tuile de changer le niveau de luminosité, veuillez ouvrir les paramètres et accordez la permission de modifier les réglages système.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Calculatrice</string>
     <!--calendar-->

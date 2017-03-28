@@ -45,8 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Jas: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Jas nie je definovaný</string>
     <string name="brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť úroveň jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Prispôsobivý jas&lt;/b> je zapnutý</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Aktuálny jas: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Kalkulačka</string>
     <!--calendar-->

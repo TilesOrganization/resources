@@ -45,8 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Яркость: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Яркость не задана</string>
     <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Адаптивная регулировка&lt;/b> is on</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Текущая яркость экрана: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Калькулятор</string>
     <!--calendar-->

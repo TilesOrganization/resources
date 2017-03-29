@@ -45,8 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">亮度: %1$d%%</string>
     <string name="brightness_tile_undefined_label">未定義亮度</string>
     <string name="brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度，請前往設定並允許修改系統設定的權限。</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">已開啟&lt;b>自動亮度模式&lt;/b></string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">現時亮度：&lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">計算機</string>
     <!--calendar-->

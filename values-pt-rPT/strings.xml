@@ -45,8 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Luminosidade: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Luminosidade não definida</string>
     <string name="brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminosidade, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Luminosidade adaptável&lt;/b> is on</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Luminosidade actual: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Calculadora</string>
     <!--calendar-->

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something went wrong. Please try again</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
+    <string name="something_went_wrong">ஏதோ தவறு நடந்துவிட்டது. தயவு செய்து மீண்டும் முயற்சிக்கவும்</string>
+    <string name="location_off_alert_dialog_message">இருப்பிடம் முடக்கத்தில் உள்ளது. ஓடு தற்போதைய இடம் செல்ல அனுமதிக்க,தயவுசெய்து அமைப்புகளைத் திறந்து இடம் இயக்கவும்.</string>
+    <string name="location_device_only_alert_dialog_message">இருப்பிட முறை மட்டுமே சாதனம் உள்ளது. அதிக வேகம் மற்றும் துல்லியமான முடிவுக்கு, தயவுசெய்து அமைப்புகளைத் திறந்து வெவ்வேறு இருப்பிட முறையில் செயல்படுத்தவும்.</string>
+    <string name="resolve_activity_alert_dialog_message">இந்த செயலைச்செய்ய எந்தச் செயல்பாடும் கண்டறியப்படவில்லை.</string>
+    <string name="su_alert_dialog_message">அத்தகைய செயலை செய்ய, ஒரு இண்டராக்டிவ்ஷெல்க்கான சூப்பர்யூசர் அனுமதிகளை தயவு செய்து வழங்கவும்.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
     <string name="medium">Medium</string>

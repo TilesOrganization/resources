@@ -283,4 +283,7 @@
     <!--battery saver-->
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zapnúť/vypnúť Šetrič batérie</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zapnúť/vypnúť Šetrič batérie</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
 </resources>

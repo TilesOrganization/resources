@@ -322,4 +322,7 @@
     <string name="battery_saver_tile_label">Risparmio energetico</string>
     <string name="battery_saver_tile_alert_dialog_message">Per permettere alla funzione di attivare e disattivare risparmio energetico, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Risparmio energetico non disponibile durante la ricarica.</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">Debug USB</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Per permettere alla funzione di cambiare debug USB, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
 </resources>

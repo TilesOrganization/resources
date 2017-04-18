@@ -44,6 +44,7 @@
     <string name="description_text_tile">Visualizzare un dialogo per scrivere qualsiasi cosa, da copiare, condividere o salvare con applicazioni di terze parti che possono ricevere il broadcast di default di Android per condividere testo.</string>
     <string name="description_timer_tile">Iniziare un conto alla rovescia. L\'azione è compatibile con applicazioni di terze parti che possono ricevere il broadcast di default di Android per iniziare un timer.</string>
     <string name="description_touch_sounds_tile">Abilitare o disabilitare suoni alla pressione.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
+    <string name="description_usb_debugging_tile">Abilitare o disabilitare modalità debug quando è connesso USB.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_vibrate_for_calls_tile">Abilitare o disabilitare vibrazione per le chiamate.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_vibrate_on_tap_tile">Abilitare o disabilitare vibra alla pressione.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_voice_tile">Utilizzare azioni vocali per controllare il dispositivo o eseguire azioni supportate.</string>

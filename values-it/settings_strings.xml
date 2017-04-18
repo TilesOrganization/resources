@@ -282,4 +282,7 @@
     <!--battery saver-->
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a disattivare e attivare risparmio energetico</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a disattivare e attivare risparmio energetico</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare debug USB</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare debug USB</string>
 </resources>

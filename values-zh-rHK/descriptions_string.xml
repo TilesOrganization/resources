@@ -44,6 +44,7 @@
     <string name="description_text_tile">「文本分享」，開啟一個視窗方塊允許你輸入、複製貼上文字並進行快速分享至其他應用程式。</string>
     <string name="description_timer_tile">「倒數計時器」，快速進行倒數計時。此快鄭設定磚亦可配合其他第三方應用程式使用。</string>
     <string name="description_touch_sounds_tile">「輕觸音效」，開啟或關閉「輕觸音效」。\n使用此快速設定磚需要授予修改系統設定的權限。 詳情可參閱 permission</string>
+    <string name="description_usb_debugging_tile">Turn debug mode when USB is connected on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_vibrate_for_calls_tile">「來電時同時震動」允許快速開啟或關閉「來電時同時震動」的使用狀態。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_vibrate_on_tap_tile">「輕觸震動」允許快速開啟或關閉「輕觸震動」的使用狀態。。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_voice_tile">「語音」，利用語音控制裝置或其他支援的操作。</string>

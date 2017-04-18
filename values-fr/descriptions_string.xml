@@ -44,6 +44,7 @@
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permission is required to use this tile.</string>
+    <string name="description_usb_debugging_tile">Turn debug mode when USB is connected on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_vibrate_for_calls_tile">Turn vibrations for incoming calls on or off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_vibrate_on_tap_tile">Turn tap vibrations on or off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_voice_tile">Use voice actions to control the device or perform supported actions.</string>

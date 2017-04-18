@@ -322,4 +322,7 @@
     <string name="battery_saver_tile_label">Économiseur de batterie</string>
     <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">L\'économiseur de batterie n\'est pas disponible lorsque l\'appareil est en charge.</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">USB debugging</string>
+    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
 </resources>

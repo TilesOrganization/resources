@@ -282,4 +282,7 @@
     <!--battery saver-->
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止開啟或關閉省電模式。</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許開啟或關閉省電模式。</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
 </resources>

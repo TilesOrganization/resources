@@ -44,6 +44,7 @@
     <string name="description_text_tile">Öffnet einen Dialog um etwas hineinzuschreiben, zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern welche einen geteilten Text entgegen nehmen können.</string>
     <string name="description_timer_tile">Startet einen Countdown-Timer. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern welche den Start eines Countdown-Timers entgegen nehmen können.</string>
     <string name="description_touch_sounds_tile">De- oder aktiviert die Töne bei Berührung.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
+    <string name="description_usb_debugging_tile">Turn debug mode when USB is connected on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_vibrate_for_calls_tile">De- oder aktiviert die Vibration für eingehende Anrufe.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_vibrate_on_tap_tile">De- oder aktiviert die Vibration bei Berührung.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_voice_tile">Nutze die Spracherkennung um das Smartphone zu steuern oder unterstützte Aktionen durchzuführen.</string>

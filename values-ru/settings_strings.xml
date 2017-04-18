@@ -285,6 +285,6 @@
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может изменять режим энергосбережения</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может изменять режим энергосбережения</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать режим отладки по USB</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать режим отладки по USB</string>
 </resources>

@@ -16,7 +16,7 @@
     <string name="settings_night_mode_yes">Nuit</string>
     <string name="settings_night_mode_auto">Auto</string>
     <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogs</string>
+    <string name="settings_design_dialogs">Dialogues</string>
     <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
     <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
     <!--navigation status bar tint-->
@@ -50,7 +50,7 @@
     <string name="settings_credit">Crédit</string>
     <string name="settings_credit_app_icon">Icône de l\'application</string>
     <string name="settings_translations">Traductions</string>
-    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l\'appli vers votre langue, n\'hésitez pas à me contacter: rascarlo@gmail.com.\nMerci!</string>
+    <string name="settings_translations_thanks">Si vous souhaitez aider à traduire l\'appli vers votre langue, n\'hésitez pas à me contacter : rascarlo@gmail.com.\nMerci !</string>
     <string name="settings_translations_locale_de">Allemand</string>
     <string name="settings_translations_locale_pt_rBR">Portugais, Brésil</string>
     <string name="settings_translations_locale_nl">Néerlandais</string>

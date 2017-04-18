@@ -283,6 +283,6 @@
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido ligar e desligar a economia de bateria</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido ligar e desligar a economia de bateria</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a depuração USB</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a depuração USB</string>
 </resources>

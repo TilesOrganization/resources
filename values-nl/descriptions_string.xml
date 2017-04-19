@@ -44,7 +44,7 @@
     <string name="description_text_tile">Open een dialoog om iets op te schrijven, te kopiëren, te delen, of op te slaan met een app van derden die de standaard Android broadcast kunnen ontvangen om tekst te delen.</string>
     <string name="description_timer_tile">Start een countdown timer. De actie is te gebruiken met apps van derden die de standaard Android broadcast kunnen ontvangen om een countdown timer te starten.</string>
     <string name="description_touch_sounds_tile">Schakel aanraakgeluiden aan of uit.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
-    <string name="description_usb_debugging_tile">Turn debug mode when USB is connected on or off.\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_usb_debugging_tile">Zet debug modus aan wanneer USB is aangesloten aan of uit.\nToestemming voor beveiligde instellingen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_vibrate_for_calls_tile">Schakel trillen voor inkomende oproepen in of uit.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_vibrate_on_tap_tile">Schakel aanraak trillingen in of uit.\n Toestemming om systeeminstellingen te kunnen wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_voice_tile">Gebruik spraak acties om het toestel te besturen of om een ondersteunende actie uit te voeren.</string>

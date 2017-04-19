@@ -283,6 +283,6 @@
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om accubesparing in of uit te schakelen</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Toegekend. De tegel heeft toestemming om accubesparing in of uit te schakelen</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Geweigerd. De tegel heeft geen toestemming om USB debugging te veranderen</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Toegenkend. De tegel heeft toestemming om USB debugging te veranderen</string>
 </resources>

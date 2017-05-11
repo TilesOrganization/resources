@@ -327,5 +327,5 @@
     <string name="usb_debugging_tile_alert_dialog_message">Damit die Kachel das USB-Debugging ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobilfunkdaten</string>
-    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
+    <string name="cellular_data_tile_alert_dialog_message">Damit die Kachel den Status der Mobilfunkdaten ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
 </resources>

@@ -323,6 +323,9 @@
     <string name="battery_saver_tile_alert_dialog_message">Aby dlaždica mohla zapnúť/vypnúť Šetrič batérie, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Počas nabíjania nie je Šetrič batérie k dispozícii.</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">Ladenie cez USB</string>
-    <string name="usb_debugging_tile_alert_dialog_message">Aby dlaždica mohla zmeniť Ladenie cez USB, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
+    <string name="usb_debugging_tile_label">USB debugging</string>
+    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <!--cellular data-->
+    <string name="cellular_data_tile_label">Mobilné dáta</string>
+    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
 </resources>

@@ -221,9 +221,9 @@
     <!--files-->
     <string name="files_tile_label">Файлы</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Ярлык настроек</string>
+    <string name="settings_shortcut_tile_label">Настройки</string>
     <string name="settings_shortcut_tile_action_accessibility">Спец. возможности</string>
-    <string name="settings_shortcut_tile_action_add_account">Добавьте аккаунт</string>
+    <string name="settings_shortcut_tile_action_add_account">Добавить аккаунт</string>
     <string name="settings_shortcut_tile_action_apn">Точки доступа (APN)</string>
     <string name="settings_shortcut_tile_action_application_settings">Приложения</string>
     <string name="settings_shortcut_tile_action_battery_saver">Режим энергосбережения</string>
@@ -236,8 +236,8 @@
     <string name="settings_shortcut_tile_action_display">Экран</string>
     <string name="settings_shortcut_tile_action_battery_optimization">Экономия заряда батареи</string>
     <string name="settings_shortcut_tile_action_location_sources">Местоположение</string>
-    <string name="settings_shortcut_tile_action_manage_overlay">Наложение поверх других окон</string>
-    <string name="settings_shortcut_tile_action_manage_write">Могут изменять системные настройки</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Доступ к наложению поверх других окон</string>
+    <string name="settings_shortcut_tile_action_manage_write">Доступ к изменению системных настроек</string>
     <string name="settings_shortcut_tile_action_network_operators">Операторы связи</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>
     <string name="settings_shortcut_tile_action_notification_listener">Доступ к уведомлениям</string>
@@ -246,7 +246,7 @@
     <string name="settings_shortcut_tile_action_security">Безопасность</string>
     <string name="settings_shortcut_tile_action_sound">Звук</string>
     <string name="settings_shortcut_tile_action_sync">Синхронизация</string>
-    <string name="settings_shortcut_tile_action_usage_access">Приложения с доступом к данным</string>
+    <string name="settings_shortcut_tile_action_usage_access">Доступ к данным</string>
     <string name="settings_shortcut_tile_action_user_dictionary">Личный словарь</string>
     <string name="settings_shortcut_tile_action_voice_input">Помощник и голосовой ввод</string>
     <string name="settings_shortcut_tile_action_vpn">Настройки VPN</string>
@@ -358,5 +358,5 @@
     <string name="usb_debugging_tile_alert_dialog_message">Чтобы позволить плитке переключать режим отладки по USB, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Мобильные данные</string>
-    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
+    <string name="cellular_data_tile_alert_dialog_message">Чтобы позволить плитке переключать состояние мобильных данных, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
 </resources>

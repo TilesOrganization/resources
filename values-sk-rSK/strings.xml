@@ -236,7 +236,7 @@
     <string name="settings_shortcut_tile_action_display">Obrazovka</string>
     <string name="settings_shortcut_tile_action_battery_optimization">Optimalizácia batérie</string>
     <string name="settings_shortcut_tile_action_location_sources">Poloha</string>
-    <string name="settings_shortcut_tile_action_manage_overlay">Aplikácie, kt. môžu vykresľovať cez iné ap</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Aplikácie, ktoré môžu vykresľovať cez iné aplikácie</string>
     <string name="settings_shortcut_tile_action_manage_write">Môže upravovať nastavenia systému</string>
     <string name="settings_shortcut_tile_action_network_operators">Sieťoví operátori</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>

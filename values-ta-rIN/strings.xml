@@ -222,6 +222,37 @@
     <string name="files_tile_label">Files</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Settings shortcut</string>
+    <string name="settings_shortcut_tile_action_accessibility">அணுகல்தன்மை</string>
+    <string name="settings_shortcut_tile_action_add_account">கணக்கைச் சேர்க்கவும்</string>
+    <string name="settings_shortcut_tile_action_apn">APNகள்</string>
+    <string name="settings_shortcut_tile_action_application_settings">பயன்பாடுகள்</string>
+    <string name="settings_shortcut_tile_action_battery_saver">பேட்டரி சேமிப்பான்</string>
+    <string name="settings_shortcut_tile_action_bluetooth">புளூடூத்</string>
+    <string name="settings_shortcut_tile_action_captions">தலைப்புகள்</string>
+    <string name="settings_shortcut_tile_action_cast">அனுப்புதல்</string>
+    <string name="settings_shortcut_tile_action_data_roaming">செல்லுலார் நெட்வொர்க்குகள்</string>
+    <string name="settings_shortcut_tile_action_date">தேதி &amp; நேரம்</string>
+    <string name="settings_shortcut_tile_action_device_info">மொபைலின் நிலை</string>
+    <string name="settings_shortcut_tile_action_display">தோற்றம்</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">பேட்டரி மேம்படுத்தல்</string>
+    <string name="settings_shortcut_tile_action_location_sources">இருப்பிடம்</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">பிற பயன்பாடுகளின் மேலே செயல்படக்கூடிய பயன்பாடுகள்</string>
+    <string name="settings_shortcut_tile_action_manage_write">முறைமை அமைப்புகளை மாற்றலாம்</string>
+    <string name="settings_shortcut_tile_action_network_operators">நெட்வொர்க் ஆபரேட்டர்கள்</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">அறிவிப்பு அணுகல்</string>
+    <string name="settings_shortcut_tile_action_printing">அச்சிடுதல்</string>
+    <string name="settings_shortcut_tile_action_search">தேடு</string>
+    <string name="settings_shortcut_tile_action_security">பாதுகாப்பு</string>
+    <string name="settings_shortcut_tile_action_sound">ஒலி</string>
+    <string name="settings_shortcut_tile_action_sync">ஒத்திசை</string>
+    <string name="settings_shortcut_tile_action_usage_access">பயன்பாட்டு அணுகல் உள்ள ஆப்ஸ்</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">தனிப்பட்ட அகராதி</string>
+    <string name="settings_shortcut_tile_action_voice_input">அசிஸ்ட் &amp; குரல் உள்ளீடு</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VR உதவிச் சேவைகள்</string>
+    <string name="settings_shortcut_tile_action_wifi">வயர்லெஸ் &amp; நெட்வொர்க்குகள்</string>
+    <string name="settings_shortcut_tile_action_wireless">Wireless &amp; networks</string>
     <!--font size-->
     <string name="font_size_tile_label">Font size</string>
     <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>

@@ -222,6 +222,37 @@
     <string name="files_tile_label">檔案管理器</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">設定捷徑</string>
+    <string name="settings_shortcut_tile_action_accessibility">無障礙設定</string>
+    <string name="settings_shortcut_tile_action_add_account">新增帳戶</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">應用程式</string>
+    <string name="settings_shortcut_tile_action_battery_saver">省電模式</string>
+    <string name="settings_shortcut_tile_action_bluetooth">藍牙</string>
+    <string name="settings_shortcut_tile_action_captions">字幕</string>
+    <string name="settings_shortcut_tile_action_cast">投放</string>
+    <string name="settings_shortcut_tile_action_data_roaming">流動網絡</string>
+    <string name="settings_shortcut_tile_action_date">日期和時間</string>
+    <string name="settings_shortcut_tile_action_device_info">手機狀態</string>
+    <string name="settings_shortcut_tile_action_display">顯示</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">電池優化</string>
+    <string name="settings_shortcut_tile_action_location_sources">位置</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">此應用程式可能會覆蓋其他應用程式</string>
+    <string name="settings_shortcut_tile_action_manage_write">可以修改系統設定</string>
+    <string name="settings_shortcut_tile_action_network_operators">網絡供應商</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">通知存取權</string>
+    <string name="settings_shortcut_tile_action_printing">列印</string>
+    <string name="settings_shortcut_tile_action_search">搜尋</string>
+    <string name="settings_shortcut_tile_action_security">安全性</string>
+    <string name="settings_shortcut_tile_action_sound">音效</string>
+    <string name="settings_shortcut_tile_action_sync">同步</string>
+    <string name="settings_shortcut_tile_action_usage_access">可存取使用狀況的應用程式</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">個人字典</string>
+    <string name="settings_shortcut_tile_action_voice_input">輔助及語音輸入</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">虛擬現實協助服務</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">無線與網絡</string>
     <!--font size-->
     <string name="font_size_tile_label">字型大小</string>
     <string name="font_size_tile_alert_dialog_message">要允許快速設定磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>

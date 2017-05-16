@@ -222,6 +222,37 @@
     <string name="files_tile_label">Súbory</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Odkaz na nastavenia</string>
+    <string name="settings_shortcut_tile_action_accessibility">Dostupnosť</string>
+    <string name="settings_shortcut_tile_action_add_account">Pridať účet</string>
+    <string name="settings_shortcut_tile_action_apn">Prístupové body</string>
+    <string name="settings_shortcut_tile_action_application_settings">Aplikácie</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Šetrič batérie</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Titulky</string>
+    <string name="settings_shortcut_tile_action_cast">Prenos</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Mobilné siete</string>
+    <string name="settings_shortcut_tile_action_date">Dátum a čas</string>
+    <string name="settings_shortcut_tile_action_device_info">Stav telefónu</string>
+    <string name="settings_shortcut_tile_action_display">Obrazovka</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Optimalizácia batérie</string>
+    <string name="settings_shortcut_tile_action_location_sources">Poloha</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Aplikácie, kt. môžu vykresľovať cez iné ap</string>
+    <string name="settings_shortcut_tile_action_manage_write">Môže upravovať nastavenia systému</string>
+    <string name="settings_shortcut_tile_action_network_operators">Sieťoví operátori</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Prístup k upozorneniam</string>
+    <string name="settings_shortcut_tile_action_printing">Tlač</string>
+    <string name="settings_shortcut_tile_action_search">Hľadať</string>
+    <string name="settings_shortcut_tile_action_security">Zabezpečenie</string>
+    <string name="settings_shortcut_tile_action_sound">Zvuk</string>
+    <string name="settings_shortcut_tile_action_sync">Synchronizácia</string>
+    <string name="settings_shortcut_tile_action_usage_access">Prístup k dátam o používaní</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Osobný slovník</string>
+    <string name="settings_shortcut_tile_action_voice_input">Asistencia a hlasový vstup</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Pomocné služby VR</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Bezdrôtové pripojenia a siete</string>
     <!--font size-->
     <string name="font_size_tile_label">Veľkosť písma</string>
     <string name="font_size_tile_alert_dialog_message">Aby dlaždica mohla meniť veľkosť písma, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>

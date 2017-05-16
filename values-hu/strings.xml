@@ -222,6 +222,37 @@
     <string name="files_tile_label">Fájlok</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Beállítások parancsikon</string>
+    <string name="settings_shortcut_tile_action_accessibility">Kisegítő lehetőségek</string>
+    <string name="settings_shortcut_tile_action_add_account">Fiók hozzáadása</string>
+    <string name="settings_shortcut_tile_action_apn">APN-ek</string>
+    <string name="settings_shortcut_tile_action_application_settings">Alkalmazások</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Akkumulátorkímélő mód</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Képaláírások</string>
+    <string name="settings_shortcut_tile_action_cast">Tartalomátküldés</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Mobilhálózatok</string>
+    <string name="settings_shortcut_tile_action_date">Dátum és idő</string>
+    <string name="settings_shortcut_tile_action_device_info">Telefon állapota</string>
+    <string name="settings_shortcut_tile_action_display">Megjelenítés</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Akkumulátoroptimalizálás</string>
+    <string name="settings_shortcut_tile_action_location_sources">Tartózkodási hely</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Alkalmazások, amelyek más alkalmazások felett is megjeleníthetnek elemeket</string>
+    <string name="settings_shortcut_tile_action_manage_write">Módosíthatja a rendszerbeállításokat</string>
+    <string name="settings_shortcut_tile_action_network_operators">Mobilszolgáltatók</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Hozzáférés értesítésekhez</string>
+    <string name="settings_shortcut_tile_action_printing">Nyomtatás</string>
+    <string name="settings_shortcut_tile_action_search">Keresés</string>
+    <string name="settings_shortcut_tile_action_security">Biztonság</string>
+    <string name="settings_shortcut_tile_action_sound">Hang</string>
+    <string name="settings_shortcut_tile_action_sync">Szinkronizálás</string>
+    <string name="settings_shortcut_tile_action_usage_access">Alkalmazások hozzáféréssel</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Személyes szótár</string>
+    <string name="settings_shortcut_tile_action_voice_input">Segédalkalmazás és hangbevitel</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">virtuálisvalóság-segédszolgáltatás</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Vezeték nélküli és egyéb hálózatok</string>
     <!--font size-->
     <string name="font_size_tile_label">Betűméret</string>
     <string name="font_size_tile_alert_dialog_message">A betűméret csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>

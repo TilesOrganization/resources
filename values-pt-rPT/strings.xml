@@ -222,6 +222,37 @@
     <string name="files_tile_label">Ficheiros</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Definições</string>
+    <string name="settings_shortcut_tile_action_accessibility">Acessibilidade</string>
+    <string name="settings_shortcut_tile_action_add_account">Adicionar uma conta</string>
+    <string name="settings_shortcut_tile_action_apn">APNs</string>
+    <string name="settings_shortcut_tile_action_application_settings">Aplicações</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Poupança de bateria</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Legendas</string>
+    <string name="settings_shortcut_tile_action_cast">Transmitir</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Redes móveis</string>
+    <string name="settings_shortcut_tile_action_date">Data e hora</string>
+    <string name="settings_shortcut_tile_action_device_info">Estado do telefone</string>
+    <string name="settings_shortcut_tile_action_display">Visor</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Otimização da bateria</string>
+    <string name="settings_shortcut_tile_action_location_sources">Localização</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Aplic. que se podem sobrepor a outras aplic</string>
+    <string name="settings_shortcut_tile_action_manage_write">Podem modificar as definições do sistema</string>
+    <string name="settings_shortcut_tile_action_network_operators">Operadores de rede</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Acesso a notificações</string>
+    <string name="settings_shortcut_tile_action_printing">Impressão</string>
+    <string name="settings_shortcut_tile_action_search">Pesquisar</string>
+    <string name="settings_shortcut_tile_action_security">Segurança</string>
+    <string name="settings_shortcut_tile_action_sound">Som</string>
+    <string name="settings_shortcut_tile_action_sync">Sincronizar</string>
+    <string name="settings_shortcut_tile_action_usage_access">Aplic. com acesso de utiliz</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Dicionário pessoal</string>
+    <string name="settings_shortcut_tile_action_voice_input">Entr. texto por voz e assist</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Serviços de assistente de RV</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Redes sem fios e outras</string>
     <!--font size-->
     <string name="font_size_tile_label">Tamanho da visualização</string>
     <string name="font_size_tile_alert_dialog_message">Para permitir que o mosaico altere o tamanho da visualização, abra as definições e conceda permissão para modificar definições de sistema.</string>

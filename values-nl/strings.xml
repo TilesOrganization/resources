@@ -222,6 +222,37 @@
     <string name="files_tile_label">Bestanden</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Instellingen snelkoppeling</string>
+    <string name="settings_shortcut_tile_action_accessibility">Toegankelijkheid</string>
+    <string name="settings_shortcut_tile_action_add_account">Een account toevoegen</string>
+    <string name="settings_shortcut_tile_action_apn">APN\'s</string>
+    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Accubesparing</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Ondertiteling</string>
+    <string name="settings_shortcut_tile_action_cast">Casten</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Mobiele netwerken"</string>
+    <string name="settings_shortcut_tile_action_date">Datum en tijd</string>
+    <string name="settings_shortcut_tile_action_device_info">Telefoonstatus</string>
+    <string name="settings_shortcut_tile_action_display">Weergave</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Accuoptimalisatie</string>
+    <string name="settings_shortcut_tile_action_location_sources">Locatie</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Apps die over andere apps tekenen</string>
+    <string name="settings_shortcut_tile_action_manage_write">Kan systeeminstellingen aanpassen</string>
+    <string name="settings_shortcut_tile_action_network_operators">Netwerkproviders</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Toegang tot meldingen</string>
+    <string name="settings_shortcut_tile_action_printing">Afdrukken</string>
+    <string name="settings_shortcut_tile_action_search">Zoeken</string>
+    <string name="settings_shortcut_tile_action_security">Beveiliging</string>
+    <string name="settings_shortcut_tile_action_sound">Geluid</string>
+    <string name="settings_shortcut_tile_action_sync">Synchroniseren</string>
+    <string name="settings_shortcut_tile_action_usage_access">Apps met gebruikstoegang</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Persoonlijk woordenboek</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assistent en spraakinvoer</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VR-helperservices</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Draadloos en netwerken</string>
     <!--font size-->
     <string name="font_size_tile_label">Lettergrootte</string>
     <string name="font_size_tile_alert_dialog_message">Om de tegel toestemming te geven om de lettergrootte te veranderen, open instellingen en geef toestemming om systeem instellingen te wijzigen.</string>

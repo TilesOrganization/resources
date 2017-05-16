@@ -222,6 +222,37 @@
     <string name="files_tile_label">File</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Scorciatoia impostazioni</string>
+    <string name="settings_shortcut_tile_action_accessibility">Accessibilità</string>
+    <string name="settings_shortcut_tile_action_add_account">Aggiungi un account</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">App</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Risparmio energetico</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Sottotitoli</string>
+    <string name="settings_shortcut_tile_action_cast">Trasmetti</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Reti cellulari</string>
+    <string name="settings_shortcut_tile_action_date">Data e ora</string>
+    <string name="settings_shortcut_tile_action_device_info">Stato telefono</string>
+    <string name="settings_shortcut_tile_action_display">Display</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Ottimizzazione batteria</string>
+    <string name="settings_shortcut_tile_action_location_sources">Geolocalizzazione</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">App che possono essere spostate su altre app</string>
+    <string name="settings_shortcut_tile_action_manage_write">Possono modificare le impostazioni di sistema</string>
+    <string name="settings_shortcut_tile_action_network_operators">Operatori di rete</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Accesso alle notifiche</string>
+    <string name="settings_shortcut_tile_action_printing">Stampa</string>
+    <string name="settings_shortcut_tile_action_search">Ricerca</string>
+    <string name="settings_shortcut_tile_action_security">Sicurezza</string>
+    <string name="settings_shortcut_tile_action_sound">Audio</string>
+    <string name="settings_shortcut_tile_action_sync">Sincronizzazione</string>
+    <string name="settings_shortcut_tile_action_usage_access">App con accesso a dati utilizzo</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Dizionario personale</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assistenza e input vocale</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Servizi helper realtà virtuale</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Wireless e reti</string>
     <!--font size-->
     <string name="font_size_tile_label">Dimensioni carattere</string>
     <string name="font_size_tile_alert_dialog_message">Per permettere alla funzione di cambiare dimensioni carattere, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>

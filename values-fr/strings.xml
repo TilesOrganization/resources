@@ -222,6 +222,37 @@
     <string name="files_tile_label">Fichiers</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Raccourci réglages</string>
+    <string name="settings_shortcut_tile_action_accessibility">Accessibilité</string>
+    <string name="settings_shortcut_tile_action_add_account">Ajouter un compte</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">Applications</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Économiseur de batterie</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Sous-titres</string>
+    <string name="settings_shortcut_tile_action_cast">Diffuser</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Réseaux mobiles</string>
+    <string name="settings_shortcut_tile_action_date">Date et heure</string>
+    <string name="settings_shortcut_tile_action_device_info">État du téléphone</string>
+    <string name="settings_shortcut_tile_action_display">Affichage</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Optimisation de la batterie</string>
+    <string name="settings_shortcut_tile_action_location_sources">Localisation</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Applis pouvant se superposer aux autres applis</string>
+    <string name="settings_shortcut_tile_action_manage_write">Peut modifier les paramètres système</string>
+    <string name="settings_shortcut_tile_action_network_operators">Opérateurs de réseaux</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Accès aux notifications</string>
+    <string name="settings_shortcut_tile_action_printing">Impression</string>
+    <string name="settings_shortcut_tile_action_search">Recherche</string>
+    <string name="settings_shortcut_tile_action_security">Sécurité</string>
+    <string name="settings_shortcut_tile_action_sound">Son</string>
+    <string name="settings_shortcut_tile_action_sync">Synchronisation</string>
+    <string name="settings_shortcut_tile_action_usage_access">Applis accédant aux infos utilisation</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Dictionnaire personnel</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assistance et saisie vocale</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Services de soutien de réalité virtuelle</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Sans fil et réseaux</string>
     <!--font size-->
     <string name="font_size_tile_label">Taille de la police</string>
     <string name="font_size_tile_alert_dialog_message">Pour permettre à la tuile de changer la taille de la police, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>

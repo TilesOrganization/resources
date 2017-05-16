@@ -222,6 +222,37 @@
     <string name="files_tile_label">Файлы</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Ярлык настроек</string>
+    <string name="settings_shortcut_tile_action_accessibility">Спец. возможности</string>
+    <string name="settings_shortcut_tile_action_add_account">Добавьте аккаунт</string>
+    <string name="settings_shortcut_tile_action_apn">Точки доступа (APN)</string>
+    <string name="settings_shortcut_tile_action_application_settings">Приложения</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Режим энергосбережения</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Субтитры</string>
+    <string name="settings_shortcut_tile_action_cast">Трансляция</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Мобильные сети"</string>
+    <string name="settings_shortcut_tile_action_date">Дата и время</string>
+    <string name="settings_shortcut_tile_action_device_info">Состояние телефона</string>
+    <string name="settings_shortcut_tile_action_display">Экран</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Экономия заряда батареи</string>
+    <string name="settings_shortcut_tile_action_location_sources">Местоположение</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Наложение поверх других окон</string>
+    <string name="settings_shortcut_tile_action_manage_write">Могут изменять системные настройки</string>
+    <string name="settings_shortcut_tile_action_network_operators">Операторы связи</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Доступ к уведомлениям</string>
+    <string name="settings_shortcut_tile_action_printing">Печать</string>
+    <string name="settings_shortcut_tile_action_search">Поиск</string>
+    <string name="settings_shortcut_tile_action_security">Безопасность</string>
+    <string name="settings_shortcut_tile_action_sound">Звук</string>
+    <string name="settings_shortcut_tile_action_sync">Синхронизация</string>
+    <string name="settings_shortcut_tile_action_usage_access">Приложения с доступом к данным</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Личный словарь</string>
+    <string name="settings_shortcut_tile_action_voice_input">Помощник и голосовой ввод</string>
+    <string name="settings_shortcut_tile_action_vpn">Настройки VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Вспомогательные VR-сервисы</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Беспроводные сети</string>
     <!--font size-->
     <string name="font_size_tile_label">Размер шрифта</string>
     <string name="font_size_tile_alert_dialog_message">Чтобы позволить плитке менять размер шрифта, пожалуйста откройте настройки и дайте доступ к изменению системных настроек.</string>

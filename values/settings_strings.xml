@@ -117,7 +117,7 @@
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\'t play any sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
@@ -127,10 +127,10 @@
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\'t play any sound when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\'t vibrate when service is started</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Change sync state</string>
@@ -155,10 +155,10 @@
     <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
     <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\'t play any sound when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
     <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
     <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\'t vibrate when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
@@ -184,10 +184,10 @@
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\'t play any sound when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\'t vibrate when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>

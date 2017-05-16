@@ -222,6 +222,37 @@
     <string name="files_tile_label">Dateien</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Verknüfung zu Einstellungen</string>
+    <string name="settings_shortcut_tile_action_accessibility">Bedienungshilfen</string>
+    <string name="settings_shortcut_tile_action_add_account">Konto hinzufügen</string>
+    <string name="settings_shortcut_tile_action_apn">APNs</string>
+    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Energiesparmodus</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Untertitel</string>
+    <string name="settings_shortcut_tile_action_cast">Übertragen</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Mobilfunknetze</string>
+    <string name="settings_shortcut_tile_action_date">Datum &amp; Uhrzeit</string>
+    <string name="settings_shortcut_tile_action_device_info">Telefonstatus</string>
+    <string name="settings_shortcut_tile_action_display">Display</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Akku-Leistungsoptimierung</string>
+    <string name="settings_shortcut_tile_action_location_sources">Standort</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Apps, die über anderen Apps einblendbar sind</string>
+    <string name="settings_shortcut_tile_action_manage_write">Kann Systemeinstellungen ändern</string>
+    <string name="settings_shortcut_tile_action_network_operators">Netzbetreiber</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Benachrichtigungszugriff</string>
+    <string name="settings_shortcut_tile_action_printing">Drucken</string>
+    <string name="settings_shortcut_tile_action_search">Suche</string>
+    <string name="settings_shortcut_tile_action_security">Sicherheit</string>
+    <string name="settings_shortcut_tile_action_sound">Töne</string>
+    <string name="settings_shortcut_tile_action_sync">Synchronisierung</string>
+    <string name="settings_shortcut_tile_action_usage_access">Apps mit Nutzungsdatenzugriff</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Mein Wörterbuch</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assistent &amp; Spracheingabe</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VR-Hilfsdienste</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Drahtlos &amp; Netzwerke</string>
     <!--font size-->
     <string name="font_size_tile_label">Schriftgröße</string>
     <string name="font_size_tile_alert_dialog_message">Damit die Kachel die Schriftgröße ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>

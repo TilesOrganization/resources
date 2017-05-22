@@ -32,7 +32,7 @@
     <string name="description_power_tile">Zeigt einen Dialog an um das System herunterzufahren, neuzustarten, in die Recovery oder in den Bootloader neuzustarten. Um das Power-Menü anzuzeigen muss die Bedienungshilfe aktiviert sein.</string>
     <string name="description_power_dialog_accessibility_tile">Zeige das Power-Menü von Android an um das System herunterzufahren oder neuzustarten. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
     <string name="description_recents_screen_tile">Zeige die letzten Apps an, eine Übersicht des Systems welche die zuletzt verwendeten Aktivitäten und Tasks zeigt. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
-    <string name="description_reminder_tile">Fügt eine Erinnerung als persistente Benachrichtigung hinzu. Bearbeite oder lösche die Erinnerung indem die auf die Benachrichtigung klickst.</string>
+    <string name="description_reminder_tile">Fügt eine Erinnerung als persistente Benachrichtigung hinzu. Bearbeite oder lösche die Erinnerung durch einen Klick auf die Benachrichtigung.</string>
     <string name="description_ringer_mode_tile">Setze den Klingel-Modus des Smartphone: Normal, Vibration oder "Bitte nicht stören". Das Recht zum Zugriff auf den "Bitte nicht stören"-Modus wird für diese Kachel benötigt.</string>
     <string name="description_screen_on_tile">Lässt den Bildschirm des Smartphone dauerhaft aktiv. Damit das Smartphone wieder in den Ruhezustand übergeht, beende den Dienst oder schalte den Bildschirm ab.</string>
     <string name="description_screenshot_tile">Erstelle einen Screenshot.\nDas Schreibrecht für den Speicher wird für diese Kachel benötigt.</string>

@@ -1,7 +1,7 @@
-Privacy Policy of Tiles
+# Privacy Policy of Tiles
 
-BIND_DEVICE_ADMIN permission
-android:permission="android.permission.BIND_DEVICE_ADMIN"
+## BIND_DEVICE_ADMIN permission
+### android:permission="android.permission.BIND_DEVICE_ADMIN"
 Required to use the lock tile to lock the device using the Android Device Administration API
 
 The lock tile, if activated, prompts the user to enable the device admin application if deactivated.

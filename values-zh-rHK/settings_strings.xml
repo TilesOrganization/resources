@@ -43,6 +43,8 @@
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
     <string name="settings_feedback">意見及援助</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_wiki">Wiki</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">謝謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>

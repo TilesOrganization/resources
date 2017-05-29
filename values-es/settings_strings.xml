@@ -43,6 +43,8 @@
     <string name="settings_location_permissions_preference_title">Permiso de localización</string>
     <string name="settings_modify_system_settings_permissions_title">Permiso para modificar los ajustes del sistema</string>
     <string name="settings_feedback">Feedback &amp; Soporte</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_wiki">Wiki</string>
     <string name="settings_rate_or_review">Puntua o deja una opinión sobre la aplicación</string>
     <string name="settings_support_title">¡Gracias por apoyar el proyecto!</string>
     <string name="settings_send_email">Enviar un email</string>

@@ -43,8 +43,8 @@
     <string name="settings_location_permissions_preference_title">Разрешение на определение местоположения</string>
     <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
-    <string name="settings_privacy_policy">Privacy Policy</string>
-    <string name="settings_wiki">Wiki</string>
+    <string name="settings_privacy_policy">Политика конфиденциальности</string>
+    <string name="settings_wiki">Вики</string>
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
     <string name="settings_send_email">Отправить письмо</string>

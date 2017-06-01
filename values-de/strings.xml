@@ -359,4 +359,6 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobilfunkdaten</string>
     <string name="cellular_data_tile_alert_dialog_message">Damit die Kachel den Status der Mobilfunkdaten ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
+    <!--vpn-->
+    <string name="vpn_tile_label">VPN</string>
 </resources>

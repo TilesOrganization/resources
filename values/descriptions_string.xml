@@ -50,6 +50,7 @@
     <string name="description_vibrate_on_tap_tile">Turn vibrations for taps on or off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_voice_tile">Use voice actions to control the device or perform supported actions.</string>
     <string name="description_volumes_tile">Control the volume streams of the device: alarm, media, ring and call (on voice capable devices). Do Not Disturb access is required to use this tile.</string>
+    <string name="description_vpn_tile">Show settings to allow configuration of VPN.</string>
     <string name="description_weather_tile">Open a dialog with the current weather conditions, temperature, feels like, humidity and dew point. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
     <string name="description_web_search_tile">Start a web search. The action is compatible with third-party apps that can receive the Android default broadcast to initiate a web search.</string>
 </resources>

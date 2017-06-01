@@ -50,6 +50,7 @@
     <string name="description_vibrate_on_tap_tile">Schakel aanraak trillingen in of uit.\n Toestemming om systeeminstellingen te kunnen wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_voice_tile">Gebruik spraak acties om het toestel te besturen of om een ondersteunende actie uit te voeren.</string>
     <string name="description_volumes_tile">Regel de volume van het toestel: alarm, media, beltoon en oproep (op toestellen die in staat zijn om stem te herkennen). Niet Storen toestemming is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_vpn_tile">Show settings to allow configuration of VPN.</string>
     <string name="description_weather_tile">Open een dialoog met de huidige weersomstandigheden, temperatuur, gevoelstemperatuur, luchtvochtigheid en dauwpunt. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_web_search_tile">Start een zoekopdracht op internet. Deze actie kan gebruik maken van apps van derden die de standaard Android broadcast kunnen ontvangen om een zoekopdracht te kunnen starten.</string>
 </resources>

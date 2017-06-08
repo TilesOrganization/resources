@@ -50,7 +50,7 @@
     <string name="description_vibrate_on_tap_tile">Ativar ou desativar vibrar ao tocar.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_voice_tile">Use ações por voz para controlar o dispositivo ou executar ações suportadas.</string>
     <string name="description_volumes_tile">Controle os tipos de volume do dispositivo: alarme, mídia, toque e chamada (em dispositivos com capacidade de voz). O acesso ao Não Pertube é obrigatório para o uso desse bloco.</string>
-    <string name="description_vpn_tile">Show settings to allow configuration of VPN.</string>
+    <string name="description_vpn_tile">Mostrar configurações para permitir a configuração de VPN.</string>
     <string name="description_weather_tile">Abre uma caixa de diálogo com as condições climáticas atuais como temperatura, sensação térmica, umidade e ponto de orvalho. Esse bloco faz uso da API Google Awareness.\nA permissão de localização é necessária para usar esse bloco.</string>
     <string name="description_web_search_tile">Inicia uma pesquisa na web. A ação é compatível com aplicativos de terceiros que podem receber a transmissão padrão do Android para iniciar uma pesquisa na web.</string>
 </resources>

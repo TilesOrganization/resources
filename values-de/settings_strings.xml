@@ -37,7 +37,7 @@
     <!--advanced-->
     <string name="settings_advanced">Erweitert</string>
     <string name="settings_restart_active_tiles_title">Neustart der aktiven Kacheln</string>
-    <string name="settings_restart_active_tiles_summary">Zerzwinge einen Neustart für die aktiven Kacheln. Verwende diese Aktion nur, nachdem die Kacheln durch das Betriebssystem beendet worden sind und deswegen nicht mehr reagieren.</string>
+    <string name="settings_restart_active_tiles_summary">Erzwinge einen Neustart für die aktiven Kacheln. Verwende diese Aktion nur, nachdem die Kacheln durch das Betriebssystem beendet worden sind und deswegen nicht mehr reagieren.</string>
     <string name="settings_restart_active_tiles_summary_processing">Neustart der aktiven Kacheln im Gange.</string>
     <!--UX-->
     <string name="settings_location_permissions_preference_title">Standort-Rechte</string>
@@ -52,7 +52,7 @@
     <string name="settings_credit">Danksagung</string>
     <string name="settings_credit_app_icon">Icon der Anwendung</string>
     <string name="settings_translations">Übersetzungen</string>
-    <string name="settings_translations_thanks">Wenn du dabei helfen willst die App in eine andere Sprache zu übersetzen, dann melde dich bitte bei mir: rascarlo@gmail.com.\nVielen Dank!</string>
+    <string name="settings_translations_thanks">Wenn du dabei helfen willst, die App in eine andere Sprache zu übersetzen, dann melde dich bitte bei mir: rascarlo@gmail.com.\nVielen Dank!</string>
     <string name="settings_translations_locale_de">Deutsch</string>
     <string name="settings_translations_locale_pt_rBR">Portugiesisch, Brasilianisch</string>
     <string name="settings_translations_locale_nl">Niederländer</string>
@@ -124,9 +124,9 @@
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Starte/stoppe den Dienst</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung über aktive Dienste</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an solange Dienste aktiv sind</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an, solange Dienste aktiv sind</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verstecke die Benachrichtigung</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zeige die Aktion, um die Einstellungen zu öffnen</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Ton abspielen</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Spiele keinen Ton, wenn der Dienst gestartet wird</string>
@@ -143,11 +143,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen Bestätigungsdialog für das Starten des Timers an</string>
     <string name="settings_timer_tile_default_duration">Standard-Dauer</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standord zugreifen</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standord zugreifen</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standort zugreifen</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standort zugreifen</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standord zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standord zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standort zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standort zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
     <string name="settings_units">Einheit</string>
     <string name="settings_summary_off_hidden">Verborgen</string>
     <string name="settings_summary_on_shown">Anzeigen</string>
@@ -164,7 +164,7 @@
     <string name="settings_reminder_tile_notification_timestamp_style">Zeitstempel-Stil</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stoppuhr</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Zeige die Aktion um die Einstellungen zu öffnen</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Zeige die Aktion, um die Einstellungen zu öffnen</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_reminder_tile_draw_over_apps_title">\"Über anderen Apps einblenden\"-Berechtigung</string>
     <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Erinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
@@ -173,9 +173,9 @@
     <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standord-Modus ändern</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf nicht den Standord-Modus ändern</string>
-    <string name="settings_location_tile_action_change_location_mode">Standord-Modus ändern</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf jetzt den Standort-Modus ändern</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf nicht den Standort-Modus ändern</string>
+    <string name="settings_location_tile_action_change_location_mode">Standort-Modus ändern</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf den Ruhezustand nicht ändern</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf den Ruhezustand ändern</string>
@@ -191,8 +191,8 @@
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibriert, wenn ein Screenshot erstellt wird</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Vibriert nicht, wenn ein Screenshot erstellt wird</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Schließe die Schnelleinstellungen und erstelle einen Screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot ohne die Schnelleinstellungen zu schließen</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Zeige die Aktion um einen Screenshot zu teilen</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Erstelle einen Screenshot, ohne die Schnelleinstellungen zu schließen</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Zeige die Aktion, um einen Screenshot zu teilen</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Verstecke die Aktion um einen Screenshot zu teilen</string>
     <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
     <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
@@ -211,8 +211,8 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den immersiven Modus nicht ändern</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Ändere immersiven Modus</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status des Inaktivitätsdisplay ändern</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status des Inaktivitätsdisplay nicht ändern</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status des Inaktivitätsdisplays ändern</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status des Inaktivitätsdisplays nicht ändern</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Animationen ändern</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Animationen nicht ändern</string>
@@ -240,24 +240,24 @@
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Daten-Roaming Einstellung ändern</string>
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Daten-Roaming Einstellung nicht ändern</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Standard Anzeigegröße</string>
+    <string name="settings_density_tile_default_density_title">Standard-Anzeigegröße</string>
     <string name="settings_density_tile_current_density_title">Aktuelle Anzeigegröße</string>
-    <string name="settings_density_tile_restore_default_density_title">Standard Anzeigegröße wiederherstellen</string>
+    <string name="settings_density_tile_restore_default_density_title">Standard-Anzeigegröße wiederherstellen</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf das Aktiv lassen während des Ladens ändern</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf das Aktiv lassen während des Ladens nicht ändern</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf das Aktivlassen während des Ladens ändern</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf das Aktivlassen während des Ladens nicht ändern</string>
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Demo-Modus ändern</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Demo-Modus ändern</string>
     <string name="settings_dump_permission_title">Speicherauszug-Rechte</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Gewährt. Die Kachel darf einen Status-Informationen Speicherauszug von System-Diensten abrufen</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Verweigert. Die Kachel darf keinen Status-Informationen Speicherauszug von System-Diensten abrufen</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Gewährt. Die Kachel darf einen Speicherauszug von Status-Informationen der System-Dienste abrufen</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Verweigert. Die Kachel darf keinen Speicherauszug von Status-Informationen der System-Dienste abrufen</string>
     <!--heads up notifications-->
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf Heads-up Benachrichtigungen ändern</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf keine Heads-up Benachrichtigungen ändern</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf das System Power-Menü nicht anzeigen</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf das System Power-Menü anzeigen</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf das System-Power-Menü nicht anzeigen</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf das System-Power-Menü anzeigen</string>
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Verweigert. Die Kachel darf den Mehrfenster-Modus nicht ändern</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf den Mehrfenster-Modus ändern</string>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="something_went_wrong">發生錯誤，請重試。</string>
+    <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
+    <string name="location_device_only_alert_dialog_message">定位模式是僅限裝置。要提高定位精確度，請前往設定啟用其他定位模式以更迅速準確地獲得結果。</string>
+    <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
+    <string name="su_alert_dialog_message">要執行此操作，請授予超級用戶權限。</string>
+    <string name="play_services_alert_dialog_message">需要Google Play服務才能執行此操作，請安裝然後重試。</string>
+    <string name="high">高</string>
+    <string name="medium">中</string>
+    <string name="low">低</string>
+    <string name="checking_features_progress_dialog_message">正在檢查裝置以啟用特定的功能</string>
+    <string name="not_available">不可用</string>
+    <string name="cancel">取消</string>
+    <string name="revert">還原</string>
+    <string name="discard">捨棄</string>
+    <string name="share">分享</string>
+    <string name="delete">刪除</string>
+    <string name="save">儲存</string>
+    <string name="save_and_close">儲存並關閉</string>
+    <string name="warning">警告</string>
+    <string name="accessibility_service_label">協助工具</string>
+    <string name="accessibility_service_description">透過協助工具可讓Tiles執行開啟電源選單、顯示最近使用的應用程式及開啟多重視窗模式等動作。</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">自動亮度模式</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">應用程式</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
+    <!--application-->
+    <string name="application_a_tile_label">應用程式 #1</string>
+    <string name="application_b_tile_label">應用程式 #2</string>
+    <string name="application_c_tile_label">應用程式 #3</string>
+    <string name="application_d_tile_label">應用程式 #4</string>
+    <string name="application_e_tile_label">應用程式 #5</string>
+    <string name="application_tile_label">應用程式</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
+    <string name="application_info_dialog_message">只選取一個應用程式以快速啟動</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">亮度</string>
+    <string name="brightness_tile_label_formatted">亮度 %1$s</string>
+    <string name="brightness_tile_label_formatted_high">高: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">中: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">低: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">亮度: %1$d%%</string>
+    <string name="brightness_tile_undefined_label">未設定亮度</string>
+    <string name="brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度，請前往設定並允許修改系統設定的權限。</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">已開啟&lt;b>自動亮度模式&lt;/b></string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">目前亮度：&lt;b>%1$d%%&lt;/b></string>
+    <!--calculator-->
+    <string name="calculator_tile_label">計算機</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">日曆</string>
+    <!--call-->
+    <string name="call_tile_label">電話</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">要允許快速設定磚進行撥號，請前往設定並允許撥號權限。</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">沒有選取任何聯絡人， 請開啟設定並選取聯絡人或選擇進行其他動作。</string>
+    <string name="call_tile_formatted_label">撥號給 %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">選取聯絡人</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">相機</string>
+    <string name="camera_tile_video_label">錄影機</string>
+    <!--email -->
+    <string name="email_tile_label">電子郵件</string>
+    <string name="email_tile_formatted_label">電郵至 %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">沒有選取任何電郵地址，請開啟設定並選取電郵地址或選擇進行其他動作。</string>
+    <!--lock-->
+    <string name="lock_tile_label">鎖定螢幕</string>
+    <string name="lock_tile_device_admin_description">允許快速設定磚鎖定螢幕</string>
+    <string name="lock_tile_device_admin_activated">裝置管理員已啟用</string>
+    <string name="lock_tile_device_admin_deactivated">裝置管理員已停用</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">停用此裝置管理員，快速設定磚將不允許鎖定螢幕。</string>
+    <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定螢幕，請前往設定並啟用此裝置管理員。</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">啟用此裝置管理員，快速設定磚將允許鎖定螢幕。</string>
+    <!--map-->
+    <string name="maps_tile_label">地圖定位</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_service_description">當快速設定磚被加入時，檢查NFC狀態的服務將會啟用，反之亦然。注意：手動停止服務亦會導致設定磚狀態無法更新或反應延遲。</string>
+    <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--power-->
+    <string name="power_dialog_accessibility_tile_label">電源選單</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">要允許快速設定磚開啟電源選單，請前往設定並允許Tiles的協助工具服務。</string>
+    <string name="power_tile_action_system_power_dialog">電源選單</string>
+    <string name="power_tile_action_power_dialog">進階電源選單</string>
+    <string name="power_tile_label">電源</string>
+    <string name="power_tile_action_reboot">重新啟動</string>
+    <string name="power_tile_action_reboot_recovery">重新啟動至 Recovery 模式</string>
+    <string name="power_tile_action_reboot_bootloader">重新啟動至 Bootloader 模式</string>
+    <string name="power_tile_action_power_off">關機</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">音效模式</string>
+    <string name="ringer_mode_tile_label_normal">正常</string>
+    <string name="ringer_mode_tile_label_silent">靜音</string>
+    <string name="ringer_mode_tile_label_vibrate">震動</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">保持螢幕開啟</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">保持螢幕開啟的服務正在執行，\n要停止服務嗎？</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">保持螢幕開啟的服務沒有執行，\n要啟用服務嗎?</string>
+    <string name="screen_on_tile_service_notification_title">服務正在執行</string>
+    <string name="screen_on_tile_service_notification_content_text">裝置會保持螢幕開啟，輕按以停止服務。</string>
+    <string name="screen_on_tile_service_notification_sub_text">保持螢幕開啟的服務</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">街景</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">要允許快速設定磚取得目前位置，請前往設定並允許位置權限。</string>
+    <!--sync-->
+    <string name="sync_tile_label">同步</string>
+    <!--timer-->
+    <string name="timer_tile_label">倒數計時器</string>
+    <string name="timer_formatted_label">倒數計時\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">天氣</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定磚取得天氣狀況，請前往設定並允許位置權限。</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">請稍候，正在取得天氣狀況。</string>
+    <string name="weather_formatted_temperature_celsius">溫度: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">溫度: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">體感: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">體感: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">露點: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">露點: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">濕度: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">攝氏</string>
+    <string name="weather_fahrenheit">華氏</string>
+    <string name="weather_clear">晴朗</string>
+    <string name="weather_cloudy">多雲</string>
+    <string name="weather_foggy">有霧</string>
+    <string name="weather_hazy">朦朧</string>
+    <string name="weather_icy">冰冷</string>
+    <string name="weather_rainy">多雨</string>
+    <string name="weather_snowy">落雪</string>
+    <string name="weather_stormy">狂風暴雨</string>
+    <string name="weather_windy">刮風</string>
+    <string name="weather_conditions">天氣狀況</string>
+    <string name="weather_temperature">溫度</string>
+    <string name="weather_feels_like">體感</string>
+    <string name="weather_humidity">濕度</string>
+    <string name="weather_dew_point">露點</string>
+    <!--web search-->
+    <string name="web_search_tile_label">網路搜尋</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">備忘提醒</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">標題 (%d 字元限制)</string>
+    <string name="reminder_tile_content_hint">內容</string>
+    <string name="reminder_tile_persistent_checkbox">固定</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">刪除</string>
+    <string name="reminder_tile_empty_notification_text_fields">未有新增備忘提醒。如要新增有效的備忘提醒，請輸入標題或內容。</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">要執行此類操作，請授予可覆蓋其他應用程式權限。</string>
+    <string name="reminder_tile_text_copied_to_clipboard">文字已複製至剪貼簿</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">刪除備忘提醒？</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">還原備忘提醒？</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">捨棄更改？</string>
+    <string name="reminder_tile_remind_me">提醒</string>
+    <string name="retrieving_location_dialog_message">正在取得位置，請稍候。</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">休眠逾時</string>
+    <string name="sleep_timeout_tile_formatted_label">休眠逾時\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">要允許快速設定磚變更休眠逾時，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="sleep_timeout_tile_value_15000">15 秒</string>
+    <string name="sleep_timeout_tile_value_30000">30 秒</string>
+    <string name="sleep_timeout_tile_value_60000">1 分鐘</string>
+    <string name="sleep_timeout_tile_value_120000">2 分鐘</string>
+    <string name="sleep_timeout_tile_value_300000">5 分鐘</string>
+    <string name="sleep_timeout_tile_value_600000">10 分鐘</string>
+    <string name="sleep_timeout_tile_value_1800000">30 分鐘</string>
+    <!--location mode-->
+    <string name="location_tile_label">定位模式</string>
+    <string name="location_tile_alert_dialog_message">要允許快速設定磚變更定位模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="location_tile_label_off">定位關閉</string>
+    <string name="location_tile_label_battery_saving">節省電池電力</string>
+    <string name="location_tile_label_sensors_only">僅裝置</string>
+    <string name="location_tile_label_high_accuracy">高精確度</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">安全系統設置包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s寫入安全設置權限嗎？</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">允許</string>
+    <string name="permission_dialog_message_revoke">撤銷</string>
+    <!--timer H M S symbols -->
+    <string name="hour_symbol">時</string>
+    <string name="minute_symbol">分</string>
+    <string name="second_symbol">秒</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">休眠</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">螢幕截圖</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定磚進行螢幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
+    <string name="screenshot_tile_screenshot_captured">已擷取螢幕畫面</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看螢幕截圖</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">全螢幕模式</string>
+    <string name="immersive_mode_tile_off">全螢幕模式關閉</string>
+    <string name="immersive_mode_tile_hide_system_bars">全螢幕模式</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">隱藏導航欄</string>
+    <string name="immersive_mode_tile_hide_status_bar">隱藏狀態列</string>
+    <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全螢幕模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">環境顯示</string>
+    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--animations-->
+    <string name="animations_tile_label">動畫</string>
+    <string name="animations_tile_label_animator">Animator</string>
+    <string name="animations_tile_label_transition">轉場動畫</string>
+    <string name="animations_tile_label_window">視窗</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">關閉動畫</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">動畫比例 %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--sleep time -->
+    <string name="sleep_time_tile_label">休眠資訊</string>
+    <string name="sleep_time_tile_awake">清醒</string>
+    <string name="sleep_time_tile_sleep">休眠</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">電量 %d%%</string>
+    <string name="sleep_time_tile_unplugged">已斷開充電</string>
+    <string name="sleep_time_tile_plugged_usb">插入USB充電</string>
+    <string name="sleep_time_tile_plugged_ac">插入AC充電</string>
+    <string name="sleep_time_tile_plugged_wireless">無線充電</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">鬧鐘</string>
+    <string name="alarm_tile_no_alarm_set">沒有設定鬧鐘</string>
+    <!--files-->
+    <string name="files_tile_label">檔案管理器</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">設定捷徑</string>
+    <string name="settings_shortcut_tile_action_accessibility">協助工具</string>
+    <string name="settings_shortcut_tile_action_add_account">新增帳戶</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">應用程式</string>
+    <string name="settings_shortcut_tile_action_battery_saver">節省電池電力</string>
+    <string name="settings_shortcut_tile_action_bluetooth">藍牙</string>
+    <string name="settings_shortcut_tile_action_captions">字幕</string>
+    <string name="settings_shortcut_tile_action_cast">投放</string>
+    <string name="settings_shortcut_tile_action_data_roaming">行動數據</string>
+    <string name="settings_shortcut_tile_action_date">日期和時間</string>
+    <string name="settings_shortcut_tile_action_device_info">手機狀態</string>
+    <string name="settings_shortcut_tile_action_display">顯示</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">電池最佳化</string>
+    <string name="settings_shortcut_tile_action_location_sources">位置</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">此應用程式可能會覆蓋其他應用程式</string>
+    <string name="settings_shortcut_tile_action_manage_write">可以修改系統設定</string>
+    <string name="settings_shortcut_tile_action_network_operators">電信業者</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">通知存取權</string>
+    <string name="settings_shortcut_tile_action_printing">列印</string>
+    <string name="settings_shortcut_tile_action_search">搜尋</string>
+    <string name="settings_shortcut_tile_action_security">安全性</string>
+    <string name="settings_shortcut_tile_action_sound">音效</string>
+    <string name="settings_shortcut_tile_action_sync">同步</string>
+    <string name="settings_shortcut_tile_action_usage_access">可存取使用狀況的應用程式</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">個人字典</string>
+    <string name="settings_shortcut_tile_action_voice_input">輔助及語音輸入</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">虛擬現實協助服務</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">無線與網路</string>
+    <!--font size-->
+    <string name="font_size_tile_label">字型大小</string>
+    <string name="font_size_tile_alert_dialog_message">要允許快速設定磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>
+    <!--voice-->
+    <string name="voice_tile_label">語音</string>
+    <!--text-->
+    <string name="text_tile_label">文字分享</string>
+    <string name="text_tile_empty_chat_text_field">請輸入文字分享內容。</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">數據漫遊</string>
+    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定磚變更數據漫遊的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <!--density-->
+    <string name="density_tile_label">顯示大小</string>
+    <string name="density_tile_label_formatted">密度: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">最小闊度: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">螢幕尺寸: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">預設: %ddp</string>
+    <string name="density_tile_density_low">低 (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">中 (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">中高 (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">高 (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">超高 (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
+    <!--awake while plugged in-->
+    <string name="awake_while_plugged_on_tile_label">充電時保持螢幕亮起</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚變更充電時保持螢幕亮起的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">示範模式</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式的使用狀態，請前往設定並允許可寫入安全設定及檢測的權限。</string>
+    <string name="demo_mode_tile_system_bars">狀態列</string>
+    <string name="demo_mode_tile_system_bars_transparent">透明</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
+    <string name="demo_mode_tile_system_bars_translucent">半透明</string>
+    <string name="demo_mode_tile_system_bars_opaque">不透明</string>
+    <string name="demo_mode_tile_system_bars_warning">警告</string>
+    <string name="demo_mode_tile_battery">電源</string>
+    <string name="demo_mode_tile_state_plugged">連接電源</string>
+    <string name="demo_mode_tile_state_unplugged">斷開電源</string>
+    <string name="demo_mode_tile_level_formatted">級數 %1d</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">藍芽</string>
+    <string name="demo_mode_tile_state_disconnected">中斷連接</string>
+    <string name="demo_mode_tile_state_connected">連接</string>
+    <string name="demo_mode_tile_mobile">行動數據</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">漫遊</string>
+    <string name="demo_mode_tile_notifications">通知</string>
+    <string name="demo_mode_tile_alarm">鬧鐘</string>
+    <string name="demo_mode_tile_location">位置</string>
+    <string name="demo_mode_tile_clock">時鐘</string>
+    <string name="demo_mode_tile_mute">靜音</string>
+    <string name="demo_mode_tile_speakerphone">裝置喇叭</string>
+    <string name="demo_mode_tile_vibrate">震動</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">剪貼簿</string>
+    <string name="clipboard_tile_empty_clip">剪貼簿內沒有任何文字</string>
+    <!--keep-->
+    <string name="keep_tile_label">Google Keep</string>
+    <!--heads up notification-->
+    <string name="heads_up_notifications_tile_label">浮動通知</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統中並沒有提供任何設定選項去變更浮動通知的使用狀態，請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能還原正常運作，謝謝。</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">分屏模式</string>
+    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟分屏模式，請前往設定並允許Tiles的協助工具服務。</string>
+    <!--recents screen-->
+    <string name="recents_screen_tile_label">最近使用的應用程式</string>
+    <string name="recents_screens_tile_alert_dialog_message">要允許快速設定磚顯示最近使用的應用程式，請前往設定並允許Tiles的協助工具服務。</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">音量</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音量，請前往設定並允許「請勿打擾」模式的存取權限。</string>
+    <string name="volumes_tile_volume_keys_disabled">音量鍵暫時禁止操作。</string>
+    <string name="volumes_tile_volume_alarm">鬧鐘</string>
+    <string name="volumes_tile_volume_media">媒體</string>
+    <string name="volumes_tile_volume_ring">鈴聲</string>
+    <string name="volumes_tile_volume_call">通話</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">輕觸震動</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定磚變更輕觸震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">輕觸音效</string>
+    <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
+    <!--orientation lock-->
+    <string name="orientation_lock_tile_label">螢幕旋轉方向</string>
+    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定磚變更螢幕旋轉方向，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="orientation_lock_tile_label_rotation_0">旋轉至 0\u00B0 (預設)</string>
+    <string name="orientation_lock_tile_label_rotation_90">旋轉至 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">旋轉至 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">旋轉至 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">自動旋轉</string>
+    <!--vibrate for calls-->
+    <string name="vibrate_for_calls_tile_label">來電時同時震動</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">要允許快速設定磚變更來電時同時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">節省電池電力</string>
+    <string name="battery_saver_tile_alert_dialog_message">要允許快速設定磚開啟或關閉節省電池電力，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">當裝置充電時，「節省電池電力」將會自動關閉。</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">USB偵錯</string>
+    <string name="usb_debugging_tile_alert_dialog_message">要允許快速設定磚開啟或關閉USB偵錯，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--cellular data-->
+    <string name="cellular_data_tile_label">行動數據</string>
+    <string name="cellular_data_tile_alert_dialog_message">要允許快速設定磚變更行動數據的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--vpn-->
+    <string name="vpn_tile_label">VPN</string>
+    <!-- media volume -->
+    <string name="media_volume_tile_label">Media volume</string>
+</resources>

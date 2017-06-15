@@ -58,7 +58,8 @@
     <string name="settings_translations_locale_nl">荷蘭文</string>
     <string name="settings_translations_locale_pt_rPT">葡萄牙文</string>
     <string name="settings_translations_locale_sk_rSK">斯洛伐克文</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">繁體中文（香港、台灣、澳門）</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
+    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
     <string name="settings_translations_locale_it">意大利文</string>
     <string name="settings_translations_locale_hu">匈牙利文</string>
     <string name="settings_translations_locale_es">西班牙文</string>

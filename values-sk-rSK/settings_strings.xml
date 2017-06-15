@@ -58,7 +58,8 @@
     <string name="settings_translations_locale_nl">Dutch</string>
     <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
     <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Traditional Chinese, Hong Kong, Macao &amp; Taiwan</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
+    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
     <string name="settings_translations_locale_it">Talian</string>
     <string name="settings_translations_locale_hu">Hungarian</string>
     <string name="settings_translations_locale_es">Španielsky</string>

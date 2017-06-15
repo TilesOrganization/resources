@@ -58,7 +58,8 @@
     <string name="settings_translations_locale_nl">Dán</string>
     <string name="settings_translations_locale_pt_rPT">Portugál, Portugália</string>
     <string name="settings_translations_locale_sk_rSK">Szlovák</string>
-    <string name="settings_translations_locale_zh_rHK_rMO_rTW">Hagyományos kínai, Hong Kong, Makaó &amp; Kínai Köztársaság</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Hagyományos kínai, Hong Kong &amp; Makaó</string>
+    <string name="settings_translations_locale_zh_rTW">Hagyományos kínai, Kínai Köztársaság</string>
     <string name="settings_translations_locale_it">Olasz</string>
     <string name="settings_translations_locale_hu">Magyar</string>
     <string name="settings_translations_locale_es">Spanyol</string>

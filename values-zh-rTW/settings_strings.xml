@@ -7,7 +7,7 @@
     <string name="settings_animations_reveal_animation_title">視窗呈現的動畫效果</string>
     <string name="settings_animations_drawable_animation_title">視窗圖示的動畫效果</string>
     <string name="settings_enabled">啟用</string>
-    <string name="settings_disabled">禁用</string>
+    <string name="settings_disabled">停用</string>
     <string name="settings_action">動作</string>
     <string name="settings_layout">佈局</string>
     <string name="settings_notification">通知</string>
@@ -47,19 +47,19 @@
     <string name="settings_wiki">Wiki</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">謝謝您的支持！</string>
-    <string name="settings_send_email">發送電郵</string>
+    <string name="settings_send_email">發送寄送電子郵件</string>
     <string name="settings_support_summary">Android Nougat專屬</string>
     <string name="settings_credit">嗚謝</string>
     <string name="settings_credit_app_icon">程式圖示</string>
     <string name="settings_translations">程式翻譯</string>
-    <string name="settings_translations_thanks">歡迎為本程式進行翻譯，請電郵至 rascarlo@gmail.com 與我聯絡\n謝謝!</string>
+    <string name="settings_translations_thanks">歡迎為本程式進行翻譯，請寄送電子郵件至 rascarlo@gmail.com 與我聯絡\n謝謝!</string>
     <string name="settings_translations_locale_de">德文</string>
-    <string name="settings_translations_locale_pt_rBR">巴西葡萄牙文</string>
+    <string name="settings_translations_locale_pt_rBR">葡萄牙文</string>
     <string name="settings_translations_locale_nl">荷蘭文</string>
     <string name="settings_translations_locale_pt_rPT">葡萄牙文</string>
     <string name="settings_translations_locale_sk_rSK">斯洛伐克文</string>
-    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
-    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">正體中文(香港&amp;澳門)</string>
+    <string name="settings_translations_locale_zh_rTW">正體中文(台灣)</string>
     <string name="settings_translations_locale_it">意大利文</string>
     <string name="settings_translations_locale_hu">匈牙利文</string>
     <string name="settings_translations_locale_es">西班牙文</string>
@@ -70,8 +70,8 @@
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>
     <string name="settings_component_summary_on">在快速設定面板中顯示</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止使用自動亮度模式</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許使用自動亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已停用。此快速設定磚停用使用自動亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許使用自動亮度模式</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">顯示所有應用程式</string>
     <string name="settings_application_tile_action_show_selected_apps">顯示已選取的應用程式</string>
@@ -93,8 +93,8 @@
     <string name="settings_application_tile_application_list_launch_title">要開啟的程式</string>
     <string name="settings_application_tile_loading_applications">正在讀取程式清單…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止調校亮度。</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更亮度。</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已停用。此快速設定磚停用調校亮度。</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許變更亮度。</string>
     <string name="settings_brightness_tile_action_change_brightness">調校亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$d%%\n中: %2$d%%\n低: %3$d%%</string>
@@ -102,21 +102,21 @@
     <string name="settings_call_tile_action_open_phone">開啟電話程式</string>
     <string name="settings_call_tile_action_make_call">撥號給聯絡人</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">電話撥號權限</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已禁止。此快速設定磚禁止進行電話撥號。</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已授權。此快速設定磚允許進行電話撥號。</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已停用。此快速設定磚停用進行電話撥號。</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已啟用。此快速設定磚允許進行電話撥號。</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">選取要撥號的聯絡人</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">開啟電子郵件程式</string>
-    <string name="settings_email_tile_action_send_email">撰寫電郵給收件者</string>
-    <string name="settings_email_tile_contact_preference_title">選取電郵的收件者</string>
+    <string name="settings_email_tile_action_send_email">撰寫寄送電子郵件給收件者</string>
+    <string name="settings_email_tile_contact_preference_title">選取寄送電子郵件的收件者</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">裝置管理員</string>
     <string name="settings_lock_tile_device_admin_summary_on">已啟用。此快速設定磚允許鎖定裝置。</string>
     <string name="settings_lock_tile_device_admin_summary_off">已停用。快速設定磚不允許鎖定裝置。</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">「請勿打擾」模式存取</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已授權。程式允許開啟「請勿打擾」模式及變更設定。</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已禁止。程式禁止開啟「請勿打擾」模式及變更設定。</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已啟用。程式允許開啟「請勿打擾」模式及變更設定。</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已停用。程式停用開啟「請勿打擾」模式及變更設定。</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">開啟音量設定面板</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">變更音效模式</string>
     <string name="settings_ringer_mode_tile_play_sound_title">播放音效</string>
@@ -144,11 +144,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">開始倒數計時前顯示確認界面</string>
     <string name="settings_timer_tile_default_duration">預計時限</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">已禁止。程式禁止存取裝置位置。</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">已授權。程式可以存取裝置位置。</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">已停用。程式停用存取裝置位置。</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">已啟用。程式可以存取裝置位置。</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">已禁止。 程式禁止存取裝置位置及目前位置的天氣情況。</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">已授權。程式可以存取裝置位置及目前位置的天氣情況。</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">已停用。 程式停用存取裝置位置及目前位置的天氣情況。</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">已啟用。程式可以存取裝置位置及目前位置的天氣情況。</string>
     <string name="settings_units">單位</string>
     <string name="settings_summary_off_hidden">隱藏</string>
     <string name="settings_summary_on_shown">顯示</string>
@@ -168,23 +168,23 @@
     <string name="settings_reminder_tile_notification_settings_action_summary_on">顯示打開設定的動作</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">隱藏動作</string>
     <string name="settings_reminder_tile_draw_over_apps_title">覆蓋其他應用程式權限</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">已授權。備忘提醒會以浮動視窗顯示並允許拖放。</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">已禁止。 備忘提醒不會以浮動視窗顯示及不允許拖放。</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">已啟用。備忘提醒會以浮動視窗顯示並允許拖放。</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">已停用。 備忘提醒不會以浮動視窗顯示及不允許拖放。</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">開啟活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更定位模式。</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更定位模式。</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更定位模式。</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用變更定位模式。</string>
     <string name="settings_location_tile_action_change_location_mode">變更定位模式</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更螢幕休眠時限。</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更螢幕休眠時限。</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已停用。此快速設定磚停用變更螢幕休眠時限。</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許變更螢幕休眠時限。</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">變更休眠時限</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">寫入外部儲存空間權限</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授權。此快速設定磚允許進行螢幕截圖及儲存。</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已禁止。此快速設定磚禁止進行螢幕截圖及儲存。</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已啟用。此快速設定磚允許進行螢幕截圖及儲存。</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已停用。此快速設定磚停用進行螢幕截圖及儲存。</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">播放音效</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">螢幕截圖時播放系統預設音效</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">螢幕截圖時不播放音效</string>
@@ -208,15 +208,15 @@
     <string name="settings_notification_settings_action_title">設定動作</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">寫入安全設定權限</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更全螢幕模式。</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更全螢幕模式。</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更全螢幕模式。</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用變更全螢幕模式。</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">變更全螢幕模式</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更環境顯示的使用狀態。</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更環境顯示的使用狀態。</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更環境顯示的使用狀態。</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用變更環境顯示的使用狀態。</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更動畫設定。</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更動畫設定。</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更動畫設定。</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用變更動畫設定。</string>
     <string name="settings_show_milliseconds">顯示毫秒</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">新增鬧鐘</string>
@@ -229,68 +229,68 @@
     <string name="settings_font_size_tile_font_scale_default">預設</string>
     <string name="settings_font_size_tile_font_scale_large">大</string>
     <string name="settings_font_size_tile_font_scale_largest">最大</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止變更字型大小。</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更字型大小。</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已停用。此快速設定磚停用變更字型大小。</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許變更字型大小。</string>
     <string name="settings_font_size_tile_action_change_font_size">變更字型大小</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更NFC的使用狀態。</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更NFC的使用狀態。</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更NFC的使用狀態。</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用變更NFC的使用狀態。</string>
     <string name="settings_nfc_tile_action_change_nfc_state">變更NFC狀態</string>
     <string name="settings_nfc_tile_open_nfc_settings">開啟NFC設定</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更數據漫遊模式的使用狀態。</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更數據漫遊模式的使用狀態。</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更數據漫遊模式的使用狀態。</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用變更數據漫遊模式的使用狀態。</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">預設密度</string>
     <string name="settings_density_tile_current_density_title">現時密度</string>
     <string name="settings_density_tile_restore_default_density_title">還原預設密度</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許使用充電時保持螢幕亮起。</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止使用充電時保持螢幕亮起。</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許使用充電時保持螢幕亮起。</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用使用充電時保持螢幕亮起。</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許使用示範模式。</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止使用示範模式。</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許使用示範模式。</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已停用。此快速設定磚停用使用示範模式。</string>
     <string name="settings_dump_permission_title">檢測資訊權限</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">已授權。此快速設定磚允許程式從系統服務檢測裝置狀態資訊。</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">已禁止。此快速設定磚禁止從系統服務檢測裝置狀態資訊。</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">已啟用。此快速設定磚允許程式從系統服務檢測裝置狀態資訊。</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">已停用。此快速設定磚停用從系統服務檢測裝置狀態資訊。</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更浮動通知的使用狀態。</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更浮動通知的使用狀態。</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更浮動通知的使用狀態。</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用變更浮動通知的使用狀態。</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟電源選單。</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟電源選單。</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已停用。 此快速設定磚停用開啟電源選單。</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已啟用。此快速設定磚允許開啟電源選單。</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止開啟分屏模式。</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">已授權。此快速設定磚允許開啟分屏模式。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">已停用。 此快速設定磚停用開啟分割畫面。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">已啟用。此快速設定磚允許開啟分割畫面。</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已禁止。 此快速設定磚禁止顯示最近使用的應用程式。</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。 此快速設定磚停用顯示最近使用的應用程式。</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">已啟用。此快速設定磚允許顯示最近使用的應用程式。</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">「請勿打擾」模式存取</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟「請勿打擾」模式及變更音量。</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟「請勿打擾」模式及變更音量。</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已啟用。此快速設定磚允許開啟「請勿打擾」模式及變更音量。</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已停用。 此快速設定磚停用開啟「請勿打擾」模式及變更音量。</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕觸震動。</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕觸震動。</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已停用。 此快速設定磚停用輕觸震動。</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許輕觸震動。</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止輕觸音效。</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許輕觸音效。</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已停用。 此快速設定磚停用輕觸音效。</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許輕觸音效。</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">螢幕旋轉方向</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已禁止。 此快速設定磚禁止變更螢幕旋轉方向。</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更螢幕旋轉方向。</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已停用。 此快速設定磚停用變更螢幕旋轉方向。</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許變更螢幕旋轉方向。</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已禁止。 此快速設定磚禁止變更來電時同時震動的使用狀態。</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更來電時同時震動的使用狀態。</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">>已停用。 此快速設定磚停用變更來電時同時震動的使用狀態。</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已啟用。此快速設定磚允許變更來電時同時震動的使用狀態。</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止開啟或關閉省電模式。</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許開啟或關閉省電模式。</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用開啟或關閉省電模式。</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許開啟或關閉省電模式。</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止開啟或關閉USB偵錯。</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許開啟或關閉USB偵錯。</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用開啟或關閉USB偵錯。</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許開啟或關閉USB偵錯。</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更行動數據的使用狀態。</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更行動數據的使用狀態。</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">已停用。 此快速設定磚停用變更行動數據的使用狀態。</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已啟用。此快速設定磚允許變更行動數據的使用狀態。</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更行動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開行動數據設定</string>
 </resources>

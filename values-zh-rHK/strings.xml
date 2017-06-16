@@ -86,8 +86,8 @@
     <string name="power_tile_action_power_dialog">進階電源選單</string>
     <string name="power_tile_label">電源</string>
     <string name="power_tile_action_reboot">重新啟動</string>
-    <string name="power_tile_action_reboot_recovery">重啟Recovery</string>
-    <string name="power_tile_action_reboot_bootloader">重啟Bootloader</string>
+    <string name="power_tile_action_reboot_recovery">重啟至Recovery</string>
+    <string name="power_tile_action_reboot_bootloader">重啟至Bootloader</string>
     <string name="power_tile_action_power_off">關機</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">音效模式</string>
@@ -362,5 +362,5 @@
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
+    <string name="media_volume_tile_label">媒體音量</string>
 </resources>

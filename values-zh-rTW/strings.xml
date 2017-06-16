@@ -172,8 +172,8 @@
     <string name="location_tile_label_sensors_only">僅裝置</string>
     <string name="location_tile_label_high_accuracy">高精確度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">安全系統設置包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s寫入安全設置權限嗎？</string>
+    <string name="write_secure_settings_permission_dialog_message_about">安全系統設定包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">已授予Tiles超級用戶權限。你想使用超級用戶權限以編程方式%s寫入安全設定權限嗎？</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">允許</string>
     <string name="permission_dialog_message_revoke">撤銷</string>
@@ -281,7 +281,7 @@
     <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚變更充電時保持螢幕亮起的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶交互式shell以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶權限以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">示範模式</string>
@@ -297,7 +297,7 @@
     <string name="demo_mode_tile_state_unplugged">斷開電源</string>
     <string name="demo_mode_tile_level_formatted">級數 %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
-    <string name="demo_mode_tile_bluetooth">藍芽</string>
+    <string name="demo_mode_tile_bluetooth">藍牙</string>
     <string name="demo_mode_tile_state_disconnected">中斷連接</string>
     <string name="demo_mode_tile_state_connected">連接</string>
     <string name="demo_mode_tile_mobile">行動數據</string>
@@ -319,8 +319,8 @@
     <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統中並沒有提供任何設定選項去變更浮動通知的使用狀態，請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能還原正常運作，謝謝。</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">分屏模式</string>
-    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟分屏模式，請前往設定並允許Tiles的協助工具服務。</string>
+    <string name="multi_window_tile_label">分割畫面</string>
+    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟分割畫面，請前往設定並允許Tiles的協助工具服務。</string>
     <!--recents screen-->
     <string name="recents_screen_tile_label">最近使用的應用程式</string>
     <string name="recents_screens_tile_alert_dialog_message">要允許快速設定磚顯示最近使用的應用程式，請前往設定並允許Tiles的協助工具服務。</string>
@@ -362,5 +362,5 @@
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
+    <string name="media_volume_tile_label">媒體音量</string>
 </resources>

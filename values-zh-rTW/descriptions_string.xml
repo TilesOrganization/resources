@@ -17,7 +17,7 @@
     <string name="description_data_roaming_tile">「數據漫遊」，允許快速開啟或關閉數據漫遊。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_demo_mode_tile">「示範模式」，允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些螢幕截圖或演示需要。\n使用此快速設定磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">[顯示大小」，允許快速變更裝置螢幕的顯示大小。</string>
-    <string name="description_email_tile">「電子郵件」，提供「發送電郵到指定聯絡人」及「開啟電郵應用程式」兩個功能。 此快速設定磚亦能支援其他第三方電郵應用程式。</string>
+    <string name="description_email_tile">「電子郵件」，提供「發送寄送電子郵件到指定聯絡人」及「開啟寄送電子郵件應用程式」兩個功能。 此快速設定磚亦能支援其他第三方寄送電子郵件應用程式。</string>
     <string name="description_files_tile">「檔案管理器」，允許快速開啟原生Android系統內置的檔案管理器。</string>
     <string name="description_font_size_tile">「字型大小」，允許快速變更裝置的字型大小。.\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_heads_up_notifications_tile">「浮動通知」，部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在螢幕上方以「浮動通知」形式顯示滑入通知，此快速設定磚可讓你開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
@@ -26,11 +26,11 @@
     <string name="description_location_tile">「定位模式」，透過快速設定磚開啟定位模式設定版面或變更高定位精確度。\n「高精確度模式」，高精確度模式會運用 GPS、Wi-Fi、行動網路與其他感測器，取得高精確度的裝置位置資訊，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。\n「節約耗電量」，節約耗電量模式可運用低耗電量的位置資訊來源 (例如 Wi-Fi 和行動網路) 判斷您的位置，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。「僅限裝置」，僅限裝置模式只會使用 GPS 判斷您的位置，不會運用 Google 定位服務提供位置資訊。這種模式可能會增加耗電量，而且需要較長的時間判斷您的位置。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_lock_tile">「鎖定螢幕」，如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">「地圖」，如有安裝「Google地圖」，快速設定磚將打開Google地圖並顯示當前位置。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要授予位置存取的權限。</string>
-    <string name="description_media_volume_tile">Change the mute state of the volume of audio streams for multimedia playback.</string>
-    <string name="description_multi_window_tile">「分屏模式」，Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的協助工具服務。</string>
+    <string name="description_media_volume_tile">「媒體音量」，變更及調校媒體音量。</string>
+    <string name="description_multi_window_tile">「分割畫面」，Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的協助工具服務。</string>
     <string name="description_nfc_tile">「NFC」，提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_orientation_lock_tile">「螢幕旋轉方向」，鎖定螢幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
-    <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重啟Recovery」及「重啟Bootloader」。要允許快速設定磚開啟電源選單，需要允許Tiles的協助工具服務。</string>
+    <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重新啟動至 Recovery 模式」及「重新啟動至 Bootloader 模式」。要允許快速設定磚開啟電源選單，需要允許Tiles的協助工具服務。</string>
     <string name="description_power_dialog_accessibility_tile">「電源選單」，開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定磚開啟電源選單，需要允許Tiles的協助工具服務。</string>
     <string name="description_recents_screen_tile">「最近使用的應用程式」，顯示最近使用的應用程式，需要允許Tiles的協助工具服務。</string>
     <string name="description_reminder_tile">「備忘提醒」，快速新增備忘提醒並在通知欄顯示，輕按通知以修改或刪除備忘提醒。</string>
@@ -51,7 +51,7 @@
     <string name="description_vibrate_on_tap_tile">「輕觸震動」允許快速開啟或關閉「輕觸震動」的使用狀態。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_voice_tile">「語音」，利用語音控制裝置或其他支援的操作。</string>
     <string name="description_volumes_tile">「音量」，開啟音量面板並調校各項音量包括鬧鐘、媒體、鈴聲及通話音量。需要獲取「請勿打擾」模式的權限才能使用。</string>
-    <string name="description_vpn_tile">Show settings to allow configuration of VPN.</string>
+    <string name="description_vpn_tile">「VPN」，顯示VPN的設定。</string>
     <string name="description_weather_tile">「天氣」，開啟視窗顯示目前的天氣情況，例如溫度、體感感度、濕度、露點等。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用。</string>
     <string name="description_web_search_tile">「網路搜尋」，進行網路搜尋，亦可配合支援網路搜尋操作的第三方應用程式使用。</string>
 </resources>

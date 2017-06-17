@@ -23,7 +23,7 @@
     <string name="accessibility_service_description">透過協助工具可讓Tiles執行開啟電源選單、顯示最近使用的應用程式及開啟多重視窗模式等動作。</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">自動亮度模式</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定動態磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
     <!--applications list-->
     <string name="applications_list_tile_label">應用程式</string>
     <string name="applications_list_tile_no_app_selected_alert_dialog_message">沒有選取任何應用程式，請開啟設定並選取應用程式。</string>
@@ -44,7 +44,7 @@
     <string name="brightness_tile_label_formatted_low">低: %1$d%%</string>
     <string name="brightness_tile_formatted_label_one_param">亮度: %1$d%%</string>
     <string name="brightness_tile_undefined_label">未設定亮度</string>
-    <string name="brightness_tile_alert_dialog_message">要允許快速設定磚變更亮度，請前往設定並允許修改系統設定的權限。</string>
+    <string name="brightness_tile_alert_dialog_message">要允許快速設定動態磚變更亮度，請前往設定並允許修改系統設定的權限。</string>
     <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">已開啟&lt;b>自動亮度模式&lt;/b></string>
     <string name="brightness_tile_dialog_formatted_current_brightness">目前亮度：&lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
@@ -53,7 +53,7 @@
     <string name="calendar_tile_label">日曆</string>
     <!--call-->
     <string name="call_tile_label">電話</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">要允許快速設定磚進行撥號，請前往設定並允許撥號權限。</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">要允許快速設定動態磚進行撥號，請前往設定並允許撥號權限。</string>
     <string name="call_tile_empty_contact_alert_dialog_message">沒有選取任何聯絡人， 請開啟設定並選取聯絡人或選擇進行其他動作。</string>
     <string name="call_tile_formatted_label">撥號給 %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
@@ -67,21 +67,21 @@
     <string name="email_tile_empty_email_alert_dialog_message">沒有選取任何電郵地址，請開啟設定並選取電郵地址或選擇進行其他動作。</string>
     <!--lock-->
     <string name="lock_tile_label">鎖定螢幕</string>
-    <string name="lock_tile_device_admin_description">允許快速設定磚鎖定螢幕</string>
+    <string name="lock_tile_device_admin_description">允許快速設定動態磚鎖定螢幕</string>
     <string name="lock_tile_device_admin_activated">裝置管理員已啟用</string>
     <string name="lock_tile_device_admin_deactivated">裝置管理員已停用</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">停用此裝置管理員，快速設定磚將不允許鎖定螢幕。</string>
-    <string name="lock_tile_alert_dialog_message">要允許快速設定磚鎖定螢幕，請前往設定並啟用此裝置管理員。</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">啟用此裝置管理員，快速設定磚將允許鎖定螢幕。</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">停用此裝置管理員，快速設定動態磚將不允許鎖定螢幕。</string>
+    <string name="lock_tile_alert_dialog_message">要允許快速設定動態磚鎖定螢幕，請前往設定並啟用此裝置管理員。</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">啟用此裝置管理員，快速設定動態磚將允許鎖定螢幕。</string>
     <!--map-->
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">當快速設定磚被加入時，檢查NFC狀態的服務將會啟用，反之亦然。注意：手動停止服務亦會導致設定磚狀態無法更新或反應延遲。</string>
-    <string name="nfc_tile_alert_dialog_message">要允許快速設定磚變更NFC的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="nfc_tile_service_description">當快速設定動態磚被加入時，檢查NFC狀態的服務將會啟用，反之亦然。注意：手動停止服務亦會導致設定磚狀態無法更新或反應延遲。</string>
+    <string name="nfc_tile_alert_dialog_message">要允許快速設定動態磚變更NFC的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">電源選單</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">要允許快速設定磚開啟電源選單，請前往設定並允許Tiles的協助工具服務。</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">要允許快速設定動態磚開啟電源選單，請前往設定並允許Tiles的協助工具服務。</string>
     <string name="power_tile_action_system_power_dialog">電源選單</string>
     <string name="power_tile_action_power_dialog">進階電源選單</string>
     <string name="power_tile_label">電源</string>
@@ -94,7 +94,7 @@
     <string name="ringer_mode_tile_label_normal">正常</string>
     <string name="ringer_mode_tile_label_silent">靜音</string>
     <string name="ringer_mode_tile_label_vibrate">震動</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定動態磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <!--screen on-->
     <string name="screen_on_tile_label">保持螢幕開啟</string>
     <string name="screen_on_tile_dialog_wake_lock_running">保持螢幕開啟的服務正在執行，\n要停止服務嗎？</string>
@@ -104,7 +104,7 @@
     <string name="screen_on_tile_service_notification_sub_text">保持螢幕開啟的服務</string>
     <!--streetview-->
     <string name="streetview_tile_label">街景</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">要允許快速設定磚取得目前位置，請前往設定並允許位置權限。</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">要允許快速設定動態磚取得目前位置，請前往設定並允許位置權限。</string>
     <!--sync-->
     <string name="sync_tile_label">同步</string>
     <!--timer-->
@@ -112,7 +112,7 @@
     <string name="timer_formatted_label">倒數計時\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">天氣</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定磚取得天氣狀況，請前往設定並允許位置權限。</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定動態磚取得天氣狀況，請前往設定並允許位置權限。</string>
     <string name="weather_tile_getting_weather_conditions_dialog_message">請稍候，正在取得天氣狀況。</string>
     <string name="weather_formatted_temperature_celsius">溫度: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">溫度: &lt;b>%1$.1f&lt;/b> \u2109</string>
@@ -156,7 +156,7 @@
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">休眠逾時</string>
     <string name="sleep_timeout_tile_formatted_label">休眠逾時\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">要允許快速設定磚變更休眠逾時，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">要允許快速設定動態磚變更休眠逾時，請前往設定並允許可修改系統設定的權限。</string>
     <string name="sleep_timeout_tile_value_15000">15 秒</string>
     <string name="sleep_timeout_tile_value_30000">30 秒</string>
     <string name="sleep_timeout_tile_value_60000">1 分鐘</string>
@@ -166,14 +166,14 @@
     <string name="sleep_timeout_tile_value_1800000">30 分鐘</string>
     <!--location mode-->
     <string name="location_tile_label">定位模式</string>
-    <string name="location_tile_alert_dialog_message">要允許快速設定磚變更定位模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="location_tile_alert_dialog_message">要允許快速設定動態磚變更定位模式，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="location_tile_label_off">定位關閉</string>
     <string name="location_tile_label_battery_saving">節省電池電力</string>
     <string name="location_tile_label_sensors_only">僅裝置</string>
     <string name="location_tile_label_high_accuracy">高精確度</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">安全系統設定包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">已授予Tiles超級用戶權限。你想使用超級用戶權限以編程方式%s寫入安全設定權限嗎？</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">已授予Tiles超級用戶權限。您想使用超級用戶權限以編程方式%s寫入安全設定權限嗎？</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">允許</string>
     <string name="permission_dialog_message_revoke">撤銷</string>
@@ -185,7 +185,7 @@
     <string name="sleep_tile_label">休眠</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">螢幕截圖</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定磚進行螢幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定動態磚進行螢幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
     <string name="screenshot_tile_screenshot_captured">已擷取螢幕畫面</string>
     <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看螢幕截圖</string>
     <!--immersive mode-->
@@ -194,10 +194,10 @@
     <string name="immersive_mode_tile_hide_system_bars">全螢幕模式</string>
     <string name="immersive_mode_tile_hide_navigation_bar">隱藏導航欄</string>
     <string name="immersive_mode_tile_hide_status_bar">隱藏狀態列</string>
-    <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全螢幕模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定動態磚變更全螢幕模式，請前往設定並允許可寫入安全設定的權限。</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">環境顯示</string>
-    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="ambient_display_tile_alert_dialog_message">要允許快速設定動態磚變更環境顯示的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--animations-->
     <string name="animations_tile_label">動畫</string>
     <string name="animations_tile_label_animator">Animator</string>
@@ -205,7 +205,7 @@
     <string name="animations_tile_label_window">視窗</string>
     <string name="animations_tile_label_dialog_check_box_off_label">關閉動畫</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">動畫比例 %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">要允許快速設定動態磚變更動畫設定，請前往設定並允許可寫入安全設定的權限。</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">休眠資訊</string>
     <string name="sleep_time_tile_awake">清醒</string>
@@ -255,7 +255,7 @@
     <string name="settings_shortcut_tile_action_wireless">無線與網路</string>
     <!--font size-->
     <string name="font_size_tile_label">字型大小</string>
-    <string name="font_size_tile_alert_dialog_message">要允許快速設定磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="font_size_tile_alert_dialog_message">要允許快速設定動態磚變更字型大小，請前往設定並允許可修改系統設定的權限。</string>
     <!--voice-->
     <string name="voice_tile_label">語音</string>
     <!--text-->
@@ -263,7 +263,7 @@
     <string name="text_tile_empty_chat_text_field">請輸入文字分享內容。</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">數據漫遊</string>
-    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定磚變更數據漫遊的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="data_roaming_tile_alert_dialog_message">要允許快速設定動態磚變更數據漫遊的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--density-->
     <string name="density_tile_label">顯示大小</string>
     <string name="density_tile_label_formatted">密度: %ddp</string>
@@ -278,14 +278,14 @@
     <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">充電時保持螢幕亮起</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚變更充電時保持螢幕亮起的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定動態磚變更充電時保持螢幕亮起的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。你想使用超級用戶權限以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。您想使用超級用戶權限以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">示範模式</string>
-    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定磚變更示範模式的使用狀態，請前往設定並允許可寫入安全設定及檢測的權限。</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允許快速設定動態磚變更示範模式的使用狀態，請前往設定並允許可寫入安全設定及檢測的權限。</string>
     <string name="demo_mode_tile_system_bars">狀態列</string>
     <string name="demo_mode_tile_system_bars_transparent">透明</string>
     <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
@@ -316,17 +316,17 @@
     <string name="keep_tile_label">Google Keep</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">浮動通知</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">要允許快速設定動態磚變更浮動通知的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="heads_up_notifications_tile_alert_summary">由於原生Android系統中並沒有提供任何設定選項去變更浮動通知的使用狀態，請務必在刪除此應用程式前將浮動通知的使用狀態重新開啟，使浮動通知能還原正常運作，謝謝。</string>
     <!--multi window-->
     <string name="multi_window_tile_label">分割畫面</string>
-    <string name="multi_window_tile_alert_dialog_message">要允許快速設定磚開啟分割畫面，請前往設定並允許Tiles的協助工具服務。</string>
+    <string name="multi_window_tile_alert_dialog_message">要允許快速設定動態磚開啟分割畫面，請前往設定並允許Tiles的協助工具服務。</string>
     <!--recents screen-->
     <string name="recents_screen_tile_label">最近使用的應用程式</string>
-    <string name="recents_screens_tile_alert_dialog_message">要允許快速設定磚顯示最近使用的應用程式，請前往設定並允許Tiles的協助工具服務。</string>
+    <string name="recents_screens_tile_alert_dialog_message">要允許快速設定動態磚顯示最近使用的應用程式，請前往設定並允許Tiles的協助工具服務。</string>
     <!--volumes-->
     <string name="volumes_tile_label">音量</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音量，請前往設定並允許「請勿打擾」模式的存取權限。</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定動態磚變更音量，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <string name="volumes_tile_volume_keys_disabled">音量鍵暫時禁止操作。</string>
     <string name="volumes_tile_volume_alarm">鬧鐘</string>
     <string name="volumes_tile_volume_media">媒體</string>
@@ -334,13 +334,13 @@
     <string name="volumes_tile_volume_call">通話</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">輕觸震動</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定磚變更輕觸震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">要允許快速設定動態磚變更輕觸震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">輕觸音效</string>
-    <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="touch_sounds_tile_alert_dialog_message">要允許快速設定動態磚變更輕觸音效，請前往設定並允許可修改系統設定的權限。</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">螢幕旋轉方向</string>
-    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定磚變更螢幕旋轉方向，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="orientation_lock_tile_alert_dialog_message">要允許快速設定動態磚變更螢幕旋轉方向，請前往設定並允許可修改系統設定的權限。</string>
     <string name="orientation_lock_tile_label_rotation_0">旋轉至 0\u00B0 (預設)</string>
     <string name="orientation_lock_tile_label_rotation_90">旋轉至 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">旋轉至 180\u00B0</string>
@@ -348,17 +348,17 @@
     <string name="orientation_lock_tile_label_rotation_auto_rotate">自動旋轉</string>
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">來電時同時震動</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">要允許快速設定磚變更來電時同時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">要允許快速設定動態磚變更來電時同時震動的使用狀態，請前往設定並允許可修改系統設定的權限。</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">節省電池電力</string>
-    <string name="battery_saver_tile_alert_dialog_message">要允許快速設定磚開啟或關閉節省電池電力，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="battery_saver_tile_alert_dialog_message">要允許快速設定動態磚開啟或關閉節省電池電力，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">當裝置充電時，「節省電池電力」將會自動關閉。</string>
     <!--usb debugging-->
     <string name="usb_debugging_tile_label">USB偵錯</string>
-    <string name="usb_debugging_tile_alert_dialog_message">要允許快速設定磚開啟或關閉USB偵錯，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="usb_debugging_tile_alert_dialog_message">要允許快速設定動態磚開啟或關閉USB偵錯，請前往設定並允許可寫入安全設定的權限。</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">行動數據</string>
-    <string name="cellular_data_tile_alert_dialog_message">要允許快速設定磚變更行動數據的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="cellular_data_tile_alert_dialog_message">要允許快速設定動態磚變更行動數據的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->

@@ -38,7 +38,7 @@
     <string name="description_screen_on_tile">Заставлет устройство не засыпать, игнорируя время ухода устройства в спящий режим. Чтобы снова позволить устройству засыпать, остановите сервис или выключите экран вручную.</string>
     <string name="description_screenshot_tile">Снимает скриншот экрана.\nДля использования этой плитки необходимо предоставить доступ к записи во внешнее хранилище устройства.</string>
     <string name="description_settings_shortcut_tile">Открывает скрытые или труднодоступные настройки Android.</string>
-    <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
+    <string name="description_shortcuts_tile">Позволяет выбрать и настроить ярлыки к действиям различных приложений, в которых реализована подобная возможность.\nДля использования ярлыков для быстрого набора номера необходимо предоставить доступ к телефонным вызовам.</string>
     <string name="description_sleep_tile">Выключает экран устройства, отправляя его в сон.</string>
     <string name="description_sleep_time_tile">Показывает время, которое устройство провело в спящем режиме, с детализацией расхода батареи и отображением состояния зарядки.</string>
     <string name="description_sleep_timeout_tile">Изменяет время ухода устройства в спящий режим.\nДля использования этой плитки необходимо предоставить доступ к изменению системных настроек.</string>

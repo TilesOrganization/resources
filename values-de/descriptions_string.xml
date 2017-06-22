@@ -38,6 +38,7 @@
     <string name="description_screen_on_tile">Lässt den Bildschirm des Smartphone dauerhaft aktiv. Damit das Smartphone wieder in den Ruhezustand übergeht, beende den Dienst oder schalte den Bildschirm ab.</string>
     <string name="description_screenshot_tile">Erstellt einen Screenshot.\nDas Schreibrecht für den Speicher wird für diese Kachel benötigt.</string>
     <string name="description_settings_shortcut_tile">Öffnet Android\'s versteckte oder schwer zu findende Einstellungen.</string>
+    <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand.</string>
     <string name="description_sleep_time_tile">Schau dir die Dauer der Ruhezeiten des Smartphones an, mit Details über die Batterie und den Ladezustand.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>

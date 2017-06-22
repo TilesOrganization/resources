@@ -38,6 +38,7 @@
     <string name="description_screen_on_tile">Lasciare attivo lo schermo ignorando l\'impostazione del timeout sospensione. Per permettere al dispositivo di poter tornare in sospensione, arrestare il servizio o spegnere lo schermo.</string>
     <string name="description_screenshot_tile">Acquisire uno screenshot del dispositivo.\nAutorizzazione archiviazione è necessaria per utilizzare questa funzione.</string>
     <string name="description_settings_shortcut_tile">Visualizzare le impostazioni di Android nascoste o difficili da trovare.</string>
+    <string name="description_shortcuts_tile">Scegliere e impostare scorciatoie per eseguire azioni specifiche attraverso qualsiasi applicazione che implementa tale funzione.\nAutorizzazione telefono è necessaria per eseguire scorciatoie per chiamata diretta.</string>
     <string name="description_sleep_tile">Mettere il dispositivo in sospensione.</string>
     <string name="description_sleep_time_tile">Visualizzare quanto tempo il dispositivo ha trascorso in sospensione, con dettagli circa la capacità della batteria e lo stato di caricamento.</string>
     <string name="description_sleep_timeout_tile">Modificare quanto tempo trascorre prima che il dispositivo entri in sospensione quando non utilizzato.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>

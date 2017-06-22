@@ -53,7 +53,7 @@
     <string name="calendar_tile_label">Calendario</string>
     <!--call-->
     <string name="call_tile_label">Chiamata</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">Per permettere alla funzione di eseguire una telefonata, per favore aprire le impostazioni e concedere l\'autorizzazione telefono.</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Per permettere alla funzione di eseguire telefonate, per favore aprire le impostazioni e concedere l\'autorizzazione telefono.</string>
     <string name="call_tile_empty_contact_alert_dialog_message">Nessun contatto telefonico selezionato, per favore aprire le impostazioni e scegliere un contatto. O impostare un\'azione differente.</string>
     <string name="call_tile_formatted_label">Chiama %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
@@ -358,9 +358,19 @@
     <string name="usb_debugging_tile_alert_dialog_message">Per permettere alla funzione di cambiare debug USB, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Rete dati</string>
-    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
+    <string name="cellular_data_tile_alert_dialog_message">Per permettere alla funzione di cambiare rete dati, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
     <string name="media_volume_tile_label">Volume multimedia</string>
+    <!-- shortcuts -->
+    <string name="shortcuts_tile_label">Scorciatoie</string>
+    <string name="shortcut_a_tile_label">Scorciatoia #1</string>
+    <string name="shortcut_b_tile_label">Scorciatoia #2</string>
+    <string name="shortcut_c_tile_label">Scorciatoia #3</string>
+    <string name="shortcut_d_tile_label">Scorciatoia #4</string>
+    <string name="shortcut_e_tile_label">Scorciatoia #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nessuna scorciatoia selezionata, per favore aprire le impostazioni e scegliere scorciatoia.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Qualcosa non ha funzionato, per favore aprire le impostazioni e controllare la scorciatoia selezionata.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Per permettere alla funzione di eseguire scorciatoie per chiamata diretta, per favore aprire le impostazioni e concedere l\'autorizzazione telefono.</string>
 </resources>

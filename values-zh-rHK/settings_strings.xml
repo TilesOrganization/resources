@@ -40,6 +40,8 @@
     <string name="settings_restart_active_tiles_summary">強制重啟已加入的快速設定磚。如發現已加入的快速設定磚沒有反應或被系統停止運作，可使用此選項強制重啟這些設定磚。</string>
     <string name="settings_restart_active_tiles_summary_processing">正在重啟已加入的快速設定磚。</string>
     <!--UX-->
+    <string name="settings_permission">Permission</string>
+    <string name="settings_phone_call_permission_title">Phone call permission</string>
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
     <string name="settings_feedback">意見及援助</string>
@@ -293,4 +295,9 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更流動數據的使用狀態。</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更流動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開流動數據設定</string>
+    <!--shortcuts-->
+    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
+    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
 </resources>

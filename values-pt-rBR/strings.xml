@@ -363,4 +363,14 @@
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
     <string name="media_volume_tile_label">Volume de mídia</string>
+    <!-- shortcuts -->
+    <string name="shortcuts_tile_label">Shortcuts</string>
+    <string name="shortcut_a_tile_label">Shortcut #1</string>
+    <string name="shortcut_b_tile_label">Shortcut #2</string>
+    <string name="shortcut_c_tile_label">Shortcut #3</string>
+    <string name="shortcut_d_tile_label">Shortcut #4</string>
+    <string name="shortcut_e_tile_label">Shortcut #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
 </resources>

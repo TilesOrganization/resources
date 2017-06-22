@@ -38,7 +38,7 @@
     <string name="description_screen_on_tile">Mantem o dispositivo acordado substituindo a configuração de tempo limite de inatividade. Para deixar o dispositivo voltar a dormir, pare o serviço ou desligue a tela.</string>
     <string name="description_screenshot_tile">Tire uma captura de tela do dispositivo.\nPermissão para modificar de armazenamento externo é necessária para usar esse bloco.</string>
     <string name="description_settings_shortcut_tile">Abra as configurações ocultas ou difíceis de encontrar do Android.</string>
-    <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
+    <string name="description_shortcuts_tile">Escolha e configure atalhos para executar ações específicas de qualquer aplicativo que possui esse recurso.\nA permissão de chamada de telefone é necessária para executar atalhos de discagem direta.</string>
     <string name="description_sleep_tile">Coloque o dispositivo para dormir.</string>
     <string name="description_sleep_time_tile">Dê uma olhada no tempo que o dispositivo gastou para dormir, com detalhes sobre a capacidade da bateria e o estado de carga.</string>
     <string name="description_sleep_timeout_tile">Altere o tempo necessário para o dispositivo entre em modo de inatividade quando estiver inativo.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>

@@ -296,8 +296,8 @@
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更行動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開行動數據設定</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">已選擇捷徑</string>
+    <string name="settings_shortcuts_tile_summary_empty">未選擇捷徑</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已停用。 此快速設定動態磚不允許撥打電話和使用直接撥號功能使用狀態。</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已啟用。此快速設定動態磚允許撥打電話和使用直接撥號功能使用狀態。</string>
 </resources>

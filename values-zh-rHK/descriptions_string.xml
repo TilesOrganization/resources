@@ -38,7 +38,7 @@
     <string name="description_screen_on_tile">「保持屏幕開啟」，讓裝置略過當前的休眠時限並保持屏幕開啟，輕按通知欄的服務開啟通知以停止「保持屏幕開啟」的使用狀態。</string>
     <string name="description_screenshot_tile">「屏幕截圖」，進行快速屏幕截圖。\n使用快速設定磚需要允許可寫入外部儲存空間的權限。</string>
     <string name="description_settings_shortcut_tile">「設定捷徑」開啟Android的設定捷徑。</string>
-    <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
+    <string name="description_shortcuts_tile">「捷徑」，選取及設定程式捷徑以進行快捷操作。\n撥號捷徑需要獲取電話通話及撥號的權限才能使用。</string>
     <string name="description_sleep_tile">「休眠」，讓裝置休眠。</string>
     <string name="description_sleep_time_tile">「休眠資訊」，查看裝置的休眠時間、對應的電量及充電狀態。</string>
     <string name="description_sleep_timeout_tile">「休眠時限」，變更裝置屏幕的休眠時限。\n使用此快速設定磚需要授予修改系統設定的權限。</string>

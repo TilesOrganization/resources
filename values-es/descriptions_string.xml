@@ -7,6 +7,7 @@
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
     <string name="description_awake_while_plugged_in_tile">Device will never go to sleep as long as it\'s plugged into a power source.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Set three different levels (high, medium &amp; low) of brightness to cycle through.\nModify system settings permission is required to use this tile.</string>
     <string name="description_calculator_tile">Launch Google\'s proprietary Calculator app, if installed.</string>
     <string name="description_calendar_tile">Show calendar\'s events or add a new one. The action is compatible with third-party apps that can receive the Android default broadcast to show and add calendar events.</string>
@@ -27,6 +28,7 @@
     <string name="description_lock_tile">Securely lock the device. If a screen lock (password, PIN, pattern, …) is set, please follow the provided unlocking procedure to unlock the device. Device administrator must be activated.</string>
     <string name="description_maps_tile">Launch Google\'s proprietary Maps app, if installed, showing the current location of the device. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
     <string name="description_media_volume_tile">Change the mute state of the volume of audio streams for multimedia playback.</string>
+    <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat adds support to display more than one app at the same time: two apps can run side-by-side or one above the other in split-screen mode. The accessibility service must be enabled.</string>
     <string name="description_nfc_tile">Turn NFC on or off, or open NFC settings. \nWrite secure settings permission is required to change NFC state.</string>
     <string name="description_orientation_lock_tile">Lock the orientation of the device: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. To change and lock orientation, the tile needs to turn auto-rotate off.\nModify system settings permission is required to use this tile.</string>

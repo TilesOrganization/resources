@@ -88,6 +88,7 @@
     <string name="power_tile_action_reboot">Reštartovať</string>
     <string name="power_tile_action_reboot_recovery">Reštartovať do recovery</string>
     <string name="power_tile_action_reboot_bootloader">Reštartovať do bootloadera</string>
+    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
     <string name="power_tile_action_power_off">Vypnúť</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Režim vyzváňania</string>
@@ -373,4 +374,10 @@
     <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nie je vybraný žiadny odkaz, prosím, otvorte nastavenia a vyberte odkaz.</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">Niečo nie je v poriadku, prosím, otvorte nastavenia a skontrolujte vybraný odkaz.</string>
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Aby dlaždica mohla uskutočniť hovor, prosím, otvorte nastavenia a povoľte povolenie pre Hovor.</string>
+    <!--bluetooth-->
+    <string name="bluetooth_tile_label">Bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <!-- monochromacy -->
+    <string name="monochromacy_tile_label">Monochromacy</string>
+    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
 </resources>

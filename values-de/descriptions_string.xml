@@ -7,6 +7,7 @@
     <string name="description_application_tile">Erstellt eine Liste von Anwendungen, welche im Dialog angezeigt werden sollen.\nFünf Kacheln für verschiedene Anwendungen sind ebenso verfügbar.</string>
     <string name="description_awake_while_plugged_in_tile">Das Smartphone geht während des Ladevorgangs niemals in den Ruhezustand über.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
     <string name="description_battery_saver_tile">De- oder aktiviert den Energiesparmodus. Solang der Energiesparmodus aktiv ist, reduziert sich die Performance und Standort-Dienste sowie Hintergrund-Daten sind deaktiviert.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
+    <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Setzt drei verschiedene Level (hoch, mittel &amp; tief) zum Durchschalten der Helligkeit.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_calculator_tile">Startet Google\'s firmeneigenen Rechner, sofern dieser auf dem Smartphone installiert ist.</string>
     <string name="description_calendar_tile">Zeigt die Kalendereinträge an oder fügt einen neuen Eintrag hinzu. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Anzeigen und Hinzufügen von Kalendereinträgen entgegen nehmen können.</string>
@@ -27,6 +28,7 @@
     <string name="description_lock_tile">Sperrt das Smartphone. Falls ein Sperrbildschirm gesetzt worden ist (Passwort, PIN, Muster, …), folge bitte den Anweisungen um das Smartphone wieder zu entsperren. Der Gerätemanager muss hierfür aktiviert sein.</string>
     <string name="description_maps_tile">Startet Google\'s firmeneigene Maps App, sofern installiert, und zeigt den aktuellen Standort des Smartphone an. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>
     <string name="description_media_volume_tile">Ändert die Stummschaltung der Medienlautstärke.</string>
+    <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat unterstützt einen Mehrfenster-Modus: Zwei Apps können neben- oder übereinander im Mehrfenster-Modus angezeigt werden. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
     <string name="description_nfc_tile">Ändert den NFC-Status oder öffnet die NFC-Einstellungen.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel zum Ändern des NFC-Status benötigt.</string>
     <string name="description_orientation_lock_tile">Sperrt das Drehen des Smartphone: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Um das Drehen zu ändern und zu sperren, benötigt die Kachel das Recht das automatische Drehen zu deaktivieren.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>

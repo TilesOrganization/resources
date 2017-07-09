@@ -88,6 +88,7 @@
     <string name="power_tile_action_reboot">Redémarrer</string>
     <string name="power_tile_action_reboot_recovery">Redémarrer en récuperation</string>
     <string name="power_tile_action_reboot_bootloader">Redémarrer en bootloader</string>
+    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
     <string name="power_tile_action_power_off">Éteindre</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Mode de sonnerie</string>
@@ -373,4 +374,10 @@
     <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <!--bluetooth-->
+    <string name="bluetooth_tile_label">Bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <!-- monochromacy -->
+    <string name="monochromacy_tile_label">Monochromacy</string>
+    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
 </resources>

@@ -300,4 +300,10 @@
     <string name="settings_shortcuts_tile_summary_empty">Aucun raccourci sélectionné</string>
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <!--bluetooth-->
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <!--monochromacy-->
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
 </resources>

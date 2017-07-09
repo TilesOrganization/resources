@@ -88,7 +88,7 @@
     <string name="power_tile_action_reboot">Перезагрузка</string>
     <string name="power_tile_action_reboot_recovery">Перезагрузка в режим восстановления</string>
     <string name="power_tile_action_reboot_bootloader">Перезагрузка в загрузчик</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">Перезагрузка пользовательского интерфейса</string>
     <string name="power_tile_action_power_off">Выключить</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Режим звонка</string>
@@ -376,8 +376,8 @@
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Чтобы позволить плитке создавать ярлыки для быстрого набора, пожалуйста откройте настройки и дайте доступ к телефонным вызовам.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Действие недоступно. The device doesn\u2019t support bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Монохромный режим</string>
+    <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
 </resources>

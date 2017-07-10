@@ -305,6 +305,6 @@
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">Zmeniť stav bluetooth</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Otvoriť nastavenia bluetooth</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť monochromatické zobrazenie</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť monochromatické zobrazenie</string>
 </resources>

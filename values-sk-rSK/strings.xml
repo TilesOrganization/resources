@@ -376,8 +376,8 @@
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Aby dlaždica mohla uskutočniť hovor, prosím, otvorte nastavenia a povoľte povolenie pre Hovor.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Akcia nie je dostupná. Zariadenie nepodporuje bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Monochromatické zobrazenie</string>
+    <string name="monochromacy_tile_alert_dialog_message">Aby dlaždica mohla zmeniť monochromatické zobrazenie, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
 </resources>

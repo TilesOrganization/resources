@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--settings-->
+    <string name="settings">Configurações</string>
+    <string name="settings_design">Design</string>
+    <string name="settings_animations">Animações</string>
+    <string name="settings_animations_reveal_animation_title">Animação de revelar</string>
+    <string name="settings_animations_drawable_animation_title">Animação de desenhar</string>
+    <string name="settings_enabled">Ativado</string>
+    <string name="settings_disabled">Desativado</string>
+    <string name="settings_action">Ação</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_notification">Notificação</string>
+    <string name="settings_night_mode">Modo noturno</string>
+    <string name="settings_night_mode_no">Claro</string>
+    <string name="settings_night_mode_yes">Escuro</string>
+    <string name="settings_night_mode_auto">Automático</string>
+    <!--cancelable dialogs-->
+    <string name="settings_design_dialogs">Caixa de diálogos</string>
+    <string name="settings_design_dialogs_not_cancelable">As caixas podem ser dispensadas usando o botão voltar do sistema</string>
+    <string name="settings_design_dialogs_cancelable">As caixas podem ser dispensadas tocando por fora delas</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">Cor da Barra de navegação</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Cor escura primária</string>
+    <string name="settings_design_navigation_bar_tint_primary">Cor primária</string>
+    <string name="settings_design_navigation_bar_tint_accent">Cor do accent</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">Cor da Barra de status</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Cor escura primária</string>
+    <string name="settings_design_status_bar_tint_primary">Cor primária</string>
+    <string name="settings_design_status_bar_tint_accent">Cor do accent</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">Ícones da Barra de status</string>
+    <string name="settings_design_status_bar_icons_light">Ícones claros</string>
+    <string name="settings_design_status_bar_icons_dark">Ícones escuros</string>
+    <!--advanced-->
+    <string name="settings_advanced">Avançado</string>
+    <string name="settings_restart_active_tiles_title">Reinicie blocos ativos</string>
+    <string name="settings_restart_active_tiles_summary">Força a reinicialização de blocos ativos. Use isso se alguns blocos não estiverem respondendo, depois de terem sido finalizados pelo sistema.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processando a reiniciação forçada de blocos ativos.</string>
+    <!--UX-->
+    <string name="settings_permission">Permissão</string>
+    <string name="settings_phone_call_permission_title">Permissão de chamada telefônica</string>
+    <string name="settings_location_permissions_preference_title">Permissão de localização</string>
+    <string name="settings_modify_system_settings_permissions_title">Permissão de modificar configurações do sistema</string>
+    <string name="settings_feedback">Feedback e suporte</string>
+    <string name="settings_privacy_policy">Política de Privacidade</string>
+    <string name="settings_wiki">Wiki</string>
+    <string name="settings_rate_or_review">Avaliar ou classificar o app</string>
+    <string name="settings_support_title">Obrigado pelo seu apoio!</string>
+    <string name="settings_send_email">Enviar e-mail</string>
+    <string name="settings_support_summary">Desenvolvido para Android Nougat</string>
+    <string name="settings_credit">Créditos</string>
+    <string name="settings_credit_app_icon">Ícone do aplicativo</string>
+    <string name="settings_translations">Tradutores</string>
+    <string name="settings_translations_thanks">Se você quer ajudar a traduzir o app para o seu idioma, por favor sinta-se livre para entrar em contato comigo: rascarlo@gmail.com.\nObrigado!</string>
+    <string name="settings_translations_locale_de">Alemão</string>
+    <string name="settings_translations_locale_pt_rBR">Português, Brasil</string>
+    <string name="settings_translations_locale_nl">Holandês</string>
+    <string name="settings_translations_locale_pt_rPT">Português, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Eslováquia, Eslovaca</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Chinês tradicional, Hong Kong e Macau</string>
+    <string name="settings_translations_locale_zh_rTW">Chinês tradicional, Taiwan</string>
+    <string name="settings_translations_locale_it">Italiano</string>
+    <string name="settings_translations_locale_hu">Húngaro</string>
+    <string name="settings_translations_locale_es">Espanhol</string>
+    <string name="settings_translations_locale_ru">Russo</string>
+    <string name="settings_translations_locale_fr">Francês</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">Visibilidade do bloco</string>
+    <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
+    <string name="settings_component_summary_on">Mostrar o bloco no layout de Configurações Rápidas</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não foi permitido mudar o modo do brilho</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco foi permitido mudar o modo do brilho</string>
+    <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Mostrar todos aplicativos</string>
+    <string name="settings_application_tile_action_show_selected_apps">Mostrar aplicativos selecionados</string>
+    <string name="settings_application_tile_single_app">Aplicativo único</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d aplicativo selecionado</item>
+        <item quantity="other">%d aplicativos selecionados</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Aplicativo selecionado</string>
+    <!-- applications list-->
+    <string name="settings_application_tile_view_mode">Modo de visualização</string>
+    <string name="settings_application_tile_view_mode_list">Lista</string>
+    <string name="settings_application_tile_view_mode_grid">Grade</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Grade sem rótulo</string>
+    <string name="settings_application_tile_grid_columns">Colunas da grade</string>
+    <string name="settings_application_tile_application_list_show_title">Aplicativos para mostrar</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary">%d aplicativos selecionados</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nenhum aplicativo selecionado</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplicativo para iniciar</string>
+    <string name="settings_application_tile_loading_applications">Carregando aplicativos…</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não foi permitido mudar o nível do brilho</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco foi permitido mudar o nível do brilho</string>
+    <string name="settings_brightness_tile_action_change_brightness">Alterar brilho</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Níveis do brilho</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Alto: %1$d%%\nMédio: %2$d%%\nBaixo: %3$d%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">Abrir app de telefone</string>
+    <string name="settings_call_tile_action_make_call">Chamar contato selecionado</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Permissão de chamadas telefônicas</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Negado. O bloco não foi permitido realizar chamadas telefônicas</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Permitido. O bloco foi permitido realizar chamadas telefônicas</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Contato para chamar</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">Abrir app de e-mail</string>
+    <string name="settings_email_tile_action_send_email">Compor e-mail com contato destinatário selecionado</string>
+    <string name="settings_email_tile_contact_preference_title">Contato para e-mail</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">Administrador do dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Ativado. O bloco está permitido bloquear o dispositivo</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Desativado. O bloco não está permitido bloquear o dispositivo</string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Acesso ao Não Pertube</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Permitido. O aplicativo é capaz de ligar/desligar o Não Perturbe e fazer alterações nas configurações relacionadas</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Negado. O aplicativo não é capaz de ligar/desligar o Não Perturbe e fazer alterações nas configurações relacionadas</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Abrir painel de volume</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Mudar modo de som</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Reproduzir som</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Não reproduzir qualquer som quando o modo do som normal está selecionado</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproduzir som de notificação padrão quando o modo do som normal é selecionado</string>
+    <!--screen on-->
+    <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/parar serviço</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço em andamento</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente enquanto um serviço está em andamento</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Esconder notificação</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir configurações</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Esconder ação</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não reproduzir qualquer som quando o serviço é iniciado</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduzir som de notificação padrão quando o serviço é iniciado</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço é iniciado</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço é iniciado</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">Mudar estado de sincronização</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Abrir configurações de sincronização</string>
+    <!--timer -->
+    <string name="settings_timer_tile_skip_ui_title">Pular UI</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Pular qualquer UI de confirmação e simplesmente iniciar o timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Mostrar um UI de confirmação antes de iniciar o timer</string>
+    <string name="settings_timer_tile_default_duration">Duração padrão</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Negado. O bloco não está permitido acessar a localização do dispositivo</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Permitido. O bloco está permitido acessar a localização do dispositivo</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">Negado. O bloco não está permitido acessar a localização do dispositivo e informar as condições meteorológicas</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Permitido. O bloco está permitido acessar a localização do dispositivo e informar as condições meteorológicas</string>
+    <string name="settings_units">Unidade</string>
+    <string name="settings_summary_off_hidden">Ocultar</string>
+    <string name="settings_summary_on_shown">Exibir</string>
+    <!--reminder-->
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Exclua o lembrete deslizando ele para a esquerda ou direita</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Exclua o lembrete tocando o botão de ação</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Notificação persistente</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproduzir toque de notificação ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Não reproduzir qualquer som ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrar ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Não vibrar ao adicionar um novo lembrete</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Estilo do timestamp</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronômetro</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir configurações</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ação</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Permissão para sobrepor a outros apps</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitido. Lembrete tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negado. Lembrete não tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
+    <string name="settings_calendar_tile_action_add">Adicionar evento</string>
+    <!--location mode-->
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Permitido. O bloco foi permitido mudar o modo de localização</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Negado. O bloco não foi permitido mudar o modo de localização</string>
+    <string name="settings_location_tile_action_change_location_mode">Mudar modo de localização</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o tempo de limite de tela.</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco está permitido alterar o tempo de limite de tela.</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Alterar o tempo limite de suspensão</string>
+    <!--screenshot-->
+    <string name="settings_write_external_storage_permission_permissions_title">Permissão para escrever no armazenamento externo</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Permitido. Esse bloco está permitido obter e armazenar captura de tela</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Negado. Esse bloco não está permitido obter e armazenar captura de tela</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproduzir som de padrão de notificação ao capturar a tela</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Não reproduzir qualquer som ao capturar a tela</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrar</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrar ao obter uma captura de tela</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Não vibrar ao obter uma captura de tela</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Guardar painel de Configurações Rápidas e capturar a tela</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Capturar a tela sem sair do painel de Configurações Rápidas</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Mostrar ação para compartilhar captura de tela</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Esconder ação para compartilhar captura de tela</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Mostrar ação para excluir a captura de tela</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Esconder ação para excluir a captura de tela</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Modo Não Pertube</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Somente alarmes</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Silêncio total</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Somente prioridade</string>
+    <!--notification common strings-->
+    <string name="settings_show_dialog">Mostrar diálogo</string>
+    <string name="settings_notification_share_action_title">Ação de compartilhamento</string>
+    <string name="settings_notification_settings_action_title">Ação de configurações</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">Permissão de modificar configurações de segurança</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo imersivo</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo imersivo</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a exibição de ambiente</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a exibição de ambiente</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar animações</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar animações</string>
+    <string name="settings_show_milliseconds">Mostrar milissegundos</string>
+    <!--alarm tile-->
+    <string name="settings_alarm_tile_action_add_alarm">Adicionar alarme</string>
+    <string name="settings_alarm_tile_action_show_alarms">Mostrar alarmes</string>
+    <string name="settings_date_format">Formato da data</string>
+    <!--screen time tile-->
+    <string name="settings_time_format">Formato do horário</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Pequeno</string>
+    <string name="settings_font_size_tile_font_scale_default">Padrão</string>
+    <string name="settings_font_size_tile_font_scale_large">Grande</string>
+    <string name="settings_font_size_tile_font_scale_largest">Maior</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o tamanho da fonte</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar o tamanho da fonte</string>
+    <string name="settings_font_size_tile_action_change_font_size">Mudar tamanho da fonte</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o estado de NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o estado de NFC</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Alterar estado de NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Abrir configurações de NFC</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido para alterar o roaming de dados</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido para alterar o roaming de dados</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">Densidade padrão</string>
+    <string name="settings_density_tile_current_density_title">Densidade atual</string>
+    <string name="settings_density_tile_restore_default_density_title">Restaurar densidade padrão</string>
+    <!--awake while plugged in-->
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o despertar enquanto plugado</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o despertar enquanto plugado</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo de demonstração</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo de demonstração</string>
+    <string name="settings_dump_permission_title">Permissão Dump</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Concedido. O bloco está permitido para recuperar informações de estado dump dos serviços do sistema</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Negado. O bloco não está permitido para recuperar informações de estado dump dos serviços do sistema</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar as notificações de heads-up</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar as notificações de heads-up</string>
+    <!--power-->
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido mostrar o menu de energia do sistema</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Ativado. O bloco está permitido mostrar o menu de energia do sistema</string>
+    <!--multi-window-->
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido alternar a divisão de tela</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Ativado. O bloco está permitido alternar a divisão de tela</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Desativado. O bloco não está permitido mostrar a tela de recentes</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Ativado. O bloco está permitido mostrar a tela de recentes</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Acesso ao Não perturbe</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concedido. O aplicativo está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negado. O aplicativo não está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o vibrar ao tocar</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar o vibrar ao tocar</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o sons de toque</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco não está permitido alterar o sons de toque</string>
+    <!--orientation lock-->
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Alterar e bloquear a rotação</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar e bloquear a rotação</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar e bloquear a rotação</string>
+    <!--vibrate for calls-->
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não está permitido alterar o vibrar para chamadas</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Concedido. O bloco está permitido alterar o vibrar para chamadas</string>
+    <!--battery saver-->
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido ligar e desligar a economia de bateria</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido ligar e desligar a economia de bateria</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a depuração USB</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a depuração USB</string>
+    <!--cellular data-->
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar os dados de celular</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar os dados de celular</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Alterar o estado dos dados móveis</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Abir as configurações de rede celular</string>
+    <!--shortcuts-->
+    <string name="settings_shortcuts_tile_selected_shortcut">Atalho selecionado</string>
+    <string name="settings_shortcuts_tile_summary_empty">Nenhum atalho selecionado</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Negado. O bloco não está permitido realizar ligações telefônicas e executar atalhos de discagem direta.</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Concedido. O bloco está permitido realizar ligações telefônicas e executar atalhos de discagem direta.</string>
+    <!--bluetooth-->
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <!--monochromacy-->
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+</resources>

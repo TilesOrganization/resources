@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
+    <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
+    <string name="location_device_only_alert_dialog_message">O modo de localização está como Somente no dispositivo. Para um resultado mais rápido e preciso, abra as configurações e ative um modo de localização diferente.</string>
+    <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
+    <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
+    <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Instale-o e tente novamente</string>
+    <string name="high">Alto</string>
+    <string name="medium">Médio</string>
+    <string name="low">Baixo</string>
+    <string name="checking_features_progress_dialog_message">Verificando as características específicas do dispositivo para ativar as funcionalidades</string>
+    <string name="not_available">Não disponível</string>
+    <string name="cancel">Cancelar</string>
+    <string name="revert">Reverter</string>
+    <string name="discard">Descartar</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete">Excluir</string>
+    <string name="save">Salvar</string>
+    <string name="save_and_close">Salvar e Fechar</string>
+    <string name="warning">Aviso</string>
+    <string name="accessibility_service_label">Serviço de acessibilidade</string>
+    <string name="accessibility_service_description">Serviço de acessibilidade serve para permitir que os blocos executem ações globais como: mostram o menu de energia do sistema, mostrar a tela de recentes, alternar tela dividida.</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">Aplicativos</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Nenhum aplicativo selecionado, abra as configurações e escolha um app.</string>
+    <!--application-->
+    <string name="application_a_tile_label">Aplicativo #1</string>
+    <string name="application_b_tile_label">Aplicativo #2</string>
+    <string name="application_c_tile_label">Aplicativo #3</string>
+    <string name="application_d_tile_label">Aplicativo #4</string>
+    <string name="application_e_tile_label">Aplicativo #5</string>
+    <string name="application_tile_label">Aplicativo</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nenhum app selecionado, abra as configurações e escolha um app.</string>
+    <string name="application_info_dialog_message">Para iniciar rapidamente, selecione somente um app.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Brilho</string>
+    <string name="brightness_tile_label_formatted">Brilho %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Alto: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Médio: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Baixo: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Brilho: %1$d%%</string>
+    <string name="brightness_tile_undefined_label">Brilho não definido</string>
+    <string name="brightness_tile_alert_dialog_message">Para permitir que o bloco mude o nível do brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Brilho adaptável&lt;/b> está ativado</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Brilho atual: &lt;b>%1$d%%&lt;/b></string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Calculadora</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Agenda</string>
+    <!--call-->
+    <string name="call_tile_label">Ligar</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Para permitir que o bloco realize chamadas telefônicas, abra as configurações e dê a permissão de telefone.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Nenhum contato para chamar selecionado, abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
+    <string name="call_tile_formatted_label">Chamar %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Escolher contato</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Câmera</string>
+    <string name="camera_tile_video_label">Câmera de vídeo</string>
+    <!--email -->
+    <string name="email_tile_label">E-mail</string>
+    <string name="email_tile_formatted_label">E-mail %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nenhum contato para e-mail selecionado, abra as configurações e escolha um contato. Ou escolha uma ação diferente.</string>
+    <!--lock-->
+    <string name="lock_tile_label">Bloquear</string>
+    <string name="lock_tile_device_admin_description">Permitir o bloco de bloqueio para bloquear o dispositivo</string>
+    <string name="lock_tile_device_admin_activated">Administrator do disposito ativado</string>
+    <string name="lock_tile_device_admin_deactivated">Administrator do disposito desativado</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Se desativado, o bloco de bloqueio não será permitido bloquear o dispositivo.</string>
+    <string name="lock_tile_alert_dialog_message">Para permitir que o bloco bloqueie seu dispositivo, abra as configurações e ative-o como administrador do disposivo.</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o bloco de bloqueio será permitido bloquear o dispositivo.</string>
+    <!--map-->
+    <string name="maps_tile_label">Mapa</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_service_description">Serviço para observar o estado do NFC, ele será parado quando o bloco for removido. Pará-lo pode fazer com que o bloco falhe.</string>
+    <string name="nfc_tile_alert_dialog_message">Para permitir que o bloco altere o estado do NFC, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--power-->
+    <string name="power_dialog_accessibility_tile_label">Menu de energia</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Para permitir que o bloco mostre o menu de energia do sistema, abra as configurações e ative o serviço de acessibilidade.</string>
+    <string name="power_tile_action_system_power_dialog">Menu de energia do sistema</string>
+    <string name="power_tile_action_power_dialog">Menu de energia</string>
+    <string name="power_tile_label">Energia</string>
+    <string name="power_tile_action_reboot">Reiniciar</string>
+    <string name="power_tile_action_reboot_recovery">Reiniciar para recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Reiniciar para bootloader</string>
+    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_power_off">Desligar</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Modo do som</string>
+    <string name="ringer_mode_tile_label_normal">Normal</string>
+    <string name="ringer_mode_tile_label_silent">Silencioso</string>
+    <string name="ringer_mode_tile_label_vibrate">Vibração</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o bloco mude o modo do som, abra as configurações e permita acesso ao Não Pertube.</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">Tela ligada</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">Serviço de tela ligada está em andamento.\nParar o serviço?</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">Serviço de tela ligada não está em andamento.\nIniciar o serviço?</string>
+    <string name="screen_on_tile_service_notification_title">Serviço está em andamento</string>
+    <string name="screen_on_tile_service_notification_content_text">O dispositivo não irá dormir. Toque para parar o serviço.</string>
+    <string name="screen_on_tile_service_notification_sub_text">Serviço de tela ligada</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Street View</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Para permitir que o bloco obtenha sua localização atual, abra as configurações e dê a permissão de localização.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Sincronização</string>
+    <!--timer-->
+    <string name="timer_tile_label">Timer</string>
+    <string name="timer_formatted_label">Timer\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Temperatura</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Para permitir que o bloco obtenha as condições climáticas, abra as configurações e dê a permissão de localização.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
+    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Ponto de condensação da água: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Ponto de condensação da água: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Umidade: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsius</string>
+    <string name="weather_fahrenheit">Fahrenheit</string>
+    <string name="weather_clear">Limpo</string>
+    <string name="weather_cloudy">Nublado</string>
+    <string name="weather_foggy">Nevoento</string>
+    <string name="weather_hazy">Nebuloso</string>
+    <string name="weather_icy">Gelado</string>
+    <string name="weather_rainy">Chuvoso</string>
+    <string name="weather_snowy">Nevoso</string>
+    <string name="weather_stormy">Tempestuoso</string>
+    <string name="weather_windy">Ventoso</string>
+    <string name="weather_conditions">Condições</string>
+    <string name="weather_temperature">Temperatura</string>
+    <string name="weather_feels_like">Sensação térmica</string>
+    <string name="weather_humidity">Umidade</string>
+    <string name="weather_dew_point">Ponto de condensação da água</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Pesquisa na web</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">Lembrete</string>
+    <string name="reminder_tile_formatted_title_hint">Título (%d caracteres limitados)</string>
+    <string name="reminder_tile_content_hint">Conteúdo</string>
+    <string name="reminder_tile_persistent_checkbox">Persistente</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Excluir</string>
+    <string name="reminder_tile_empty_notification_text_fields">Lembrete não adicionado. Para adicionar um lembrete válido, por favor entre com um título ou conteúdo.</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">Para realizar essa ação, conceda a permissão para sobrepor a outros apps</string>
+    <string name="reminder_tile_text_copied_to_clipboard">Texto copiado para a área de transferência</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Excluir lembrete?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Restaurar lembrete?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Descartar edições?</string>
+    <string name="reminder_tile_remind_me">Lembra-me</string>
+    <string name="retrieving_location_dialog_message">Recuperando localização. Por favor, aguarde.</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
+    <string name="sleep_timeout_tile_formatted_label">Tempo limite de tela\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Para permitir que o bloco altere o tempo de limite de tela, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <string name="sleep_timeout_tile_value_15000">15 segundos</string>
+    <string name="sleep_timeout_tile_value_30000">30 segundos</string>
+    <string name="sleep_timeout_tile_value_60000">1 minuto</string>
+    <string name="sleep_timeout_tile_value_120000">2 minutos</string>
+    <string name="sleep_timeout_tile_value_300000">5 minutos</string>
+    <string name="sleep_timeout_tile_value_600000">10 minutos</string>
+    <string name="sleep_timeout_tile_value_1800000">30 minutos</string>
+    <!--location mode-->
+    <string name="location_tile_label">Modo de localização</string>
+    <string name="location_tile_label_off">Localização desativada</string>
+    <string name="location_tile_label_battery_saving">Economia de bateria</string>
+    <string name="location_tile_label_sensors_only">Somente no dispositivo</string>
+    <string name="location_tile_label_high_accuracy">Alta precisão</string>
+    <string name="location_tile_alert_dialog_message">Para permitir que o bloco altere o modo de localização, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">Configurações de segurança do sistema contêm as preferências do sistema que os aplicativos podem ler, mas não estão autorizados a modificar. Permissões com este nível de proteção só são concedidos aos aplicativos do sistema. Se um aplicativo é um aplicativo de terceiro que não pertence ao sistema, ele nunca vai ser capaz de usar essas permissões.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles foi concedido com permissões de superusuário para um shell interativo. Você quer programaticamente %s a permissão escrever as configurações de segurança usando shell interativo de superusuário?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Para permitir %1$s manualmente, conecte seu dispositivo a um computador e execute o seguinte comando adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">Conceder</string>
+    <string name="permission_dialog_message_revoke">Anular</string>
+    <!--timer H M S symbols-->
+    <string name="hour_symbol">H</string>
+    <string name="minute_symbol">M</string>
+    <string name="second_symbol">S</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">Dormir</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Captura de tela</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir que o bloco capturar e armazenar a imagem, abra as configurações e conceda a permissão de gravação no armazenamento externo.</string>
+    <string name="screenshot_tile_screenshot_captured">Captura de tela obtida.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Toque para ver sua captura de tela.</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">Modo Imersivo</string>
+    <string name="immersive_mode_tile_off">Modo imersivo desativado</string>
+    <string name="immersive_mode_tile_hide_system_bars">Esconder barras do sistema</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Esconder barra de navegação</string>
+    <string name="immersive_mode_tile_hide_status_bar">Esconder barra de status</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo imersivo, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Exibição de ambiente</string>
+    <string name="ambient_display_tile_alert_dialog_message">Para permitir que o bloco altere a exibição de ambiente, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--animations-->
+    <string name="animations_tile_label">Animações</string>
+    <string name="animations_tile_label_animator">Animador</string>
+    <string name="animations_tile_label_transition">Transição</string>
+    <string name="animations_tile_label_window">Janela</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animação desligada</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Escala de duração %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Para permitir que o bloco altere as animações, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--sleep time -->
+    <string name="sleep_time_tile_label">Tempo de inatividade</string>
+    <string name="sleep_time_tile_awake">Ativo</string>
+    <string name="sleep_time_tile_sleep">Inativo</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">Bateria %d%%</string>
+    <string name="sleep_time_tile_unplugged">Desconectado</string>
+    <string name="sleep_time_tile_plugged_usb">Conectado por USB</string>
+    <string name="sleep_time_tile_plugged_ac">Conectado por CA</string>
+    <string name="sleep_time_tile_plugged_wireless">Conectado sem fio</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">Alarme</string>
+    <string name="alarm_tile_no_alarm_set">Nenhum alarme definido</string>
+    <!--files-->
+    <string name="files_tile_label">Arquivos</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">Atalho as para configurações</string>
+    <string name="settings_shortcut_tile_action_accessibility">Acessibilidade</string>
+    <string name="settings_shortcut_tile_action_add_account">Adicionar uma conta</string>
+    <string name="settings_shortcut_tile_action_apn">APNs</string>
+    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Economia de bateria</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Legendas</string>
+    <string name="settings_shortcut_tile_action_cast">Transmitir</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Redes celulares</string>
+    <string name="settings_shortcut_tile_action_date">Data e hora</string>
+    <string name="settings_shortcut_tile_action_device_info">Status do telefone</string>
+    <string name="settings_shortcut_tile_action_display">Tela</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Otimização de bateria</string>
+    <string name="settings_shortcut_tile_action_location_sources">Localização</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Apps que podem se sobrepor a outros apps</string>
+    <string name="settings_shortcut_tile_action_manage_write">Pode modificar configurações do sistema</string>
+    <string name="settings_shortcut_tile_action_network_operators">Operadores de rede</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Acesso a notificações</string>
+    <string name="settings_shortcut_tile_action_printing">Impressão</string>
+    <string name="settings_shortcut_tile_action_search">Pesquisar</string>
+    <string name="settings_shortcut_tile_action_security">Segurança</string>
+    <string name="settings_shortcut_tile_action_sound">Som</string>
+    <string name="settings_shortcut_tile_action_sync">Sincronização</string>
+    <string name="settings_shortcut_tile_action_usage_access">Apps com acesso ao uso</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Dicionário pessoal</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assist. e entrada por voz</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Serviços de ajuda para RV</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Redes sem fio e outras</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Tamanho da fonte</string>
+    <string name="font_size_tile_alert_dialog_message">Para permitir que o bloco altere o tamanho da fonte, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Voz</string>
+    <!--text-->
+    <string name="text_tile_label">Texto</string>
+    <string name="text_tile_empty_chat_text_field">Nenhum texto adicionado, por favor entre com algum conteúdo.</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">Roaming de dados</string>
+    <string name="data_roaming_tile_alert_dialog_message">Para permitir que o bloco altere o roaming de dados, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--density-->
+    <string name="density_tile_label">Densidade</string>
+    <string name="density_tile_label_formatted">Densidade: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Largura menor: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Tamanho da tela: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Padrão: %ddp</string>
+    <string name="density_tile_density_low">Pequeno (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Médio (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">Grande (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">Extra Grande (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">Muito Grande (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">Enorme (xxxhdpi): ~640dpi</string>
+    <!--awake while plugged in-->
+    <string name="awake_while_plugged_on_tile_label">Permanecer ativo ao carregar</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Para permitir que o bloco altere a reação ao estiver conectado, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">Permite um aplicativo recuperar informações de estado dump dos serviços do sistema. Permissões com este nível de proteção só são concedidos aos aplicativos do sistema. Se um aplicativo é um aplicativo de terceiro que não pertence ao sistema, ele nunca vai ser capaz de usar essas permissões.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles foi concedido com permissões de superusuário para um shell interativo. Você quer programaticamente %s a permissão dump usando shell interativo de superusuário?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Para permitir %1$s manualmente, conecte seu dispositivo a um computador e execute o seguinte comando adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">Modo de demonstração</string>
+    <string name="demo_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo de demonstração, abra as configurações e conceda a permissão para modificar configurações de segurança e a permissão dump.</string>
+    <string name="demo_mode_tile_system_bars">Barras do sistema</string>
+    <string name="demo_mode_tile_system_bars_transparent">Transparente</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparente</string>
+    <string name="demo_mode_tile_system_bars_translucent">Translúcido</string>
+    <string name="demo_mode_tile_system_bars_opaque">Opaco</string>
+    <string name="demo_mode_tile_system_bars_warning">Aviso</string>
+    <string name="demo_mode_tile_battery">Bateria</string>
+    <string name="demo_mode_tile_state_plugged">Conectado</string>
+    <string name="demo_mode_tile_state_unplugged">Desconectado</string>
+    <string name="demo_mode_tile_level_formatted">Nível %1d</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">Bluetooth</string>
+    <string name="demo_mode_tile_state_disconnected">Desconectado</string>
+    <string name="demo_mode_tile_state_connected">Conectado</string>
+    <string name="demo_mode_tile_mobile">Rede celular</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
+    <string name="demo_mode_tile_notifications">Notificações</string>
+    <string name="demo_mode_tile_alarm">Alarme</string>
+    <string name="demo_mode_tile_location">Localização</string>
+    <string name="demo_mode_tile_clock">Relógio</string>
+    <string name="demo_mode_tile_mute">Silencioso</string>
+    <string name="demo_mode_tile_speakerphone">Alto-falante do telefone</string>
+    <string name="demo_mode_tile_vibrate">Vibrar</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">Prancheta</string>
+    <string name="clipboard_tile_empty_clip">A área de transferência não contém texto.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
+    <!--heads up notification-->
+    <string name="heads_up_notifications_tile_label">Notificações flutuantes</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Para permitir que o bloco altere as notificações flutuantes, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <string name="heads_up_notifications_tile_alert_summary">As frameworks do Android não expõem nenhuma configuração visível para alterar as notificações flutuantes. Certifique-se de ativar as notificações flutuantes novamente antes de desinstalar o aplicativo para restaurar corretamente o comportamento original.</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">Divisão de tela</string>
+    <string name="multi_window_tile_alert_dialog_message">Para permitir que o bloco alterne várias janelas, abra as configurações e ative o serviço de acessibilidade.</string>
+    <!--recents screen-->
+    <string name="recents_screen_tile_label">Tela de recentes</string>
+    <string name="recents_screens_tile_alert_dialog_message">Para permitir que o bloco mostre a tela de recentes, abra as configurações e ative o serviço de acessibilidade.</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">Volumes</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o bloco altere o volume do toque, abra as configurações e permita o acesso Não Perturbe.</string>
+    <string name="volumes_tile_volume_keys_disabled">Teclas de volume temporariamente desativado</string>
+    <string name="volumes_tile_volume_alarm">Alarme</string>
+    <string name="volumes_tile_volume_media">Mídia</string>
+    <string name="volumes_tile_volume_ring">Toque</string>
+    <string name="volumes_tile_volume_call">Chamada</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">Vibrar ao tocar</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Para permitir que o bloco altere o vibrar ao tocar, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">Sons de toque</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Para permitir que o bloco altere o sons de toque, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <!--orientation lock-->
+    <string name="orientation_lock_tile_label">Bloqueio de rotação</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Para permitir que o bloco altere e bloqueie a rotação, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Rotação em 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Rotação em 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Rotação em 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Rotação em 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Rotação automática</string>
+    <!--vibrate for calls-->
+    <string name="vibrate_for_calls_tile_label">Vibrar para chamadas</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Para permitir que o bloco altere o vibrar para chamadas, abra as configurações e conceda a permissão para modificar configurações do sistema.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Economia de bateria</string>
+    <string name="battery_saver_tile_alert_dialog_message">Para permitir que o bloco ative e desative a economia de bateria, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">A Economia de bateria não é disponível durante o carregamento.</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">Depuração USB</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Para permitir que o bloco altere o estado da depuração USB, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--cellular data-->
+    <string name="cellular_data_tile_label">Dados móveis</string>
+    <string name="cellular_data_tile_alert_dialog_message">Para permitir que o bloco altere o estado dos dados móveis, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <!--vpn-->
+    <string name="vpn_tile_label">VPN</string>
+    <!-- media volume -->
+    <string name="media_volume_tile_label">Volume de mídia</string>
+    <!-- shortcuts -->
+    <string name="shortcuts_tile_label">Atalhos</string>
+    <string name="shortcut_a_tile_label">Atalho #1</string>
+    <string name="shortcut_b_tile_label">Atalho #2</string>
+    <string name="shortcut_c_tile_label">Atalho #3</string>
+    <string name="shortcut_d_tile_label">Atalho #4</string>
+    <string name="shortcut_e_tile_label">Atalho #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nenhum atalho selecionado, abra as configurações e escolha um atalho.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Há algo errado, por favor abra as configurações e reveja o atalho selecionado.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Para permitir que o bloco execute atalhos de discagem rápida, abra configurações e conceda a permissão de chamada telefônica.</string>
+    <!--bluetooth-->
+    <string name="bluetooth_tile_label">Bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <!-- monochromacy -->
+    <string name="monochromacy_tile_label">Monochromacy</string>
+    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+</resources>

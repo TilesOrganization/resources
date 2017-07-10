@@ -88,7 +88,7 @@
     <string name="power_tile_action_reboot">重新啟動</string>
     <string name="power_tile_action_reboot_recovery">重新啟動至 Recovery 模式</string>
     <string name="power_tile_action_reboot_bootloader">重新啟動至 Bootloader 模式</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">重新啟動置使用者空間系統(user-space system)</string>
     <string name="power_tile_action_power_off">關機</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">音效模式</string>
@@ -375,9 +375,9 @@
     <string name="shortcuts_tile_exception_alert_dialog_message">發生錯誤，請開啟設定並查看所選取的捷徑。</string>
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">要允許快速設定動態磚直接撥號，請前往設定並允許通話的權限。</string>
     <!--bluetooth-->
-    <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_label">藍牙</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">無法進行此操作。 這個裝置並不支援藍牙功能。</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">單色視覺</string>
+    <string name="monochromacy_tile_alert_dialog_message">要允許快速設定動態磚變更單色視覺模式，請前往設定並允許可寫入安全設定的權限。</string>
 </resources>

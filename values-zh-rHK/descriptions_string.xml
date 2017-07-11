@@ -7,7 +7,7 @@
     <string name="description_application_tile">「應用程式」允許建立包含多個應用程式的清單式快速存取及提供5個獨立應用程式的快速存取。</string>
     <string name="description_awake_while_plugged_in_tile">「充電時保持亮屏」開啟時會令裝置在充電時一直保持亮屏狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_battery_saver_tile">「省電模式」允許快速開啟或關閉省電模式。節約電池用量模式開啟後有助於延長電池壽命，但會降低裝置的效能。並限制震動、定位服務和大部分的背景資料。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
-    <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
+    <string name="description_bluetooth_tile">「藍芽」允許快速開啟或關閉藍芽及開啟藍芽設定。</string>
     <string name="description_brightness_tile">「亮度」允許快速設定亮度程度(高、中、低）\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_calculator_tile">「計算機」，如有安裝Google的計算機，快速設定磚將會開啟應用程式。</string>
     <string name="description_calendar_tile">「日曆」提供「開啟日曆活動內容」或「新增活動」，此快速設定磚亦能支援其他第三方日曆應用程式。</string>
@@ -28,7 +28,7 @@
     <string name="description_lock_tile">「鎖定屏幕」，如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">「地圖」，如有安裝「Google地圖」，快速設定磚將打開Google地圖並顯示當前位置。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要授予位置存取的權限。</string>
     <string name="description_media_volume_tile">「媒體音量」，變更及調校媒體音量。</string>
-    <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_monochromacy_tile">「閱讀模式」，主要是透過模擬色彩空間至全色盲（黑白色）當作閱讀模式使用。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_multi_window_tile">「分屏模式」，Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的無障礙設定服務。</string>
     <string name="description_nfc_tile">「NFC」，提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_orientation_lock_tile">「屏幕旋轉方向」，鎖定屏幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>

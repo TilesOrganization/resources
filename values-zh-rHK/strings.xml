@@ -378,6 +378,6 @@
     <string name="bluetooth_tile_label">藍芽</string>
     <string name="bluetooth_tile_not_supported_alert_dialog_message">操作無法完成，此裝置不支援藍芽。</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">閱讀模式(黑白)</string>
+    <string name="monochromacy_tile_label">閱讀模式</string>
     <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)，請前往設定並允許可寫入安全設定的權限。</string>
 </resources>

@@ -88,7 +88,7 @@
     <string name="power_tile_action_reboot">重新啟動</string>
     <string name="power_tile_action_reboot_recovery">重啟至Recovery</string>
     <string name="power_tile_action_reboot_bootloader">重啟至Bootloader</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">快速重啟</string>
     <string name="power_tile_action_power_off">關機</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">音效模式</string>

@@ -304,6 +304,12 @@
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">變更藍牙狀態</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">開啟藍牙設定</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on"已啟用。 允許此快速設定動態磚變更為單色視覺。</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已啟用。 允許此快速設定動態磚變更為單色視覺。</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已停用。 不允許此快速設定動態磚變更為單色視覺。</string>
+    <!--input method-->
+    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <!--contacts-->
+    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
+    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
 </resources>

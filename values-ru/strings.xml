@@ -380,4 +380,15 @@
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">Монохромный режим</string>
     <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <!-- input method -->
+    <string name="input_method_tile_label">Input method</string>
+    <!--contacts-->
+    <string name="contacts_tile_label">Contacts</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
+    <string name="contact_a_tile_label">Contact #1</string>
+    <string name="contact_b_tile_label">Contact #2</string>
+    <string name="contact_c_tile_label">Contact #3</string>
+    <string name="contact_d_tile_label">Contact #4</string>
+    <string name="contact_e_tile_label">Contact #5</string>
 </resources>

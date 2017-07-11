@@ -380,4 +380,15 @@
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">Monocromia</string>
     <string name="monochromacy_tile_alert_dialog_message">Per permettere alla funzione di cambiare monocromia, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!-- input method -->
+    <string name="input_method_tile_label">Metodo immissione</string>
+    <!--contacts-->
+    <string name="contacts_tile_label">Contatti</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nessun contatto selezionato, per favore aprire le impostazioni e scegliere contatto.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Qualcosa non ha funzionato, per favore aprire le impostazioni e controllare il contatto selezionato.</string>
+    <string name="contact_a_tile_label">Contatto #1</string>
+    <string name="contact_b_tile_label">Contatto #2</string>
+    <string name="contact_c_tile_label">Contatto #3</string>
+    <string name="contact_d_tile_label">Contatto #4</string>
+    <string name="contact_e_tile_label">Contatto #5</string>
 </resources>

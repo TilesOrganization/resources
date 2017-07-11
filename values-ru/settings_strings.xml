@@ -308,4 +308,10 @@
     <!--monochromacy-->
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать монохромный режим</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать монохромный режим</string>
+    <!--input method-->
+    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <!--contacts-->
+    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
+    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
 </resources>

@@ -301,9 +301,9 @@
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已禁止。 此快速設定磚禁止打開撥號捷徑。</string>
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已授權。此快速設定磚允許打開撥號捷徑。</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">變更藍芽使用狀態</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">開啟藍芽設定</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許模擬色彩空間至閱讀模式(黑白)。</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止模擬色彩空間至閱讀模式(黑白)。</string>
 </resources>

@@ -88,7 +88,7 @@
     <string name="power_tile_action_reboot">Reiniciar</string>
     <string name="power_tile_action_reboot_recovery">Reiniciar para recovery</string>
     <string name="power_tile_action_reboot_bootloader">Reiniciar para bootloader</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">Reiniciar sistema de espaço do usuário</string>
     <string name="power_tile_action_power_off">Desligar</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Modo do som</string>
@@ -376,19 +376,19 @@
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Para permitir que o bloco execute atalhos de discagem rápida, abra configurações e conceda a permissão de chamada telefônica.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Ação não disponível. O dispositivo não suporta bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Modo monocromático</string>
+    <string name="monochromacy_tile_alert_dialog_message">Para permitir que o bloco altere o modo monocromático, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Método de entrada</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Contatos</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nenhum contato selecionado, abra as configurações e escolha um contato.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Algo deu errado, abra as configurações e revise o contato selecionado.</string>
+    <string name="contact_a_tile_label">Contato #1</string>
+    <string name="contact_b_tile_label">Contato #2</string>
+    <string name="contact_c_tile_label">Contato #3</string>
+    <string name="contact_d_tile_label">Contato #4</string>
+    <string name="contact_e_tile_label">Contato #5</string>
 </resources>

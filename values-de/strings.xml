@@ -88,7 +88,7 @@
     <string name="power_tile_action_reboot">Neustarten</string>
     <string name="power_tile_action_reboot_recovery">Neustarten in Recoverymodus</string>
     <string name="power_tile_action_reboot_bootloader">Neustarten in Bootloadermodus</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">Neustarten des Userspace-System</string>
     <string name="power_tile_action_power_off">Ausschalten</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Klingel-Modus</string>
@@ -222,7 +222,7 @@
     <!--files-->
     <string name="files_tile_label">Dateien</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Verknüfung zu Einstellungen</string>
+    <string name="settings_shortcut_tile_label">Verknüpfung zu Einstellungen</string>
     <string name="settings_shortcut_tile_action_accessibility">Bedienungshilfen</string>
     <string name="settings_shortcut_tile_action_add_account">Konto hinzufügen</string>
     <string name="settings_shortcut_tile_action_apn">APNs</string>
@@ -341,7 +341,7 @@
     <string name="touch_sounds_tile_alert_dialog_message">>Damit die Kachel die Töne bei Berührung ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">Drehen sperren</string>
-    <string name="orientation_lock_tile_alert_dialog_message">Damit die Kachel das Drehen des Smparthones ändern und sperren kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Damit die Kachel das Drehen des Smartphone ändern und sperren kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
     <string name="orientation_lock_tile_label_rotation_0">Drehen um 0\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_90">Drehen um 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">Drehen um 180\u00B0</string>
@@ -365,30 +365,30 @@
     <!-- media volume -->
     <string name="media_volume_tile_label">Medienlautstärke</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_label">Verknüpfungen</string>
+    <string name="shortcut_a_tile_label">Verknüpfung #1</string>
+    <string name="shortcut_b_tile_label">Verknüpfung #2</string>
+    <string name="shortcut_c_tile_label">Verknüpfung #3</string>
+    <string name="shortcut_d_tile_label">Verknüpfung #4</string>
+    <string name="shortcut_e_tile_label">Verknüpfung #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Keine Verknüpfungen ausgewählt, öffne bitte die Einstellungen und wähle eine Verknüpfung aus.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Upps! Irgendwas ging schief. Öffne bitte die Einstellungen und überprüfe die ausgewählten Verknüpfungen.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Damit die Kachel einen Anruf tätigen kann, öffne bitte die System-Einstellungen und erteile Telefon-Rechte.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Aktion nicht verfügbar. Das Smartphone besitzt keine Bluetooth-Schnittstelle</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Einfarbensehen</string>
+    <string name="monochromacy_tile_alert_dialog_message">Damit die Kachel das Einfarbesehen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Eingabe-Methode</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Kontakte</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Kein Kontakt ausgewählt, öffne bitte die Einstellungen und wähle einen Kontakt aus.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Upps! Irgendwas ging schief. Öffne bitte die Einstellungen und überprüfe die ausgewählten Kontakte.</string>
+    <string name="contact_a_tile_label">Kontakt #1</string>
+    <string name="contact_b_tile_label">Kontakt #2</string>
+    <string name="contact_c_tile_label">Kontakt #3</string>
+    <string name="contact_d_tile_label">Kontakt #4</string>
+    <string name="contact_e_tile_label">Kontakt #5</string>
 </resources>

@@ -173,7 +173,7 @@
     <string name="location_tile_label_sensors_only">僅裝置</string>
     <string name="location_tile_label_high_accuracy">高精確度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">安全系統設定包含應用程序可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="write_secure_settings_permission_dialog_message_about">安全系統設定包含應用程式可以讀取但不允許寫入的系統首選項。具有此保護級別的權限僅授予系統應用程式。如果應用程式是常規的非系統應用程式，它將不能使用這些權限。</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">已授予Tiles超級用戶權限。您想使用超級用戶權限以編程方式%s寫入安全設定權限嗎？</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">允許</string>
@@ -281,7 +281,7 @@
     <string name="awake_while_plugged_on_tile_label">充電時保持螢幕亮起</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定動態磚變更充電時保持螢幕亮起的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程序。如果應用程序是常規的非系統應用程序，它將不能使用這些權限。</string>
+    <string name="dump_permission_dialog_message_about">允許程式從系統服務檢測裝置狀態資訊，具有此保護級別的權限僅授予系統應用程式。如果應用程式是一般非系統應用程式，它將不能使用這些權限。</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles已授予超級用戶權限給交互式shell。您想使用超級用戶權限以編程方式%s授予權限以檢測裝置狀態資訊權限嗎？</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手動 %1$s 權限，將裝置連接至電腦並執行以下adb 指令: adb shell pm %2$s %3$s android.permission.DUMP。</string>
     <!--demo mode-->

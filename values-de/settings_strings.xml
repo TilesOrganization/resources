@@ -126,8 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Spiele den Standard-Benachrichtigungston, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Starte/stoppe den Dienst</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Schließe die Schnelleinstellungen und starte den Dienst</string>
+    <string name="settings_screen_on_tile_action_start_service">Starte den Dienst ohne die Schnelleinstellungen schließen</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Benachrichtigung über aktive Dienste</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Zeige eine permanente Benachrichtigung an, solange Dienste aktiv sind</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verstecke die Benachrichtigung</string>

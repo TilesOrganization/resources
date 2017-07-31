@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducir el sonido de notificación por defecto cuando el modo de timbre normal está seleccionado</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/detener servicio</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Servicio de notificación iniciado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar una notificación permantente mientras este servicio está iniciado</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Ocultar notificación</string>

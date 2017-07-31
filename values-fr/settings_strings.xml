@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Jouer la sonnerie de notification par défaut quand le mode de sonnerie normal est sélectionné</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Démarrer/arrêter le service</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Notification de service en cours d\'exécution</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Montrer une notification persistante durant l\exécution du service</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Cacher la notification</string>

@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Speel standaard notificatie gluid af wanneer staandaard beltoonvolume is geselcteerd</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Lopende service notificatie</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Laat een blijvende notificatie zien wanneer service wordt uitgevoerd</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Verberg notificatie</string>

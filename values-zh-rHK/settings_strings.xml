@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">音效模式為正常時，播放系統預設音效</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">開始/停止服務</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">服務運行通知</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">服務正在運行時，顯示固定式通知</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">隱藏通知</string>

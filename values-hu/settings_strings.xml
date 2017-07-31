@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása Normál csengetési mód esetén</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Szolgáltatás indítása/leállítása</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Értesítés futó szolgáltatásról</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Állandó értesítés futó szolgáltatás alatt</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Értesítés elrejtése</string>

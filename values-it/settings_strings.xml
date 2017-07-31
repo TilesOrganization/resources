@@ -125,25 +125,27 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Non emettere suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Emetti suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Fai partire/interrompi servizio</string>
+    <string name="settings_screen_on_tile_action_start_stop_service">Inizia/interrompi servizio</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Chiudi il pannello delle impostazioni veloci e inizia servizio</string>
+    <string name="settings_screen_on_tile_action_start_service">Inizia servizio senza chiudere il pannello delle impostazioni veloci</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Notifica servizio in esecuzione</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Visualizza una notifica persistente quando il servizio è in esecuzione</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Nascondi notifica</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Visualizza azione per aprire le impostazioni</string>
     <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Nascondi azione</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Emetti suono</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Non emettere suono predefinito di notifica quando il servizio parte</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Emetti suono predefinito di notifica quando il servizio parte</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Non emettere suono predefinito di notifica quando il servizio inizia</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Emetti suono predefinito di notifica quando il servizio inizia</string>
     <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrazione</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Non vibrare quando il servizio parte</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibra quando il servizio parte</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Non vibrare quando il servizio inizia</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibra quando il servizio inizia</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Cambia stato sincronizzazione</string>
     <string name="settings_sync_tile_action_open_sync_settings">Apri impostazioni sincronizzazione</string>
     <!--timer -->
     <string name="settings_timer_tile_skip_ui_title">Salta conferma</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Salta conferma e fai semplicemente partire il timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Visualizza una conferma prima di far partire il timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Salta conferma e inzia il timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Visualizza una conferma prima di iniziare il timer</string>
     <string name="settings_timer_tile_default_duration">Durata predefinita</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione ad accedere alla geolocalizzazione del dispositivo</string>

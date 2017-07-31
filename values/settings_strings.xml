@@ -126,6 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>

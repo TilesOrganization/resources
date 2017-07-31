@@ -69,8 +69,8 @@
     <string name="settings_translations_locale_fr">Французский</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Видимость плитки</string>
-    <string name="settings_component_summary_off">Скрыть плитку из панели Быстрых настроек</string>
-    <string name="settings_component_summary_on">Показать плитку в панели Быстрых настроек</string>
+    <string name="settings_component_summary_off">Скрыть плитку из панели быстрых настроек</string>
+    <string name="settings_component_summary_on">Показать плитку в панели быстрых настроек</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим автонастройки яркости</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
@@ -128,8 +128,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Запустить/остановить сервис</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Свернуть панель быстрых настроек и запустить сервис</string>
+    <string name="settings_screen_on_tile_action_start_service">Запустить сервис, не сворачивая панель быстрых настроек</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Уведомление о работающем сервисе</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Показывать постоянное уведомление, пока сервис запущен</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Спрятать уведомление</string>
@@ -197,8 +197,8 @@
     <string name="settings_screenshot_tile_notification_vibrate_title">Вибрация</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_on">Вибрировать при создании скриншота</string>
     <string name="settings_screenshot_tile_notification_vibrate_summary_off">Не вибрировать при создании скриншота</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Свернуть панель Быстрых настроек и сделать скриншот</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Сделать скриншот, не скрывая панель Быстрых настроек</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Свернуть панель быстрых настроек и сделать скриншот</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Сделать скриншот, не скрывая панель быстрых настроек</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Показать действие отправки скриншота</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_off">Скрыть действие отправки скриншота</string>
     <string name="settings_screenshot_tile_notification_delete_action_summary_on">Показать действие удаления скриншота</string>

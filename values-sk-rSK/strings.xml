@@ -391,4 +391,7 @@
     <string name="contact_c_tile_label">Contact #3</string>
     <string name="contact_d_tile_label">Contact #4</string>
     <string name="contact_e_tile_label">Contact #5</string>
+    <!--invert colors-->
+    <string name="invert_colors_tile_label">Invertovať farby</string>
+    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
 </resources>

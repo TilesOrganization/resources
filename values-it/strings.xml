@@ -391,4 +391,7 @@
     <string name="contact_c_tile_label">Contatto #3</string>
     <string name="contact_d_tile_label">Contatto #4</string>
     <string name="contact_e_tile_label">Contatto #5</string>
+    <!--invert colors-->
+    <string name="invert_colors_tile_label">Inverti colori</string>
+    <string name="invert_colors_tile_alert_dialog_message">Per permettere alla funzione di cambiare inverti colori, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
 </resources>

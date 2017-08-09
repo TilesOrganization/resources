@@ -314,4 +314,7 @@
     <!--contacts-->
     <string name="settings_contacts_tile_selected_contact">Selected contact</string>
     <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <!--invert colors-->
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
 </resources>

@@ -393,5 +393,5 @@
     <string name="contact_e_tile_label">聯絡人 #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">反轉顏色</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_alert_dialog_message">要允許快速設定動態磚變更反轉顏色模式，請前往設定並允許可寫入安全設定的權限。</string>
 </resources>

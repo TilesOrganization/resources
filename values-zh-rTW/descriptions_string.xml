@@ -25,7 +25,7 @@
     <string name="description_heads_up_notifications_tile">部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在螢幕上方以「浮動通知」形式顯示滑入通知，此快速設定動態磚可讓您開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_immersive_mode_tile">允許快速開啟或關閉全螢幕模式、隱藏或顯示狀態列、導覽列。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_input_method_tile">變更鍵盤或是顯示鍵盤設定。</string>
-    <string name="description_invert_colors_tile">Simulate colors inversion.\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_invert_colors_tile">模擬顏色反轉。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_keep_tile">如有安裝「Google Keep」，快速設定動態磚將開啟Google Keep快速儲存筆記的方塊。</string>
     <string name="description_location_tile">透過快速設定動態磚開啟定位模式設定版面或變更高定位精確度。\n「高精確度模式」，高精確度模式會運用 GPS、Wi-Fi、行動網路與其他感測器，取得高精確度的裝置位置資訊，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。\n「節約耗電量」，節約耗電量模式可運用低耗電量的位置資訊來源 (例如 Wi-Fi 和行動網路) 判斷您的位置，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。「僅限裝置」，僅限裝置模式只會使用 GPS 判斷您的位置，不會運用 Google 定位服務提供位置資訊。這種模式可能會增加耗電量，而且需要較長的時間判斷您的位置。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_lock_tile">如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定動態磚需要啟用裝置管理員。</string>
@@ -43,8 +43,10 @@
     <string name="description_screen_on_tile">讓裝置略過當前的休眠逾時並保持螢幕開啟，輕按通知欄的服務開啟通知以停止「保持螢幕開啟」的使用狀態。</string>
     <string name="description_screenshot_tile">進行快速螢幕截圖。\n使用快速設定動態磚需要允許可寫入外部儲存空間的權限。</string>
     <string name="description_settings_shortcut_tile">開啟Android的設定捷徑。</string>
-    <string name="description_shortcuts_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\ n需要使用電話權限才能執行快捷直接撥號。</string>
-    <string name="description_sleep_tile">讓裝置休眠。</string>
+    <string name="description_shortcuts_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\n需要使用電話權限才能執行快捷直接撥號。</string>
+    <string
+            
+            ame="description_sleep_tile">讓裝置休眠。</string>
     <string name="description_sleep_time_tile">查看裝置的休眠時間、對應的電量及充電狀態。</string>
     <string name="description_sleep_timeout_tile">變更裝置螢幕的休眠逾時。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_street_view_tile">開啟「Google街景」應用程並顯示目前位置此快速設定動態磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定動態磚需要位置存取權限才能使用，詳情可參閱</string>

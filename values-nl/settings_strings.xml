@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Verander synchronisatie status</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open synchronisatie instellingen</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Sla UI over</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Ontwijk elke bevestigings UI en start de timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Laat een bevestings UI zien voordat de timer start</string>

@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Mudar estado da sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir as configurações da sincronização</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Ignorar interface</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Ignorar a interface e iniciar o temporizador</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar a interface de confirmação antes de iniciar o temporizador</string>

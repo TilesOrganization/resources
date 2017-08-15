@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">變更同步狀態</string>
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">跳過界面</string>
     <string name="settings_timer_tile_skip_ui_summary_on">直接跳過所有確認界面並立即開始們倒數計時</string>
     <string name="settings_timer_tile_skip_ui_summary_off">開始倒數計時前顯示確認界面</string>

@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
     <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Überspringe Dialoge</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Umgehe jeden Bestätigungsdialog und starte den Timer sofort</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen Bestätigungsdialog für das Starten des Timers an</string>

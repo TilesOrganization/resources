@@ -44,9 +44,7 @@
     <string name="description_screenshot_tile">進行快速螢幕截圖。\n使用快速設定動態磚需要允許可寫入外部儲存空間的權限。</string>
     <string name="description_settings_shortcut_tile">開啟Android的設定捷徑。</string>
     <string name="description_shortcuts_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\n需要使用電話權限才能執行快捷直接撥號。</string>
-    <string
-            
-            ame="description_sleep_tile">讓裝置休眠。</string>
+    <string name="description_sleep_tile">讓裝置休眠。</string>
     <string name="description_sleep_time_tile">查看裝置的休眠時間、對應的電量及充電狀態。</string>
     <string name="description_sleep_timeout_tile">變更裝置螢幕的休眠逾時。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_street_view_tile">開啟「Google街景」應用程並顯示目前位置此快速設定動態磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定動態磚需要位置存取權限才能使用，詳情可參閱</string>

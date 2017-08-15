@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Mudar estado de sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir configurações de sincronização</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Pular UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Pular qualquer UI de confirmação e simplesmente iniciar o timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar um UI de confirmação antes de iniciar o timer</string>

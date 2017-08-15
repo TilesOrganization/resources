@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Cambia stato sincronizzazione</string>
     <string name="settings_sync_tile_action_open_sync_settings">Apri impostazioni sincronizzazione</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Apri timer</string>
+    <string name="settings_timer_tile_action_start_timer">Inizia timer</string>
     <string name="settings_timer_tile_skip_ui_title">Salta conferma</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Salta conferma e inzia il timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Visualizza una conferma prima di iniziare il timer</string>

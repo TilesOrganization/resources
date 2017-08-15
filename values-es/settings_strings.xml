@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Cambiar el estado de la sincronización</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir ajustes de sincronización</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Saltar </string>
     <string name="settings_timer_tile_skip_ui_summary_on">Saltar confirmación e iniciar el temporizador directamente</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar confirmación antes de iniciar el temporizador</string>

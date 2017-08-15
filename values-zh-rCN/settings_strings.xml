@@ -143,6 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Change sync state</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
     <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
     <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>

@@ -144,8 +144,8 @@
     <string name="settings_sync_tile_action_change_sync">Zmeniť stav synchronizácie</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvoriť nastavenia synchronizácie</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">Otvoriť časovač</string>
+    <string name="settings_timer_tile_action_start_timer">Spustiť časovač</string>
     <string name="settings_timer_tile_skip_ui_title">Preskočiť UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Preskočiť akékoľvek UI pre potvrdenie a spustiť časovač</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Pred spustením časovača zobraziť UI pre potvrdenie</string>

@@ -16,9 +16,9 @@
     <string name="settings_night_mode_yes">Éjszaka</string>
     <string name="settings_night_mode_auto">Automatikus</string>
     <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogs</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
-    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
+    <string name="settings_design_dialogs">Dialógusok</string>
+    <string name="settings_design_dialogs_not_cancelable">A rendszer vissza gombjával eltüntethetők a dialógusok</string>
+    <string name="settings_design_dialogs_cancelable">A képernyő dialóguson kívül történő érintésére eltüntethető a dialógus</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Navigációs sáv színe</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nincs szín</string>
@@ -35,17 +35,17 @@
     <string name="settings_design_status_bar_icons_light">Világos ikonok</string>
     <string name="settings_design_status_bar_icons_dark">Sötét ikonok</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles.</string>
+    <string name="settings_advanced">Haladó</string>
+    <string name="settings_restart_active_tiles_title">Aktív csempék újraindítása</string>
+    <string name="settings_restart_active_tiles_summary">Aktív csempék kényszerített újraindítása. Használd ezt a lehetőséget, ha a rendszer leállította a csempéket, így azok nem reagálnak.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Aktív csempék újraindítása folyamatban</string>
     <!--UX-->
-    <string name="settings_permission">Permission</string>
-    <string name="settings_phone_call_permission_title">Phone call permission</string>
+    <string name="settings_permission">Engedély</string>
+    <string name="settings_phone_call_permission_title">Telefon(hívás) engedély</string>
     <string name="settings_location_permissions_preference_title">Engedély helyadatokhoz</string>
     <string name="settings_modify_system_settings_permissions_title">Rendszerbeállítások módosításának engedélyezése</string>
     <string name="settings_feedback">Visszajelzés &amp; Támogatás</string>
-    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="settings_wiki">Wiki</string>
     <string name="settings_rate_or_review">Alkalmazás értékelése</string>
     <string name="settings_support_title">Köszönöm a támogatásodat!</string>
@@ -75,14 +75,14 @@
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem állíthat a fényerő módon.</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe állíthat a fényerő módon.</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">Minden alkalmazás megjelenítése</string>
+    <string name="settings_application_tile_action_show_selected_apps">Kiválasztott alkalmazások megjelenítése</string>
+    <string name="settings_application_tile_single_app">Külön alkalmazások</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%d alkalmazás kiválasztva</item>
+        <item quantity="other">%d alkalmazás kiválasztva</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">Kiválasztott alkalmazások</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">Megjelenítési mód</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
@@ -126,8 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása Normál csengetési mód esetén</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Szolgáltatás indítása/leállítása</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Gyorsbeállítások panel bezárása és a szolgáltatás indítása</string>
+    <string name="settings_screen_on_tile_action_start_service">Szolgáltatás elindítása a Gyorsbeállítások panel bezárása nélkül</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Értesítés futó szolgáltatásról</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Állandó értesítés futó szolgáltatás alatt</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">Értesítés elrejtése</string>
@@ -143,8 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Szinkronizálási státusz megváltoztatása</string>
     <string name="settings_sync_tile_action_open_sync_settings">Szinkronizálási beállítások megnyitása</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">Időzítő megnyitása</string>
+    <string name="settings_timer_tile_action_start_timer">Időzítő elindítása</string>
     <string name="settings_timer_tile_skip_ui_title">Felület kihagyása</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Megerősítés elhagyása, időzítő indítása</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Megerősítés kérése az időzítő indí előtt</string>
@@ -260,63 +260,63 @@
     <string name="settings_demo_mode_tile_dump_permission_summary_on">Engedélyezve. A csempe átvehet rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">Megtagadva. A csempe nem vehet át rendszerszolgáltatásoktól származó dump helyzeti információkat.</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe megváltoztathatja a felugró értesítéseket.</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem változtathatja meg a felugró értesítéseket.</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Kikapcsolva. A csempe nem jelenítheti meg a kikapcsoló menüt.</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Engedélyezve. A csempe megjelenítheti a kikapcsoló menüt.</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Kikapcsolva. A rendszer nem kapcsolhatja be a többablakos üzemmódot.</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Engedélyezve. A rendszer bekapcsolhatja a többablakos üzemmódot.</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Kikapcsolva. A csempe nem jelenítheti meg az előzmények képernyőt.</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Engedélyezve. A csempe megjelenítheti az előzmények képernyőt.</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The app is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The app is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Ne zavarjanak hozzáférés</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Engedélyezve. Az alkalmazás be-/kikapcsolhatja a Ne zavarjanak funkciót és megváltoztathatja a csengés hangerejét.</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Megtagadva. Az alkalmazás nem kapcsolhatja be/ki a Ne zavarjanak funkciót és nem változtathatja meg a csengés hangerejét.</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem változtathatja meg a rezgés koppintásra beállítást.</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe megváltoztathatja a rezgés koppintásra beállítást.</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem változtathatja meg az érintési hangok beállítást.</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe megváltoztathatja az érintési hangok beállítást.</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Forgatás megváltoztatása és rögzítése</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem változtathatja meg és zárhatja le a képernyő elforgatását.</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe megváltoztathatja és lezárhatja a képernyő elforgatását.</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem változtathatja meg a hívások rezgésének beállítását.</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe megváltoztathatja a hívások rezgésének beállítását.</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem kapcsolhatja be/ki az akkumulátorkímélő módot.</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe be-/kikapcsolhatja az akkumulátorkímélő módot.</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem változtathatja meg az USB hibakeresés beállítást.</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe megváltoztathatja az USB hibakeresés beállítást.</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem kapcsolhatja be/ki a mobilnetet.</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe be-/kikapcsolhatja a mobilnetet.</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Mobilnet be-/kikapcsolása</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Mobilhálózati beállítások megnyitása</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Kiválasztott parancsikon</string>
+    <string name="settings_shortcuts_tile_summary_empty">Nincs kiválasztott parancsikon</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Megtagadva. A csempe nem kezdeményezhet hívást és nem készíthet közvetlen hívásos parancsikont.</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Engedélyezve. A csempe kezdeményezhet hívást és készíthet közvetlen hívásos parancsikont.</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Bluetooth állapotának megváltoztatása</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Bluetooth beállítások megnyitása</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe nem változtathat a monokromázián.</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe változtathat a monokromázián.</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Beviteli mód választó megjelenítése</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Beviteli mód beállításainak megjelenítése</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Kiválasztott kapcsolat</string>
+    <string name="settings_contacts_tile_summary_empty">Nincs kiválasztott kapcsolat</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe invertálhatja a színeket.</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem invertálhatja a színeket.</string>
 </resources>

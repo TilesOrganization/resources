@@ -143,8 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">Ändere den Synchronisationsstatus</string>
     <string name="settings_sync_tile_action_open_sync_settings">Öffne die Synchronisationseinstellungen</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">Öffne den Timer</string>
+    <string name="settings_timer_tile_action_start_timer">Starte den Timer</string>
     <string name="settings_timer_tile_skip_ui_title">Überspringe Dialoge</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Umgehe jeden Bestätigungsdialog und starte den Timer sofort</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Zeige einen Bestätigungsdialog für das Starten des Timers an</string>
@@ -317,6 +317,6 @@
     <string name="settings_contacts_tile_selected_contact">Ausgewählte Kontakte</string>
     <string name="settings_contacts_tile_summary_empty">Kein Kontakt ausgewählt</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Farben umkehren</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Farben nicht umkehren</string>
 </resources>

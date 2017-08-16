@@ -11,28 +11,28 @@
     <string name="low">Alacsony</string>
     <string name="checking_features_progress_dialog_message">Eszköz specifikus funkciók engedélyezésének ellenőrzése</string>
     <string name="not_available">Nem elérhető</string>
-    <string name="cancel">Cancel</string>
-    <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
+    <string name="cancel">Mégsem</string>
+    <string name="revert">Vissza</string>
+    <string name="discard">Elvet</string>
     <string name="share">Megosztás</string>
     <string name="delete">Törlés</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
-    <string name="warning">Warning</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
+    <string name="save">Mentés</string>
+    <string name="save_and_close">Mentés &amp; bezárás</string>
+    <string name="warning">Figyelmeztetés</string>
+    <string name="accessibility_service_label">Hozzáférhetőségi szolgáltatás</string>
+    <string name="accessibility_service_description">Hozzáférhetőségi szolgáltatás a Tiles számára globális műveletek végrehajtásához: kikapcsoló menü megjelenítése, előzmények megjelenítése, többablakos üzemmód bekapcsolása.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Alkalmazkodó fényerő</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">A fényerő mód csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">Applications</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_label">Alkalmazások</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Nincs kiválasztott alkalmazás, nyisd meg a beállításokat és válassz ki egyet.</string>
     <!--application-->
-    <string name="application_a_tile_label">Application #1</string>
-    <string name="application_b_tile_label">Application #2</string>
-    <string name="application_c_tile_label">Application #3</string>
-    <string name="application_d_tile_label">Application #4</string>
-    <string name="application_e_tile_label">Application #5</string>
+    <string name="application_a_tile_label">Alkalmazás #1</string>
+    <string name="application_b_tile_label">Alkalmazás #2</string>
+    <string name="application_c_tile_label">Alkalmazás #3</string>
+    <string name="application_d_tile_label">Alkalmazás #4</string>
+    <string name="application_e_tile_label">Alkalmazás #5</string>
     <string name="application_tile_label">Alkalmazás</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Nincs kiválasztott app, nyisd meg kérlek a beállításokat és válassz egyet.</string>
     <string name="application_info_dialog_message">A gyorsindításhoz kérlek csak egyetlen alkalmazást válassz.</string>
@@ -45,8 +45,8 @@
     <string name="brightness_tile_formatted_label_one_param">Fényerő: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Határozatlan fényerő</string>
     <string name="brightness_tile_alert_dialog_message">A fényerőszint csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Alkalmazkodó fényerő&lt;/b> bekapcsolva</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Jelenlegi fényerő: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Számológép</string>
     <!--calendar-->
@@ -80,15 +80,15 @@
     <string name="nfc_tile_service_description">Szolgáltatás az NFC állapotának megfigyelésére. Leáll, amint a gyorsbeállítások csempe eltávolításra kerül. Manuális leállítás esetén a csempe működése nem biztosított.</string>
     <string name="nfc_tile_alert_dialog_message">Az NFC helyzetének csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power dialog</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
+    <string name="power_dialog_accessibility_tile_label">Kikapcsolás menü</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">A csempe kikapcsolás menühoz való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a hozzáférhetőségi szolgáltatást.</string>
+    <string name="power_tile_action_system_power_dialog">Kikapcsolás menü</string>
     <string name="power_tile_action_power_dialog">Kikapcsolás menü</string>
     <string name="power_tile_label">Kikapcsolás</string>
     <string name="power_tile_action_reboot">Újraindítás</string>
     <string name="power_tile_action_reboot_recovery">Újraindítás recovery-be</string>
     <string name="power_tile_action_reboot_bootloader">Újraindítás bootloaderbe</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">Felhasználó-helyi rendszer újraindítása</string>
     <string name="power_tile_action_power_off">Kikapcsolás</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Csengetési mód</string>
@@ -101,7 +101,7 @@
     <string name="screen_on_tile_dialog_wake_lock_running">Az aktív képernyő szolgáltatás fut.\nLeállítja a szolgáltatást?</string>
     <string name="screen_on_tile_dialog_wake_lock_not_running">Az aktív képernyő szolgáltatás nem fut.\nElindítja a szolgáltatást?</string>
     <string name="screen_on_tile_service_notification_title">A szolgáltatás fut</string>
-    <string name="screen_on_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ezt meg nem nyomod.</string>
+    <string name="screen_on_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ide nem koppintasz.</string>
     <string name="screen_on_tile_service_notification_sub_text">Aktív képernyő szolgáltatás</string>
     <!--streetview-->
     <string name="streetview_tile_label">Utcakép</string>
@@ -149,10 +149,10 @@
     <string name="reminder_tile_empty_notification_text_fields">Új emlékeztető nincs elmentve. Megfelelő emlékeztető hozzáadásához kérlek adj meg egy címet vagy tartalmat.</string>
     <string name="reminder_tile_draw_over_apps_permission_alert_message">Ilyen művelet végrehajtásához kérlek engedélyezd az alkalmazás számára a mások felett való megjelenést.</string>
     <string name="reminder_tile_text_copied_to_clipboard">Szöveg vágólapra másolva</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Emlékeztető törlése?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Emlékeztető visszaállítása?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Módosítások elvetése?</string>
+    <string name="reminder_tile_remind_me">Emlékeztess</string>
     <string name="retrieving_location_dialog_message">Helymeghatározás folyamatban, kérlek várj…</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Alvó mód ideje</string>
@@ -311,13 +311,13 @@
     <string name="demo_mode_tile_speakerphone">Telefon kihangosító</string>
     <string name="demo_mode_tile_vibrate">Rezgés</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Vágólap</string>
+    <string name="clipboard_tile_empty_clip">A vágólap nem tartalmaz szöveget.</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
+    <string name="heads_up_notifications_tile_label">Felugró értesítések</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">A csempe felugró értesítésekhez való hozzáféréshez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások módosításához.</string>
     <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
     <!--multi window-->
     <string name="multi_window_tile_label">Multi-Window</string>

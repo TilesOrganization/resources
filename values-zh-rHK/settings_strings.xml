@@ -317,6 +317,6 @@
     <string name="settings_contacts_tile_selected_contact">已選取聯絡人</string>
     <string name="settings_contacts_tile_summary_empty">沒有選取聯絡人</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許反轉顏色。</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止反轉顏色。</string>
 </resources>

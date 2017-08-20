@@ -379,7 +379,7 @@
     <string name="bluetooth_tile_not_supported_alert_dialog_message">無法進行此操作。此裝置並不支援藍芽。</string>
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">閱讀模式</string>
-    <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!-- input method -->
     <string name="input_method_tile_label">鍵盤</string>
     <!--contacts-->
@@ -393,5 +393,5 @@
     <string name="contact_e_tile_label">聯絡人 #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">反轉顏色</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_alert_dialog_message">要允許快速設定磚變更反轉顏色的使用狀態。 請前往設定並允許可寫入安全設定的權限。</string>
 </resources>

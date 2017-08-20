@@ -311,8 +311,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許模擬色彩空間至閱讀模式(黑白)。</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止模擬色彩空間至閱讀模式(黑白)。</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">顯示輸入方式選取器</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">開啟輸入方式設定</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">顯示鍵盤選取清單</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">開啟鍵盤告輸入方法設定</string>
     <!--contacts-->
     <string name="settings_contacts_tile_selected_contact">已選取聯絡人</string>
     <string name="settings_contacts_tile_summary_empty">沒有選取聯絡人</string>

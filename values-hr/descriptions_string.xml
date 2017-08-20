@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="description_adaptive_brightness_tile">Kada je omogućeno, automatski mijenja svjetlinu zaslona ovisno o razini svjetla oko vas. Razina osvjetljenja i dalje se može prilagoditi dok je prilagodljiva svjetlina zaslona uključena.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
-    <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
-    <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_alarm_tile">Prikaz aktualnih alarma ili postavljanje novog alarma. Pločica prikazuje sljedeći alarm, ako je isti postavljen. Radnja je kompatibilna s aplikacijama treće strane koja mogu zaprimiti Androidov zadani prijenos radi prikazivanja i uređivanja alarma.</string>
+    <string name="description_ambient_display_tile">Postavite uređaj da prikazuje sadržaj zaključanog zaslona kada stigne obavijest.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_animations_tile">Set the scale of animations for animator, transition, and window.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
     <string name="description_awake_while_plugged_in_tile">Device will never go to sleep as long as it\'s plugged into a power source.\nWrite secure settings permission is required to use this tile.</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_adaptive_brightness_tile">Automatically change the brightness of the screen to the light around you, when enabled. The brightness level can still be adjusted while adaptive brightness is on.\nModify system settings permission is required to use this tile.</string>
-    <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
+    <string name="description_adaptive_brightness_tile">有効にすると、周囲に合わせて明るさを最適化します。明るさの自動調整を有効にしても明るさを調整することができます。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
+    <string name="description_alarm_tile">現在設定されているアラームを表示、または新しくアラームを設定します。The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
     <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_animations_tile">Set the scale of animations for animator, transition, and window.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>

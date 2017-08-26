@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
+    <string name="settings">設定</string>
+    <string name="settings_design">デザイン</string>
+    <string name="settings_animations">アニメーション</string>
     <string name="settings_animations_reveal_animation_title">Reveal animation</string>
     <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
-    <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_notification">Notification</string>
-    <string name="settings_night_mode">Night mode</string>
-    <string name="settings_night_mode_no">Day</string>
-    <string name="settings_night_mode_yes">Night</string>
-    <string name="settings_night_mode_auto">Auto</string>
+    <string name="settings_enabled">有効</string>
+    <string name="settings_disabled">無効</string>
+    <string name="settings_action">アクション</string>
+    <string name="settings_layout">レイアウト</string>
+    <string name="settings_notification">通知</string>
+    <string name="settings_night_mode">夜間モード</string>
+    <string name="settings_night_mode_no">昼間</string>
+    <string name="settings_night_mode_yes">夜間</string>
+    <string name="settings_night_mode_auto">自動</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dialogs</string>
     <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>

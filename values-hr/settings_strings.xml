@@ -1,197 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
-    <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_notification">Notification</string>
-    <string name="settings_night_mode">Night mode</string>
-    <string name="settings_night_mode_no">Day</string>
-    <string name="settings_night_mode_yes">Night</string>
+    <string name="settings">Postavke</string>
+    <string name="settings_design">Dizajn</string>
+    <string name="settings_animations">Animacije</string>
+    <string name="settings_animations_reveal_animation_title">Animacija otkrivanja</string>
+    <string name="settings_animations_drawable_animation_title">Animacija crtanja</string>
+    <string name="settings_enabled">Omogućeno</string>
+    <string name="settings_disabled">Onemogućeno</string>
+    <string name="settings_action">Radnja</string>
+    <string name="settings_layout">Izgled</string>
+    <string name="settings_notification">Obavijest</string>
+    <string name="settings_night_mode">Noćni način rada</string>
+    <string name="settings_night_mode_no">Dan</string>
+    <string name="settings_night_mode_yes">Noć</string>
     <string name="settings_night_mode_auto">Auto</string>
     <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogs</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
-    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
+    <string name="settings_design_dialogs">Dijalozi</string>
+    <string name="settings_design_dialogs_not_cancelable">Dijalozi se mogu odbaciti pomoću gumba za povratak</string>
+    <string name="settings_design_dialogs_cancelable">Dijalozi se mogu odbaciti dodirivanjem izvan dijaloškog okvira</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Boja navigacijske trake</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Nema boje</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Tamna primarna boja</string>
+    <string name="settings_design_navigation_bar_tint_primary">Primarna boja</string>
+    <string name="settings_design_navigation_bar_tint_accent">Boja naglaska</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Boja trake stanja</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Tamna primarna boja</string>
+    <string name="settings_design_status_bar_tint_primary">Primarna boja</string>
+    <string name="settings_design_status_bar_tint_accent">Boja naglaska</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">Ikone trake stanja</string>
+    <string name="settings_design_status_bar_icons_light">Svijetle ikone</string>
+    <string name="settings_design_status_bar_icons_dark">Tamne ikone</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
+    <string name="settings_advanced">Napredno</string>
+    <string name="settings_restart_active_tiles_title">Ponovo pokreni aktivne pločice</string>
+    <string name="settings_restart_active_tiles_summary">Prisilno ponovno pokreni aktivne pločice. Koristite ovu akciju ako neke pločice ne reagiraju, nakon što ih je sustav ubio</string>
+    <string name="settings_restart_active_tiles_summary_processing">Obrada prisilnog ponovnog pokretanja aktivnih pločica</string>
     <!--UX-->
-    <string name="settings_permission">Permission</string>
-    <string name="settings_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
-    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_permission">Dopuštenja</string>
+    <string name="settings_phone_call_permission_title">Dopuštenja za telefonski poziv</string>
+    <string name="settings_location_permissions_preference_title">Dopuštenja lokacije</string>
+    <string name="settings_modify_system_settings_permissions_title">Dopuštenje za izmjenu postavki sustava</string>
+    <string name="settings_feedback">Povratne informacije &amp; Podrška</string>
+    <string name="settings_privacy_policy">Pravila o privatnosti</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
-    <string name="settings_send_email">Send email</string>
-    <string name="settings_support_summary">Developed for Android Nougat</string>
-    <string name="settings_credit">Credit</string>
-    <string name="settings_credit_app_icon">Application\'s icon</string>
-    <string name="settings_translations">Translations</string>
-    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
-    <string name="settings_translations_locale_de">German</string>
-    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
-    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
-    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
-    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
-    <string name="settings_translations_locale_it">Italian</string>
-    <string name="settings_translations_locale_hu">Hungarian</string>
-    <string name="settings_translations_locale_es">Spanish</string>
-    <string name="settings_translations_locale_ru">Russian</string>
-    <string name="settings_translations_locale_fr">French</string>
+    <string name="settings_rate_or_review">Ocijenite ili recenzirajte aplikaciju</string>
+    <string name="settings_support_title">Hvala na podršci!</string>
+    <string name="settings_send_email">Pošalji e-mail</string>
+    <string name="settings_support_summary">Razvijeno za Android Nougat</string>
+    <string name="settings_credit">Zasluge</string>
+    <string name="settings_credit_app_icon">Ikona aplikacije</string>
+    <string name="settings_translations">Prijevodi</string>
+    <string name="settings_translations_thanks">Ako želite pomoći pri prevođenju aplikacije na svoj jezik, slobodno me kontaktirajte: rascarlo@gmail.com.\nHvala!</string>
+    <string name="settings_translations_locale_de">Njemački</string>
+    <string name="settings_translations_locale_pt_rBR">Portugalski, Brazil</string>
+    <string name="settings_translations_locale_nl">Nizozemski</string>
+    <string name="settings_translations_locale_pt_rPT">Portugalski, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Slovački, Slovačka</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Tradicionalni kineski, Hong Kong &amp; Makao</string>
+    <string name="settings_translations_locale_zh_rTW">Tradicionalni kineski, Tajvan</string>
+    <string name="settings_translations_locale_it">Talijanski</string>
+    <string name="settings_translations_locale_hu">Mađarski</string>
+    <string name="settings_translations_locale_es">Španjolski</string>
+    <string name="settings_translations_locale_ru">Ruski</string>
+    <string name="settings_translations_locale_fr">Francuski</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_title">Vidljivost pločica</string>
+    <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>
+    <string name="settings_component_summary_on">Prikaži pločicu u prikazu brzih postavki</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način svjetline</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način svjetline</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">Prikaži sve aplikacije</string>
+    <string name="settings_application_tile_action_show_selected_apps">Prikaži odabrane aplikacije</string>
+    <string name="settings_application_tile_single_app">Jedna aplikacija</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%d aplikacija odabrana</item>
+        <item quantity="other">%d aplikacija odabrano</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">Odabrane aplikacije</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">Način prikaza
+    <string name="settings_application_tile_view_mode_list">Popis</string>
+    <string name="settings_application_tile_view_mode_grid">Mreža</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Mreža bez oznake</string>
+    <string name="settings_application_tile_grid_columns">Broj stupaca</string>
+    <string name="settings_application_tile_application_list_show_title">Aplikacije za prikaz</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d aplikacija odabrano</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nije odabrana nijedna aplikacija</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplikacije za pokretanje</string>
+    <string name="settings_application_tile_loading_applications">Učitavanje aplikacija...</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti razinu svjetline</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti razinu svjetline</string>
+    <string name="settings_brightness_tile_action_change_brightness">Promijeni svjetlinu</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Razine svjetline</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Visoka: %1$d%%\nSrednja: %2$d%%\nNiska: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Otvori aplikaciju telefon</string>
+    <string name="settings_call_tile_action_make_call">Nazovi odabrani kontakt</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Dopuštenja za telefonski poziv</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno upućivati telefonske pozive</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dozvoljeno upućivati telefonske pozive</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Kontakt koji želite zvati</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">Otvori aplikaciju e-pošte</string>
+    <string name="settings_email_tile_action_send_email">Sastavi e-poštu s odabranim kontaktom primatelja</string>
+    <string name="settings_email_tile_contact_preference_title">Kontakt za slanje e-pošte</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Administrator uređaja</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Aktivirano. Pločici je dopušteno zaključavanje uređaja</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Deaktivirano. Pločici nije dopušteno zaključavanje uređaja</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Pristup "Ne ometaj" opciji</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Dopušteno. Pločica može uključiti/isključiti "Ne ometaj" opciju te izvršiti izmjene povezanih postavki</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Odbijeno. Pločica ne može uključiti/isključiti "Ne ometaj" opciju te izvršiti izmjene povezanih postavki</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Otvori ploču glasnoće</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Promjeni način zvona</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Reproduciraj zvuk</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Nemojte reproducirati zvuk kad je odabran normalni način zvona</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
     <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_screen_on_tile_action_start_stop_service">Pokretanje/zaustavljanje usluge</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Zatvori ploču brzih postavkih i pokreni uslugu</string>
+    <string name="settings_screen_on_tile_action_start_service">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
+    <string name="settings_screen_on_tile_running_service_notification_title">Obavijest o pokrenutoj usluzi</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_on">Prikaži trajnu obavijest dok je usluga pokrenuta</string>
+    <string name="settings_screen_on_tile_running_service_notification_summary_off">Sakrij obavijest</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
+    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Nemoj reproducirati zvuk kada je usluga pokrenuta</string>
+    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti kada se usluga pokrene</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriraj kada se usluga pokrene</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Promijeni stanje sinkronizacije</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Otvori postavke sinkronizacije</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">Otvori mjerač vremena</string>
+    <string name="settings_timer_tile_action_start_timer">Pokreni mjerač vremena</string>
+    <string name="settings_timer_tile_skip_ui_title">Preskoči korisničko sučelje</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Zaobiđi bilo koju potvrdu korisničkog sučelja  i jednostavno pokreni mjerač vremena</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Pokažite korisničko sučelje za potvrdu prije pokretanja mjerača vremena</string>
+    <string name="settings_timer_tile_default_duration">Zadano trajanje</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Odbijeno. Pločica ne smije pristupiti lokaciji uređaja</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Odobreno. Pločica smije pristupiti lokaciji uređaja</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Odbijeno. Pločica ne smije pristupiti lokaciji uređaja i dobiti trenutnu vremensku prognozu</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Odobreno. Pločica smije pristupiti lokaciji uređaja i dobiti trenutnu vremensku prognozu</string>
+    <string name="settings_units">Jedinice</string>
+    <string name="settings_summary_off_hidden">Skriveno</string>
+    <string name="settings_summary_on_shown">Prikazano</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Draw over apps permission</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Granted. Reminder is allowed to be displayed as a dialog and be dragged on top of other apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Denied. Reminder is not allowed to be displayed as a dialog and be dragged on top of other apps</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Brisanje podsjetnika tako da prijeđete ulijevo ili udesno</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Brisanje podsjetnika dodirom gumba za brisanje</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Trajna obavijest</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Reproduciraj zvuk</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Nemoj reproducirati zvuk prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibriraj prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Nemoj vibrirati prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Stil vremenske oznake</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normalno</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Štoperica</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Prikaži radnju za otvaranje postavki</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Sakrij radnju</string>
+    <string name="settings_reminder_tile_draw_over_apps_title">Dopuštenje za pisanje preko drugih aplikacija</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_on">Odobreno. Podsjetniku je dozvoljeno da bude prikazan kao dijalog te povlačenje preko drugih aplikacija</string>
+    <string name="settings_reminder_tile_draw_over_apps_summary_off">Odbijeno. Podsjetniku nije dozvoljeno da bude prikazan kao dijalog te povlačenje preko drugih aplikacija</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Prikaz događaja</string>
+    <string name="settings_calendar_tile_action_add">Dodavanje događaja</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način lokacije</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>
+    <string name="settings_location_tile_action_change_location_mode">Promijeni način lokacije</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Promijeni vrijeme potrebno da uređaj prijeđe u stanje mirovanja</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Odobreno. The tile is allowed to take and store screenshot</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Odbijeno. The tile is not allowed to take and store screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
     <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
@@ -214,15 +214,15 @@
     <string name="settings_notification_settings_action_title">Settings action</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change ambient display</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change animations</string>
     <string name="settings_show_milliseconds">Show milliseconds</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
@@ -235,33 +235,33 @@
     <string name="settings_font_size_tile_font_scale_default">Default</string>
     <string name="settings_font_size_tile_font_scale_large">Large</string>
     <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change font size</string>
     <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change NFC state</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
     <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change data roaming</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Default density</string>
     <string name="settings_density_tile_current_density_title">Current density</string>
     <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change awake while plugged in</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change demo mode</string>
     <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Odobreno. The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odbijeno. The tile is not allowed to retrieve state dump information from system services</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change heads-up notifications</string>
     <!--power-->
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
@@ -274,42 +274,42 @@
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change vibrate on tap</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change touch sounds</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change and lock orientation</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change vibrate for calls</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to turn battery saver on and off</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change USB debugging</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change cellular data</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change cellular data</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change cellular data</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
     <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odbijeno. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Odobreno. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change monochromacy</string>
     <!--input method-->
     <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
@@ -317,6 +317,6 @@
     <string name="settings_contacts_tile_selected_contact">Selected contact</string>
     <string name="settings_contacts_tile_summary_empty">No contact selected</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change invert colors</string>
 </resources>

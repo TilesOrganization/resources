@@ -126,7 +126,7 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">Pokretanje/zaustavljanje usluge</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Zatvori ploču brzih postavkih i pokreni uslugu</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">Zatvori listu brzih postavki i pokreni uslugu</string>
     <string name="settings_screen_on_tile_action_start_service">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
     <string name="settings_screen_on_tile_running_service_notification_title">Obavijest o pokrenutoj usluzi</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">Prikaži trajnu obavijest dok je usluga pokrenuta</string>
@@ -136,9 +136,9 @@
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Nemoj reproducirati zvuk kada je usluga pokrenuta</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti kada se usluga pokrene</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibriraj</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriraj kada se usluga pokrene</string>
+    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_title">Vibriraj</string>
+    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
+    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_summary_on">Vibriraj kada se usluga pokrene</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Promijeni stanje sinkronizacije</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvori postavke sinkronizacije</string>
@@ -165,9 +165,9 @@
     <string name="settings_reminder_tile_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti prilikom dodavanja novog podsjetnika</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_off">Nemoj reproducirati zvuk prilikom dodavanja novog podsjetnika</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibriraj</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibriraj prilikom dodavanja novog podsjetnika</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Nemoj vibrirati prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_Vibriraj_title">Vibriraj</string>
+    <string name="settings_reminder_tile_notification_Vibriraj_summary_on">Vibriraj prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_Vibriraj_summary_off">Nemoj vibrirati prilikom dodavanja novog podsjetnika</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Stil vremenske oznake</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normalno</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Štoperica</string>
@@ -181,142 +181,142 @@
     <string name="settings_calendar_tile_action_add">Dodavanje događaja</string>
     <!--location mode-->
     <string name="settings_location_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način lokacije</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>r
     <string name="settings_location_tile_action_change_location_mode">Promijeni način lokacije</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Promijeni vrijeme potrebno da uređaj prijeđe u stanje mirovanja</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Odobreno. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Odbijeno. The tile is not allowed to take and store screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Dopuštenje za upotrebu pohrane</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Odobreno. Pločici je dopušteno kreirati i spremiti sliku zaslona</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Odbijeno. Pločici nije dopušteno kreirati i spremiti sliku zaslona</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Reproduciraj zvuk</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti prilikom snimanja novog snimka zaslona</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Nemoj reproducirati zvuk prilikom snimanja novog snimka zaslona</string>
+    <string name="settings_screenshot_tile_notification_Vibriraj_title">Vibriraj</string>
+    <string name="settings_screenshot_tile_notification_Vibriraj_summary_on">Vibriraj pri snimanju nove snimke zaslona</string>
+    <string name="settings_screenshot_tile_notification_Vibriraj_summary_off">Nemoj vibrirati pri snimanju nove snimke zaslona</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Zatvori listu brzih postavki i uslikaj zaslon</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Uslikaj zaslon bez zatvaranja liste brzih postavki</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Prikaži radnju za dijeljenje slike zaslona</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Sakrij radnju za dijeljenje slike zaslona</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Prikaži radnju za brisanje slike zaslona</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Sakrij radnju za brisanje slike zaslona</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">"Ne ometaj" način rada</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Samo alarmi</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Potpuna tišina</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Samo prioritet</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Prikaži dijaloški okvir</string>
+    <string name="settings_notification_share_action_title">Radnja "Podijeli"</string>
+    <string name="settings_notification_settings_action_title">Radnja "Postavke"</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">Dopuštenje za izmjenu sigurnosnih postavki</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način prikaza sučelja</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način prikaza sučelja</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Promijeni način prikaza sučelja</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti animacije</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti animacije</string>
+    <string name="settings_show_milliseconds">Prikaži milisekunde</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Dodaj alarm</string>
+    <string name="settings_alarm_tile_action_show_alarms">Prikaži alarm</string>
+    <string name="settings_date_format">Oblik datuma</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Oblik vremena</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Mali</string>
+    <string name="settings_font_size_tile_font_scale_default">Zadani</string>
+    <string name="settings_font_size_tile_font_scale_large">Veliki</string>
+    <string name="settings_font_size_tile_font_scale_largest">Najveći</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno mijenjanje veličine fonta</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno mijenjanje veličine fonta</string>
+    <string name="settings_font_size_tile_action_change_font_size">Promijeni veličinu fonta</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti stanje NFC-a</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti stanje NFC-a</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Promijeni stanje NFC-a</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Otvori NFC postavke</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti podatkovni roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti podatkovni roaming</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Zadana gustoća</string>
+    <string name="settings_density_tile_current_density_title">Trenutna gustoća</string>
+    <string name="settings_density_tile_restore_default_density_title">Vrati zadane gustoće</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja in</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Odobreno. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odbijeno. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Demo način rada</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Demo način rada</string>
+    <string name="settings_dump_permission_title">Dopuštenje za dohvaćanje i pohranu podataka</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Odobreno. Pločici je dozvoljeno dohvaćanje podataka iz servisa sustava</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odbijeno. Pločici nije dozvoljeno dohvaćanje podataka iz servisa sustava</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmjeniti plutajuće obavijesti</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmjeniti plutajuće obavijesti</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazivanje dijaloškog okvira sustava</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazivanje dijaloškog okvira sustava</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazati zaslon nedavno korištenih aplikacija</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazati zaslon nedavno korištenih aplikacija</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
-    <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Pristup opciji "Ne Ometaj"</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Dopušteno. Pločici je dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona.</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona</string>
+    <!--Vibriraj on tap-->
+    <string name="settings_Vibriraj_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibriranje na dodir.</string>
+    <string name="settings_Vibriraj_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibriranje na dodir</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti zvuk dodirivanja</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti zvuk dodirivanja</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change and lock orientation</string>
-    <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Promijenite i zaključajte orijentaciju</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti i zaključati orijentaciju</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti i zaključati orijentaciju</string>
+    <!--Vibriraj for calls-->
+    <string name="settings_Vibriraj_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibraciju za pozive</string>
+    <string name="settings_Vibriraj_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibraciju za pozive</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti štednju baterije</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno uključiti/isključiti štednju baterije</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti mobilne podatke</string>
+    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici nije dozvoljeno promijeniti mobilne podatke</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Promijeni stanje mobilnih podataka</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvoriti postavke mobilne mreže</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odbijeno. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Odobreno. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Odabrani prečac</string>
+    <string name="settings_shortcuts_tile_summary_empty">Nije odabran prečac</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dozvoljeno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Promijeni stanje Bluetootha</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Otvori postavke Bluetootha</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti monokromatske boje</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti monokromatske boje</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Prikaži alat za odabir unosa</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Otvorite postavke za unos</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Odabrani kontakt</string>
+    <string name="settings_contacts_tile_summary_empty">Nije odabran nijedan kontakt</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Odobreno. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odbijeno. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti inverziju boja</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti inverziju boja</string>
 </resources>

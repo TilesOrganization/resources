@@ -81,7 +81,7 @@
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
         <item quantity="one">%d aplikacija odabrana</item>
         <item quantity="other">%d aplikacija odabrano</item>
-        <item quantity="few">%d applications selected</item>
+        <item quantity="few">%d aplikacije odabrane</item>
     </plurals>
     <string name="settings_application_tile_selected_app">Odabrane aplikacije</string>
     <!-- applications list-->
@@ -253,7 +253,7 @@
     <string name="settings_density_tile_restore_default_density_title">Vrati zadane gustoće</string>
     <!--awake while plugged in-->
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Demo način rada</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Demo način rada</string>
@@ -264,8 +264,8 @@
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmjeniti plutajuće obavijesti</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmjeniti plutajuće obavijesti</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazivanje dijaloškog okvira sustava</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazivanje dijaloškog okvira sustava</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazivanje dijaloškog okvira napajanja sustava</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazivanje dijaloškog okvira napajanja sustava</string>
     <!--multi-window-->
     <string name="settings_multi_window_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>

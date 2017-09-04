@@ -299,6 +299,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare rete dati</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Cambia stato rete dati</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Apri impostazioni rete dati</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Apri impostazioni utilizzo dati</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Scorciatoia selezionata</string>
     <string name="settings_shortcuts_tile_summary_empty">Nessuna scorciatoia selezionata</string>

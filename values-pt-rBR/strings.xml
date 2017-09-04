@@ -277,6 +277,7 @@
     <string name="density_tile_density_xhigh">Extra Grande (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">Muito Grande (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">Enorme (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">Custom density</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Permanecer ativo ao carregar</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Para permitir que o bloco altere a reação ao estiver conectado, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
@@ -360,6 +361,8 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">Dados móveis</string>
     <string name="cellular_data_tile_alert_dialog_message">Para permitir que o bloco altere o estado dos dados móveis, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
+    <string name="cellular_data_tile_data_usage_label">Data usage</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -394,4 +397,8 @@
     <!--invert colors-->
     <string name="invert_colors_tile_label">Inverter cores</string>
     <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <!-- mono audio -->
+    <string name="mono_audio_tile_label">Áudio mono</string>
+    <!-- notification light -->
+    <string name="notification_light_tile_label">Notification light</string>
 </resources>

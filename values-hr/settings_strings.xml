@@ -94,7 +94,7 @@
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d aplikacija odabrano</string>
     <string name="settings_application_tile_application_list_show_summary_empty">Nije odabrana nijedna aplikacija</string>
     <string name="settings_application_tile_application_list_launch_title">Aplikacije za pokretanje</string>
-    <string name="settings_application_tile_loading_applications">Učitavanje aplikacija...</string>
+    <string name="settings_application_tile_loading_applications">Učitavanje aplikacija…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti razinu svjetline</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti razinu svjetline</string>
@@ -300,6 +300,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici nije dozvoljeno promijeniti mobilne podatke</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Promijeni stanje mobilnih podataka</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvoriti postavke mobilne mreže</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Odabrani prečac</string>
     <string name="settings_shortcuts_tile_summary_empty">Nije odabran prečac</string>

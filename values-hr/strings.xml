@@ -277,6 +277,7 @@
     <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">Custom density</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
@@ -360,6 +361,8 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">Cellular data</string>
     <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
+    <string name="cellular_data_tile_data_usage_label">Data usage</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -394,4 +397,8 @@
     <!--invert colors-->
     <string name="invert_colors_tile_label">Invert colors</string>
     <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <!-- mono audio -->
+    <string name="mono_audio_tile_label">Monoaudio</string>
+    <!-- notification light -->
+    <string name="notification_light_tile_label">Notification light</string>
 </resources>

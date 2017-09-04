@@ -299,6 +299,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更流動數據的使用狀態。</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更流動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開流動數據設定</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">已選取的捷徑</string>
     <string name="settings_shortcuts_tile_summary_empty">沒有選取任何捷徑</string>

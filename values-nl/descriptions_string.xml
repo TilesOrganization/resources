@@ -31,9 +31,11 @@
     <string name="description_lock_tile">Vergrendel het toestel veilig. Wanneer een vergrendelscherm (wachtwoord, PIN, patroon, …) is ingesteld, volg de verschafte procedure om het toestel te ontgrendelen. Apparaatbeheer moet zijn ingeschakeld.</string>
     <string name="description_maps_tile">Open Google\’s eigen Maps app, wanneer geïnstalleerd, laat de huidige locatie van het toestel zien. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_media_volume_tile">Verander de status van het dempen van volume van audio streams voor multimedia playback.</string>
+    <string name="description_mono_audio_tile">Kanalen combineren bij het afspelen van geluid.</string>
     <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat voegt support toe om meer dan één app tegelijk weer te geven; twee app kunnen naast elkaar of boven elkaar in split-screen modus worden weergegeven. De toegankelijkheid service moet zijn ingeschakeld.</string>
     <string name="description_nfc_tile">Schakel NFC aan of uit, of open NFC isntellingen. \Toestemming om beveiligde instellingen Turn NFC on or off, or open NFC settings. \nWrite secure settings permission is nodig om de NFC status te veranderen.</string>
+    <string name="description_notification_light_tile">Turn notification light on or off.</string>
     <string name="description_orientation_lock_tile">Zet de oriëntatie van het toestel vast: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Om de oriëntatie te veranderen of vast te zetten, moet de tegel automatisch draaien uitschakelen.\nToestemming om systeeminstellingen te wijzigen is nodig om de tegel te kunnen gebruiken.</string>
     <string name="description_power_tile">Laat een dialoog zien om uit te zetten, herstarten, herstart recovery, herstart bootloader. Om het power dialoog te laten zien, moet de toegankelijkheid service zijn ingeschakeld.</string>
     <string name="description_power_dialog_accessibility_tile">Laat Android power systeem dialoog zien om het toestel uit te zetten of te herstarten. De toegankelijkheid service moet zijn ingeschakeld.</string>

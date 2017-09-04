@@ -300,6 +300,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť mobilné dáta</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Zmeniť stav mobilných dát</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvoriť nastavenia mobilných dát</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Vybraný odkaz</string>
     <string name="settings_shortcuts_tile_summary_empty">Nie je vybraný žiadny odkaz</string>

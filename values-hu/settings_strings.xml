@@ -299,6 +299,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe be-/kikapcsolhatja a mobilnetet.</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Mobilnet be-/kikapcsolása</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Mobilhálózati beállítások megnyitása</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Kiválasztott parancsikon</string>
     <string name="settings_shortcuts_tile_summary_empty">Nincs kiválasztott parancsikon</string>

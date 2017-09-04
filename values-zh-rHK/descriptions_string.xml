@@ -31,9 +31,11 @@
     <string name="description_lock_tile">「鎖定屏幕」，如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">「地圖」，如有安裝「Google地圖」，快速設定磚將打開Google地圖並顯示當前位置。此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要授予位置存取的權限。</string>
     <string name="description_media_volume_tile">「媒體音量」，變更及調校媒體音量。</string>
+    <string name="description_mono_audio_tile">播放音訊時合併聲道</string>
     <string name="description_monochromacy_tile">「閱讀模式」，主要是透過模擬色彩空間至全色盲（黑白色）當作閱讀模式使用。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_multi_window_tile">「分屏模式」，Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的無障礙設定服務。</string>
     <string name="description_nfc_tile">「NFC」，提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
+    <string name="description_notification_light_tile">Turn notification light on or off.</string>
     <string name="description_orientation_lock_tile">「屏幕旋轉方向」，鎖定屏幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重啟Recovery」及「重啟Bootloader」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_power_dialog_accessibility_tile">「電源選單」，開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>

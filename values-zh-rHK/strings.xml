@@ -277,6 +277,7 @@
     <string name="density_tile_density_xhigh">高 (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">超高 (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">極高 (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">Custom density</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">充電時保持亮屏</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">要允許快速設定磚變更充電時保持亮屏的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
@@ -360,6 +361,8 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">流動數據</string>
     <string name="cellular_data_tile_alert_dialog_message">要允許快速設定磚變更流動數據的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
+    <string name="cellular_data_tile_data_usage_label">Data usage</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -394,4 +397,8 @@
     <!--invert colors-->
     <string name="invert_colors_tile_label">反轉顏色</string>
     <string name="invert_colors_tile_alert_dialog_message">要允許快速設定磚變更反轉顏色的使用狀態。 請前往設定並允許可寫入安全設定的權限。</string>
+    <!-- mono audio -->
+    <string name="mono_audio_tile_label">單聲道音訊</string>
+    <!-- notification light -->
+    <string name="notification_light_tile_label">Notification light</string>
 </resources>

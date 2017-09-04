@@ -84,7 +84,7 @@
     </plurals>
     <string name="settings_application_tile_selected_app">Odabrane aplikacije</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">Način prikaza
+    <string name="settings_application_tile_view_mode">Način prikaza</string>
     <string name="settings_application_tile_view_mode_list">Popis</string>
     <string name="settings_application_tile_view_mode_grid">Mreža</string>
     <string name="settings_application_tile_view_mode_grid_no_labels">Mreža bez oznake</string>
@@ -136,9 +136,9 @@
     <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Nemoj reproducirati zvuk kada je usluga pokrenuta</string>
     <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti kada se usluga pokrene</string>
-    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_title">Vibriraj</string>
-    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
-    <string name="settings_screen_on_tile_running_service_notification_Vibriraj_summary_on">Vibriraj kada se usluga pokrene</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
+    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriraj kada se usluga pokrene</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Promijeni stanje sinkronizacije</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvori postavke sinkronizacije</string>
@@ -165,9 +165,9 @@
     <string name="settings_reminder_tile_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti prilikom dodavanja novog podsjetnika</string>
     <string name="settings_reminder_tile_notification_play_sound_summary_off">Nemoj reproducirati zvuk prilikom dodavanja novog podsjetnika</string>
-    <string name="settings_reminder_tile_notification_Vibriraj_title">Vibriraj</string>
-    <string name="settings_reminder_tile_notification_Vibriraj_summary_on">Vibriraj prilikom dodavanja novog podsjetnika</string>
-    <string name="settings_reminder_tile_notification_Vibriraj_summary_off">Nemoj vibrirati prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibriraj prilikom dodavanja novog podsjetnika</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Nemoj vibrirati prilikom dodavanja novog podsjetnika</string>
     <string name="settings_reminder_tile_notification_timestamp_style">Stil vremenske oznake</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normalno</string>
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Štoperica</string>
@@ -194,9 +194,9 @@
     <string name="settings_screenshot_tile_notification_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti prilikom snimanja novog snimka zaslona</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">Nemoj reproducirati zvuk prilikom snimanja novog snimka zaslona</string>
-    <string name="settings_screenshot_tile_notification_Vibriraj_title">Vibriraj</string>
-    <string name="settings_screenshot_tile_notification_Vibriraj_summary_on">Vibriraj pri snimanju nove snimke zaslona</string>
-    <string name="settings_screenshot_tile_notification_Vibriraj_summary_off">Nemoj vibrirati pri snimanju nove snimke zaslona</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibriraj pri snimanju nove snimke zaslona</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Nemoj vibrirati pri snimanju nove snimke zaslona</string>
     <string name="settings_screenshot_tile_action_collapse_take_screenshot">Zatvori listu brzih postavki i uslikaj zaslon</string>
     <string name="settings_screenshot_tile_action_take_screenshot">Uslikaj zaslon bez zatvaranja liste brzih postavki</string>
     <string name="settings_screenshot_tile_notification_share_action_summary_on">Prikaži radnju za dijeljenje slike zaslona</string>
@@ -275,9 +275,9 @@
     <string name="settings_volumes_tile_do_not_disturb_access_title">Pristup opciji "Ne Ometaj"</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Dopušteno. Pločici je dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona.</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona</string>
-    <!--Vibriraj on tap-->
-    <string name="settings_Vibriraj_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibriranje na dodir.</string>
-    <string name="settings_Vibriraj_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibriranje na dodir</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibriranje na dodir.</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibriranje na dodir</string>
     <!--touch sounds-->
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti zvuk dodirivanja</string>
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti zvuk dodirivanja</string>
@@ -285,9 +285,9 @@
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">Promijenite i zaključajte orijentaciju</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti i zaključati orijentaciju</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti i zaključati orijentaciju</string>
-    <!--Vibriraj for calls-->
-    <string name="settings_Vibriraj_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibraciju za pozive</string>
-    <string name="settings_Vibriraj_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibraciju za pozive</string>
+    <!--vibrate for calls-->
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibraciju za pozive</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibraciju za pozive</string>
     <!--battery saver-->
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti štednju baterije</string>
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno uključiti/isključiti štednju baterije</string>

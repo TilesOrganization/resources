@@ -396,9 +396,9 @@
     <string name="contact_e_tile_label">Contato #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">Inverter cores</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_alert_dialog_message">Para permitir que o bloco altere a inversão de cores, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Áudio mono</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Luz de notificação</string>
 </resources>

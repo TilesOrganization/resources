@@ -320,4 +320,7 @@
     <!--invert colors-->
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已啟用。允許此快速設定動態磚反轉顏色。</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已停用。不允許此快速設定動態磚變反轉顏色。</string>
+    <!--storage-->
+    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
+    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
 </resources>

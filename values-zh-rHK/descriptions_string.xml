@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">「示範模式」，允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些屏幕截圖或演示需要。\n使用此快速設定磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">[顯示大小」，允許快速變更裝置屏幕的顯示大小。</string>
     <string name="description_email_tile">「電子郵件」，提供「發送電郵到指定聯絡人」及「開啟電郵應用程式」兩個功能。 此快速設定磚亦能支援其他第三方電郵應用程式。</string>
-    <string name="description_files_tile">「檔案管理器」，允許快速開啟原生Android系統內置的檔案管理器。</string>
     <string name="description_font_size_tile">「字型大小」，允許快速變更裝置的字型大小。.\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_heads_up_notifications_tile">「浮動通知」，部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在屏幕上方以「浮動通知」形式顯示滑入通知，此快速設定磚可讓你開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_immersive_mode_tile">「全屏模式」，允許快速開啟或關閉全屏模式、隱藏或顯示狀態列、導覽列。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">「休眠」，讓裝置休眠。</string>
     <string name="description_sleep_time_tile">「休眠資訊」，查看裝置的休眠時間、對應的電量及充電狀態。</string>
     <string name="description_sleep_timeout_tile">「休眠時限」，變更裝置屏幕的休眠時限。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
+    <string name="description_storage_tile">Open storage settings or 「檔案管理器」，允許快速開啟原生Android系統內置的檔案管理器。</string>
     <string name="description_street_view_tile">「街景」，開啟「Google街景」應用程並顯示目前位置此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用，詳情可參閱</string>
     <string name="description_sync_tile">「同步」，提供「開啟或關閉同步」及「開啟同步設定版面」。</string>
     <string name="description_text_tile">「文本分享」，開啟一個視窗方塊允許你輸入、複製貼上文字並進行快速分享至其他應用程式。</string>

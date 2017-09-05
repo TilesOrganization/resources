@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">Geen alarm ingesteld</string>
-    <!--files-->
-    <string name="files_tile_label">Bestanden</string>
+    <!--storage-->
+    <string name="storage_tile_label">Opslagruimte</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Instellingen snelkoppeling</string>
     <string name="settings_shortcut_tile_action_accessibility">Toegankelijkheid</string>

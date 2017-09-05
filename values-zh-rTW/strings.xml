@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">鬧鐘</string>
     <string name="alarm_tile_no_alarm_set">沒有設定鬧鐘</string>
-    <!--files-->
-    <string name="files_tile_label">檔案管理器</string>
+    <!--storage-->
+    <string name="storage_tile_label">儲存空間</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">設定捷徑</string>
     <string name="settings_shortcut_tile_action_accessibility">協助工具</string>

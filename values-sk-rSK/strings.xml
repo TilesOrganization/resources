@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Budík</string>
     <string name="alarm_tile_no_alarm_set">Budík nie je nastavený</string>
-    <!--files-->
-    <string name="files_tile_label">Súbory</string>
+    <!--storage-->
+    <string name="storage_tile_label">Úložisko</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Odkaz na nastavenia</string>
     <string name="settings_shortcut_tile_action_accessibility">Dostupnosť</string>

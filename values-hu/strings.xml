@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Riasztás</string>
     <string name="alarm_tile_no_alarm_set">Nincs beállított riasztás</string>
-    <!--files-->
-    <string name="files_tile_label">Fájlok</string>
+    <!--storage-->
+    <string name="storage_tile_label">Tárhely</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Beállítások parancsikon</string>
     <string name="settings_shortcut_tile_action_accessibility">Kisegítő lehetőségek</string>

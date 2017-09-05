@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">Startet den Android Demo-Modus. Der Demo-Modus erlaubt dem Smartphone die Status-Bar in einen fixen Zustand zu versetzen, sinnvoll zum Erstellen von Screenshot\'s mit einer konsistenten Status-Bar oder zum Testen verschiedenster Status-Icon Permutationen.\nDas Schreibrecht für abgesicherte Einstellungen und das Recht für einen Speicherauszug werden für diese Kachel benötigt.</string>
     <string name="description_density_tile">Ändert die Anzeigegröße des Bildschirms.</string>
     <string name="description_email_tile">Wählt einen Kontakt für das Schreiben einer Email aus oder startet die Email-App. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Verfassen und Senden von Emails entgegen nehmen können.</string>
-    <string name="description_files_tile">Startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
     <string name="description_font_size_tile">Ändert die Schriftgröße des Smartphones.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_heads_up_notifications_tile">Manche Benachrichtigungen erscheinen als schwebende Fenster, wenn das Smartphone aktiviert ist. Deaktiviert diese um Störungen zu vermeiden; besonders hilfreich während man ein Video anschaut oder ein Spiel spielt.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
     <string name="description_immersive_mode_tile">Versteckt die Status-Bar, die Navigations-Bar oder beide für ein komplettes Vollbild.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand.</string>
     <string name="description_sleep_time_tile">Schau dir die Dauer der Ruhezeiten des Smartphones an, mit Details über die Batterie und den Ladezustand.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
+    <string name="description_storage_tile">Open storage settings or Startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
     <string name="description_street_view_tile">Startet Google\'s firmeneigene Street View App, sofern installiert, und zeigt den aktuellen Standort des Smartphones an. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>
     <string name="description_sync_tile">Ändert den Synchronisationsstatus oder öffnet die Synchronisationseinstellungen.</string>
     <string name="description_text_tile">Öffnet einen Dialog um etwas hineinzuschreiben, zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern, welche einen geteilten Text entgegen nehmen können.</string>

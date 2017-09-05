@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">Entre no modo de demonstração do Android. O modo de demonstração permite com que o dispositivo force a barra de status em um estado fixo, útil para realizar capturas de tela com uma de barra de status limpa ou simular ações que normalmente utilizam um ícone na barra de status para alertar o que está ocorrendo.\nA permissão de modificar as configurações de segurança e a permissão dump são necessárias para usar esse bloco.</string>
     <string name="description_density_tile">Alterar a densidade da tela.</string>
     <string name="description_email_tile">Escolha um contato para enviar e-mail ou abrir o aplicativo de e-mail rapidamente. A ação é compatível com aplicativos de terceiros que podem receber a transmissão padrão do Android para compor e enviar e-mails.</string>
-    <string name="description_files_tile">Inicia o gerenciador de arquivos interno do Android para explorar o armazenamento do dispositivo.</string>
     <string name="description_font_size_tile">Altera o tamanho da fonte que o dispositivo exibe.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_heads_up_notifications_tile">Algumas notificações podem aparecer em uma pequena janela flutuante quando o dispositivo está ativo. Desligue-o para evitar distúrbios; Extremamente útil para assistir a algum vídeo ou jogar um jogo.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
     <string name="description_immersive_mode_tile">Esconda a barra de status, a barra de navegação ou ambas para uma interface do sistema totalmente imersiva.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">Coloque o dispositivo para dormir.</string>
     <string name="description_sleep_time_tile">Dê uma olhada no tempo que o dispositivo gastou para dormir, com detalhes sobre a capacidade da bateria e o estado de carga.</string>
     <string name="description_sleep_timeout_tile">Altere o tempo necessário para o dispositivo entre em modo de inatividade quando estiver inativo.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
+    <string name="description_storage_tile">Open storage settings or Inicia o gerenciador de arquivos interno do Android para explorar o armazenamento do dispositivo.</string>
     <string name="description_street_view_tile">Inicie o aplicativo Google Street View, se instalado, mostrando a localização atual do dispositivo. Esse bloco faz uso da API Google Awareness.\nA permissão de localização é necessária para usar esse bloco.</string>
     <string name="description_sync_tile">Ativa e desativa a sincronização ou abrir as configurações do mesmo.</string>
     <string name="description_text_tile">Abre uma caixa de diálogo para escrever qualquer coisa, copiar, compartilhar ou salvar com aplicativos de terceiros que podem receber a transmissão padrão do Android para compartilhar texto.</string>

@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">No alarm set</string>
-    <!--files-->
-    <string name="files_tile_label">Files</string>
+    <!--storage-->
+    <string name="storage_tile_label">ストレージ\"</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Settings shortcut</string>
     <string name="settings_shortcut_tile_action_accessibility">Accessibility</string>

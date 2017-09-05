@@ -320,4 +320,7 @@
     <!--invert colors-->
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare inverti colori</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare inverti colori</string>
+    <!--storage-->
+    <string name="settings_storage_tile_action_open_storage_settings">Apri impostazioni spazio di archiviazione</string>
+    <string name="settings_storage_tile_action_open_file_manager">Apri file manager</string>
 </resources>

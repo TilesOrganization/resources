@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">Nema alarma</string>
-    <!--files-->
-    <string name="files_tile_label">Datoteke</string>
+    <!--storage-->
+    <string name="storage_tile_label">Pohranjivanje</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Prečac postavki</string>
     <string name="settings_shortcut_tile_action_accessibility">Pristupačnost</string>

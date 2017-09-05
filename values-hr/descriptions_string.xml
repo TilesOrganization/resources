@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">Uključite Android Demo način rada. Demo način rada dopušta da uređaj prisili statusnu traku u fiksno stanje, korisno za spremanje snimaka zaslona sa konzistentnim stanjem statusne trake ili testiranje različitih permutacija ikona statusa.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki te dozvolu za upotrebu pohrane kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_density_tile">Promijenite gustoću zaslona.</string>
     <string name="description_email_tile">Odaberite kontakt za brzo slanje e-pošte ili da biste pokrenuli aplikaciju za e-poštu. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi sastavljanja i slanja e-pošte.</string>
-    <string name="description_files_tile">Pokrenite ugrađeni upravitelj datoteka Androida kako biste istražili pohranu uređaja.</string>
     <string name="description_font_size_tile">Promijenite veličinu fonta koju uređaj pokazuje.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_heads_up_notifications_tile">Neke se obavijesti mogu pojaviti u malom plutajućem prozoru kada je uređaj aktivan. Isključite ih kako biste izbjegli smetnje; posebno korisno prilikom gledanja videozapisa ili igranja igre.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_immersive_mode_tile">Sakrij traku stanja, navigacijsku traku ili oboje za sučelje preko cijelog zaslona.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">Stavite uređaj u stanje mirovanja.</string>
     <string name="description_sleep_time_tile">Pogledajte vrijeme koliko je uređaj proveo u stanju mirovanja, sa pojedinostima o kapacitetu baterije i stanju punjenja.</string>
     <string name="description_sleep_timeout_tile">Izmijenite koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja ukoliko je inaktivan.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
+    <string name="description_storage_tile">Open storage settings or Pokrenite ugrađeni upravitelj datoteka Androida kako biste istražili pohranu uređaja.</string>
     <string name="description_street_view_tile">Pokrenite Googleovu aplikaciju Street View, ako je instalirana, koja prikazuje trenutačnu lokaciju uređaja. Ova pločica upotrebljava Google Awareness API.\nZa upotrebu ove pločice potrebna su dopuštenja lokacije.</string>
     <string name="description_sync_tile">Uključivanje ili isključivanje sinkronizacije ili otvaranje postavki sinkronizacije.</string>
     <string name="description_text_tile">Otvorite dijaloški okvir za pisanje, kopiranje, dijeljenje ili spremanje s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi dijeljenja teksta.</string>

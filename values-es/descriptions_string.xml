@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission and dump permission are required to use this tile.</string>
     <string name="description_density_tile">Change the density of the screen.</string>
     <string name="description_email_tile">Choose a contact to quickly email or launch the email app. The action is compatible with third-party apps that can receive the Android default broadcast to compose and send emails.</string>
-    <string name="description_files_tile">Launch Android\'s built-in file manager to explore the storage of the device.</string>
     <string name="description_font_size_tile">Change the font size the device shows.\nModify system settings permission is required to use this tile.</string>
     <string name="description_heads_up_notifications_tile">Some notifications may appear in a small floating window when the device is active. Turn it off to avoid disturbances; especially helpful for when watching a video or playing a game.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_immersive_mode_tile">Hide the status bar, the navigation bar or both for a truly full screen interface system wide.\nWrite secure settings permission is required to use this tile.</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">Put the device to sleep.</string>
     <string name="description_sleep_time_tile">Take a look at the time the device has spent sleeping, with details about the capacity of the battery and the charging state.</string>
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings is required to use this tile.</string>
+    <string name="description_storage_tile">Open storage settings or launch Android\'s built-in file manager to explore the storage of the device.</string>
     <string name="description_street_view_tile">Launch Google\'s proprietary Street View app, if installed, showing the current location of the device. This tile makes use of the Google Awareness API.\nLocation permissionis required to use this tile.</string>
     <string name="description_sync_tile">Turn sync on or off, or open sync settings.</string>
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>

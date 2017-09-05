@@ -219,8 +219,8 @@
     <!--alarm-->
     <string name="alarm_tile_label">Alarme</string>
     <string name="alarm_tile_no_alarm_set">Nenhum alarme definido</string>
-    <!--files-->
-    <string name="files_tile_label">Ficheiros</string>
+    <!--storage-->
+    <string name="storage_tile_label">Armazenamento</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Definições</string>
     <string name="settings_shortcut_tile_action_accessibility">Acessibilidade</string>

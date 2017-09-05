@@ -20,7 +20,6 @@
     <string name="description_demo_mode_tile">Ga de Android Demo modus in. Demo modus staat een toestel toe om de statusbalk in een bepaalde status te forceren, handig om schermafbeeldingen te maken met een consequente statusbalk status of om verschillende statusbalk iconen te verwisselen.\nToestemming om beveiligde instellingen te overschrijven en dump toestemming zijn nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_density_tile">Verander de dichtheid van het scherm.</string>
     <string name="description_email_tile">Kies een contact om snel te emailen of om de email app te openen. Deze actie kan gebruikt worden door apps van derden die de standaard Android broadcast kunnen ontvangen om emails op te stellen en te verzenden</string>
-    <string name="description_files_tile">Op Android’\s ingebouwde bestandsbeheer om de opslagruimte van het toestel te verkennen.</string>
     <string name="description_font_size_tile">Verander de lettergrootte die het toestel weergeeft. \nToestemming om systeeminstellingen te wijzigen is nodig om de tegel te kunnen gebruiken.</string>
     <string name="description_heads_up_notifications_tile">Sommige notificaties zouden kunnen verschijnen als een zwevend scherm wanneer het toestel actief is. Uitzetten om stoornissen te voorkomen; vooral handig wanneer er een video afgespeeld wordt of een spel gespeeld wordt. n\Toestemming om beveiligde instellingen te overschrijven is nodig om de tegel te kunnen gebruiken.</string>
     <string name="description_immersive_mode_tile">Verberg de statusbalk, de navigatiebalk of beide voor een echt volledig scherm interface voor het hele systeem. \nToestemming om beveiligde instellingen te overschrijven is nodig om de tegel te kunnen gebruiken.</string>
@@ -49,6 +48,7 @@
     <string name="description_sleep_tile">Zet het toestel in slaapstand.</string>
     <string name="description_sleep_time_tile">Neem een kijkje hoe lang het toestel in slaapstand heeft gestaan, met details over capaciteit van de accu en de status van het opladen.</string>
     <string name="description_sleep_timeout_tile">Verander de duur voordat het toestel in slaapstand gaat wanneer deze inactief is.\nToestemming om systeem instellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_storage_tile">Open storage settings or Op Android’\s ingebouwde bestandsbeheer om de opslagruimte van het toestel te verkennen.</string>
     <string name="description_street_view_tile">Open Google’s eigen Street View app, wanneer deze geïnstalleerd is, laat deze de huidige locatie zien van het toestel. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_sync_tile">Schakel synchroniseren in of uit, of open synchronisatie instellingen.</string>
     <string name="description_text_tile">Open een dialoog om iets op te schrijven, te kopiëren, te delen, of op te slaan met een app van derden die de standaard Android broadcast kunnen ontvangen om tekst te delen.</string>

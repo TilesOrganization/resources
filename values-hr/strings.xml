@@ -174,7 +174,7 @@
     <string name="location_tile_label_high_accuracy">Visoka preciznost</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Sigurne postavke sustava sadrže postavke sustava koje aplikacije mogu čitati, ali im nije dopušteno mijenjati ih. Dozvole s ovom razinom zaštite odobrene su samo aplikacijama sustava. Redovna aplikacija nikada neće moći upotrebljavati ta dopuštenja.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Pločicama je dodijeljena superuser dozvola za interaktivnu ljusku. Želite li programatički dozvolu za izmjenu sigurnih postavki sustava koristeći superuser interaktivnu ljusku?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Pločicama je dodijeljena superuser dozvola za interaktivnu ljusku. Želite li programatički %s dozvolu za izmjenu sigurnih postavki sustava koristeći superuser interaktivnu ljusku?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Da biste ručno dozvolili %1$s dopuštenje, povežite uređaj s računalom i pokrenite sljedeću adb naredbu: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">Dodijeli</string>
     <string name="permission_dialog_message_revoke">Opozovi</string>
@@ -283,7 +283,7 @@
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Da biste dopustili pločici promjenu stanja uređaja dok je priključen na izvor napajanja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Omogućava aplikaciji dohvaćanje podataka iz servisa sustava. Dozvole s ovom razinom zaštite odobrene su samo aplikacijama sustava. Redovna aplikacija nikada neće moći upotrebljavati ta dopuštenja.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Pločicama je dodijeljena superuser dozvola za interaktivnu ljusku. Želite li programatički dozvolu za dohvaćanje podataka iz servisa sustava koristeći superuser interaktivnu ljusku?</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Pločicama je dodijeljena superuser dozvola za interaktivnu ljusku. Želite li programatički %s dozvolu za dohvaćanje podataka iz servisa sustava koristeći superuser interaktivnu ljusku?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">Da biste ručno dozvolili %1$s dopuštenje, povežite uređaj s računalom i pokrenite sljedeću adb naredbu: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Demo način rada</string>

@@ -322,6 +322,6 @@
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže invertovať farby</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže invertovať farby</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Otvoriť nastavenia úložiska</string>
+    <string name="settings_storage_tile_action_open_file_manager">Otvoriť správcu súborov</string>
 </resources>

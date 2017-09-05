@@ -321,6 +321,6 @@
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許反轉顏色。</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止反轉顏色。</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">開啟儲存空間設置</string>
+    <string name="settings_storage_tile_action_open_file_manager">開啟檔案管理器</string>
 </resources>

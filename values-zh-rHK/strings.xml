@@ -384,7 +384,7 @@
     <string name="monochromacy_tile_label">閱讀模式</string>
     <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!-- input method -->
-    <string name="input_method_tile_label">鍵盤</string>
+    <string name="input_method_tile_label">鍵盤和輸入法</string>
     <!--contacts-->
     <string name="contacts_tile_label">聯絡人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">沒有選取任何聯絡人，請前往設定及選取聯絡人。</string>
@@ -400,5 +400,5 @@
     <!-- mono audio -->
     <string name="mono_audio_tile_label">單聲道音訊</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">通知燈</string>
 </resources>

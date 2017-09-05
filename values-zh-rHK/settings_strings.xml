@@ -126,8 +126,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_on">音效模式為正常時，播放系統預設音效</string>
     <!--screen on-->
     <string name="settings_screen_on_tile_action_start_stop_service">開始/停止服務</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_screen_on_tile_action_collapse_start_service">關閉快速設定面版並開始服務</string>
+    <string name="settings_screen_on_tile_action_start_service">不關閉快速設定面版並開始服務</string>
     <string name="settings_screen_on_tile_running_service_notification_title">服務運行通知</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_on">服務正在運行時，顯示固定式通知</string>
     <string name="settings_screen_on_tile_running_service_notification_summary_off">隱藏通知</string>
@@ -143,8 +143,8 @@
     <string name="settings_sync_tile_action_change_sync">變更同步狀態</string>
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">開啟計時器</string>
+    <string name="settings_timer_tile_action_start_timer">開始計時</string>
     <string name="settings_timer_tile_skip_ui_title">跳過界面</string>
     <string name="settings_timer_tile_skip_ui_summary_on">直接跳過所有確認界面並立即開始們倒數計時</string>
     <string name="settings_timer_tile_skip_ui_summary_off">開始倒數計時前顯示確認界面</string>
@@ -299,7 +299,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更流動數據的使用狀態。</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更流動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開流動數據設定</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">打開數據用量設定</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">已選取的捷徑</string>
     <string name="settings_shortcuts_tile_summary_empty">沒有選取任何捷徑</string>
@@ -312,8 +312,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許模擬色彩空間至閱讀模式(黑白)。</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止模擬色彩空間至閱讀模式(黑白)。</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">顯示鍵盤選取清單</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">開啟鍵盤告輸入方法設定</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">顯示鍵盤及輸入法選取清單</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">開啟鍵盤及輸入法設定</string>
     <!--contacts-->
     <string name="settings_contacts_tile_selected_contact">已選取聯絡人</string>
     <string name="settings_contacts_tile_summary_empty">沒有選取聯絡人</string>

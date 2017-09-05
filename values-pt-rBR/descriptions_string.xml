@@ -48,7 +48,7 @@
     <string name="description_sleep_tile">Coloque o dispositivo para dormir.</string>
     <string name="description_sleep_time_tile">Dê uma olhada no tempo que o dispositivo gastou para dormir, com detalhes sobre a capacidade da bateria e o estado de carga.</string>
     <string name="description_sleep_timeout_tile">Altere o tempo necessário para o dispositivo entre em modo de inatividade quando estiver inativo.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
-    <string name="description_storage_tile">Open storage settings or Inicia o gerenciador de arquivos interno do Android para explorar o armazenamento do dispositivo.</string>
+    <string name="description_storage_tile">Abre as configurações de armazenamento ou inicia o gerenciador de arquivos interno do Android para explorar o armazenamento do dispositivo.</string>
     <string name="description_street_view_tile">Inicie o aplicativo Google Street View, se instalado, mostrando a localização atual do dispositivo. Esse bloco faz uso da API Google Awareness.\nA permissão de localização é necessária para usar esse bloco.</string>
     <string name="description_sync_tile">Ativa e desativa a sincronização ou abrir as configurações do mesmo.</string>
     <string name="description_text_tile">Abre uma caixa de diálogo para escrever qualquer coisa, copiar, compartilhar ou salvar com aplicativos de terceiros que podem receber a transmissão padrão do Android para compartilhar texto.</string>

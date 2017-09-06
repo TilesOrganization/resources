@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Что-то пошло не так. Пожалуйста, попробуйте еще раз</string>
-    <string name="location_off_alert_dialog_message">Определение местоположения отключено. Чтобы дать плитке доступ к получению текущего местоположения, пожалуйста откройте настройки и дайте приложению соответствующий доступ.</string>
-    <string name="location_device_only_alert_dialog_message">Статус местоположения - Только устройство. Для более быстрого и точного результата, пожалуйста откройте настройки и выберите другой режим.</string>
+    <string name="location_off_alert_dialog_message">Определение местоположения отключено. Чтобы дать плитке доступ к получению текущего местоположения, пожалуйста, откройте настройки и дайте приложению соответствующий доступ.</string>
+    <string name="location_device_only_alert_dialog_message">Статус местоположения - Только устройство. Для более быстрого и точного результата, пожалуйста, откройте настройки и выберите другой режим.</string>
     <string name="resolve_activity_alert_dialog_message">Нет приложений, которые могли бы выполнить данное действие.</string>
     <string name="su_alert_dialog_message">Для выполнения этого действия, пожалуйста дайте приложению права суперпользователя для интерактивного доступа через терминал.</string>
-    <string name="play_services_alert_dialog_message">Сервисы Google Play должны быть установлены для выполнения этого действия. Пожалуйста установите их и попробуйте еще раз.</string>
+    <string name="play_services_alert_dialog_message">Сервисы Google Play должны быть установлены для выполнения этого действия. Пожалуйста, установите их и попробуйте еще раз.</string>
     <string name="high">Высокий</string>
     <string name="medium">Средний</string>
     <string name="low">Низкий</string>
@@ -23,10 +23,10 @@
     <string name="accessibility_service_description">Сервис спец. возможностей позволит Tiles выполнять глобальные действия: показывать диалог выключения, недавние приложения, сменять мультиоконный режим.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста, откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
     <!--applications list-->
     <string name="applications_list_tile_label">Приложения</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Нет выбранных приложений, пожалуйста откройте настройки и выберите хотя бы одно.</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Нет выбранных приложений, пожалуйста, откройте настройки и выберите хотя бы одно.</string>
     <!--application-->
     <string name="application_a_tile_label">Приложение #1</string>
     <string name="application_b_tile_label">Приложение #2</string>
@@ -34,7 +34,7 @@
     <string name="application_d_tile_label">Приложение #4</string>
     <string name="application_e_tile_label">Приложение #5</string>
     <string name="application_tile_label">Приложение</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">Приложение не выбрано, пожалуйста откройте настройки и выберите приложение.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Приложение не выбрано, пожалуйста, откройте настройки и выберите приложение.</string>
     <string name="application_info_dialog_message">Для быстрого запуска, пожалуйста выберите только одно приложение.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Яркость</string>
@@ -44,7 +44,7 @@
     <string name="brightness_tile_label_formatted_low">Низкая: %1$d%%</string>
     <string name="brightness_tile_formatted_label_one_param">Яркость: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Яркость не задана</string>
-    <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
+    <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста, откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
     <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Адаптивная регулировка&lt;/b> is on</string>
     <string name="brightness_tile_dialog_formatted_current_brightness">Текущая яркость экрана: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
@@ -53,8 +53,8 @@
     <string name="calendar_tile_label">Календарь</string>
     <!--call-->
     <string name="call_tile_label">Вызов</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">Чтобы позволить плитке инициировать телефонный вызов, пожалуйста откройте настройки и дайте приложению доступ к телефонным звонкам.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">Не указан контакт для вызова, пожалуйста откройте настройки и выберите контакт. Или выберите другое действие.</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Чтобы позволить плитке инициировать телефонный вызов, пожалуйста, откройте настройки и дайте приложению доступ к телефонным звонкам.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Не указан контакт для вызова, пожалуйста, откройте настройки и выберите контакт. Или выберите другое действие.</string>
     <string name="call_tile_formatted_label">Вызов %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
     <string name="choose_contact">Выберите контакт</string>
@@ -64,24 +64,24 @@
     <!--email -->
     <string name="email_tile_label">Почта</string>
     <string name="email_tile_formatted_label">Написать %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">Не указан почтовый адресат, пожалуйста откройте настройки и выберите адресата. Или выберите другое действие.</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Не указан почтовый адресат, пожалуйста, откройте настройки и выберите адресата. Или выберите другое действие.</string>
     <!--lock-->
     <string name="lock_tile_label">Блокировка</string>
     <string name="lock_tile_device_admin_description">Позволить плитке блокировать устройство</string>
     <string name="lock_tile_device_admin_activated">Администратор устройства активирован</string>
     <string name="lock_tile_device_admin_deactivated">Администратор устройства деактивирован</string>
     <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Если деактивировать, плитка не сможет блокировать устройство.</string>
-    <string name="lock_tile_alert_dialog_message">Чтобы позволить плитке блокировать устройство, пожалуйста откройте настройки и активируйте приложение как администратора устройства.</string>
+    <string name="lock_tile_alert_dialog_message">Чтобы позволить плитке блокировать устройство, пожалуйста, откройте настройки и активируйте приложение как администратора устройства.</string>
     <string name="lock_tile_add_device_admin_extra_app_text">Если активировать, плитка сможет блокировать устройство.</string>
     <!--map-->
     <string name="maps_tile_label">Карты</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_service_description">Сервис для наблюдения за состоянием NFC, будет остановлен при удалении плитки. Остановка без удаления может сделать плитку неработоспособной.</string>
-    <string name="nfc_tile_alert_dialog_message">Чтобы позволить плитке переключать NFC, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="nfc_tile_alert_dialog_message">Чтобы позволить плитке переключать NFC, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">Диалог выключения</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">Чтобы позволить плитке показывать системный диалог выключения, пожалуйста откройте настройки и включите сервис спец. возможностей.</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Чтобы позволить плитке показывать системный диалог выключения, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <string name="power_tile_action_system_power_dialog">Системный диалог выключения</string>
     <string name="power_tile_action_power_dialog">Диалог выключения</string>
     <string name="power_tile_label">Выключение</string>
@@ -95,7 +95,7 @@
     <string name="ringer_mode_tile_label_normal">Обычный</string>
     <string name="ringer_mode_tile_label_silent">Тихий</string>
     <string name="ringer_mode_tile_label_vibrate">Вибрация</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста, откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
     <!--screen on-->
     <string name="screen_on_tile_label">Режим бодрствования</string>
     <string name="screen_on_tile_dialog_wake_lock_running">Сервис режима бодрствования включен.\Остановить сервис?</string>
@@ -105,7 +105,7 @@
     <string name="screen_on_tile_service_notification_sub_text">Сервис режима бодрствования</string>
     <!--streetview-->
     <string name="streetview_tile_label">Просмотр улиц</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать текущее местоположение, пожалуйста откройте настройки и разрешите доступ к определению местоположения.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать текущее местоположение, пожалуйста, откройте настройки и разрешите доступ к определению местоположения.</string>
     <!--sync-->
     <string name="sync_tile_label">Синхронизация</string>
     <!--timer-->
@@ -113,7 +113,7 @@
     <string name="timer_formatted_label">Таймер\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Погода</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать погоду, пожалуйста откройте настройки и разрешите доступ к определению местоположения.</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать погоду, пожалуйста, откройте настройки и разрешите доступ к определению местоположения.</string>
     <string name="weather_tile_getting_weather_conditions_dialog_message">Получаю погодные условия. Пожалуйста, подождите.</string>
     <string name="weather_formatted_temperature_celsius">Температура: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Температура: &lt;b>%1$.1f&lt;/b> \u2109</string>
@@ -157,7 +157,7 @@
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Время бодрствования</string>
     <string name="sleep_timeout_tile_formatted_label">Сон через\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Чтобы позволить плитке менять время бодрствования, пожалуйста откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Чтобы позволить плитке менять время бодрствования, пожалуйста, откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
     <string name="sleep_timeout_tile_value_15000">15 секунд</string>
     <string name="sleep_timeout_tile_value_30000">30 секунд</string>
     <string name="sleep_timeout_tile_value_60000">1 минута</string>
@@ -167,7 +167,7 @@
     <string name="sleep_timeout_tile_value_1800000">30 минут</string>
     <!--location mode-->
     <string name="location_tile_label">Местоположение</string>
-    <string name="location_tile_alert_dialog_message">Чтобы позволить плитке менять режим определения местоположения, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="location_tile_alert_dialog_message">Чтобы позволить плитке менять режим определения местоположения, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <string name="location_tile_label_off">Местоположение выключено</string>
     <string name="location_tile_label_battery_saving">По координатам сети</string>
     <string name="location_tile_label_sensors_only">По спутникам GPS</string>
@@ -186,7 +186,7 @@
     <string name="sleep_tile_label">Сон</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Скриншот</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Чтобы позволить плитке сделать и сохранить скриншот, пожалуйста откройте настройки и дайте доступ к записи в хранилище устройства.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Чтобы позволить плитке сделать и сохранить скриншот, пожалуйста, откройте настройки и дайте доступ к записи в хранилище устройства.</string>
     <string name="screenshot_tile_screenshot_captured">Скриншот сделан.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Нажмите, чтобы посмотреть скриншот.</string>
     <!--immersive mode-->
@@ -195,10 +195,10 @@
     <string name="immersive_mode_tile_hide_system_bars">Спрятать системные панели</string>
     <string name="immersive_mode_tile_hide_navigation_bar">Спрятать панель навигации</string>
     <string name="immersive_mode_tile_hide_status_bar">Спрятать панель уведомлений</string>
-    <string name="immersive_mode_tile_alert_dialog_message">Чтобы позволить плитке переключать полноэкранный режим, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Чтобы позволить плитке переключать полноэкранный режим, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Пробуждение экрана</string>
-    <string name="ambient_display_tile_alert_dialog_message">Чтобы позволить плитке менять режим пробуждения экрана, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="ambient_display_tile_alert_dialog_message">Чтобы позволить плитке менять режим пробуждения экрана, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--animations-->
     <string name="animations_tile_label">Анимации</string>
     <string name="animations_tile_label_animator">Аниматор</string>
@@ -206,7 +206,7 @@
     <string name="animations_tile_label_window">Окно</string>
     <string name="animations_tile_label_dialog_check_box_off_label">Анимация выключена</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Длительность анимации %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке менять анимации, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке менять анимации, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--sleep time -->
     <string name="sleep_time_tile_label">Время засыпания</string>
     <string name="sleep_time_tile_awake">Пробуждение</string>
@@ -220,7 +220,7 @@
     <string name="alarm_tile_label">Будильник</string>
     <string name="alarm_tile_no_alarm_set">Будильник не установлен</string>
     <!--storage-->
-    <string name="storage_tile_label">Хранилище</string>
+    <string name="storage_tile_label">Хранилище данных</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Настройки</string>
     <string name="settings_shortcut_tile_action_accessibility">Спец. возможности</string>
@@ -256,7 +256,7 @@
     <string name="settings_shortcut_tile_action_wireless">Беспроводные сети</string>
     <!--font size-->
     <string name="font_size_tile_label">Размер шрифта</string>
-    <string name="font_size_tile_alert_dialog_message">Чтобы позволить плитке менять размер шрифта, пожалуйста откройте настройки и дайте доступ к изменению системных настроек.</string>
+    <string name="font_size_tile_alert_dialog_message">Чтобы позволить плитке менять размер шрифта, пожалуйста, откройте настройки и дайте доступ к изменению системных настроек.</string>
     <!--voice-->
     <string name="voice_tile_label">Голос</string>
     <!--text-->
@@ -264,7 +264,7 @@
     <string name="text_tile_empty_chat_text_field">Текст не добавлен, пожалуйста введите содержимое.</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">Роуминг</string>
-    <string name="data_roaming_tile_alert_dialog_message">Чтобы позволить плитке менять режим роуминга, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="data_roaming_tile_alert_dialog_message">Чтобы позволить плитке менять режим роуминга, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--density-->
     <string name="density_tile_label">Масштаб</string>
     <string name="density_tile_label_formatted">Масштаб: %ddp</string>
@@ -277,17 +277,17 @@
     <string name="density_tile_density_xhigh">XВысокий (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">XXВысокий (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">XXXВысокий (xxxhdpi): ~640dpi</string>
-    <string name="density_tile_density_custom">Custom density</string>
+    <string name="density_tile_density_custom">Выбор плотности вручную</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Пробуждаться при подключении питания</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">Чтобы позволить плитке пробуждать телефон при подключении питания, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Чтобы позволить плитке пробуждать телефон при подключении питания, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Позволяет приложению получать выгрузку информации из системных сервисов. Такие привилегии имеют только системные приложения. Если приложение является пользовательским, оно никогда не сможет иметь подобные привилегии.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Приложение получило права суперпользователя к интерактивному доступу через терминал. Хотите ли Вы программно %s выгружать системную информацию через терминальный режим суперпользователя?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">Чтобы %1$s доступ вручную, подключите устройство к компьютеру, запустите консоль с adb и введите команду: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Режим демонстрации</string>
-    <string name="demo_mode_tile_alert_dialog_message">Чтобы позволить плитке менять состояние режима демонстрации, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности и выгрузке данных.</string>
+    <string name="demo_mode_tile_alert_dialog_message">Чтобы позволить плитке менять состояние режима демонстрации, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности и выгрузке данных.</string>
     <string name="demo_mode_tile_system_bars">Системные панели</string>
     <string name="demo_mode_tile_system_bars_transparent">Прозрачные</string>
     <string name="demo_mode_tile_system_bars_semitransparent">Полупрозрачные</string>
@@ -318,17 +318,17 @@
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">Всплывающие уведомления</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">Чтобы позволить плитке менять состояние всплывающих уведомлений, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Чтобы позволить плитке менять состояние всплывающих уведомлений, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <string name="heads_up_notifications_tile_alert_summary">Платформа Android не содержит видимой опции для изменения состояния всплывающих уведомлений. В связи с этим, пожалуйста, убедитесь, что всплывающие уведомления включены перед удалением приложения, чтобы восстановить поведение системы по умолчанию.</string>
     <!--multi window-->
     <string name="multi_window_tile_label">Мультиоконный режим</string>
-    <string name="multi_window_tile_alert_dialog_message">Чтобы позволить плитке сменять мультиоконный режим, пожалуйста откройте настройки и включите сервис спец. возможностей.</string>
+    <string name="multi_window_tile_alert_dialog_message">Чтобы позволить плитке сменять мультиоконный режим, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <!--recents screen-->
     <string name="recents_screen_tile_label">Недавние приложения</string>
-    <string name="recents_screens_tile_alert_dialog_message">Чтобы позволить плитке показывать недавние приложения, пожалуйста откройте настройки и включите сервис спец. возможностей.</string>
+    <string name="recents_screens_tile_alert_dialog_message">Чтобы позволить плитке показывать недавние приложения, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <!--volumes-->
     <string name="volumes_tile_label">Звуки</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять громкость звонка, пожалуйста откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять громкость звонка, пожалуйста, откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
     <string name="volumes_tile_volume_keys_disabled">Кнопки громкости временно выключены</string>
     <string name="volumes_tile_volume_alarm">Будильник</string>
     <string name="volumes_tile_volume_media">Мультимедиа</string>
@@ -336,13 +336,13 @@
     <string name="volumes_tile_volume_call">Звонок</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">Виброотклик</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">Чтобы позволить плитке менять режим виброотклика при прикосновении к экрану, пожалуйста откройте настройки и разрешите доступ к изменению системных настроек.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Чтобы позволить плитке менять режим виброотклика при прикосновении к экрану, пожалуйста, откройте настройки и разрешите доступ к изменению системных настроек.</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Звук прикосновения к экрану</string>
-    <string name="touch_sounds_tile_alert_dialog_message">Чтобы позволить плитке менять состояние звука при прикосновении к экрану, пожалуйста откройте настройки и разрешите доступ к изменению системных настроек.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Чтобы позволить плитке менять состояние звука при прикосновении к экрану, пожалуйста, откройте настройки и разрешите доступ к изменению системных настроек.</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">Ориентация экрана</string>
-    <string name="orientation_lock_tile_alert_dialog_message">Чтобы позволить плитке менять и фиксировать положение экрана, пожалуйста откройте настройки и разрешите доступ к изменению системных настроек.</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Чтобы позволить плитке менять и фиксировать положение экрана, пожалуйста, откройте настройки и разрешите доступ к изменению системных настроек.</string>
     <string name="orientation_lock_tile_label_rotation_0">Положение 0\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_90">Положение 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">Положение 180\u00B0</string>
@@ -350,19 +350,19 @@
     <string name="orientation_lock_tile_label_rotation_auto_rotate">Автоповорот</string>
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Вибрация при звонке</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">Чтобы позволить плитке менять режим вибрации при звонке, пожалуйста откройте настройки и разрешите доступ к изменению системных настроек.</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Чтобы позволить плитке менять режим вибрации при звонке, пожалуйста, откройте настройки и разрешите доступ к изменению системных настроек.</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">Режим энергосбережения</string>
-    <string name="battery_saver_tile_alert_dialog_message">Чтобы позволить плитке изменять режим энергосбережения, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="battery_saver_tile_alert_dialog_message">Чтобы позволить плитке изменять режим энергосбережения, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Режим энергосбережения нельзя включить во время зарядки.</string>
     <!--usb debugging-->
     <string name="usb_debugging_tile_label">Отладка по USB</string>
-    <string name="usb_debugging_tile_alert_dialog_message">Чтобы позволить плитке переключать режим отладки по USB, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Чтобы позволить плитке переключать режим отладки по USB, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Мобильные данные</string>
-    <string name="cellular_data_tile_alert_dialog_message">Чтобы позволить плитке переключать состояние мобильных данных, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_alert_dialog_message">Чтобы позволить плитке переключать состояние мобильных данных, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="cellular_data_tile_mobile_network_label">Мобильные сети</string>
+    <string name="cellular_data_tile_data_usage_label">Использование данных</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -376,13 +376,13 @@
     <string name="shortcut_e_tile_label">Ярлык #5</string>
     <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Нет выбранных ярлыков. Пожалуйста, откройте настройки и выберите ярлык.</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">Что-то пошло не так. Пожалуйста, откройте настройки и проверьте выбранный ярлык.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Чтобы позволить плитке создавать ярлыки для быстрого набора, пожалуйста откройте настройки и дайте доступ к телефонным вызовам.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Чтобы позволить плитке создавать ярлыки для быстрого набора, пожалуйста, откройте настройки и дайте доступ к телефонным вызовам.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
     <string name="bluetooth_tile_not_supported_alert_dialog_message">Действие недоступно. The device doesn\u2019t support bluetooth</string>
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">Монохромный режим</string>
-    <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста откройте настройки и дайте доступ к записи настроек безопасности.</string>
+    <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Методы ввода</string>
     <!--contacts-->
@@ -395,10 +395,10 @@
     <string name="contact_d_tile_label">Контакт #4</string>
     <string name="contact_e_tile_label">Контакт #5</string>
     <!--invert colors-->
-    <string name="invert_colors_tile_label">Обратные цвета</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_label">Инверсия цвета</string>
+    <string name="invert_colors_tile_alert_dialog_message">Чтобы позволить плитке менять режим инверсии цвета, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Монофонический звук</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Световой сигнал уведомлений</string>
 </resources>

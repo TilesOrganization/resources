@@ -67,6 +67,7 @@
     <string name="settings_translations_locale_es">Španielsky</string>
     <string name="settings_translations_locale_ru">Ruský</string>
     <string name="settings_translations_locale_fr">Francúzsky</string>
+    <string name="settings_translations_locale_hr">Chorvátsky</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Viditeľnosť dlaždice</string>
     <string name="settings_component_summary_off">Skryť dlaždicu v rýchlych nastaveniach</string>

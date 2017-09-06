@@ -67,6 +67,7 @@
     <string name="settings_translations_locale_es">Spanisch</string>
     <string name="settings_translations_locale_ru">Russisch</string>
     <string name="settings_translations_locale_fr">Französisch</string>
+    <string name="settings_translations_locale_hr">Kroatisch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>
     <string name="settings_component_summary_off">Verstecke die Kachel in den Schnelleinstellungen</string>

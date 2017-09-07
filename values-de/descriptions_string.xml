@@ -34,7 +34,7 @@
     <string name="description_monochromacy_tile">Simuliert das Einfarbensehen(schwarz &amp; weiß).\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
     <string name="description_multi_window_tile">Android Nougat unterstützt einen Mehrfenster-Modus: Zwei Apps können neben- oder übereinander im Mehrfenster-Modus angezeigt werden. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
     <string name="description_nfc_tile">Ändert den NFC-Status oder öffnet die NFC-Einstellungen.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel zum Ändern des NFC-Status benötigt.</string>
-    <string name="description_notification_light_tile">Turn notification light on or off.</string>
+    <string name="description_notification_light_tile">De- oder aktiviert das Benachrichtigungs-Licht.</string>
     <string name="description_orientation_lock_tile">Sperrt das Drehen des Smartphone: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Um das Drehen zu ändern und zu sperren, benötigt die Kachel das Recht das automatische Drehen zu deaktivieren.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_power_tile">Zeigt einen Dialog an um das System herunterzufahren, neuzustarten, in die Recovery oder in den Bootloader neuzustarten. Um das Power-Menü anzuzeigen muss die Bedienungshilfe aktiviert sein.</string>
     <string name="description_power_dialog_accessibility_tile">Zeigt das Power-Menü von Android an um das System herunterzufahren oder neuzustarten. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
@@ -48,7 +48,7 @@
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand.</string>
     <string name="description_sleep_time_tile">Schau dir die Dauer der Ruhezeiten des Smartphones an, mit Details über die Batterie und den Ladezustand.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
-    <string name="description_storage_tile">Open storage settings or Startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
+    <string name="description_storage_tile">Öffnet die Speicher-Einstellungen oder startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
     <string name="description_street_view_tile">Startet Google\'s firmeneigene Street View App, sofern installiert, und zeigt den aktuellen Standort des Smartphones an. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>
     <string name="description_sync_tile">Ändert den Synchronisationsstatus oder öffnet die Synchronisationseinstellungen.</string>
     <string name="description_text_tile">Öffnet einen Dialog um etwas hineinzuschreiben, zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern, welche einen geteilten Text entgegen nehmen können.</string>

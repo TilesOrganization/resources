@@ -300,7 +300,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status der Mobilfunkdaten ändern</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Ändere den Status der Mobilfunkdaten</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Öffne die Einstellungen für Mobilfunknetze</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Öffne die Einstellungen zur Datennutzung</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Ausgewählte Verknüpfungen</string>
     <string name="settings_shortcuts_tile_summary_empty">Keine Verknüpfung ausgewählt</string>
@@ -322,6 +322,6 @@
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Farben umkehren</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Farben nicht umkehren</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Öffne die Speicher-Einstellungen</string>
+    <string name="settings_storage_tile_action_open_file_manager">Öffne den Dateimanager</string>
 </resources>

@@ -367,6 +367,7 @@
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
     <string name="media_volume_tile_label">Volume de mídia</string>
+    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
     <!-- shortcuts -->
     <string name="shortcuts_tile_label">Atalhos</string>
     <string name="shortcut_a_tile_label">Atalho #1</string>

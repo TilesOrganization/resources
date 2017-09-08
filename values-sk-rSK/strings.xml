@@ -366,8 +366,8 @@
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">Hlasitosť médií</string>
+    <string name="media_volume_tile_formatted_label">Hlasitosť médií: %1$d%%</string>
     <!-- shortcuts -->
     <string name="shortcuts_tile_label">Odkazy</string>
     <string name="shortcut_a_tile_label">Odkaz #1</string>

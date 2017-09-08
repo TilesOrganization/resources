@@ -11,10 +11,10 @@
     <string name="settings_action">Acción</string>
     <string name="settings_layout">Diseño</string>
     <string name="settings_notification">Notificación</string>
-    <string name="settings_night_mode">Modo noche</string>
-    <string name="settings_night_mode_no">Día</string>
-    <string name="settings_night_mode_yes">Noche</string>
-    <string name="settings_night_mode_auto">Automático</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dialogs</string>
     <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>

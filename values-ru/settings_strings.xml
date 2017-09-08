@@ -11,10 +11,10 @@
     <string name="settings_action">Действие</string>
     <string name="settings_layout">Разметка</string>
     <string name="settings_notification">Уведомление</string>
-    <string name="settings_night_mode">Ночной режим</string>
-    <string name="settings_night_mode_no">День</string>
-    <string name="settings_night_mode_yes">Ночь</string>
-    <string name="settings_night_mode_auto">Авто</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Диалоги</string>
     <string name="settings_design_dialogs_not_cancelable">Диалог можно убрать, нажав кнопку Назад</string>

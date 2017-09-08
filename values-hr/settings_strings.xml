@@ -11,10 +11,10 @@
     <string name="settings_action">Radnja</string>
     <string name="settings_layout">Izgled</string>
     <string name="settings_notification">Obavijest</string>
-    <string name="settings_night_mode">Noćni način rada</string>
-    <string name="settings_night_mode_no">Dan</string>
-    <string name="settings_night_mode_yes">Noć</string>
-    <string name="settings_night_mode_auto">Auto</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dijalozi</string>
     <string name="settings_design_dialogs_not_cancelable">Dijalozi se mogu odbaciti pomoću gumba za povratak</string>

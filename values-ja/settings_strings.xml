@@ -11,10 +11,10 @@
     <string name="settings_action">アクション</string>
     <string name="settings_layout">レイアウト</string>
     <string name="settings_notification">通知</string>
-    <string name="settings_night_mode">夜間モード</string>
-    <string name="settings_night_mode_no">昼間</string>
-    <string name="settings_night_mode_yes">夜間</string>
-    <string name="settings_night_mode_auto">自動</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dialogs</string>
     <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>

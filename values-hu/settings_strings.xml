@@ -11,10 +11,10 @@
     <string name="settings_action">Művelet</string>
     <string name="settings_layout">Kinézet</string>
     <string name="settings_notification">Értesítés</string>
-    <string name="settings_night_mode">Éjszakai mód</string>
-    <string name="settings_night_mode_no">Nappal</string>
-    <string name="settings_night_mode_yes">Éjszaka</string>
-    <string name="settings_night_mode_auto">Automatikus</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dialógusok</string>
     <string name="settings_design_dialogs_not_cancelable">A rendszer vissza gombjával eltüntethetők a dialógusok</string>

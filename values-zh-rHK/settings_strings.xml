@@ -11,10 +11,10 @@
     <string name="settings_action">動作</string>
     <string name="settings_layout">佈局</string>
     <string name="settings_notification">通知</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
+    <string name="settings_theme">主題顏色</string>
+    <string name="settings_theme_light">日光模式Light</string>
+    <string name="settings_theme_dark">夜間模式</string>
+    <string name="settings_theme_black">Amoled模式(黑色)</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">對話方塊</string>
     <string name="settings_design_dialogs_not_cancelable">用戶可以使用"返回鍵"清除對話方塊。</string>
@@ -24,16 +24,16 @@
     <string name="settings_design_navigation_bar_tint_no_tint">不變色</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">主色為暗色</string>
     <string name="settings_design_navigation_bar_tint_primary">主色</string>
-    <string name="settings_design_navigation_bar_tint_accent">強調色</string>
+    <string name="settings_design_navigation_bar_tint_accent">根據程式色調</string>
     <!--design status bar tint-->
     <string name="settings_design_status_bar_tint_title">通知欄變色</string>
     <string name="settings_design_status_bar_tint_primary_dark">主色為暗色</string>
     <string name="settings_design_status_bar_tint_primary">主色</string>
-    <string name="settings_design_status_bar_tint_accent">強調色</string>
+    <string name="settings_design_status_bar_tint_accent">根據程式色調</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">通知欄</string>
-    <string name="settings_design_status_bar_icons_light">亮色圖示</string>
-    <string name="settings_design_status_bar_icons_dark">暗色圖示</string>
+    <string name="settings_design_status_bar_icons_light">白色圖示</string>
+    <string name="settings_design_status_bar_icons_dark">黑色圖示</string>
     <!--advanced-->
     <string name="settings_advanced">進階</string>
     <string name="settings_restart_active_tiles_title">重啟已加入的快速設定磚</string>

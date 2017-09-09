@@ -15,6 +15,7 @@
     <string name="settings_theme_light">Light</string>
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
+    <string name="settings_theme_terminal">Terminal</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Диалоги</string>
     <string name="settings_design_dialogs_not_cancelable">Диалог можно убрать, нажав кнопку Назад</string>

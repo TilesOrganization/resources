@@ -15,6 +15,7 @@
     <string name="settings_theme_light">Light</string>
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
+    <string name="settings_theme_terminal">Terminal</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Caixa de diálogos</string>
     <string name="settings_design_dialogs_not_cancelable">As caixas podem ser dispensadas usando o botão voltar do sistema</string>

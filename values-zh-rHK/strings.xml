@@ -367,7 +367,7 @@
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
     <string name="media_volume_tile_label">媒體音量</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_formatted_label">媒體音量: %1$d%%</string>
     <!-- shortcuts -->
     <string name="shortcuts_tile_label">捷徑</string>
     <string name="shortcut_a_tile_label">捷徑 #1</string>
@@ -385,7 +385,7 @@
     <string name="monochromacy_tile_label">閱讀模式</string>
     <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!-- input method -->
-    <string name="input_method_tile_label">鍵盤和輸入法</string>
+    <string name="input_method_tile_label">鍵盤及輸入法</string>
     <!--contacts-->
     <string name="contacts_tile_label">聯絡人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">沒有選取任何聯絡人，請前往設定及選取聯絡人。</string>

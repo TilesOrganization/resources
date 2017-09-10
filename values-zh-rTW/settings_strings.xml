@@ -11,11 +11,11 @@
     <string name="settings_action">動作</string>
     <string name="settings_layout">佈局</string>
     <string name="settings_notification">通知</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
-    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme">主題</string>
+    <string name="settings_theme_light">明亮</string>
+    <string name="settings_theme_dark">暗色</string>
+    <string name="settings_theme_black">黑色</string>
+    <string name="settings_theme_terminal">終端機</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">對話方塊</string>
     <string name="settings_design_dialogs_not_cancelable">用戶可以使用"返回鍵"清除對話方塊。</string>
@@ -145,8 +145,8 @@
     <string name="settings_sync_tile_action_change_sync">變更同步狀態</string>
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">開啟計時器</string>
+    <string name="settings_timer_tile_action_start_timer">開始計時</string>
     <string name="settings_timer_tile_skip_ui_title">跳過界面</string>
     <string name="settings_timer_tile_skip_ui_summary_on">直接跳過所有確認界面並立即開始們倒數計時</string>
     <string name="settings_timer_tile_skip_ui_summary_off">開始倒數計時前顯示確認界面</string>
@@ -323,6 +323,6 @@
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已啟用。允許此快速設定動態磚反轉顏色。</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已停用。不允許此快速設定動態磚變反轉顏色。</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">開啟儲存空間設定</string>
+    <string name="settings_storage_tile_action_open_file_manager">開啟檔案管理器</string>
 </resources>

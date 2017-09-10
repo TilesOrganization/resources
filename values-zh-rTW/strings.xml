@@ -361,8 +361,8 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">行動數據</string>
     <string name="cellular_data_tile_alert_dialog_message">要允許快速設定動態磚變更行動數據的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_mobile_network_label">行動網路</string>
+    <string name="cellular_data_tile_data_usage_label">數據使用量</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -401,5 +401,5 @@
     <!-- mono audio -->
     <string name="mono_audio_tile_label">單聲道音訊</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">通知提示燈</string>
 </resources>

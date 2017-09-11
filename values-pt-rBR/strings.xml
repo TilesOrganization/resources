@@ -361,8 +361,8 @@
     <!--cellular data-->
     <string name="cellular_data_tile_label">Dados móveis</string>
     <string name="cellular_data_tile_alert_dialog_message">Para permitir que o bloco altere o estado dos dados móveis, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_mobile_network_label">Redes móveis</string>
+    <string name="cellular_data_tile_data_usage_label">Uso de dados</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->

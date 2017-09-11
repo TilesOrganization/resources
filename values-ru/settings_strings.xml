@@ -11,11 +11,11 @@
     <string name="settings_action">Действие</string>
     <string name="settings_layout">Разметка</string>
     <string name="settings_notification">Уведомление</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
-    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_theme_light">Светлая</string>
+    <string name="settings_theme_dark">Темная</string>
+    <string name="settings_theme_black">Черная</string>
+    <string name="settings_theme_terminal">Терминал</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Диалоги</string>
     <string name="settings_design_dialogs_not_cancelable">Диалог можно убрать, нажав кнопку Назад</string>

@@ -11,10 +11,10 @@
     <string name="settings_action">Ação</string>
     <string name="settings_layout">Layout</string>
     <string name="settings_notification">Notificação</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_dark">Escuro</string>
+    <string name="settings_theme_black">Preto</string>
     <string name="settings_theme_terminal">Terminal</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Caixa de diálogos</string>
@@ -145,8 +145,8 @@
     <string name="settings_sync_tile_action_change_sync">Mudar estado de sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir configurações de sincronização</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_action_open_timer">Abrir temporizador</string>
+    <string name="settings_timer_tile_action_start_timer">Iniciar temporizador</string>
     <string name="settings_timer_tile_skip_ui_title">Pular UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Pular qualquer UI de confirmação e simplesmente iniciar o timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Mostrar um UI de confirmação antes de iniciar o timer</string>
@@ -320,8 +320,8 @@
     <string name="settings_contacts_tile_selected_contact">Contato selecionado</string>
     <string name="settings_contacts_tile_summary_empty">Nenhum contato selecionado</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a inversão de cores</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a inversão de cores</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Abrir configurações de armazenamento</string>
     <string name="settings_storage_tile_action_open_file_manager">Abrir gerenciador de arquivos</string>

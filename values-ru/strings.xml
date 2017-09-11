@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Тихий</string>
     <string name="ringer_mode_tile_label_vibrate">Вибрация</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста, откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Режим бодрствования</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Сервис режима бодрствования включен.\Остановить сервис?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Сервис режима бодрствования выключен.\Включить сервис?</string>
-    <string name="screen_on_tile_service_notification_title">Сервис запущен</string>
-    <string name="screen_on_tile_service_notification_content_text">Устройство не заснет. Нажмите, чтобы остановить сервис.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Сервис режима бодрствования</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Сервис запущен</string>
+    <string name="caffeine_tile_service_notification_content_text">Устройство не заснет. Нажмите, чтобы остановить сервис.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Просмотр улиц</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Чтобы позволить плитке получать текущее местоположение, пожалуйста, откройте настройки и разрешите доступ к определению местоположения.</string>

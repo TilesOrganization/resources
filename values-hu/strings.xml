@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Néma</string>
     <string name="ringer_mode_tile_label_vibrate">Rezgő</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">A csengetési mód csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és engedélyezd a hozzáférést a Ne Zavarjanak funkcióhoz.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Aktív képernyő</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Az aktív képernyő szolgáltatás fut.\nLeállítja a szolgáltatást?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Az aktív képernyő szolgáltatás nem fut.\nElindítja a szolgáltatást?</string>
-    <string name="screen_on_tile_service_notification_title">A szolgáltatás fut</string>
-    <string name="screen_on_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ide nem koppintasz.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Aktív képernyő szolgáltatás</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">A szolgáltatás fut</string>
+    <string name="caffeine_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ide nem koppintasz.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Utcakép</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">A csempe jelenlegi helyhez való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a helyhez való hozzáférést.</string>

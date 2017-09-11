@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Silencieux</string>
     <string name="ringer_mode_tile_label_vibrate">Vibreur</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Pour permettre à la tuile changer le mode de sonnerie, veuillez ouvrir les paramètres et autorisez l\'accès à Ne Pas Déranger (DND).</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Garder allumé</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Le service Garder allumé est en cours d\'exécution.\nArrêter le service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Le service Garder allumé est arrêté.\nDémarrer le service?</string>
-    <string name="screen_on_tile_service_notification_title">Le service est en cours d\'exécution</string>
-    <string name="screen_on_tile_service_notification_content_text">L\'appareil ne se mettra pas en veille. Appuyez pour arrêter le service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Service Garder allumé</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Le service est en cours d\'exécution</string>
+    <string name="caffeine_tile_service_notification_content_text">L\'appareil ne se mettra pas en veille. Appuyez pour arrêter le service.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et accordez la permission de localisation.</string>

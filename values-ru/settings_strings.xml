@@ -128,21 +128,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Воспроизвести звук</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Не воспроизводить звук при выборе нормального режима звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Запустить/остановить сервис</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Свернуть панель быстрых настроек и запустить сервис</string>
-    <string name="settings_screen_on_tile_action_start_service">Запустить сервис, не сворачивая панель быстрых настроек</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Уведомление о работающем сервисе</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Показывать постоянное уведомление, пока сервис запущен</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Спрятать уведомление</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Скрыть действие</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Не воспроизводить звук при запуске сервиса</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Воспроизвести обычный звук уведомления при запуске сервиса</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Вибрация</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Не вибрировать при запуске сервиса</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Вибрировать при запуске сервиса</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Свернуть панель быстрых настроек и запустить сервис</string>
+    <string name="settings_caffeine_tile_action_start_service">Запустить сервис, не сворачивая панель быстрых настроек</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Скрыть действие</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Не воспроизводить звук при запуске сервиса</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Воспроизвести обычный звук уведомления при запуске сервиса</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Вибрация</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Не вибрировать при запуске сервиса</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Вибрировать при запуске сервиса</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Изменить состояние синхронизации</string>
     <string name="settings_sync_tile_action_open_sync_settings">Открыть настройки синхронизации</string>

@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Reproduzir som</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não reproduzir qualquer som quando o modo do som normal está selecionado</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproduzir som de notificação padrão quando o modo do som normal é selecionado</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/parar serviço</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Recolher o painel de Configurações Rápidas e iniciar do serviço</string>
-    <string name="settings_screen_on_tile_action_start_service">Iniciar o serviço sem recolher o painel de Configurações Rápidas</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço em andamento</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente enquanto um serviço está em andamento</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Esconder notificação</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir configurações</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Esconder ação</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduzir som</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não reproduzir qualquer som quando o serviço é iniciado</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduzir som de notificação padrão quando o serviço é iniciado</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrar</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço é iniciado</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço é iniciado</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Recolher o painel de Configurações Rápidas e iniciar do serviço</string>
+    <string name="settings_caffeine_tile_action_start_service">Iniciar o serviço sem recolher o painel de Configurações Rápidas</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Mostrar ação para abrir configurações</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Esconder ação</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduzir som</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Não reproduzir qualquer som quando o serviço é iniciado</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Reproduzir som de notificação padrão quando o serviço é iniciado</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrar</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço é iniciado</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço é iniciado</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Mudar estado de sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir configurações de sincronização</string>

@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">播放音效</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">音效模式為正常時，不播放任何音效</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">音效模式為正常時，播放系統預設音效</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">開始/停止服務</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">關閉快速設定面版並開始服務</string>
-    <string name="settings_screen_on_tile_action_start_service">不關閉快速設定面版並開始服務</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">服務運行通知</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">服務正在運行時，顯示固定式通知</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">隱藏通知</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">顯示打開設定的動作</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">隱藏動作</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">播放音效</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">服務開始運行後不播放音效</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">服務開始運行後播放系統預設音效</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">震動</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">服務開始運行後不要震動</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">服務開始運行後震動</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">關閉快速設定面版並開始服務</string>
+    <string name="settings_caffeine_tile_action_start_service">不關閉快速設定面版並開始服務</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">顯示打開設定的動作</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">隱藏動作</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">播放音效</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">服務開始運行後不播放音效</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">服務開始運行後播放系統預設音效</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">震動</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">服務開始運行後不要震動</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">服務開始運行後震動</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">變更同步狀態</string>
     <string name="settings_sync_tile_action_open_sync_settings">開啟同步設定</string>

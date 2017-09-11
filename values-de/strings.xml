@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Leise</string>
     <string name="ringer_mode_tile_label_vibrate">Vibration</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Damit die Kachel den Klingel-Modus ändern kann, öffne die System-Einstellungen und erlaube den Zugriff während \"Nicht stören\".</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Aktiver Bildschirm</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Der Dienst für den aktiven Bildschirm läuft.\nDienst stoppen?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Der Dienst für den aktiven Bildschirm läuft nicht.\nDienst starten?</string>
-    <string name="screen_on_tile_service_notification_title">Der Dienst für den aktiven Bildschirm läuft</string>
-    <string name="screen_on_tile_service_notification_content_text">Das Gerät wird nicht in den Ruhestand gehen. Klicke um den Dienst zu starten.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Aktiver Bildschirm Dienst</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Der Dienst für den aktiven Bildschirm läuft</string>
+    <string name="caffeine_tile_service_notification_content_text">Das Gerät wird nicht in den Ruhestand gehen. Klicke um den Dienst zu starten.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Damit die Kachel auf den aktuellen Standort zugreifen kann, öffne die System-Einstellungen und erteile Standort-Rechte.</string>

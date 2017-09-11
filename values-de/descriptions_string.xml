@@ -9,6 +9,7 @@
     <string name="description_battery_saver_tile">De- oder aktiviert den Energiesparmodus. Solang der Energiesparmodus aktiv ist, reduziert sich die Performance und Standort-Dienste sowie Hintergrund-Daten sind deaktiviert.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_bluetooth_tile">De- oder aktiviert das Bluetooth oder öffnet die Bluetooth-Einstellungen.</string>
     <string name="description_brightness_tile">Setzt drei verschiedene Level (hoch, mittel &amp; tief) zum Durchschalten der Helligkeit.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
+    <string name="description_caffeine_tile">Lässt den Bildschirm des Smartphone dauerhaft aktiv. Damit das Smartphone wieder in den Ruhezustand übergeht, beende den Dienst oder schalte den Bildschirm ab.</string>
     <string name="description_calculator_tile">Startet Google\'s firmeneigenen Rechner, sofern dieser auf dem Smartphone installiert ist.</string>
     <string name="description_calendar_tile">Zeigt die Kalendereinträge an oder fügt einen neuen Eintrag hinzu. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Anzeigen und Hinzufügen von Kalendereinträgen entgegen nehmen können.</string>
     <string name="description_call_tile">Wählt einen Kontakt für einen Anruf aus oder startet die Telefon-App. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Starten eines Anrufs entgegen nehmen können.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten.</string>
@@ -41,7 +42,6 @@
     <string name="description_recents_screen_tile">Zeigt die letzten Apps an, eine Übersicht des Systems, welche die zuletzt verwendeten Aktivitäten und Tasks zeigt. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
     <string name="description_reminder_tile">Fügt eine Erinnerung als persistente Benachrichtigung hinzu. Bearbeite oder lösche die Erinnerung durch einen Klick auf die Benachrichtigung.</string>
     <string name="description_ringer_mode_tile">Setzt den Klingel-Modus des Smartphone: Normal, Vibration oder "Bitte nicht stören". Das Recht zum Zugriff auf den "Bitte nicht stören"-Modus wird für diese Kachel benötigt.</string>
-    <string name="description_screen_on_tile">Lässt den Bildschirm des Smartphone dauerhaft aktiv. Damit das Smartphone wieder in den Ruhezustand übergeht, beende den Dienst oder schalte den Bildschirm ab.</string>
     <string name="description_screenshot_tile">Erstellt einen Screenshot.\nDas Schreibrecht für den Speicher wird für diese Kachel benötigt.</string>
     <string name="description_settings_shortcut_tile">Öffnet Android\'s versteckte oder schwer zu findende Einstellungen.</string>
     <string name="description_shortcuts_tile">Wähle und setze Verknüpfungen um eine bestimmte Aktion in der jeweiligen Anwendung auszuführen.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten.</string>

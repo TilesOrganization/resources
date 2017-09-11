@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Silêncio</string>
     <string name="ringer_mode_tile_label_vibrate">Vibração</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o mosaico mude o modo de som, vá ás definições e conceda a o acesso ao Não incomodar.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Ecrã ligado</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">O serviço ecrã ligado está ativo.\nParar o serviço?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">O serviço ecrã ligado está desativado.\nIniciar o serviço?</string>
-    <string name="screen_on_tile_service_notification_title">Serviço ligado</string>
-    <string name="screen_on_tile_service_notification_content_text">O dispositivo não irá desligar o ecrã. Parar o serviço.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Serviço ecrã ligado</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Serviço ligado</string>
+    <string name="caffeine_tile_service_notification_content_text">O dispositivo não irá desligar o ecrã. Parar o serviço.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Para permitir que o mosaico tenha acesso à localização, abra as definiçoes e conceda a permissão de localização.</string>

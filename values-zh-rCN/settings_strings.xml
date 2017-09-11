@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Running service notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Show a persistent notification while service is running</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Hide notification</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_caffeine_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Change sync state</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>

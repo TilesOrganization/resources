@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">靜音</string>
     <string name="ringer_mode_tile_label_vibrate">震動</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">保持屏幕開啟</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">保持屏幕開啟的服務正在運行，\n要停止服務嗎？</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">保持屏幕開啟的服務沒有運行，\n要啟用服務嗎?</string>
-    <string name="screen_on_tile_service_notification_title">服務正在運行</string>
-    <string name="screen_on_tile_service_notification_content_text">裝置會保持屏幕開啟，輕按以停止服務。</string>
-    <string name="screen_on_tile_service_notification_sub_text">保持屏幕開啟的服務</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">服務正在運行</string>
+    <string name="caffeine_tile_service_notification_content_text">裝置會保持屏幕開啟，輕按以停止服務。</string>
     <!--streetview-->
     <string name="streetview_tile_label">街景</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">要允許快速設定磚取得目前位置，請前往設定並允許位置權限。</string>

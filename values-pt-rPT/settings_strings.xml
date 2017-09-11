@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Tocar som</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não tocar qualquer som quando o modo de volume normal está selecionado</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Tocar som quando o modo de volume normal está selecionado</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Iniciar/Parar serviço</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Notificação de serviço a ser executado</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Mostrar uma notificação persistente do serviço ao ser executado</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Ocultar notificação</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Ocultar ação</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Tocar som</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Não tocar um som quando o serviço começar</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Tocar um som quando o serviço começar</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrar</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço começar</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço começar</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_caffeine_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Ocultar ação</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Tocar som</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Não tocar um som quando o serviço começar</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Tocar um som quando o serviço começar</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrar</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Não vibrar quando o serviço começar</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrar quando o serviço começar</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Mudar estado da sincronização</string>
     <string name="settings_sync_tile_action_open_sync_settings">Abrir as configurações da sincronização</string>

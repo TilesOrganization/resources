@@ -9,6 +9,7 @@
     <string name="description_battery_saver_tile">Uključite i isključite štednju baterije. Dok je štednja baterije uključena, perfomanse uređaja se smanjuju, a lokacijske usluge i pozadinski podaci su isključeni.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_bluetooth_tile">Uključite ili isključite Bluetooth ili otvorite Bluetooth postavke.</string>
     <string name="description_brightness_tile">Postavite tri različite razine (visoka, srednja i niska) osvjetljenja za odabrati.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
+    <string name="description_caffeine_tile">Držite uređaj budnim, nadjačavanjem trenutnih postavki za mirovanje. Da biste uređaj vratili nazad u stanje mirovanja, zaustavite uslugu ili isključite zaslon.</string>
     <string name="description_calculator_tile">Pokreni Googleovu aplikaciju Kalkulator, ukoliko je instalirana.</string>
     <string name="description_calendar_tile">Prikaži događaje kalendara ili dodaj novi. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos kako bi prikazali i dodali kalendarske događaje.</string>
     <string name="description_call_tile">Odaberite broj kontakta za brzo biranje ili pokretanje aplikacije telefona. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi iniciranja telefonskog poziva.\nPotrebna je dozvola za pozivanje za pokretanje telefonskog poziva izravno sa pločice bez prolaska kroz korisničko sučelje brojčanika.</string>
@@ -41,7 +42,6 @@
     <string name="description_recents_screen_tile">Prikaži zaslon nedavno korištenih aplikacija, korisničko sučelje na razini sustava koje prikazuje nedavno korištene aktivnosti i zadatke. Usluga pristupačnosti mora biti omogućena.</string>
     <string name="description_reminder_tile">Brzo dodajte podsjetnik da bude prikazana kao stalna obavijest. Uredite ili obrišite podsjetnik dodirom obavijesti.</string>
     <string name="description_ringer_mode_tile">Postavite način zvonjenja uređaja: normalan, vibriranje ili "Ne ometaj". Da biste koristili ovu pločicu, potreban je pristup "Ne ometaj" opciji.</string>
-    <string name="description_screen_on_tile">Držite uređaj budnim, nadjačavanjem trenutnih postavki za mirovanje. Da biste uređaj vratili nazad u stanje mirovanja, zaustavite uslugu ili isključite zaslon.</string>
     <string name="description_screenshot_tile">Uslikajte zaslon uređaja.\nPotrebno je dozvoliti upotrebu pohrane kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_settings_shortcut_tile">Otvorite skrivene ili teško dostupne postavke Androida.</string>
     <string name="description_shortcuts_tile">Odaberite i postavite prečace za izvođenje određenih radnji u bilo kojoj aplikaciji koja implementira takvu značajku.\nPotrebna je dozvola za pristup telefonu kako bi bilo moguće kreiranje prečaca za izravno biranje.</string>

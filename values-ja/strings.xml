@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Silent</string>
     <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Screen on</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Screen on service is running.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Screen on service is not running.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service is running</string>
-    <string name="screen_on_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Screen on service</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Service is running</string>
+    <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>

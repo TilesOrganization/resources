@@ -127,21 +127,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Reproduciraj zvuk</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nemojte reproducirati zvuk kad je odabran normalni način zvona</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Pokretanje/zaustavljanje usluge</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Zatvori listu brzih postavki i pokreni uslugu</string>
-    <string name="settings_screen_on_tile_action_start_service">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Obavijest o pokrenutoj usluzi</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Prikaži trajnu obavijest dok je usluga pokrenuta</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Sakrij obavijest</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Nemoj reproducirati zvuk kada je usluga pokrenuta</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti kada se usluga pokrene</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibriraj</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibriraj kada se usluga pokrene</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Zatvori listu brzih postavki i pokreni uslugu</string>
+    <string name="settings_caffeine_tile_action_start_service">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Nemoj reproducirati zvuk kada je usluga pokrenuta</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Reproduciraj zadani zvuk obavijesti kada se usluga pokrene</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibriraj</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Nemoj vibrirati kada je usluga pokrenuta</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibriraj kada se usluga pokrene</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Promijeni stanje sinkronizacije</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvori postavke sinkronizacije</string>

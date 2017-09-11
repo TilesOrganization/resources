@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Tiho</string>
     <string name="ringer_mode_tile_label_vibrate">Vibracija</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Da biste pločici omogućili promjenu načina zvona, otvorite postavke i dozvolite pristup opciji "Ne ometaj".</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Zaslon uključen</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Usluga "Zaslon uključen" je pokrenuta.\nZaustaviti uslugu?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Usluga "Zaslon uključen" nije pokrenuta.\nZapočeti uslugu?</string>
-    <string name="screen_on_tile_service_notification_title">Usluga je pokrenuta</string>
-    <string name="screen_on_tile_service_notification_content_text">Uređaj ne želi prijeći u stanje mirovanja. Dodirnite za zaustavljanje usluge.</string>
-    <string name="screen_on_tile_service_notification_sub_text">"Zaslon uključen" usluga</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Usluga je pokrenuta</string>
+    <string name="caffeine_tile_service_notification_content_text">Uređaj ne želi prijeći u stanje mirovanja. Dodirnite za zaustavljanje usluge.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Da biste dopustili da pločica dobije trenutačnu lokaciju, otvorite postavke i dozvolite pristup lokaciji.</string>

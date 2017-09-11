@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Stil</string>
     <string name="ringer_mode_tile_label_vibrate">Trillen</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Om de tegel het beltoonvolume te laten veranderen, open instellingen en sta Niet Storen toegang toe.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Scherm aan</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Scherm aan service staat aan.\nStop service?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Scherm aan service staat niet aan.\nStart service?</string>
-    <string name="screen_on_tile_service_notification_title">Service staat aan</string>
-    <string name="screen_on_tile_service_notification_content_text">Het toestel zal niet in slaapstand gaan. Tik om de service te stoppen.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Scherm aan service</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Service staat aan</string>
+    <string name="caffeine_tile_service_notification_content_text">Het toestel zal niet in slaapstand gaan. Tik om de service te stoppen.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Om de tegel de huidige locatie te laten verkrijgen, open instellingen en verleen locatie toestemming.</string>

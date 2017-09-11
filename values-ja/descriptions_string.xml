@@ -9,6 +9,7 @@
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Set three different levels (high, medium &amp; low) of brightness to cycle through.\nModify system settings permission is required to use this tile.</string>
+    <string name="description_caffeine_tile">Keep the device awake overriding the sleep timeout setting. To let the device go back to sleep, stop the service or turn the screen off.</string>
     <string name="description_calculator_tile">Launch Google\'s proprietary Calculator app, if installed.</string>
     <string name="description_calendar_tile">Show calendar\'s events or add a new one. The action is compatible with third-party apps that can receive the Android default broadcast to show and add calendar events.</string>
     <string name="description_call_tile">Choose a contact\'s number to quickly dial or launch the phone app. The action is compatible with third-party apps that can receive the Android default broadcast to initiate a phone call.\nPhone call permission is required to initiate a phone call directly from the tile without going through the dialer user interface.</string>
@@ -41,7 +42,6 @@
     <string name="description_recents_screen_tile">Show the recents screen, a system-level UI that lists recently accessed activities and tasks. The accessibility service must be enabled.</string>
     <string name="description_reminder_tile">Quickly add a reminder to be shown as a persistent notification. Edit or delete the reminder by tapping the notification.</string>
     <string name="description_ringer_mode_tile">Set the ringer mode of the device: normal, vibrate or Do Not Disturb. Do Not Disturb access is required to use this tile.</string>
-    <string name="description_screen_on_tile">Keep the device awake overriding the sleep timeout setting. To let the device go back to sleep, stop the service or turn the screen off.</string>
     <string name="description_screenshot_tile">Take a screenshot of the device.\nWrite external storage permission is required to use this tile.</string>
     <string name="description_settings_shortcut_tile">Open Android\'s hidden or hard-to-find settings.</string>
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>

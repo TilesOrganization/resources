@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Speel geluid af</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Speel geen geluid af wanneer standaard beltoonvolume is geselecteerd</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Speel standaard notificatie gluid af wanneer staandaard beltoonvolume is geselcteerd</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Start/stop service</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_screen_on_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Lopende service notificatie</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Laat een blijvende notificatie zien wanneer service wordt uitgevoerd</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Verberg notificatie</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Laat actie zien om instellingen te openen</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Verberg actie</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Geluid afspelen</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Speel geen geluid af wanneer service is gestart</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Speel standaard notificatie geluid af wanneer service is gestart</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Trillen</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Niet trillen wanneer service is gestart</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Trillen wanneer service is gestart</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
+    <string name="settings_caffeine_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Laat actie zien om instellingen te openen</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Verberg actie</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Geluid afspelen</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Speel geen geluid af wanneer service is gestart</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Speel standaard notificatie geluid af wanneer service is gestart</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Trillen</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Niet trillen wanneer service is gestart</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Trillen wanneer service is gestart</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Verander synchronisatie status</string>
     <string name="settings_sync_tile_action_open_sync_settings">Open synchronisatie instellingen</string>

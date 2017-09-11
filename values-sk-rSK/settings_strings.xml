@@ -127,21 +127,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Prehrať zvuk</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Neprehrať žiadny zvuk, keď je vybraný normálny režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Prehrať predvolený zvuk upozornení, keď je vybraný normálny režim</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Spustiť/zastaviť službu</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Zavrieť panel s rýchlymi nastaveniami a spustiť službu</string>
-    <string name="settings_screen_on_tile_action_start_service">Spustiť službu bez zatvorenia panela s rýchlymi nastaveniami</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Upozornenie o spustenej službe</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Zobraziť trvalé upozornenie počas spustenej služby</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Skryť upozornenie</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Skryť akciu</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Prehrať zvuk</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Neprehrať žiadny zvuk pri spustení služby</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Prehrať predvolený zvuk upozornení pri spustení služby</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Vibrovať</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nevibrovať pri spustení služby</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Vibrovať pri spustení služby</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Zavrieť panel s rýchlymi nastaveniami a spustiť službu</string>
+    <string name="settings_caffeine_tile_action_start_service">Spustiť službu bez zatvorenia panela s rýchlymi nastaveniami</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skryť akciu</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Prehrať zvuk</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Neprehrať žiadny zvuk pri spustení služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Prehrať predvolený zvuk upozornení pri spustení služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrovať</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Nevibrovať pri spustení služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrovať pri spustení služby</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Zmeniť stav synchronizácie</string>
     <string name="settings_sync_tile_action_open_sync_settings">Otvoriť nastavenia synchronizácie</string>

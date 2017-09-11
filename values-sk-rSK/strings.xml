@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Tichý</string>
     <string name="ringer_mode_tile_label_vibrate">Vibrácie</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Aby dlaždica mohla meniť režim vyzváňania, prosím, otvorte nastavenia a povoľte prístup k nastaveniu Nerušiť.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Nevypínať obrazovku</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">Služba je spustená.\nZastaviť službu?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">Služba je zastavená.\nSpustiť službu?</string>
-    <string name="screen_on_tile_service_notification_title">Služba je spustená</string>
-    <string name="screen_on_tile_service_notification_content_text">Zariadenie neprejde do režimu spánku. Klepnutím zastavíte službu.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Služba pre nevypnutie obrazovky</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Služba je spustená</string>
+    <string name="caffeine_tile_service_notification_content_text">Zariadenie neprejde do režimu spánku. Klepnutím zastavíte službu.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>

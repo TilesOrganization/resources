@@ -126,21 +126,17 @@
     <string name="settings_ringer_mode_tile_play_sound_title">Hang lejátszása</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Hang lejátszásának mellőzése Normál csengetési mód esetén</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása Normál csengetési mód esetén</string>
-    <!--screen on-->
-    <string name="settings_screen_on_tile_action_start_stop_service">Szolgáltatás indítása/leállítása</string>
-    <string name="settings_screen_on_tile_action_collapse_start_service">Gyorsbeállítások panel bezárása és a szolgáltatás indítása</string>
-    <string name="settings_screen_on_tile_action_start_service">Szolgáltatás elindítása a Gyorsbeállítások panel bezárása nélkül</string>
-    <string name="settings_screen_on_tile_running_service_notification_title">Értesítés futó szolgáltatásról</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_on">Állandó értesítés futó szolgáltatás alatt</string>
-    <string name="settings_screen_on_tile_running_service_notification_summary_off">Értesítés elrejtése</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_on">Opció megjelenítése a beállítások megnyitásához</string>
-    <string name="settings_screen_on_tile_running_service_notification_action_summary_off">Opció elrejtése</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_title">Hang lejátszása</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_off">Nincs hang a szolgáltatás indulásakor</string>
-    <string name="settings_screen_on_tile_running_service_notification_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása a szolgáltatás indulásakor</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_title">Rezgés</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_off">Nincs rezgés a szolgáltatás indulásakor</string>
-    <string name="settings_screen_on_tile_running_service_notification_vibrate_summary_on">Rezgés a szolgáltatás indulásakor</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_action_collapse_start_service">Gyorsbeállítások panel bezárása és a szolgáltatás indítása</string>
+    <string name="settings_caffeine_tile_action_start_service">Szolgáltatás elindítása a Gyorsbeállítások panel bezárása nélkül</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Opció megjelenítése a beállítások megnyitásához</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Opció elrejtése</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Hang lejátszása</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Nincs hang a szolgáltatás indulásakor</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása a szolgáltatás indulásakor</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Rezgés</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Nincs rezgés a szolgáltatás indulásakor</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Rezgés a szolgáltatás indulásakor</string>
     <!--sync-->
     <string name="settings_sync_tile_action_change_sync">Szinkronizálási státusz megváltoztatása</string>
     <string name="settings_sync_tile_action_open_sync_settings">Szinkronizálási beállítások megnyitása</string>

@@ -96,13 +96,10 @@
     <string name="ringer_mode_tile_label_silent">Silencio</string>
     <string name="ringer_mode_tile_label_vibrate">Vibración</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir a Tile cambiar el modo de sonido, por favor, accede a los ajustes y concede permiso para modificar los ajustes de No Molestar.</string>
-    <!--screen on-->
-    <string name="screen_on_tile_label">Pantalla activa</string>
-    <string name="screen_on_tile_dialog_wake_lock_running">El servicio de pantalla activa está activado.\n¿Desactivar el servicio?</string>
-    <string name="screen_on_tile_dialog_wake_lock_not_running">El servicio de pantalla activa no está activado.\n¿Activar el servicio?</string>
-    <string name="screen_on_tile_service_notification_title">Servicio en uso</string>
-    <string name="screen_on_tile_service_notification_content_text">El dispositivo no se bloqueará. Pulsa para detener el servicio.</string>
-    <string name="screen_on_tile_service_notification_sub_text">Servicio de pantalla activa</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_service_notification_title">Servicio en uso</string>
+    <string name="caffeine_tile_service_notification_content_text">El dispositivo no se bloqueará. Pulsa para detener el servicio.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Para permitir a Tile acceder a la ubicación, por favor, accede a los ajustes y concede permiso para modificar los ajustes de ubicación.</string>

@@ -97,7 +97,7 @@
     <string name="ringer_mode_tile_label_vibrate">Вибрация</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста, откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_label">Режим бодрствования</string>
     <string name="caffeine_tile_service_notification_title">Сервис запущен</string>
     <string name="caffeine_tile_service_notification_content_text">Устройство не заснет. Нажмите, чтобы остановить сервис.</string>
     <!--streetview-->

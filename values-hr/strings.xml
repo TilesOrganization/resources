@@ -81,7 +81,7 @@
     <string name="nfc_tile_alert_dialog_message">Da biste pločici omogućili promjenu stanja NFC-a, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">Dijalog za napajanje</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">Da biste pločici omogućili prikaz dijaloškog okvira napajanja, otvorite postavke i dozvolite pristp uslugama pristupačnosti.</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Da biste pločici omogućili prikaz dijaloškog okvira napajanja, otvorite postavke i dozvolite pristup uslugama pristupačnosti.</string>
     <string name="power_tile_action_system_power_dialog">Dijaloški okvir sustava</string>
     <string name="power_tile_action_power_dialog">Dijalog za napajanje</string>
     <string name="power_tile_label">Napajanje</string>
@@ -277,7 +277,7 @@
     <string name="density_tile_density_custom">Prilagođena gustoća</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Budan dok je priključen na izvor napajanja</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">Da biste dopustili pločici promjenu stanja uređaja dok je priključen na izvor napajanja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Da biste pločici omogućili promjenu stanja uređaja dok je priključen na izvor napajanja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Omogućava aplikaciji dohvaćanje podataka iz servisa sustava. Dozvole s ovom razinom zaštite odobrene su samo aplikacijama sustava. Redovna aplikacija nikada neće moći upotrebljavati ta dopuštenja.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Pločicama je dodijeljena superuser dozvola za interaktivnu ljusku. Želite li programatički %s dozvolu za dohvaćanje podataka iz servisa sustava koristeći superuser interaktivnu ljusku?</string>
@@ -315,88 +315,88 @@
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">Plutajuće obavijesti</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\u2019t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Da biste pločici omogućili izmjenu plutajućih obavijesti, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Androidov framework ne otkriva ikakve vidljive postavke plutajućih obavijesti. Obavezno uključite plutajuće obavijesti prije deinstalacije aplikacije kako biste pravilno vratili izvorno stanje.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Podijeljeni zaslon</string>
+    <string name="multi_window_tile_alert_dialog_message">Da biste pločici omogućili izmjenu podijeljenog zaslona, otvorite postavke i dozvolite pristup uslugama pristupačnosti.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Zaslon nedavno korištenih aplikacija</string>
+    <string name="recents_screens_tile_alert_dialog_message">Da biste pločici omogućili izmjenu zaslona nedavno korištenih aplikacija, otvorite postavke i dozvolite pristup uslugama pristupačnosti.</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
+    <string name="volumes_tile_label">Glasnoća</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Da biste pločici omogućili izmjenu promjenu glasnoće zvona, otvorite postavke i dozvolite pristup opciji "Ne ometaj".</string>
+    <string name="volumes_tile_volume_keys_disabled">Tipke za glasnoću privremeno su onemogućene</string>
     <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_volume_media">Mediji</string>
+    <string name="volumes_tile_volume_ring">Zvonjava</string>
+    <string name="volumes_tile_volume_call">Poziv</string>
     <!--vibrate on tap-->
-    <string name="vibrate_on_tap_tile_label">Vibrate on tap</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_label">Vibriraj na dodir</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Da biste pločici omogućili izmjenu vibriranje na dodir, otvorite postavke i odobrite izmjenu postavki sustava.</string>
     <!--touch sounds-->
-    <string name="touch_sounds_tile_label">Touch sounds</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_label">Zvuk dodirivanja</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Da biste pločici omogućili izmjenu zvuka dodirivanja, otvorite postavke i odobrite izmjenu postavki sustava.</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">Zaključavanje orijentacije</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Da biste pločici omogućili izmjenu zaključavanja orijentacije, otvorite postavke i odobrite izmjenu postavki sustava.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Orientation 0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Orientation 90</string>
+    <string name="orientation_lock_tile_label_rotation_180">Orientation 180</string>
+    <string name="orientation_lock_tile_label_rotation_270">Orientation 270</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Automatski rotiraj</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">Vibriraj za pozive</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Da biste pločici omogućili izmjenu vibracije za poziv, otvorite postavke i odobrite izmjenu postavki sustava.</string>
     <!--battery saver-->
-    <string name="battery_saver_tile_label">Battery saver</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
-    <string name="battery_saver_tile_device_charging_alert_dialog_message">Battery saver not available during charging.</string>
+    <string name="battery_saver_tile_label">Štednja baterije</string>
+    <string name="battery_saver_tile_alert_dialog_message">Da biste pločici omogućili da uključi ili isključi štednju baterije, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Štednja baterije nije dozvoljenja tijekom punjenja.</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">USB debugging</string>
-    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <string name="usb_debugging_tile_label">USB način rada za otklanjanje pogrešaka</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Da biste pločici izmjenu USB načina rada za otklanjanje pogrešaka, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--cellular data-->
-    <string name="cellular_data_tile_label">Cellular data</string>
-    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_label">Mobilni podaci</string>
+    <string name="cellular_data_tile_alert_dialog_message">Da biste pločici omogućili izmjenu mobilnih podataka, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobilne mreže</string>
+    <string name="cellular_data_tile_data_usage_label">Korištenje podataka</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">Glasnoća medija</string>
+    <string name="media_volume_tile_formatted_label">Glasnoća medija: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_label">Prečaci</string>
+    <string name="shortcut_a_tile_label">Prečac #1</string>
+    <string name="shortcut_b_tile_label">Prečac #2</string>
+    <string name="shortcut_c_tile_label">Prečac #3</string>
+    <string name="shortcut_d_tile_label">Prečac #4</string>
+    <string name="shortcut_e_tile_label">Prečac #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nijedan prečac nije odabran, otvorite postavke i odaberite prečac.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Nešto je pošlo po zlu, otvorite postavke i pregledajte odabrani prečac.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Da biste pločici omogućili izvođenje prečaca za biranje, otvorite postavke i odobrite dopuštenje telefonskog poziva.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Radnja nije dostupna. Uređaj ne podržava bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Monokromatske boje</string>
+    <string name="monochromacy_tile_alert_dialog_message">Da biste pločici omogućili izmjenu monokromatskih boja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Način unosa</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Kontakti</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nije odabran nijedan kontakt, otvorite postavke i odaberite kontakt.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Nešto je pošlo po zlu, otvorite postavke i pregledajte odabrani kontakt.</string>
+    <string name="contact_a_tile_label">Kontakt #1</string>
+    <string name="contact_b_tile_label">Kontakt #2</string>
+    <string name="contact_c_tile_label">Kontakt #3</string>
+    <string name="contact_d_tile_label">Kontakt #4</string>
+    <string name="contact_e_tile_label">Kontakt #5</string>
     <!--invert colors-->
-    <string name="invert_colors_tile_label">Invert colors</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_label">Inverzija boja</string>
+    <string name="invert_colors_tile_alert_dialog_message">Da biste pločici omogućili inverziju boja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Monoaudio</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Svjetlo obavijesti</string>
 </resources>

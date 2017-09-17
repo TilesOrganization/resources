@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Hiba történt, kérlek próbáld újra.</string>
     <string name="location_off_alert_dialog_message">A helymeghatározás ki van kapcsolva. A csempe aktuális helyhez való hozzáféréséhez kérlek engedélyezd a helymeghatározást a beállításokban.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
+    <string name="location_device_only_alert_dialog_message">Helymeghatározási mód Csak a készüléken. Gyorsabb és pontosabb eredményhez nyisd meg a beállításokat és válassz egy másik helymeghatárizási módot.</string>
     <string name="resolve_activity_alert_dialog_message">Nem található megfelelő alkalmazás a művelet végrehajtásához.</string>
     <string name="su_alert_dialog_message">Ilyen művelet végrehajtásához superuser engedélyre van szükség egy interaktív shell parancshoz.</string>
     <string name="play_services_alert_dialog_message">Ilyen művelet végrehajtásához Google Play Szolgáltatásokra van szükség. Kérlek telepítsd előbb fel, majd próbáld újra.</string>
@@ -81,7 +81,7 @@
     <string name="nfc_tile_alert_dialog_message">Az NFC helyzetének csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!--power-->
     <string name="power_dialog_accessibility_tile_label">Kikapcsolás menü</string>
-    <string name="power_tile_accessibility_service_alert_dialog_message">A csempe kikapcsolás menühoz való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a hozzáférhetőségi szolgáltatást.</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">A csempe kikapcsolás menühoz való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a kisegítő szolgáltatást.</string>
     <string name="power_tile_action_system_power_dialog">Kikapcsolás menü</string>
     <string name="power_tile_action_power_dialog">Kikapcsolás menü</string>
     <string name="power_tile_label">Kikapcsolás</string>
@@ -97,7 +97,7 @@
     <string name="ringer_mode_tile_label_vibrate">Rezgő</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">A csengetési mód csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és engedélyezd a hozzáférést a Ne Zavarjanak funkcióhoz.</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_label">Koffein</string>
     <string name="caffeine_tile_service_notification_title">A szolgáltatás fut</string>
     <string name="caffeine_tile_service_notification_content_text">A képernyő bekapcsolva marad, amíg ide nem koppintasz.</string>
     <!--streetview-->
@@ -111,7 +111,7 @@
     <!--weather-->
     <string name="weather_tile_label">Időjárás</string>
     <string name="weather_tile_location_permission_alert_dialog_message">A csempe időjárási körülményekhez való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a helyhez való hozzáférést.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Időjárási körülmények lekérdezése. Kérlek várj.</string>
     <string name="weather_formatted_temperature_celsius">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Érzet: &lt;b>%1$.1f&lt;/b> \u2103</string>
@@ -274,7 +274,7 @@
     <string name="density_tile_density_xhigh">X Magas (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">XX Magas (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">XXX Magas (xxxhdpi): ~640dpi</string>
-    <string name="density_tile_density_custom">Custom density</string>
+    <string name="density_tile_density_custom">Egyedi képpontsűrűség</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Töltés közbeni ébrentartás</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">A töltés közbeni ébrentartás csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
@@ -300,7 +300,7 @@
     <string name="demo_mode_tile_state_disconnected">Szétkapcsolva</string>
     <string name="demo_mode_tile_state_connected">Csatlakoztatva</string>
     <string name="demo_mode_tile_mobile">Mobilhálózatok</string>
-    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Adatbarangolás</string>
     <string name="demo_mode_tile_notifications">Értesítések</string>
     <string name="demo_mode_tile_alarm">Riasztás</string>
     <string name="demo_mode_tile_location">Tartózkodási hely</string>
@@ -316,87 +316,87 @@
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">Felugró értesítések</string>
     <string name="heads_up_notifications_tile_alert_dialog_message">A csempe felugró értesítésekhez való hozzáféréshez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások módosításához.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\'t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Az Android framework nem tesz elérhetővé felugró értesítési beállításokat, ezért az eredeti állapothoz való visszatéréshez az alkalmazás eltávolítása előtt mindenképpen állítsd vissza ezt a beállítást.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Többablakos mód</string>
+    <string name="multi_window_tile_alert_dialog_message">A többablakos mód csempe általi ki-/bekapcsolásának engedélyezéséhez kérlek nyisd meg a beállításokat és engedélyezd a kisegítő szolgáltatást.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Előzmények képernyő</string>
+    <string name="recents_screens_tile_alert_dialog_message">Az előzmények képernyő csempe általi megjelenítésének engedélyezéséhez kérlek nyisd meg a beállításokat és engedélyezd a kisegítő szolgáltatást.</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
-    <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_label">Hangerő</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">A hangerők csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és engedélyezd a Ne zavarjanak funkcióhoz való hozzáférést.</string>
+    <string name="volumes_tile_volume_keys_disabled">Hangerő gombok ideiglenesen letiltva</string>
+    <string name="volumes_tile_volume_alarm">Ébresztő</string>
+    <string name="volumes_tile_volume_media">Média</string>
+    <string name="volumes_tile_volume_ring">Csörgetés</string>
+    <string name="volumes_tile_volume_call">Hívás</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">Rezgés koppintásra</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">A koppintásos rezgés csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">Érintési hangok</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Az érintési hangok csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">Forgatási zár</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Az eszközforgatás csempe általti zárolásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Forgatás 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Forgatás 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Forgatás 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Forgatás 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto. elforgatás</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">Hívásoknáli rezgés</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">A hívásoknáli rezgés csempe általti megváltoztatásának engedélyezéséhez nyisd meg kérlek a beállításokat és engedélyezd a rendszerbeállítások módosítását.</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">Akkumulátorkímélő mód</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
+    <string name="battery_saver_tile_alert_dialog_message">Az akkukímélő mód csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Az Akkumulátorkímélő módot töltés közben nem lehet használni.</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">USB debugging</string>
-    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <string name="usb_debugging_tile_label">USB hibakeresés</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Az USB hibakeresés csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobiladat-kapcsolat</string>
-    <string name="cellular_data_tile_alert_dialog_message">To allow the tile to change cellular data, please open settings and grant write secure settings permission.</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_alert_dialog_message">A mobiladat-kapcsolat csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobilhálózatok</string>
+    <string name="cellular_data_tile_data_usage_label">Adathasználat</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">Média hangerő</string>
+    <string name="media_volume_tile_formatted_label">Média hangerő: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_label">Parancsikonok</string>
+    <string name="shortcut_a_tile_label">Parancsikon #1</string>
+    <string name="shortcut_b_tile_label">Parancsikon #2</string>
+    <string name="shortcut_c_tile_label">Parancsikon #3</string>
+    <string name="shortcut_d_tile_label">Parancsikon #4</string>
+    <string name="shortcut_e_tile_label">Parancsikon #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nincs kiválasztott parancsikon, kérlek nyisd meg a beállításokat és válassz egy parancsikont.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Valamilyen hiba történt, kérlek nyisd meg a beállításokat és ellenőrizd a kiválasztott parancsikont.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">A gyorstárcsázás csempe általi kezdeményezéséhez kérlek nyisd meg a beállításokat és adj hozzáférést a telefonhívásokhoz.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Nem elérhető. Az eszköz nem támogatja a bluetooth-t.</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Monokromázia</string>
+    <string name="monochromacy_tile_alert_dialog_message">A monokromázia csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Beviteli mód</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Kapcsolatok</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nincs kiválaszott kapcsolat, kérlek nyisd meg a beállításokat és válassz ki egy kapcsolatot.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Valamilyen hiba történt, kérlek nyisd meg a beállításokat és ellenőrizd a kiválasztott kapcsolatot.</string>
+    <string name="contact_a_tile_label">Kapcsolat #1</string>
+    <string name="contact_b_tile_label">Kapcsolat #2</string>
+    <string name="contact_c_tile_label">Kapcsolat #3</string>
+    <string name="contact_d_tile_label">Kapcsolat #4</string>
+    <string name="contact_e_tile_label">Kapcsolat #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">Színek invertálása</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_alert_dialog_message">A színek csempe általi invertálásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Monó hang</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Értesítési fény</string>
 </resources>

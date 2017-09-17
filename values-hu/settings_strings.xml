@@ -11,11 +11,11 @@
     <string name="settings_action">Művelet</string>
     <string name="settings_layout">Kinézet</string>
     <string name="settings_notification">Értesítés</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
-    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme">Téma</string>
+    <string name="settings_theme_light">Világos</string>
+    <string name="settings_theme_dark">Sötét</string>
+    <string name="settings_theme_black">Fekete</string>
+    <string name="settings_theme_terminal">Terminál</string>
     <!--cancelable dialogs-->
     <string name="settings_design_dialogs">Dialógusok</string>
     <string name="settings_design_dialogs_not_cancelable">A rendszer vissza gombjával eltüntethetők a dialógusok</string>
@@ -297,7 +297,7 @@
     <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe be-/kikapcsolhatja a mobilnetet.</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Mobilnet be-/kikapcsolása</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Mobilhálózati beállítások megnyitása</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Adathasználati beállítások megnyitása</string>
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Kiválasztott parancsikon</string>
     <string name="settings_shortcuts_tile_summary_empty">Nincs kiválasztott parancsikon</string>
@@ -319,6 +319,6 @@
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe invertálhatja a színeket.</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem invertálhatja a színeket.</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Tárhely beállítások megnyitása</string>
+    <string name="settings_storage_tile_action_open_file_manager">Fájlkezelő megnyitása</string>
 </resources>

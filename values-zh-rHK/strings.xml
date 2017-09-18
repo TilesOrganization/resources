@@ -97,7 +97,7 @@
     <string name="ringer_mode_tile_label_vibrate">震動</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_label">保持屏幕開啟</string>
     <string name="caffeine_tile_service_notification_title">服務正在運行</string>
     <string name="caffeine_tile_service_notification_content_text">裝置會保持屏幕開啟，輕按以停止服務。</string>
     <!--streetview-->

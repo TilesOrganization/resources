@@ -6,6 +6,7 @@
     <string name="description_animations_tile">變更視窗動畫比例、轉場動畫比例及Animator影片長度比例。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_application_tile">建立清單式應用程式捷徑。\n也可以建立單個應用程式捷徑。</string>
     <string name="description_awake_while_plugged_in_tile">充電時螢幕將不會進入休眠狀態。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
+    <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">開啟或關閉節省電池電力模式。節約耗電量模式會透過降低裝置效能、震動限制、定位服務限制和大多數背景資料運作限制等方式，延長電池續航力。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_bluetooth_tile">開啟、關閉藍牙或開啟藍牙設定。</string>
     <string name="description_brightness_tile">設定亮度級別(高、中、低)。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
@@ -54,6 +55,7 @@
     <string name="description_text_tile">開啟一個視窗方塊允許您輸入、複製貼上文字並進行快速分享至其他應用程式。</string>
     <string name="description_timer_tile">快速進行倒數計時。此快鄭設定磚亦可配合其他第三方應用程式使用。</string>
     <string name="description_touch_sounds_tile">開啟或關閉「輕觸音效」。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
+    <string name="description_up_time_tile">Show a persistent notification with the up time of the device. The label of the tile displays the up time of the device when the notification is active.</string>
     <string name="description_usb_debugging_tile">開啟或關閉USB偵錯模式\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_vibrate_for_calls_tile">允許快速開啟或關閉「來電時同時震動」的使用狀態。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_vibrate_on_tap_tile">允許快速開啟或關閉「輕觸震動」的使用狀態。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>

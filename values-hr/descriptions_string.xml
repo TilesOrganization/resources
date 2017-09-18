@@ -6,6 +6,7 @@
     <string name="description_animations_tile">Postavite veličinu animacija za animatora, prijelaze i prozore.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_application_tile">Izradite popis aplikacija koji će se prikazati u dijaloškom okviru.\nMoguće je izraditi i 5 pojedinačnih pločica s aplikacijama.</string>
     <string name="description_awake_while_plugged_in_tile">Uređaj nikad neće biti u stanju mirovanja sve dok je priključen u izvor napajanja.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
+    <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Uključite i isključite štednju baterije. Dok je štednja baterije uključena, perfomanse uređaja se smanjuju, a lokacijske usluge i pozadinski podaci su isključeni.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_bluetooth_tile">Uključite ili isključite Bluetooth ili otvorite Bluetooth postavke.</string>
     <string name="description_brightness_tile">Postavite tri različite razine (visoka, srednja i niska) osvjetljenja za odabrati.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
@@ -54,6 +55,7 @@
     <string name="description_text_tile">Otvorite dijaloški okvir za pisanje, kopiranje, dijeljenje ili spremanje s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi dijeljenja teksta.</string>
     <string name="description_timer_tile">Pokrenite odbrojavanje. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi pokretanja odbrojavanja.</string>
     <string name="description_touch_sounds_tile">Uključite ili isključite zvuk dodirivanja.\nPotrebno je dozvoliti izmjenu dopuštenja postavki sustava kako bi koristili ovu pločicu.</string>
+    <string name="description_up_time_tile">Show a persistent notification with the up time of the device. The label of the tile displays the up time of the device when the notification is active.</string>
     <string name="description_usb_debugging_tile">Uključite ili isključite USB način rada za otklanjanje pogrešaka.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_vibrate_for_calls_tile">Uključite ili isključite vibracije za dolazne pozive.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_vibrate_on_tap_tile">Uključite ili isključite vibracije za dodire.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>

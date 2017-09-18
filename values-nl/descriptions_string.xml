@@ -6,6 +6,7 @@
     <string name="description_animations_tile">Stel de animatie schaal in voor animator, overgang en scherm in. \nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te gebruiken.</string>
     <string name="description_application_tile">Maak een lijst van applicaties die worden weergegeven in een dialoog.\nVijf applicatietegels zijn beschikbaar.</string>
     <string name="description_awake_while_plugged_in_tile">Toestel zal nooit in slaapmodus gaan zolang het wordt opgeladen.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Schakel accubesparing in of uit. Wanneer accubesparing aan staat, prestaties zijn gereduceerd en locatieservices  en achtergrond data zijn uitgeschakeld.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken</string>
     <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Stel drie verschillende helderheidsniveaus (hoog, mediu &amp; laag) in om doorheen te bladeren.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
@@ -54,6 +55,7 @@
     <string name="description_text_tile">Open een dialoog om iets op te schrijven, te kopiëren, te delen, of op te slaan met een app van derden die de standaard Android broadcast kunnen ontvangen om tekst te delen.</string>
     <string name="description_timer_tile">Start een countdown timer. De actie is te gebruiken met apps van derden die de standaard Android broadcast kunnen ontvangen om een countdown timer te starten.</string>
     <string name="description_touch_sounds_tile">Schakel aanraakgeluiden aan of uit.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_up_time_tile">Show a persistent notification with the up time of the device. The label of the tile displays the up time of the device when the notification is active.</string>
     <string name="description_usb_debugging_tile">Zet debug modus aan wanneer USB is aangesloten aan of uit.\nToestemming voor beveiligde instellingen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_vibrate_for_calls_tile">Schakel trillen voor inkomende oproepen in of uit.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_vibrate_on_tap_tile">Schakel aanraak trillingen in of uit.\n Toestemming om systeeminstellingen te kunnen wijzigen is nodig om deze tegel te kunnen gebruiken.</string>

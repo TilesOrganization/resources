@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Reinicie blocos ativos</string>
     <string name="settings_restart_active_tiles_summary">Força a reinicialização de blocos ativos. Use isso se alguns blocos não estiverem respondendo, depois de terem sido finalizados pelo sistema.</string>
     <string name="settings_restart_active_tiles_summary_processing">Processando a reiniciação forçada de blocos ativos.</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Permissão</string>
     <string name="settings_phone_call_permission_title">Permissão de chamada telefônica</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Visibilidade do bloco</string>
     <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
     <string name="settings_component_summary_on">Mostrar o bloco no layout de Configurações Rápidas</string>
+    <string name="settings_tile_action_start_service_and_collapse">Recolher o painel de Configurações Rápidas e iniciar do serviço</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Iniciar o serviço sem recolher o painel de Configurações Rápidas</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não foi permitido mudar o modo do brilho</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco foi permitido mudar o modo do brilho</string>
@@ -127,8 +133,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não reproduzir qualquer som quando o modo do som normal está selecionado</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproduzir som de notificação padrão quando o modo do som normal é selecionado</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Recolher o painel de Configurações Rápidas e iniciar do serviço</string>
-    <string name="settings_caffeine_tile_action_start_service">Iniciar o serviço sem recolher o painel de Configurações Rápidas</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Mostrar ação para abrir configurações</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Esconder ação</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduzir som</string>
@@ -321,4 +325,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Abrir configurações de armazenamento</string>
     <string name="settings_storage_tile_action_open_file_manager">Abrir gerenciador de arquivos</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

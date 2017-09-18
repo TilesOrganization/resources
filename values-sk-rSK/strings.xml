@@ -21,6 +21,19 @@
     <string name="warning">Upozornenie</string>
     <string name="accessibility_service_label">Služba Dostupnosť</string>
     <string name="accessibility_service_description">Služba Dostupnosť umožňuje Tiles vykonávať globálne akcie: zobraziť systémovú ponuku napájania, zobraziť nedávne aplikácie, prepnúť rozdelenú obrazovku.</string>
+    <string name="fifteen_minutes">15 minutes</string>
+    <string name="thirty_minutes">30 minutes</string>
+    <string name="forty_two_minutes">42 minutes</string>
+    <string name="forty_five_minutes">45 minutes</string>
+    <string name="one_hour">1 hour</string>
+    <string name="two_hours">2 hours</string>
+    <string name="three_hours">3 hours</string>
+    <string name="six_hours">6 hours</string>
+    <string name="twelve_hours">12 hours</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -399,4 +412,26 @@
     <string name="mono_audio_tile_label">Zvuk mono</string>
     <!-- notification light -->
     <string name="notification_light_tile_label">Svetlo upozornenia</string>
+    <!--battery details-->
+    <string name="battery_details_tile_label">Battery details</string>
+    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
+    <string name="battery_details_tile_discharging">Discharging</string>
+    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_usb">USB</string>
+    <string name="battery_details_tile_ac">AC</string>
+    <string name="battery_details_tile_wireless">Wireless</string>
+    <string name="battery_details_tile_formatted_health">Health: %s</string>
+    <string name="battery_details_tile_health_cold">Cold</string>
+    <string name="battery_details_tile_health_dead">Dead</string>
+    <string name="battery_details_tile_health_good">Good</string>
+    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
+    <string name="battery_details_tile_health_overheat">Overheat</string>
+    <string name="battery_details_tile_unknown">Unknown</string>
+    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
+    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <!--uptime-->
+    <string name="up_time_tile_label">Doba prevádzky</string>
+    <string name="up_time_tile_formatted_uptime">Doba prevádzky: %s</string>
 </resources>

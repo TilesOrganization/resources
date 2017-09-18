@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Перезагрузить активные плитки</string>
     <string name="settings_restart_active_tiles_summary">Насильно перезагрузить активные плитки. Используйте эту опцию, если некоторые плитки перестали отвечать после их отключения системой.</string>
     <string name="settings_restart_active_tiles_summary_processing">Выполняю перезагрузку активных плиток.</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Разрешение</string>
     <string name="settings_phone_call_permission_title">Разрешение на осуществление телефонных вызовов</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Видимость плитки</string>
     <string name="settings_component_summary_off">Скрыть плитку из панели быстрых настроек</string>
     <string name="settings_component_summary_on">Показать плитку в панели быстрых настроек</string>
+    <string name="settings_tile_action_start_service_and_collapse">Свернуть панель быстрых настроек и запустить сервис</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Запустить сервис, не сворачивая панель быстрых настроек</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим автонастройки яркости</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
@@ -129,8 +135,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Не воспроизводить звук при выборе нормального режима звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Свернуть панель быстрых настроек и запустить сервис</string>
-    <string name="settings_caffeine_tile_action_start_service">Запустить сервис, не сворачивая панель быстрых настроек</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Скрыть действие</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>
@@ -323,4 +327,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Открыть настройки хранилища данных</string>
     <string name="settings_storage_tile_action_open_file_manager">Открыть файловый менеджер</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

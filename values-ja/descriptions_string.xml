@@ -6,6 +6,7 @@
     <string name="description_animations_tile">アニメーター再生時間とトランジションアニメとウィンドウアニメのスケールを設定します。\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
     <string name="description_awake_while_plugged_in_tile">充電中に画面をスリープにしません。\nWrite secure settings permission is required to use this tile.</string>
+    <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Set three different levels (high, medium &amp; low) of brightness to cycle through.\nModify system settings permission is required to use this tile.</string>
@@ -54,6 +55,7 @@
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permissions required to use this tile.</string>
+    <string name="description_up_time_tile">Show a persistent notification with the up time of the device. The label of the tile displays the up time of the device when the notification is active.</string>
     <string name="description_usb_debugging_tile">Turn debug mode when USB is connected on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_vibrate_for_calls_tile">Turn vibrations for incoming calls on or off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_vibrate_on_tap_tile">Turn vibrations for taps on or off.\nModify system settings permission is required to use this tile.</string>

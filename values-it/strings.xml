@@ -21,6 +21,19 @@
     <string name="warning">Avvertimento</string>
     <string name="accessibility_service_label">Servizio accessibilità</string>
     <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare finestra di dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window.</string>
+    <string name="fifteen_minutes">15 minuti</string>
+    <string name="thirty_minutes">30 minuti</string>
+    <string name="forty_two_minutes">42 minuti</string>
+    <string name="forty_five_minutes">45 minuti</string>
+    <string name="one_hour">1 ora</string>
+    <string name="two_hours">2 ore</string>
+    <string name="three_hours">3 ore</string>
+    <string name="six_hours">6 ore</string>
+    <string name="twelve_hours">12 ore</string>
+    <string name="start">Inizia</string>
+    <string name="stop">Arresta</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Centigradi</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -180,7 +193,7 @@
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sospendi</string>
+    <string name="sleep_tile_label">Sospensione</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Screenshot</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Per permettere alla funzione di acquisire e archiviare screenshot, per favore aprire le impostazioni e concedere l\'autorizzazione archiviazione.</string>
@@ -399,4 +412,26 @@
     <string name="mono_audio_tile_label">Audio mono</string>
     <!-- notification light -->
     <string name="notification_light_tile_label">Luce notifica</string>
+    <!--battery details-->
+    <string name="battery_details_tile_label">Dettagli batteria</string>
+    <string name="battery_details_tile_formatted_battery_level">Livello batteria: %1d%%</string>
+    <string name="battery_details_tile_discharging">Non in carica</string>
+    <string name="battery_details_tile_formatted_charging">In carica: %s</string>
+    <string name="battery_details_tile_usb">USB</string>
+    <string name="battery_details_tile_ac">AC</string>
+    <string name="battery_details_tile_wireless">Wireless</string>
+    <string name="battery_details_tile_formatted_health">Salute: %s</string>
+    <string name="battery_details_tile_health_cold">Fredda</string>
+    <string name="battery_details_tile_health_dead">Morta</string>
+    <string name="battery_details_tile_health_good">Buona</string>
+    <string name="battery_details_tile_health_over_voltage">Sovraccaricamento</string>
+    <string name="battery_details_tile_health_overheat">Surriscaldamento</string>
+    <string name="battery_details_tile_unknown">Sconosciuta</string>
+    <string name="battery_details_tile_unspecified_failure">Errore non specificato</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Voltaggio: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Tecnologia: %s</string>
+    <!--uptime-->
+    <string name="up_time_tile_label">Tempo di attività</string>
+    <string name="up_time_tile_formatted_uptime">Tempo di attività: %s</string>
 </resources>

@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Reštartovať aktívne dlaždice</string>
     <string name="settings_restart_active_tiles_summary">Vynútiť reštartovanie aktívnych dlaždíc. Použite túto akciu ak niektoré dlaždice neodpovedajú po ukončení systémom.</string>
     <string name="settings_restart_active_tiles_summary_processing">Prebieha vynútené reštartovanie aktívnych dlaždíc.</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Povolenie</string>
     <string name="settings_phone_call_permission_title">Povolenie Hovor</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Viditeľnosť dlaždice</string>
     <string name="settings_component_summary_off">Skryť dlaždicu v rýchlych nastaveniach</string>
     <string name="settings_component_summary_on">Zobraziť dlaždicu v rýchlych nastaveniach</string>
+    <string name="settings_tile_action_start_service_and_collapse">Zavrieť panel s rýchlymi nastaveniami a spustiť službu</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Spustiť službu bez zatvorenia panela s rýchlymi nastaveniami</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže upravovať režim jasu</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Povolené. Dlaždica môže upravovať režim jasu</string>
@@ -128,8 +134,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Neprehrať žiadny zvuk, keď je vybraný normálny režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Prehrať predvolený zvuk upozornení, keď je vybraný normálny režim</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Zavrieť panel s rýchlymi nastaveniami a spustiť službu</string>
-    <string name="settings_caffeine_tile_action_start_service">Spustiť službu bez zatvorenia panela s rýchlymi nastaveniami</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skryť akciu</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Prehrať zvuk</string>
@@ -322,4 +326,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Otvoriť nastavenia úložiska</string>
     <string name="settings_storage_tile_action_open_file_manager">Otvoriť správcu súborov</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

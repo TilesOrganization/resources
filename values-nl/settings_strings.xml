@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Herstart actieve tegels</string>
     <string name="settings_restart_active_tiles_summary">Forceer herstarten actieve tegels. Gebruik deze actie wanneer sommige tegels niet reageren, nadat ze gestopt zijn door het systeem.</string>
     <string name="settings_restart_active_tiles_summary_processing">Verwerken van geforceerd herstarten van actieve tegels.</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Permission</string>
     <string name="settings_phone_call_permission_title">Phone call permission</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Tegel zichtbaarheid</string>
     <string name="settings_component_summary_off">Verberg de tegel in de Quick Settings layout</string>
     <string name="settings_component_summary_on">Laat de tegel in de Quick Settings layout zien</string>
+    <string name="settings_tile_action_start_service_and_collapse">Collapse Quick Settings panel and start service</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Geweigerd. De tegel heeft geen toestemming om de helderheid modus te veranderen</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Toegekend. De tegel heeft toestemming om de helderheid modus te veranderen</string>
@@ -127,8 +133,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Speel geen geluid af wanneer standaard beltoonvolume is geselecteerd</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Speel standaard notificatie gluid af wanneer staandaard beltoonvolume is geselcteerd</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Collapse Quick Settings panel and start service</string>
-    <string name="settings_caffeine_tile_action_start_service">Start service without collapsing the Quick Settings panel</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Laat actie zien om instellingen te openen</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Verberg actie</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Geluid afspelen</string>
@@ -321,4 +325,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
     <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

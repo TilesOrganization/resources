@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Ponovo pokreni aktivne pločice</string>
     <string name="settings_restart_active_tiles_summary">Prisilno ponovno pokreni aktivne pločice. Koristite ovu akciju ako neke pločice ne reagiraju, nakon što ih je sustav ubio</string>
     <string name="settings_restart_active_tiles_summary_processing">Obrada prisilnog ponovnog pokretanja aktivnih pločica</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Dopuštenja</string>
     <string name="settings_phone_call_permission_title">Dopuštenja za telefonski poziv</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Vidljivost pločica</string>
     <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>
     <string name="settings_component_summary_on">Prikaži pločicu u prikazu brzih postavki</string>
+    <string name="settings_tile_action_start_service_and_collapse">Zatvori listu brzih postavki i pokreni uslugu</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način svjetline</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način svjetline</string>
@@ -128,8 +134,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nemojte reproducirati zvuk kad je odabran normalni način zvona</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Zatvori listu brzih postavki i pokreni uslugu</string>
-    <string name="settings_caffeine_tile_action_start_service">Pokreni uslugu bez zatvaranja ploče brzih postavki</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>
@@ -322,4 +326,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Otvori postavke pohrane</string>
     <string name="settings_storage_tile_action_open_file_manager">Otvori upravitelj datoteka</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

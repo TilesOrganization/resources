@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Riavvia funzioni attive</string>
     <string name="settings_restart_active_tiles_summary">Riavvio forzato delle funzioni attive. Usare questa azione se alcune funzioni non rispondono, dopo essere state terminate dal sistema.</string>
     <string name="settings_restart_active_tiles_summary_processing">Processando riavvio delle funzioni attive.</string>
+    <string name="settings_scheduled_restart_tiles_title">Riavvio pianificato</string>
     <!--UX-->
     <string name="settings_permission">Autorizzazione</string>
     <string name="settings_phone_call_permission_title">Autorizzazione telefono</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Visibilità funzione</string>
     <string name="settings_component_summary_off">Nascondi la funzione nel pannello delle impostazioni veloci</string>
     <string name="settings_component_summary_on">Visualizza la funzione nel pannello delle impostazioni veloci</string>
+    <string name="settings_tile_action_start_service_and_collapse">Chiudi il pannello delle impostazioni veloci e inizia servizio</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Inizia servizio senza chiudere il pannello delle impostazioni veloci</string>
+    <string name="settings_stop_on_sleep_title">Arresta quando sospeso</string>
+    <string name="settings_stop_on_sleep_summary_on">Arresta servizio quando il dispositivo entra in sospensione</string>
+    <string name="settings_stop_on_sleep_summary_off">Lascia servizio in esecuzione quando il dispositivo entra in sospensione</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
@@ -127,8 +133,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Non emettere suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Emetti suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Chiudi il pannello delle impostazioni veloci e inizia servizio</string>
-    <string name="settings_caffeine_tile_action_start_service">Inizia servizio senza chiudere il pannello delle impostazioni veloci</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Visualizza azione per aprire le impostazioni</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Nascondi azione</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Emetti suono</string>
@@ -321,4 +325,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Apri impostazioni spazio di archiviazione</string>
     <string name="settings_storage_tile_action_open_file_manager">Apri file manager</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Salute</string>
+    <string name="settings_battery_details_tile_temperature">Temperatura</string>
+    <string name="settings_battery_details_tile_temperature_units">Unità temperatura</string>
+    <string name="settings_battery_details_tile_voltage">Voltaggio</string>
+    <string name="settings_battery_details_tile_technology">Tecnologia</string>
 </resources>

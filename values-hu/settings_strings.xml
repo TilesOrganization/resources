@@ -40,6 +40,7 @@
     <string name="settings_restart_active_tiles_title">Aktív csempék újraindítása</string>
     <string name="settings_restart_active_tiles_summary">Aktív csempék kényszerített újraindítása. Használd ezt a lehetőséget, ha a rendszer leállította a csempéket, így azok nem reagálnak.</string>
     <string name="settings_restart_active_tiles_summary_processing">Aktív csempék újraindítása folyamatban</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
     <!--UX-->
     <string name="settings_permission">Engedély</string>
     <string name="settings_phone_call_permission_title">Telefon(hívás) engedély</string>
@@ -73,6 +74,11 @@
     <string name="settings_component_summary_title">Csempe láthatósága</string>
     <string name="settings_component_summary_off">Csempe elrejtve a Gyorsbeállítások felületen</string>
     <string name="settings_component_summary_on">Csempe megjelenítve a Gyorsbeállítások felületen</string>
+    <string name="settings_tile_action_start_service_and_collapse">Gyorsbeállítások panel bezárása és a szolgáltatás indítása</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Szolgáltatás elindítása a Gyorsbeállítások panel bezárása nélkül</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Megtagadva. A csempe nem állíthat a fényerő módon.</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Engedélyezve. A csempe állíthat a fényerő módon.</string>
@@ -127,8 +133,6 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Hang lejátszásának mellőzése Normál csengetési mód esetén</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása Normál csengetési mód esetén</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_action_collapse_start_service">Gyorsbeállítások panel bezárása és a szolgáltatás indítása</string>
-    <string name="settings_caffeine_tile_action_start_service">Szolgáltatás elindítása a Gyorsbeállítások panel bezárása nélkül</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Opció megjelenítése a beállítások megnyitásához</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Opció elrejtése</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Hang lejátszása</string>
@@ -321,4 +325,10 @@
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Tárhely beállítások megnyitása</string>
     <string name="settings_storage_tile_action_open_file_manager">Fájlkezelő megnyitása</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
 </resources>

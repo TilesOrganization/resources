@@ -40,7 +40,7 @@
     <string name="settings_restart_active_tiles_title">Перезагрузить активные плитки</string>
     <string name="settings_restart_active_tiles_summary">Насильно перезагрузить активные плитки. Используйте эту опцию, если некоторые плитки перестали отвечать после их отключения системой.</string>
     <string name="settings_restart_active_tiles_summary_processing">Выполняю перезагрузку активных плиток.</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_scheduled_restart_tiles_title">Запланированная перезагрузка</string>
     <!--UX-->
     <string name="settings_permission">Разрешение</string>
     <string name="settings_phone_call_permission_title">Разрешение на осуществление телефонных вызовов</string>
@@ -76,9 +76,9 @@
     <string name="settings_component_summary_on">Показать плитку в панели быстрых настроек</string>
     <string name="settings_tile_action_start_service_and_collapse">Свернуть панель быстрых настроек и запустить сервис</string>
     <string name="settings_tile_action_start_service_without_collapsing">Запустить сервис, не сворачивая панель быстрых настроек</string>
-    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
-    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
-    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_title">Остановиться при переходе в спящий режим</string>
+    <string name="settings_stop_on_sleep_summary_on">Остановить сервис при переходе устройства в спящий режим</string>
+    <string name="settings_stop_on_sleep_summary_off">Разрешить работу сервиса при переходе устройства в спящий режим</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Запрещено. Плитка не может менять режим автонастройки яркости</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять режим автонастройки яркости</string>
@@ -328,9 +328,9 @@
     <string name="settings_storage_tile_action_open_storage_settings">Открыть настройки хранилища данных</string>
     <string name="settings_storage_tile_action_open_file_manager">Открыть файловый менеджер</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">Физическое состояние</string>
+    <string name="settings_battery_details_tile_temperature">Температура</string>
+    <string name="settings_battery_details_tile_temperature_units">Ед. измерения температуры</string>
+    <string name="settings_battery_details_tile_voltage">Напряжение</string>
+    <string name="settings_battery_details_tile_technology">Тип батареи</string>
 </resources>

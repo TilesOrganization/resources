@@ -6,7 +6,7 @@
     <string name="description_animations_tile">「動畫」允許變更視窗動畫比例、轉場動畫比例及Animator片長比例。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_application_tile">「應用程式」允許建立包含多個應用程式的清單式快速存取及提供5個獨立應用程式的快速存取。</string>
     <string name="description_awake_while_plugged_in_tile">「充電時保持亮屏」開啟時會令裝置在充電時一直保持亮屏狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
-    <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
+    <string name="description_battery_details_tile">「電源詳情」，顯示一個包含電量百分比、充電時、放電時的電壓、溫度、健康狀態的固定通知。此快速設定磚的圖標及名稱會在固定通知生效時顯示電量百分比。</string>
     <string name="description_battery_saver_tile">「省電模式」允許快速開啟或關閉省電模式。節約電池用量模式開啟後有助於延長電池壽命，但會降低裝置的效能。並限制震動、定位服務和大部分的背景資料。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_bluetooth_tile">「藍芽」允許快速開啟或關閉藍芽及開啟藍芽設定。</string>
     <string name="description_brightness_tile">「亮度」允許快速設定亮度程度(高、中、低）\n使用此快速設定磚需要授予修改系統設定的權限。</string>
@@ -55,7 +55,7 @@
     <string name="description_text_tile">「文本分享」，開啟一個視窗方塊允許你輸入、複製貼上文字並進行快速分享至其他應用程式。</string>
     <string name="description_timer_tile">「倒數計時器」，快速進行倒數計時。此快鄭設定磚亦可配合其他第三方應用程式使用。</string>
     <string name="description_touch_sounds_tile">「輕觸音效」，開啟或關閉「輕觸音效」。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
-    <string name="description_up_time_tile">Show a persistent notification with the up time of the device. The label of the tile displays the up time of the device when the notification is active.</string>
+    <string name="description_up_time_tile">「裝置持續啟用時間」，顯示一個裝置持續啟用時間的固定通知。快速設定磚的名稱會在通知生效時顯示裝置持續啟用時間</string>
     <string name="description_usb_debugging_tile">「USB偵錯」，開啟或關閉USB偵錯模式\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_vibrate_for_calls_tile">「來電時同時震動」允許快速開啟或關閉「來電時同時震動」的使用狀態。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_vibrate_on_tap_tile">「輕觸震動」允許快速開啟或關閉「輕觸震動」的使用狀態。\n使用此快速設定磚需要授予修改系統設定的權限。</string>

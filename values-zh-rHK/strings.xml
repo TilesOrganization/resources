@@ -432,6 +432,6 @@
     <string name="battery_details_tile_formatted_voltage">電壓: %.5fV</string>
     <string name="battery_details_tile_formatted_technology">技術: %s</string>
     <!--uptime-->
-    <string name="up_time_tile_label">開機時間"</string>
-    <string name="up_time_tile_formatted_uptime">開機時間": %s</string>
+    <string name="up_time_tile_label">開機時間</string>
+    <string name="up_time_tile_formatted_uptime">開機時間: %s</string>
 </resources>

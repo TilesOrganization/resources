@@ -413,24 +413,24 @@
     <!-- notification light -->
     <string name="notification_light_tile_label">Luz de notificação</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">Detalhes da bateria</string>
+    <string name="battery_details_tile_formatted_battery_level">Nível da bateria: %1d%%</string>
+    <string name="battery_details_tile_discharging">Descarregando</string>
+    <string name="battery_details_tile_formatted_charging">Carregando: %s</string>
     <string name="battery_details_tile_usb">USB</string>
-    <string name="battery_details_tile_ac">AC</string>
+    <string name="battery_details_tile_ac">CA</string>
     <string name="battery_details_tile_wireless">Wireless</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_formatted_health">Saúde: %s</string>
+    <string name="battery_details_tile_health_cold">Frio</string>
+    <string name="battery_details_tile_health_dead">Morto</string>
+    <string name="battery_details_tile_health_good">Bom</string>
+    <string name="battery_details_tile_health_over_voltage">Sobretensão</string>
+    <string name="battery_details_tile_health_overheat">Superaquecimento</string>
+    <string name="battery_details_tile_unknown">Desconhecido</string>
+    <string name="battery_details_tile_unspecified_failure">Falha não especificada</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Voltagem: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Tecnologia: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Tempo de atividade</string>
     <string name="up_time_tile_formatted_uptime">Tempo de atividade: %s</string>

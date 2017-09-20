@@ -421,7 +421,7 @@
     <string name="battery_details_tile_ac">AC充電</string>
     <string name="battery_details_tile_wireless">無線充電</string>
     <string name="battery_details_tile_formatted_health">健康狀態: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
+    <string name="battery_details_tile_health_cold">冰冷</string>
     <string name="battery_details_tile_health_dead">惡劣</string>
     <string name="battery_details_tile_health_good">良好</string>
     <string name="battery_details_tile_health_over_voltage">過量電壓</string>

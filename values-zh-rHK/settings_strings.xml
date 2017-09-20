@@ -12,7 +12,7 @@
     <string name="settings_layout">佈局</string>
     <string name="settings_notification">通知</string>
     <string name="settings_theme">主題顏色</string>
-    <string name="settings_theme_light">日光模式Light</string>
+    <string name="settings_theme_light">日光模式</string>
     <string name="settings_theme_dark">夜間模式</string>
     <string name="settings_theme_black">Amoled模式(黑色)</string>
     <string name="settings_theme_terminal">終端機</string>

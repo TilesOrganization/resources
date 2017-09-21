@@ -4,7 +4,7 @@
     <string name="location_off_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="location_device_only_alert_dialog_message">Režim polohy je nastavený na Len senzory zariadenia. Pre rýchlejšie a presnejšie výsledky, prosím, otvorte nastavenia a zvoľte Vysoká presnosť.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Aktivitu nie je možné spustiť.</string>
     <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
     <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
     <string name="high">Vysoký</string>
@@ -398,14 +398,14 @@
     <!-- input method -->
     <string name="input_method_tile_label">Input method</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Kontakty</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nie je vybraný žiadny kontakt, prosím, otvorte nastavenia a vyberte kontakt.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Niečo nie je v poriadku, prosím, otvorte nastavenia a skontrolujte vybraný kontakt.</string>
+    <string name="contact_a_tile_label">Kontakt #1</string>
+    <string name="contact_b_tile_label">Kontakt #2</string>
+    <string name="contact_c_tile_label">Kontakt #3</string>
+    <string name="contact_d_tile_label">Kontakt #4</string>
+    <string name="contact_e_tile_label">Kontakt #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">Invertovať farby</string>
     <string name="invert_colors_tile_alert_dialog_message">Aby dlaždica mohla invertovať farby, prosím, otvorte nastavenia a povoľte Zápis do bezpečnostných nastavení.</string>
@@ -436,11 +436,11 @@
     <string name="up_time_tile_label">Doba prevádzky</string>
     <string name="up_time_tile_formatted_uptime">Doba prevádzky: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Aktivity</string>
+    <string name="activity_a_tile_label">Aktivita #1</string>
+    <string name="activity_b_tile_label">Aktivita #2</string>
+    <string name="activity_c_tile_label">Aktivita #3</string>
+    <string name="activity_d_tile_label">Aktivita #4</string>
+    <string name="activity_e_tile_label">Aktivita #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Nie je vybraná žiadna aktivita, prosím, otvorte nastavenia a vyberte aktivitu.</string>
 </resources>

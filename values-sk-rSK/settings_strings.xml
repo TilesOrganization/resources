@@ -318,8 +318,8 @@
     <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Vybraný kontakt</string>
+    <string name="settings_contacts_tile_summary_empty">Nie je vybraný žiadny kontakt</string>
     <!--invert colors-->
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže invertovať farby</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže invertovať farby</string>
@@ -333,10 +333,10 @@
     <string name="settings_battery_details_tile_voltage">Napätie</string>
     <string name="settings_battery_details_tile_technology">Technológia</string>
     <!--activities-->
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_no_activity_selected">Nie je vybraná žiadna aktivita</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
-        <item quantity="few">%d activities found</item>
+        <item quantity="one">%d nájdená aktivita</item>
+        <item quantity="other">%d nájdené aktivity</item>
+        <item quantity="few">%d nájdených aktivít</item>
     </plurals>
 </resources>

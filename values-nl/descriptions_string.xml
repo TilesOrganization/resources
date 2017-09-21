@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Automatisch veranderen van helderheid van het scherm naar aanleiding van het licht om je heen, wanneer ingeschakeld. Het niveau van de helderheid kan nog steeds veranderd worden wanneer aangepaste helederheid is ingeschakeld.\nToestemming voor het wijzigen van systeem instellingen is nodig om deze tegel te gebruiken.</string>
     <string name="description_alarm_tile">Laat huidige alarmen zien of stel een nieuwe in. De tegel laat het volgende alarm zien, als er een alarm is ingesteld. Deze actie is werkt ook met apps van derden die het standaard Android broadcast laten zien en alarmen kunnen veranderen.</string>
     <string name="description_ambient_display_tile">Stel het toestel in om vergrendelscherm inhoud te laten zien wanneer er een notificatie is.\nToestemming voor het wijzigen van beveiligde instellingen is nodig om deze tegel te gebruiken.</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Kada je omogućeno, automatski mijenja svjetlinu zaslona ovisno o razini svjetla oko Vas. Razina osvjetljenja i dalje se može prilagoditi dok je prilagodljiva svjetlina zaslona uključena.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_alarm_tile">Prikaz aktualnih alarma ili postavljanje novog alarma. Pločica prikazuje sljedeći alarm, ako je isti postavljen. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi prikazivanja i uređivanja alarma.</string>
     <string name="description_ambient_display_tile">Postavite uređaj da prikazuje sadržaj na zaključanom zaslonu kada stigne obavijest.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>

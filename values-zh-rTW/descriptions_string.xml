@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">開啟時會根據環境明亮程度，自動調整螢幕亮度，您仍可手動調整螢幕亮度。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_alarm_tile">顯示下一個鬧鐘或新增鬧鐘。 若已有設定鬧鐘，將會顯示下一個鬧鐘時間。支援顯示、編輯系統原生及第三方應用程式。</string>
     <string name="description_ambient_display_tile">收到通知時點亮螢幕並在鎖定螢幕顯示內容。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>

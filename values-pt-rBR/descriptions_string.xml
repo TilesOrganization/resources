@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Quando ativado, é possível alterar automaticamente o brilho da tela de acordo com a luminosidade à sua volta. O nível de luminosidade ainda pode ser ajustado enquanto o brilho adaptável está ativado.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_alarm_tile">Exibir alarmes atuais ou definir um novo. O bloco exibe o próximo alarme, se houver algum. Essa ação é compatível com aplicativos de terceiros que podem receber a transmissão padrão do Android para mostrar e editar alarmes.</string>
     <string name="description_ambient_display_tile">Permite com que o dispositivo exiba rapidamente na tela de bloqueio o conteúdo de uma notificação recebida.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>

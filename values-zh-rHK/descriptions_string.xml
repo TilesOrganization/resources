@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">「自動亮度模式」開啟時會令手機根據現場周圍環境光亮情況而自動調節屏幕亮度，開啟後你仍然可以手動調節屏幕亮度。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_alarm_tile">「鬧鐘」主要提供「顯示下一個鬧鐘」及「新增鬧鐘」 兩個選項。如已有設定的鬧鐘時間，快速設定磚將會顯示下一個鬧鐘時間。除了內置原生的時鐘程式，此快速設定磚亦能支援其他第三方時鐘應用程式。</string>
     <string name="description_ambient_display_tile">「環境顯示」開啟後會在裝置收到通知時短暫在鎖定屏幕顯示通知供快速查閱。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>

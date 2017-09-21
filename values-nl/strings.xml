@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">Locatie is uit. Om de tegel toe te staan om de huidige locatie te verkrijgen, open instellingen en zet locatie aan.</string>
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Geen applicatie gevonden om deze actie uit te voeren.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">Om een dergelijke actie uit te voeren, geef superuser toestemming voor een interactieve schil.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is benodigd om deze actie uit te voeren. Installeer het en probeer nog een keer.</string>
     <string name="high">Hoog</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">Bedrijfstijd</string>
     <string name="up_time_tile_formatted_uptime">Bedrijfstijd: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Activities</string>
+    <string name="activity_a_tile_label">Activity #1</string>
+    <string name="activity_b_tile_label">Activity #2</string>
+    <string name="activity_c_tile_label">Activity #3</string>
+    <string name="activity_d_tile_label">Activity #4</string>
+    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
 </resources>

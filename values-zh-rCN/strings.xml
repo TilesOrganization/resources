@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
     <string name="high">High</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">已开机时间</string>
     <string name="up_time_tile_formatted_uptime">已开机时间: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Activities</string>
+    <string name="activity_a_tile_label">Activity #1</string>
+    <string name="activity_b_tile_label">Activity #2</string>
+    <string name="activity_c_tile_label">Activity #3</string>
+    <string name="activity_d_tile_label">Activity #4</string>
+    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
 </resources>

@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">A helymeghatározás ki van kapcsolva. A csempe aktuális helyhez való hozzáféréséhez kérlek engedélyezd a helymeghatározást a beállításokban.</string>
     <string name="location_device_only_alert_dialog_message">Helymeghatározási mód Csak a készüléken. Gyorsabb és pontosabb eredményhez nyisd meg a beállításokat és válassz egy másik helymeghatárizási módot.</string>
     <string name="resolve_activity_alert_dialog_message">Nem található megfelelő alkalmazás a művelet végrehajtásához.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">Ilyen művelet végrehajtásához superuser engedélyre van szükség egy interaktív shell parancshoz.</string>
     <string name="play_services_alert_dialog_message">Ilyen művelet végrehajtásához Google Play Szolgáltatásokra van szükség. Kérlek telepítsd előbb fel, majd próbáld újra.</string>
     <string name="high">Magas</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">Futásidő</string>
     <string name="up_time_tile_formatted_uptime">Futásidő: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Activities</string>
+    <string name="activity_a_tile_label">Activity #1</string>
+    <string name="activity_b_tile_label">Activity #2</string>
+    <string name="activity_c_tile_label">Activity #3</string>
+    <string name="activity_d_tile_label">Activity #4</string>
+    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
 </resources>

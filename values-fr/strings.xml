@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">La localisation est désactivée. Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et activer la localisation.</string>
     <string name="location_device_only_alert_dialog_message">Le mode de localisation est sur Appareil Uniquement. Pour des résultats plus précis et rapides, veuillez ouvrir les paramètres et activez un mode de localisation différent.</string>
     <string name="resolve_activity_alert_dialog_message">Aucune application trouvée pour effectuer cette action.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">Pour effectuer une telle action, veuillez accorder les permissions super utilisateur pour un shell interactif.</string>
     <string name="play_services_alert_dialog_message">Services Google Play est requis pour effectuer une telle action. Veuiller l\'installer et réessayez.</string>
     <string name="high">Haut</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">Durée d\'activité</string>
     <string name="up_time_tile_formatted_uptime">Durée d\'activité: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Activities</string>
+    <string name="activity_a_tile_label">Activity #1</string>
+    <string name="activity_b_tile_label">Activity #2</string>
+    <string name="activity_c_tile_label">Activity #3</string>
+    <string name="activity_d_tile_label">Activity #4</string>
+    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
 </resources>

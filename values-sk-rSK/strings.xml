@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="location_device_only_alert_dialog_message">Režim polohy je nastavený na Len senzory zariadenia. Pre rýchlejšie a presnejšie výsledky, prosím, otvorte nastavenia a zvoľte Vysoká presnosť.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">Pre vykonanie tejto akcie, prosím, udeľte superuser povolenia pre interaktívne prostredie.</string>
     <string name="play_services_alert_dialog_message">Pre vykonanie tejto akcie sú potrebné Služby Google Play. Prosím, nainštalujte ich a skúste to znova.</string>
     <string name="high">Vysoký</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">Doba prevádzky</string>
     <string name="up_time_tile_formatted_uptime">Doba prevádzky: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Activities</string>
+    <string name="activity_a_tile_label">Activity #1</string>
+    <string name="activity_b_tile_label">Activity #2</string>
+    <string name="activity_c_tile_label">Activity #3</string>
+    <string name="activity_d_tile_label">Activity #4</string>
+    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
 </resources>

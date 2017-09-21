@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Automatically change the brightness of the screen to the light around you, when enabled. The brightness level can still be adjusted while adaptive brightness is on.\nModify system settings permission is required to use this tile.</string>
     <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
     <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nWrite secure settings permission is required to use this tile.</string>

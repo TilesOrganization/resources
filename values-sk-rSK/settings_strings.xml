@@ -332,4 +332,11 @@
     <string name="settings_battery_details_tile_temperature_units">Jednotka teploty</string>
     <string name="settings_battery_details_tile_voltage">Napätie</string>
     <string name="settings_battery_details_tile_technology">Technológia</string>
+    <!--activities-->
+    <string name="settings_no_activity_selected">No activity selected</string>
+    <plurals name="settings_activities_tile_activities_found_formatted_plurals">
+        <item quantity="one">%d activity found</item>
+        <item quantity="other">%d activities found</item>
+        <item quantity="few">%d activities found</item>
+    </plurals>
 </resources>

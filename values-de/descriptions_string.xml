@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Passt automatisch die Helligkeit des Bildschirms an die gegebenen Lichtverhältnisse an, sofern aktiviert. Das Helligkeitslevel kann immer noch angepasst werden, auch wenn die adaptive Helligkeit aktiviert ist.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_alarm_tile">Zeigt die aktuellen Alarme an oder setzt einen neuen Alarm. Diese Kachel zeigt den nächsten Alarm an, sofern einer gesetzt ist. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Anzeigen und Ändern von Alarmen entgegen nehmen können.</string>
     <string name="description_ambient_display_tile">Ändert die Einstellungen des Smartphones, welcher Inhalt im Sperrbildschirm angezeigt wird.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>

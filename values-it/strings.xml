@@ -4,6 +4,7 @@
     <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
     <string name="location_device_only_alert_dialog_message">Geolocalizzazione in modalità Solo dispositivo. Per un risultato più veloce e accurato, per favore aprire le impostazioni e attivare una diversa modalità di geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">Per eseguire questa azione, per favore concedere i permessi superuser per una shell interattiva.</string>
     <string name="play_services_alert_dialog_message">Google Play Services è richiesta per eseguire tale azione. Per favore installare l\'applicazione e provare nuovamente.</string>
     <string name="high">Alta</string>
@@ -434,4 +435,12 @@
     <!--uptime-->
     <string name="up_time_tile_label">Tempo di attività</string>
     <string name="up_time_tile_formatted_uptime">Tempo di attività: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Attività</string>
+    <string name="activity_a_tile_label">Attività #1</string>
+    <string name="activity_b_tile_label">Attività #2</string>
+    <string name="activity_c_tile_label">Attività #3</string>
+    <string name="activity_d_tile_label">Attività #4</string>
+    <string name="activity_e_tile_label">Attività #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Nessuna attività selezionata, per favore aprire le impostazioni e scegliere attività.</string>
 </resources>

@@ -26,13 +26,13 @@
     <string name="thirty_minutes">30 minutes</string>
     <string name="forty_two_minutes">42 minutes</string>
     <string name="forty_five_minutes">45 minutes</string>
-    <string name="one_hour">1 hour</string>
-    <string name="two_hours">2 hours</string>
-    <string name="three_hours">3 hours</string>
-    <string name="six_hours">6 hours</string>
-    <string name="twelve_hours">12 hours</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
+    <string name="one_hour">1 hora</string>
+    <string name="two_hours">2 horas</string>
+    <string name="three_hours">3 horas</string>
+    <string name="six_hours">6 horas</string>
+    <string name="twelve_hours">12 horas</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
     <!--adaptive brightness-->
@@ -111,7 +111,7 @@
     <string name="ringer_mode_tile_label_vibrate">Vibração</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Para permitir que o bloco mude o modo do som, abra as configurações e permita acesso ao Não Pertube.</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_label">Cafeína</string>
     <string name="caffeine_tile_service_notification_title">Serviço está em andamento</string>
     <string name="caffeine_tile_service_notification_content_text">O dispositivo não irá dormir. Toque para parar o serviço.</string>
     <!--streetview-->
@@ -120,12 +120,12 @@
     <!--sync-->
     <string name="sync_tile_label">Sincronização</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Temporizador</string>
+    <string name="timer_formatted_label">Temporizador\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Temperatura</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Para permitir que o bloco obtenha as condições climáticas, abra as configurações e dê a permissão de localização.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Obtendo condições climáticas. Por favor, aguarde.</string>
     <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
@@ -163,7 +163,7 @@
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Excluir lembrete?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Restaurar lembrete?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Descartar edições?</string>
-    <string name="reminder_tile_remind_me">Lembra-me</string>
+    <string name="reminder_tile_remind_me">Lembrar-me</string>
     <string name="retrieving_location_dialog_message">Recuperando localização. Por favor, aguarde.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Tempo limite de tela</string>
@@ -288,7 +288,7 @@
     <string name="density_tile_density_xhigh">Extra Grande (xhdpi): ~320dpi</string>
     <string name="density_tile_density_xxhigh">Muito Grande (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">Enorme (xxxhdpi): ~640dpi</string>
-    <string name="density_tile_density_custom">Custom density</string>
+    <string name="density_tile_density_custom">Densidade personalizada</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">Permanecer ativo ao carregar</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Para permitir que o bloco altere a reação ao estiver conectado, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
@@ -436,11 +436,11 @@
     <string name="up_time_tile_label">Tempo de atividade</string>
     <string name="up_time_tile_formatted_uptime">Tempo de atividade: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Atividades</string>
+    <string name="activity_a_tile_label">Atividade #1</string>
+    <string name="activity_b_tile_label">Atividade #2</string>
+    <string name="activity_c_tile_label">Atividade #3</string>
+    <string name="activity_d_tile_label">Atividade #4</string>
+    <string name="activity_e_tile_label">Atividade #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Nenhuma atividade selecionada, abra as configurações e escolha uma activity.</string>
 </resources>

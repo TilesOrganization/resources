@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogen</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialogen kunnen worden afgewezen door op de terug knop te klikken</string>
-    <string name="settings_design_dialogs_cancelable">Dialogen kunnen worden afgewezen door buiten het dialoog te klikken</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Navigatiebalk tint</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Geen tint</string>

@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Темная</string>
     <string name="settings_theme_black">Черная</string>
     <string name="settings_theme_terminal">Терминал</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Диалоги</string>
-    <string name="settings_design_dialogs_not_cancelable">Диалог можно убрать, нажав кнопку Назад</string>
-    <string name="settings_design_dialogs_cancelable">Диалог можно убрать, нажав на экран вне диалога</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Оттенок панели навигации</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Без оттенка</string>

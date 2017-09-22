@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Sötét</string>
     <string name="settings_theme_black">Fekete</string>
     <string name="settings_theme_terminal">Terminál</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialógusok</string>
-    <string name="settings_design_dialogs_not_cancelable">A rendszer vissza gombjával eltüntethetők a dialógusok</string>
-    <string name="settings_design_dialogs_cancelable">A képernyő, ablakon kívül történő érintésére eltüntethető az ablak</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Navigációs sáv színe</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nincs szín</string>

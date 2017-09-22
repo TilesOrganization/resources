@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dijalozi</string>
-    <string name="settings_design_dialogs_not_cancelable">Dijalozi se mogu odbaciti pomoću gumba za povratak</string>
-    <string name="settings_design_dialogs_cancelable">Dijalozi se mogu odbaciti dodirivanjem izvan dijaloškog okvira</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Boja navigacijske trake</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nema boje</string>

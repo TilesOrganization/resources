@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Diálogos</string>
-    <string name="settings_design_dialogs_not_cancelable">Sair dos diálogos com o botão "atrás" do sistema</string>
-    <string name="settings_design_dialogs_cancelable">Sair dos diálogos ao tocar fora deles</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Cor da barra de navegação</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>

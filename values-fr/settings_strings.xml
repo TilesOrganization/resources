@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialogues</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialogs can be dismissed by using the system back button</string>
-    <string name="settings_design_dialogs_cancelable">Dialogs can be dismissed by touching outside of a dialog</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Teinte de la barre de navigation</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Aucune teinte</string>

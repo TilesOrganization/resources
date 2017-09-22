@@ -16,10 +16,6 @@
     <string name="settings_theme_dark">Tmavá</string>
     <string name="settings_theme_black">Čierna</string>
     <string name="settings_theme_terminal">Terminál</string>
-    <!--cancelable dialogs-->
-    <string name="settings_design_dialogs">Dialógové okná</string>
-    <string name="settings_design_dialogs_not_cancelable">Dialógové okná môžu byť zrušené použitím tlačidla späť</string>
-    <string name="settings_design_dialogs_cancelable">Dialógové okná môžu byť zrušené dotykom mimo okna</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Zafarbenie navigačnej lišty</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Bez zafarbenia</string>

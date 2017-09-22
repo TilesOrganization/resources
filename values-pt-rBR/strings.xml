@@ -417,7 +417,7 @@
     <string name="battery_details_tile_unknown">Desconhecido</string>
     <string name="battery_details_tile_unspecified_failure">Falha não especificada</string>
     <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltagem: %.5fV</string>
+    <string name="battery_details_tile_formatted_voltage">Tensão: %.5fV</string>
     <string name="battery_details_tile_formatted_technology">Tecnologia: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Tempo de atividade</string>

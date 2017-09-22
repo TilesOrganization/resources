@@ -320,7 +320,7 @@
     <string name="settings_battery_details_tile_health">Saúde</string>
     <string name="settings_battery_details_tile_temperature">Temperatura</string>
     <string name="settings_battery_details_tile_temperature_units">Unidades de temperatura</string>
-    <string name="settings_battery_details_tile_voltage">Voltagem</string>
+    <string name="settings_battery_details_tile_voltage">Tensão</string>
     <string name="settings_battery_details_tile_technology">Tecnologia</string>
     <!--activities-->
     <string name="settings_no_activity_selected">Nenhuma atividade selecionada</string>

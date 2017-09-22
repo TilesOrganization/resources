@@ -176,9 +176,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Štoperica</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Prikaži radnju za otvaranje postavki</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Sakrij radnju</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Dopuštenje za pisanje preko drugih aplikacija</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Odobreno. Podsjetniku je dozvoljeno da bude prikazan kao dijalog te povlačenje preko drugih aplikacija</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Odbijeno. Podsjetniku nije dozvoljeno da bude prikazan kao dijalog te povlačenje preko drugih aplikacija</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Prikaz događaja</string>
     <string name="settings_calendar_tile_action_add">Dodavanje događaja</string>
@@ -298,8 +295,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti mobilne podatke</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici nije dozvoljeno promijeniti mobilne podatke</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Promijeni stanje mobilnih podataka</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvoriti postavke mobilne mreže</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>

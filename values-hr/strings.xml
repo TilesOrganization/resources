@@ -94,7 +94,6 @@
     <string name="nfc_tile_service_description">Usluga za praćenje stanja NFC-a bit će zaustavljena kada se pločica ukloni. Zaustavljanje može uzrokovati neuspjeh pločice.</string>
     <string name="nfc_tile_alert_dialog_message">Da biste pločici omogućili promjenu stanja NFC-a, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Dijalog za napajanje</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">Da biste pločici omogućili prikaz dijaloškog okvira napajanja, otvorite postavke i dozvolite pristup uslugama pristupačnosti.</string>
     <string name="power_tile_action_system_power_dialog">Dijaloški okvir sustava</string>
     <string name="power_tile_action_power_dialog">Dijalog za napajanje</string>
@@ -158,8 +157,6 @@
     <string name="reminder_tile_persistent_checkbox">Trajno</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Izbriši</string>
     <string name="reminder_tile_empty_notification_text_fields">Nije dodan nijedan podsjetnik. Da biste dodali valjani podsjetnik, unesite naslov ili sadržaj.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">Da biste izvršili takvu radnju, odobrite dozvolu za pisanje preko drugih aplikacija</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Tekst je kopiran u međuspremnik</string>
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Izbrisati podsjetnik?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Vratiti podsjetnik?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Odbaci uređivanja?</string>
@@ -218,15 +215,6 @@
     <string name="animations_tile_label_dialog_check_box_off_label">Isključi animacije</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Trajanje animacije %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Da biste pločici omogućili izmjenu animacija, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
-    <!--sleep time -->
-    <string name="sleep_time_tile_label">Vrijeme u stanju mirovanja</string>
-    <string name="sleep_time_tile_awake">Budan</string>
-    <string name="sleep_time_tile_sleep">Stanje mirovanja</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Postotak baterije %d%%</string>
-    <string name="sleep_time_tile_unplugged">Odspojen</string>
-    <string name="sleep_time_tile_plugged_usb">Spojen putem USB-a</string>
-    <string name="sleep_time_tile_plugged_ac">Spojen putem punjača</string>
-    <string name="sleep_time_tile_plugged_wireless">Spojen bežično</string>
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">Nema alarma</string>
@@ -371,7 +359,6 @@
     <string name="usb_debugging_tile_alert_dialog_message">Da biste pločici izmjenu USB načina rada za otklanjanje pogrešaka, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobilni podaci</string>
-    <string name="cellular_data_tile_alert_dialog_message">Da biste pločici omogućili izmjenu mobilnih podataka, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <string name="cellular_data_tile_mobile_network_label">Mobilne mreže</string>
     <string name="cellular_data_tile_data_usage_label">Korištenje podataka</string>
     <!--vpn-->

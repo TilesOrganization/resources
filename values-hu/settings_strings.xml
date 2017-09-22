@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopperóra</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Opció megjelenítése a beállítások megnyitásához</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Opció elrejtése</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Más alkalmazások feletti megjelenés engedélye</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Engedélyezve. Az emlékeztető megjelenhet más alkalmazások felett.</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Megtagadva. Az emlékeztető nem jelenhet meg más alkalmazások felett.</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Események megtekintése</string>
     <string name="settings_calendar_tile_action_add">Esemény hozzáadása</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem változtathatja meg az USB hibakeresés beállítást.</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe megváltoztathatja az USB hibakeresés beállítást.</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Megtagadva. A csempe nem kapcsolhatja be/ki a mobilnetet.</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Engedélyezve. A csempe be-/kikapcsolhatja a mobilnetet.</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Mobilnet be-/kikapcsolása</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Mobilhálózati beállítások megnyitása</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Adathasználati beállítások megnyitása</string>

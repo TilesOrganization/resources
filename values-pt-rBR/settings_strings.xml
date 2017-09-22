@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronômetro</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir configurações</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ação</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Permissão para sobrepor a outros apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitido. Lembrete tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negado. Lembrete não tem permissão para ser exibido como uma caixa de diálogo e ser arrastado em cima de outros apps</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Visualizar eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a depuração USB</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a depuração USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar os dados de celular</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar os dados de celular</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Alterar o estado dos dados móveis</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Abir as configurações de rede celular</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>

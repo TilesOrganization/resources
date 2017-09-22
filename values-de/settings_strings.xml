@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stoppuhr</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Zeige die Aktion, um die Einstellungen zu öffnen</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Verstecke die Aktion</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">\"Über anderen Apps einblenden\"-Berechtigung</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Gewährt. Die Erinnerung darf einen Dialog anzeigen und über andere Apps gezogen werden</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Verweigert. Die Erinnerung darf nicht einen Dialog anzeigen und über andere Apps gezogen werden</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Termine anzeigen</string>
     <string name="settings_calendar_tile_action_add">Termin hinzufügen</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf das USB-Debugging nicht ändern</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf das USB-Debugging ändern</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf den Status der Mobilfunkdaten nicht ändern</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf den Status der Mobilfunkdaten ändern</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Ändere den Status der Mobilfunkdaten</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Öffne die Einstellungen für Mobilfunknetze</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Öffne die Einstellungen zur Datennutzung</string>

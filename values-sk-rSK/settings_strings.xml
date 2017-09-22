@@ -176,9 +176,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopky</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Skryť akciu</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Povolenie pre Vykreslenie cez ďalšie aplikácie</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Povolené. Pripomienka môže byť zobrazená ako okno a môže byť posúvaná nad inými aplikáciami</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Zakázané. Pripomienka nemôže byť zobrazená ako okno a môže byť posúvaná nad inými aplikáciami</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Zobraziť udalosti</string>
     <string name="settings_calendar_tile_action_add">Pridať udalosť</string>
@@ -298,8 +295,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť Ladenie cez USB</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť Ladenie cez USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Zakázané. Dlaždica nemôže zmeniť mobilné dáta</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Povolené. Dlaždica môže zmeniť mobilné dáta</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Zmeniť stav mobilných dát</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvoriť nastavenia mobilných dát</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Otvoriť nastavenia spotreby dát</string>

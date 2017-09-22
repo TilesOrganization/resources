@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Chronomètre</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Montrer une action pour ouvrir les paramètres</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Cacher l\'action</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Permission de se superposer aux autres applications</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Accordée. Rappel est autorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Refusée. Rappel n\'est pas autorisé à être affiché en tant que dialogue et être glissé au-dessus d\'autres applis</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Afficher les évènements</string>
     <string name="settings_calendar_tile_action_add">Créer un évènement</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change cellular data</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change cellular data</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>

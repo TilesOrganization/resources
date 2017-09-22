@@ -177,9 +177,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Секундомер</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Скрыть действие</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Разрешение наложения поверх приложений</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Разрешено. Напоминание может отображаться как диалоговое окно и перетаскиваться поверх других приложений</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Запрещено. Напоминание не может отображаться как диалоговое окно и перетаскиваться поверх других приложений</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Показать события</string>
     <string name="settings_calendar_tile_action_add">Добавить событие</string>
@@ -299,8 +296,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать режим отладки по USB</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать режим отладки по USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать состояние мобильных данных</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать состояние мобильных данных</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Изменить состояние мобильных данных</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Открыть настройки сети</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Открыть настройки использования данных</string>

@@ -94,7 +94,6 @@
     <string name="nfc_tile_service_description">Dienst zur Überwachung des NFC-Status, wird beendet, wenn die Kachel entfernt wird. Wird dieser beendet, kann es zu Fehlern kommen.</string>
     <string name="nfc_tile_alert_dialog_message">Damit die Kachel den Status von NFC ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellunge.n</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power-Menü</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">Damit die Kachel das Power-Menü anzeigen kann, öffne bitte die System-Einstellungen und aktiviere die Bedienungshilfe.</string>
     <string name="power_tile_action_system_power_dialog">System Power-Menü</string>
     <string name="power_tile_action_power_dialog">Ausschalt-Dialog</string>
@@ -158,8 +157,6 @@
     <string name="reminder_tile_persistent_checkbox">Persistent</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Löschen</string>
     <string name="reminder_tile_empty_notification_text_fields">Keine Erinnerung hinzugefügt. Um eine Erinnerung hinzuzufügen, füge einen Titel oder Inhalt ein.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">Um diese Aktion auszuführen, erteile der App das Recht über andere Apps sich einzublenden</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Text in die Zwischenablage kopiert</string>
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Errinnerung löschen?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Errinnerung zurücksetzen?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Änderungen verwerfen?</string>
@@ -218,15 +215,6 @@
     <string name="animations_tile_label_dialog_check_box_off_label">Animation aus</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Skalierung der Dauer %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Damit die Kachel die Animationen ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
-    <!--sleep time -->
-    <string name="sleep_time_tile_label">Ruhezeiten</string>
-    <string name="sleep_time_tile_awake">Aktiv</string>
-    <string name="sleep_time_tile_sleep">Schlafend</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Batterie %d%%</string>
-    <string name="sleep_time_tile_unplugged">Ausgesteckt</string>
-    <string name="sleep_time_tile_plugged_usb">USB angesteckt</string>
-    <string name="sleep_time_tile_plugged_ac">Ladegerät angesteckt</string>
-    <string name="sleep_time_tile_plugged_wireless">Kabellos angesteckt</string>
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">Kein Alarm gesetzt</string>
@@ -371,7 +359,6 @@
     <string name="usb_debugging_tile_alert_dialog_message">Damit die Kachel das USB-Debugging ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobilfunkdaten</string>
-    <string name="cellular_data_tile_alert_dialog_message">Damit die Kachel den Status der Mobilfunkdaten ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <string name="cellular_data_tile_mobile_network_label">Mobilfunknetzwerke</string>
     <string name="cellular_data_tile_data_usage_label">Datennutzung</string>
     <!--vpn-->

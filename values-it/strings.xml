@@ -94,7 +94,6 @@
     <string name="nfc_tile_service_description">Servizio per osservare lo stato NFC, verrà interroto quando la funzione è rimossa. L\'interruzione potrebbere bloccare la funzione.</string>
     <string name="nfc_tile_alert_dialog_message">Per permettere alla funzione di cambiare stato NFC, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Finestra di dialogo accensione</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di mostare la finestra di dialogo di accensione di sistema, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
     <string name="power_tile_action_system_power_dialog">Finestra di dialogo accensione di sistema</string>
     <string name="power_tile_action_power_dialog">Finestra di dialogo accensione</string>
@@ -158,8 +157,6 @@
     <string name="reminder_tile_persistent_checkbox">Persistente</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Elimina</string>
     <string name="reminder_tile_empty_notification_text_fields">Nessun promemoria aggiunto. Per aggiungere un valido promemoria, per favore inserire titolo o contenuto.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">Per eseguire tale azione, per favore aprire le impostazioni e concedere l\'autorizzazione posizionamento davanti ad altre app</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Testo copiato negli appunti</string>
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Eliminare promemoria?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Ripristinare promemoria?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Ignorare le modifiche?</string>
@@ -218,15 +215,6 @@
     <string name="animations_tile_label_dialog_check_box_off_label">Animazione disattivata</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Scala animazione %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Per permettere alla funzione di cambiare animazioni, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
-    <!--sleep time -->
-    <string name="sleep_time_tile_label">Durata sospensione</string>
-    <string name="sleep_time_tile_awake">Attivo</string>
-    <string name="sleep_time_tile_sleep">Sospensione</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Batteria %d%%</string>
-    <string name="sleep_time_tile_unplugged">Non collegato</string>
-    <string name="sleep_time_tile_plugged_usb">Collegato USB</string>
-    <string name="sleep_time_tile_plugged_ac">Collegato CA</string>
-    <string name="sleep_time_tile_plugged_wireless">Collegato wireless</string>
     <!--alarm-->
     <string name="alarm_tile_label">Sveglia</string>
     <string name="alarm_tile_no_alarm_set">Nessuna sveglia impostata</string>
@@ -371,7 +359,6 @@
     <string name="usb_debugging_tile_alert_dialog_message">Per permettere alla funzione di cambiare debug USB, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Rete dati</string>
-    <string name="cellular_data_tile_alert_dialog_message">Per permettere alla funzione di cambiare rete dati, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <string name="cellular_data_tile_mobile_network_label">Reti cellulari</string>
     <string name="cellular_data_tile_data_usage_label">Utilizzo dati</string>
     <!--vpn-->

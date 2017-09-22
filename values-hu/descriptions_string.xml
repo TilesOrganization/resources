@@ -48,7 +48,6 @@
     <string name="description_settings_shortcut_tile">Open Android\'s hidden or hard-to-find settings.</string>
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Put the device to sleep.</string>
-    <string name="description_sleep_time_tile">Take a look at the time the device has spent sleeping, with details about the capacity of the battery and the charging state.</string>
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings is required to use this tile.</string>
     <string name="description_storage_tile">Open storage settings or launch Android\'s built-in file manager to explore the storage of the device.</string>
     <string name="description_street_view_tile">Launch Google\'s proprietary Street View app, if installed, showing the current location of the device. This tile makes use of the Google Awareness API.\nLocation permissionis required to use this tile.</string>

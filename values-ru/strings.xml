@@ -94,7 +94,6 @@
     <string name="nfc_tile_service_description">Сервис для наблюдения за состоянием NFC, будет остановлен при удалении плитки. Остановка без удаления может сделать плитку неработоспособной.</string>
     <string name="nfc_tile_alert_dialog_message">Чтобы позволить плитке переключать NFC, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Диалог выключения</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">Чтобы позволить плитке показывать системный диалог выключения, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <string name="power_tile_action_system_power_dialog">Системный диалог выключения</string>
     <string name="power_tile_action_power_dialog">Диалог выключения</string>
@@ -158,8 +157,6 @@
     <string name="reminder_tile_persistent_checkbox">Постоянное</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Удалить</string>
     <string name="reminder_tile_empty_notification_text_fields">Нет активных напоминаний. Чтобы добавить активное напоминание, пожалуйста введите заголовок или текст.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">Для выполнения данного действия, пожалуйста дайте приложению доступ к наложению поверх других приложений</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Удалить напоминание?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Вернуть напоминание?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Отменить изменения?</string>
@@ -218,15 +215,6 @@
     <string name="animations_tile_label_dialog_check_box_off_label">Анимация выключена</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Длительность анимации %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Чтобы позволить плитке менять анимации, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
-    <!--sleep time -->
-    <string name="sleep_time_tile_label">Время засыпания</string>
-    <string name="sleep_time_tile_awake">Пробуждение</string>
-    <string name="sleep_time_tile_sleep">Сон</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Батарея %d%%</string>
-    <string name="sleep_time_tile_unplugged">Отключено</string>
-    <string name="sleep_time_tile_plugged_usb">Подключено к USB</string>
-    <string name="sleep_time_tile_plugged_ac">Подключено к сети</string>
-    <string name="sleep_time_tile_plugged_wireless">Подключено без проводов</string>
     <!--alarm-->
     <string name="alarm_tile_label">Будильник</string>
     <string name="alarm_tile_no_alarm_set">Будильник не установлен</string>
@@ -371,7 +359,6 @@
     <string name="usb_debugging_tile_alert_dialog_message">Чтобы позволить плитке переключать режим отладки по USB, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Мобильные данные</string>
-    <string name="cellular_data_tile_alert_dialog_message">Чтобы позволить плитке переключать состояние мобильных данных, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <string name="cellular_data_tile_mobile_network_label">Мобильные сети</string>
     <string name="cellular_data_tile_data_usage_label">Использование данных</string>
     <!--vpn-->

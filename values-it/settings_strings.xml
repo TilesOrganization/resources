@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronometro</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Visualizza azione per aprire le impostazioni</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Nascondi azione</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Autorizzazione posizionamento davanti ad altre app</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Concessa. Promemoria ha l\'autorizzazione a essere visualizzato come finestra di dialogo e spostato davanti ad altre applicazioni</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negata. Promemoria non ha l\'autorizzazione a essere visualizzato come finestra di dialogo e spostato davanti ad altre applicazioni</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_add">Aggiungi evento</string>
     <string name="settings_calendar_tile_action_view">Visualizza eventi</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare debug USB</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare debug USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare rete dati</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare rete dati</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Cambia stato rete dati</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Apri impostazioni rete dati</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Apri impostazioni utilizzo dati</string>

@@ -48,7 +48,6 @@
     <string name="description_settings_shortcut_tile">Öffnet Android\'s versteckte oder schwer zu findende Einstellungen.</string>
     <string name="description_shortcuts_tile">Wähle und setze Verknüpfungen um eine bestimmte Aktion in der jeweiligen Anwendung auszuführen.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten.</string>
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand.</string>
-    <string name="description_sleep_time_tile">Schau dir die Dauer der Ruhezeiten des Smartphones an, mit Details über die Batterie und den Ladezustand.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_storage_tile">Öffnet die Speicher-Einstellungen oder startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
     <string name="description_street_view_tile">Startet Google\'s firmeneigene Street View App, sofern installiert, und zeigt den aktuellen Standort des Smartphones an. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>

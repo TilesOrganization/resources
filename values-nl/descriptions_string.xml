@@ -48,7 +48,6 @@
     <string name="description_settings_shortcut_tile">Open de verborgen of lastig om te vinden instellingen van Android.</string>
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Zet het toestel in slaapstand.</string>
-    <string name="description_sleep_time_tile">Neem een kijkje hoe lang het toestel in slaapstand heeft gestaan, met details over capaciteit van de accu en de status van het opladen.</string>
     <string name="description_sleep_timeout_tile">Verander de duur voordat het toestel in slaapstand gaat wanneer deze inactief is.\nToestemming om systeem instellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_storage_tile">Open storage settings or Op Android’\s ingebouwde bestandsbeheer om de opslagruimte van het toestel te verkennen.</string>
     <string name="description_street_view_tile">Open Google’s eigen Street View app, wanneer deze geïnstalleerd is, laat deze de huidige locatie zien van het toestel. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>

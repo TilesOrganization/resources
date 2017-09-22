@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Cronómetro</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">Mostrar ação para abrir as definições</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">Esconder ações</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">Permissão para se sobrepor a outras aplicações</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">Permitida. É permitido ao lembrete sobrepor-se a outras aplicações</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">Negada. Não é permitido ao lembrete obrepor-se a outras aplicações</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">Ver eventos</string>
     <string name="settings_calendar_tile_action_add">Adicionar evento</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar a depuração USB</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar a depuração USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">Negada. O mosaico não pode alterar os dados de rede móvel</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">Permitida. O mosaico pode alterar os dados de rede móvel</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Alterar o estado dos dados da rede móvel</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Abrir as definições de rede móvel</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>

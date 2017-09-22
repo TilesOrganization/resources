@@ -175,9 +175,6 @@
     <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">秒表</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_on">顯示打開設定的動作</string>
     <string name="settings_reminder_tile_notification_settings_action_summary_off">隱藏動作</string>
-    <string name="settings_reminder_tile_draw_over_apps_title">覆蓋其他應用程式權限</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_on">已啟用。允許備忘提醒以浮動視窗顯示並拖放。</string>
-    <string name="settings_reminder_tile_draw_over_apps_summary_off">已停用。不允許備忘提醒以浮動視窗顯示及拖放。</string>
     <!--calendar-->
     <string name="settings_calendar_tile_action_view">開啟活動內容</string>
     <string name="settings_calendar_tile_action_add">新增活動</string>
@@ -297,8 +294,6 @@
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已停用。不允許此快速設定動態磚開啟或關閉USB偵錯。</string>
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已啟用。允許此快速設定動態磚開啟或關閉USB偵錯。</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_off">已停用。不允許此快速設定動態磚變更行動數據的使用狀態。</string>
-    <string name="settings_cellular_data_tile_write_secure_settings_permission_summary_on">已啟用。允許此快速設定動態磚變更行動數據的使用狀態。</string>
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">變更行動數據的使用狀態</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打開行動數據設定</string>
     <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>

@@ -48,7 +48,6 @@
     <string name="description_settings_shortcut_tile">「設定捷徑」開啟Android的設定捷徑。</string>
     <string name="description_shortcuts_tile">「捷徑」，選取及設定程式捷徑以進行快捷操作。\n撥號捷徑需要獲取電話通話及撥號的權限才能使用。</string>
     <string name="description_sleep_tile">「休眠」，讓裝置休眠。</string>
-    <string name="description_sleep_time_tile">「休眠資訊」，查看裝置的休眠時間、對應的電量及充電狀態。</string>
     <string name="description_sleep_timeout_tile">「休眠時限」，變更裝置屏幕的休眠時限。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_storage_tile">「檔案管理器」，允許快速開啟Android系統內置的檔案管理器或儲存空間設定。</string>
     <string name="description_street_view_tile">「街景」，開啟「Google街景」應用程並顯示目前位置此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用，詳情可參閱</string>

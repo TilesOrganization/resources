@@ -48,7 +48,6 @@
     <string name="description_settings_shortcut_tile">Otvorite skrivene ili teško dostupne postavke Androida.</string>
     <string name="description_shortcuts_tile">Odaberite i postavite prečace za izvođenje određenih radnji u bilo kojoj aplikaciji koja implementira takvu značajku.\nPotrebna je dozvola za pristup telefonu kako bi bilo moguće kreiranje prečaca za izravno biranje.</string>
     <string name="description_sleep_tile">Stavite uređaj u stanje mirovanja.</string>
-    <string name="description_sleep_time_tile">Pogledajte vrijeme koliko je uređaj proveo u stanju mirovanja, sa pojedinostima o kapacitetu baterije i stanju punjenja.</string>
     <string name="description_sleep_timeout_tile">Izmijenite koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja ukoliko je inaktivan.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_storage_tile">Open storage settings or Pokrenite ugrađeni upravitelj datoteka Androida kako biste istražili pohranu uređaja.</string>
     <string name="description_street_view_tile">Pokrenite Googleovu aplikaciju Street View, ako je instalirana, koja prikazuje trenutačnu lokaciju uređaja. Ova pločica upotrebljava Google Awareness API.\nZa upotrebu ove pločice potrebna su dopuštenja lokacije.</string>

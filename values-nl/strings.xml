@@ -94,7 +94,6 @@
     <string name="nfc_tile_service_description">Service om NFC status te observeren, het zal stoppen wanneer de tegel wordt verwijderd. De service stoppen zou de tegel kunnen doen laten falen.</string>
     <string name="nfc_tile_alert_dialog_message">Om de tegel toestemming te geven om de NFC status te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
     <!--power-->
-    <string name="power_dialog_accessibility_tile_label">Power dialoog</string>
     <string name="power_tile_accessibility_service_alert_dialog_message">Om de tegel toestemming te geven om systeem power dialoog te laten zien, open instellingen en schakel toegankelijkheidsservice in.</string>
     <string name="power_tile_action_system_power_dialog">Systeem power dialoog</string>
     <string name="power_tile_action_power_dialog">Power dialoog</string>
@@ -158,8 +157,6 @@
     <string name="reminder_tile_persistent_checkbox">Blijvend</string>
     <string name="reminder_tile_delete_reminder_notification_action_label">Verwijder</string>
     <string name="reminder_tile_empty_notification_text_fields">Geen herinnering toegevoegd. Om een geldige herinnering toe te voegen, voer een titel of inhoud in.</string>
-    <string name="reminder_tile_draw_over_apps_permission_alert_message">Om een dergelijke actie uit te voeren, verleen toestemming om over andere apps heen te tekenen</string>
-    <string name="reminder_tile_text_copied_to_clipboard">Tekst gekopieerd naar klembord</string>
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
@@ -218,15 +215,6 @@
     <string name="animations_tile_label_dialog_check_box_off_label">Animatie uit</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">Vensteranimatieschaal %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Om de tegel toestemming te geven om animaties te veranderen, open instellingen en sta overschrijven van beveiligde instellingen toe.</string>
-    <!--sleep time -->
-    <string name="sleep_time_tile_label">Slaap tijd</string>
-    <string name="sleep_time_tile_awake">Wakker</string>
-    <string name="sleep_time_tile_sleep">Slaap</string>
-    <string name="sleep_time_tile_formatted_battery_percentage">Batterij %d%%</string>
-    <string name="sleep_time_tile_unplugged">Niet ingeplugd</string>
-    <string name="sleep_time_tile_plugged_usb">Ingeplugd USB</string>
-    <string name="sleep_time_tile_plugged_ac">Ingeplugd AC</string>
-    <string name="sleep_time_tile_plugged_wireless">Ingeplugd draadloos</string>
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
     <string name="alarm_tile_no_alarm_set">Geen alarm ingesteld</string>
@@ -371,7 +359,6 @@
     <string name="usb_debugging_tile_alert_dialog_message">Om de tegel toestemming te geven om USB debugging te veranderen, open instellingen en geef toestemming om beveiligde instellingen te overschrijven.</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">Mobiele gegevens</string>
-    <string name="cellular_data_tile_alert_dialog_message">Om de tegel toestemming te geven om mobiele data te veranderen, open instellingen en geef toestemming om beveiligde instellingen te overschrijven.</string>
     <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
     <string name="cellular_data_tile_data_usage_label">Data usage</string>
     <!--vpn-->

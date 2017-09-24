@@ -323,9 +323,9 @@
     <string name="settings_battery_details_tile_voltage">電壓</string>
     <string name="settings_battery_details_tile_technology">技術</string>
     <!--activities-->
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_no_activity_selected">沒有選取動作</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
+        <item quantity="one">%d 個動作被找到</item>
+        <item quantity="other">%d 個動作被找到</item>
     </plurals>
 </resources>

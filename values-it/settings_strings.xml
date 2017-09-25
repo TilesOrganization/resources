@@ -328,4 +328,9 @@
         <item quantity="one">%d attività trovata</item>
         <item quantity="other">%d attività trovate</item>
     </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">In uso</string>
+    <string name="settings_memory_tile_total">Totale</string>
+    <string name="settings_memory_tile_threshold">Soglia</string>
+    <string name="settings_memory_tile_low_memory">Memoria scarsa</string>
 </resources>

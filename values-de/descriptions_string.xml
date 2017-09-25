@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Sperrt das Smartphone. Falls ein Sperrbildschirm gesetzt worden ist (Passwort, PIN, Muster, …), folge bitte den Anweisungen um das Smartphone wieder zu entsperren. Der Gerätemanager muss hierfür aktiviert sein.</string>
     <string name="description_maps_tile">Startet Google\'s firmeneigene Maps App, sofern installiert, und zeigt den aktuellen Standort des Smartphone an. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Bestimmen des Standorts unterstützen. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>
     <string name="description_media_volume_tile">Ändert die Stummschaltung der Medienlautstärke.</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">Kanäle bei der Audiowiedergabe verbinden.</string>
     <string name="description_monochromacy_tile">Simuliert das Einfarbensehen(schwarz &amp; weiß).\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
     <string name="description_multi_window_tile">Android Nougat unterstützt einen Mehrfenster-Modus: Zwei Apps können neben- oder übereinander im Mehrfenster-Modus angezeigt werden. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Wähle und setze Verknüpfungen um eine bestimmte Aktion in der jeweiligen Anwendung auszuführen.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten.</string>
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Öffnet die Speicher-Einstellungen oder startet Android\'s integrierten Dateimanager um den Speicher des Smartphones durchzuschauen.</string>
     <string name="description_street_view_tile">Startet Google\'s firmeneigene Street View App, sofern installiert, und zeigt den aktuellen Standort des Smartphones an. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Recht für den Zugriff auf den Standort wird für diese Kachel benötigt.</string>
     <string name="description_sync_tile">Ändert den Synchronisationsstatus oder öffnet die Synchronisationseinstellungen.</string>

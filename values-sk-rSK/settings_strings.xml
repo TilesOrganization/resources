@@ -330,4 +330,9 @@
         <item quantity="other">%d nájdené aktivity</item>
         <item quantity="few">%d nájdených aktivít</item>
     </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">Used</string>
+    <string name="settings_memory_tile_total">Total</string>
+    <string name="settings_memory_tile_threshold">Threshold</string>
+    <string name="settings_memory_tile_low_memory">Low memory</string>
 </resources>

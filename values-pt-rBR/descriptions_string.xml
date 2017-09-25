@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Bloqueie o dispositivo com segurança. Se algum bloqueio de tela (senha, PIN, padrão…) estiver definido, siga o procedimento de desbloqueio fornecido para desbloquear o dispositivo. Administrador do dispositivo deve estar ativado.</string>
     <string name="description_maps_tile">Abre qualquer aplicativo de mapa, se instalado, mostrando a atual localização do dispositivo. A ação é compatível com aplicativos de terceiro que podem receber a transmissão padrão do Android para decodificar os parâmetros de geolocalização. Este bloco utiliza o API Google Awareness.\nA permissão de localização é necessária para usar esse bloco.</string>
     <string name="description_media_volume_tile">Altera o estado mudo do volume de fluxos de áudio para reprodução multimídia.</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">Combinar canais ao reproduzir áudio.</string>
     <string name="description_monochromacy_tile">Simula um modo monocromático (preto e branco).\nA permissão de modificar as configurações de segurança é necessária para que esse modo seja funcional.</string>
     <string name="description_multi_window_tile">O Android Nougat adiciona suporte para exibir mais de um aplicativo ao mesmo tempo: dois aplicativos podem ser executados lado a lado ou um acima do outro no modo de tela dividida. O serviço de acessibilidade deve estar ativado.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Escolha e configure atalhos para executar ações específicas de qualquer aplicativo que possui esse recurso.\nA permissão de chamada de telefone é necessária para executar atalhos de discagem direta.</string>
     <string name="description_sleep_tile">Coloque o dispositivo para dormir.</string>
     <string name="description_sleep_timeout_tile">Altere o tempo necessário para o dispositivo entre em modo de inatividade quando estiver inativo.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Abre as configurações de armazenamento ou inicia o gerenciador de arquivos interno do Android para explorar o armazenamento do dispositivo.</string>
     <string name="description_street_view_tile">Inicie o aplicativo Google Street View, se instalado, mostrando a localização atual do dispositivo. Esse bloco faz uso da API Google Awareness.\nA permissão de localização é necessária para usar esse bloco.</string>
     <string name="description_sync_tile">Ativa e desativa a sincronização ou abrir as configurações do mesmo.</string>

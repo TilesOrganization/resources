@@ -33,6 +33,7 @@
     <string name="description_lock_tile">如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定動態磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
     <string name="description_media_volume_tile">變更及調校媒體音量。</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">播放音訊時合併聲道</string>
     <string name="description_monochromacy_tile">模擬單色（黑白）色彩空間。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_multi_window_tile">Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的協助工具服務。</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\n需要使用電話權限才能執行快捷直接撥號。</string>
     <string name="description_sleep_tile">讓裝置休眠。</string>
     <string name="description_sleep_timeout_tile">變更裝置螢幕的休眠逾時。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">允許快速開啟開啟儲存空間設定或原生Android系統內建的檔案管理器。</string>
     <string name="description_street_view_tile">開啟「Google街景」應用程並顯示目前位置此快速設定動態磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定動態磚需要位置存取權限才能使用，詳情可參閱</string>
     <string name="description_sync_tile">提供「開啟或關閉同步」及「開啟同步設定版面」。</string>

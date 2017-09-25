@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Securely lock the device. If a screen lock (password, PIN, pattern, …) is set, please follow the provided unlocking procedure to unlock the device. Device administrator must be activated.</string>
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
     <string name="description_media_volume_tile">Change the mute state of the volume of audio streams for multimedia playback.</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">Pri prehrávaní zvuku zlúčiť kanály.</string>
     <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat adds support to display more than one app at the same time: two apps can run side-by-side or one above the other in split-screen mode. The accessibility service must be enabled.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Put the device to sleep.</string>
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings is required to use this tile.</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Open storage settings or launch Android\'s built-in file manager to explore the storage of the device.</string>
     <string name="description_street_view_tile">Launch Google\'s proprietary Street View app, if installed, showing the current location of the device. This tile makes use of the Google Awareness API.\nLocation permissionis required to use this tile.</string>
     <string name="description_sync_tile">Turn sync on or off, or open sync settings.</string>

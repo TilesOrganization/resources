@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Vergrendel het toestel veilig. Wanneer een vergrendelscherm (wachtwoord, PIN, patroon, …) is ingesteld, volg de verschafte procedure om het toestel te ontgrendelen. Apparaatbeheer moet zijn ingeschakeld.</string>
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_media_volume_tile">Verander de status van het dempen van volume van audio streams voor multimedia playback.</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">Kanalen combineren bij het afspelen van geluid.</string>
     <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat voegt support toe om meer dan één app tegelijk weer te geven; twee app kunnen naast elkaar of boven elkaar in split-screen modus worden weergegeven. De toegankelijkheid service moet zijn ingeschakeld.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Zet het toestel in slaapstand.</string>
     <string name="description_sleep_timeout_tile">Verander de duur voordat het toestel in slaapstand gaat wanneer deze inactief is.\nToestemming om systeem instellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Open storage settings or Op Android’\s ingebouwde bestandsbeheer om de opslagruimte van het toestel te verkennen.</string>
     <string name="description_street_view_tile">Open Google’s eigen Street View app, wanneer deze geïnstalleerd is, laat deze de huidige locatie zien van het toestel. Deze tegel maakt gebruik van de Google Awareness API.\nLocatie toestemming is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_sync_tile">Schakel synchroniseren in of uit, of open synchronisatie instellingen.</string>

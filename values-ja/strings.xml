@@ -5,7 +5,7 @@
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">このアクションを実行するためのアプリが見つかりませんでした。</string>
     <string name="start_activity_can_not_be_started_alert_dialog_message">アクティビティを開始することができません。</string>
-    <string name="su_alert_dialog_message">アクションを実行するには対話シェルのSuperuser権限を承認してください。</string>
+    <string name="su_alert_dialog_message">アクションを実行するには対話シェルのSuperuser権限を許可してください。</string>
     <string name="play_services_alert_dialog_message">アクションを実行するにはGoogle Play開発者サービスが必要です。インストールしてやり直してください。</string>
     <string name="high">高</string>
     <string name="medium">中</string>

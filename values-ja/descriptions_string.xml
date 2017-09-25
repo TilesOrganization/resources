@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
+    <string name="description_activities_tile">アプリの隠れたアクティビティを起動するタイルを５つまで追加できます。</string>
     <string name="description_adaptive_brightness_tile">有効にすると、周囲に合わせて明るさを最適化します。明るさの自動調整を有効にしても明るさを調整することができます。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
     <string name="description_alarm_tile">現在設定されているアラームを表示、または新しくアラームを設定します。アラームが設定されている場合、次のアラームをタイルに表示します。このアクションはアラームの表示と編集のために、Androidの規定のブロードキャストを受け取れるサードパーティ製のアプリとの互換性があります。</string>
-    <string name="description_ambient_display_tile">Set the device to show lock screen content when a notification comes.\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
+    <string name="description_ambient_display_tile">通知を受け取った時にロック画面の内容を端末に表示します。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
     <string name="description_animations_tile">アニメーター再生時間とトランジションアニメとウィンドウアニメのスケールを設定します。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
     <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
     <string name="description_awake_while_plugged_in_tile">充電中に画面をスリープにしません。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
@@ -34,10 +34,10 @@
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
     <string name="description_media_volume_tile">Change the mute state of the volume of audio streams for multimedia playback.</string>
     <string name="description_mono_audio_tile">音声再生時のチャンネルを統合します".</string>
-    <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
-    <string name="description_multi_window_tile">Android Nougat adds support to display more than one app at the same time: two apps can run side-by-side or one above the other in split-screen mode. The accessibility service must be enabled.</string>
+    <string name="description_monochromacy_tile">画面をモノクロ (白黒) 表示にします。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
+    <string name="description_multi_window_tile">Android Nougatでは分割画面がサポートされました。: 2つのアプリを左右・上下に並べて表示できます。この項目を利用するには、ユーザー補助サービスを有効にしておく必要があります。</string>
     <string name="description_nfc_tile">Turn NFC on or off, or open NFC settings.\nWrite secure settings permission is required to change NFC state.</string>
-    <string name="description_notification_light_tile">Turn notification light on or off.</string>
+    <string name="description_notification_light_tile">通知LEDのを切り替えます。</string>
     <string name="description_orientation_lock_tile">Lock the orientation of the device: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. To change and lock orientation, the tile needs to turn auto-rotate off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_power_tile">Show a dialog to power off, reboot, reboot recovery, reboot bootloader. To show the system power dialog, the accessibility service must be enabled.</string>
     <string name="description_power_dialog_accessibility_tile">Show the Android system power dialog to power off or restart the device. The accessibility service must be enabled.</string>
@@ -51,7 +51,7 @@
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings is required to use this tile.</string>
     <string name="description_storage_tile">Open storage settings or launch Android\'s built-in file manager to explore the storage of the device.</string>
     <string name="description_street_view_tile">Launch Google\'s proprietary Street View app, if installed, showing the current location of the device. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>
-    <string name="description_sync_tile">Turn sync on or off, or open sync settings.</string>
+    <string name="description_sync_tile">同期を切り替えるか、同期の設定を開きます。</string>
     <string name="description_text_tile">Open a dialog to write anything, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_timer_tile">Start a countdown timer. The action is compatible with third-party apps that can receive the Android default broadcast to start a countdown timer.</string>
     <string name="description_touch_sounds_tile">Turn touch sounds on or off.\nModify system settings permissions required to use this tile.</string>

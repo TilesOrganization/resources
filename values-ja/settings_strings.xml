@@ -77,7 +77,7 @@
     <string name="settings_stop_on_sleep_summary_off">端末がスリープしてもサービスを継続</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">拒否。タイルは明るさのモードを変更できません</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">承認済み。タイルは明るさのモードを変更できます</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは明るさのモードを変更できます</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">すべてのアプリを表示</string>
     <string name="settings_application_tile_action_show_selected_apps">選択したアプリを表示</string>
@@ -100,7 +100,7 @@
     <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change brightness level</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change brightness level</string>
     <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
@@ -109,7 +109,7 @@
     <string name="settings_call_tile_action_make_call">Call selected contact</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">拒否。 The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">承認済み。 The tile is allowed to make phone calls</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">許可済み。 The tile is allowed to make phone calls</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Open email app</string>
@@ -149,10 +149,10 @@
     <string name="settings_timer_tile_default_duration">Default duration</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">拒否。 The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">承認済み。 The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">許可済み。 The tile is allowed to access device\'s location</string>
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">拒否。 The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">承認済み。 The tile is allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">許可済み。 The tile is allowed to access device\'s location and get current weather conditions</string>
     <string name="settings_units">Units</string>
     <string name="settings_summary_off_hidden">Hidden</string>
     <string name="settings_summary_on_shown">Shown</string>
@@ -175,16 +175,16 @@
     <string name="settings_calendar_tile_action_view">View events</string>
     <string name="settings_calendar_tile_action_add">Add event</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change location mode</string>
     <string name="settings_location_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change location mode</string>
     <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change sleep timeout</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">承認済み。 The tile is allowed to take and store screenshot</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">許可済み。 The tile is allowed to take and store screenshot</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">拒否。 The tile is not allowed to take and store screenshot</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
@@ -209,14 +209,14 @@
     <string name="settings_notification_settings_action_title">Settings action</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change ambient display</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change ambient display</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change animations</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change animations</string>
     <string name="settings_show_milliseconds">Show milliseconds</string>
     <!--alarm tile-->
@@ -231,31 +231,31 @@
     <string name="settings_font_size_tile_font_scale_large">大</string>
     <string name="settings_font_size_tile_font_scale_largest">最大</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change font size</string>
     <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change NFC state</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change NFC state</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
     <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change data roaming</string>
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change data roaming</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Default density</string>
     <string name="settings_density_tile_current_density_title">Current density</string>
     <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change awake while plugged in</string>
     <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change awake while plugged in</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change demo mode</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change demo mode</string>
     <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">承認済み。 The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">許可済み。 The tile is allowed to retrieve state dump information from system services</string>
     <string name="settings_demo_mode_tile_dump_permission_summary_off">拒否。 The tile is not allowed to retrieve state dump information from system services</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change heads-up notifications</string>
     <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change heads-up notifications</string>
     <!--power-->
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">無効。 The tile is not allowed to show system power dialog</string>
@@ -272,23 +272,23 @@
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">拒否。 The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
     <!--vibrate on tap-->
     <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change vibrate on tap</string>
     <!--touch sounds-->
     <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change touch sounds</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
     <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change and lock orientation</string>
     <!--vibrate for calls-->
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">承認済み。 The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change vibrate for calls</string>
     <!--battery saver-->
     <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to turn battery saver on and off</string>
     <!--usb debugging-->
     <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change USB debugging</string>
     <!--cellular data-->
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
@@ -297,12 +297,12 @@
     <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
     <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">拒否。 The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">承認済み。 The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">許可済み。 The tile is allowed to make phone calls and perform direct dial shortcuts</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">承認済み。 The tile is allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change monochromacy</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change monochromacy</string>
     <!--input method-->
     <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
@@ -311,7 +311,7 @@
     <string name="settings_contacts_tile_selected_contact">Selected contact</string>
     <string name="settings_contacts_tile_summary_empty">No contact selected</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">承認済み。The tile is allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">許可済み。The tile is allowed to change invert colors</string>
     <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change invert colors</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">ストレージ設定を開く</string>

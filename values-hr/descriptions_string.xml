@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Zaključajte uređaj. Ako je postavljeno zaključavanje zaslona (lozinka, PIN, uzorak …), slijedite postupak otključavanja kako biste otključali uređaj. Aplikacija mora biti postavljena kao administrator uređaja.</string>
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. Ova pločica upotrebljava Google Awareness API.\nZa upotrebu ove pločice potrebna su dopuštenja lokacije.</string>
     <string name="description_media_volume_tile">Uključite/isključite zvuk za reprodukciju multimedijskih sadržaja.</string>
+    <string name="description_memory_tile">Show a persistent notification with details about the memory of the device: available, used, threshold, low memory. The label of the tile displays the available memory of the device when the notification is active.</string>
     <string name="description_mono_audio_tile">Kombiniranje kanala prilikom reprodukcije zvuka.</string>
     <string name="description_monochromacy_tile">Simuliraj monokromatske boje (crno i bijelo).\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_multi_window_tile">Android Nougat dodaje podršku za istodobno prikazivanje više aplikacija: dvije aplikacije mogu se prikazivati jedna uz drugu ili jedna iznad druge u načinu podijeljenog zaslona. Usluga pristupačnosti mora biti omogućena.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Odaberite i postavite prečace za izvođenje određenih radnji u bilo kojoj aplikaciji koja implementira takvu značajku.\nPotrebna je dozvola za pristup telefonu kako bi bilo moguće kreiranje prečaca za izravno biranje.</string>
     <string name="description_sleep_tile">Stavite uređaj u stanje mirovanja.</string>
     <string name="description_sleep_timeout_tile">Izmijenite koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja ukoliko je inaktivan.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
+    <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Open storage settings or Pokrenite ugrađeni upravitelj datoteka Androida kako biste istražili pohranu uređaja.</string>
     <string name="description_street_view_tile">Pokrenite Googleovu aplikaciju Street View, ako je instalirana, koja prikazuje trenutačnu lokaciju uređaja. Ova pločica upotrebljava Google Awareness API.\nZa upotrebu ove pločice potrebna su dopuštenja lokacije.</string>
     <string name="description_sync_tile">Uključivanje ili isključivanje sinkronizacije ili otvaranje postavki sinkronizacije.</string>

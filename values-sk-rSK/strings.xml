@@ -430,4 +430,13 @@
     <string name="activity_d_tile_label">Aktivita #4</string>
     <string name="activity_e_tile_label">Aktivita #5</string>
     <string name="activity_tile_no_activity_selected_alert_dialog_message">Nie je vybraná žiadna aktivita, prosím, otvorte nastavenia a vyberte aktivitu.</string>
+    <!--stopwatch-->
+    <string name="stopwatch_tile_label">Stopwatch</string>
+    <!--memory-->
+    <string name="memory_tile_label">Memory</string>
+    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Total: %s</string>
+    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
+    <string name="memory_tile_low_memory">Low memory</string>
 </resources>

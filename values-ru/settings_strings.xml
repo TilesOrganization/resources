@@ -332,4 +332,9 @@
         <item quantity="few">%d активностей найдено</item>
         <item quantity="many">%d активностей найдено</item>
     </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">Used</string>
+    <string name="settings_memory_tile_total">Total</string>
+    <string name="settings_memory_tile_threshold">Threshold</string>
+    <string name="settings_memory_tile_low_memory">Low memory</string>
 </resources>

@@ -33,6 +33,7 @@
     <string name="description_lock_tile">Bloccare il dispositivo in modo sicuro. Se  è impostato un blocco schermo (password, PIN, sequenza, …), per favore seguire la procedura di sblocco per sbloccare il dispositivo. Amministratore dispositivo è richiesto attivato.</string>
     <string name="description_maps_tile">Lanciare qualsiasi applicazione di mappe, se installata, visualizzando la posizione corrente del dispositivo. L\'azione è compatibile con applicazioni di terze parti che possono ricevere il broadcast di default di Android per decodificare parametri di geolocalizzazione. Questa funzione usa l\'API Google Awareness.\nAutorizzazione posizione è necessaria per utilizzare questa funzione.</string>
     <string name="description_media_volume_tile">Cambia lo stato muto del volume di uscite audio per la riproduzione di contenuti multimediali.</string>
+    <string name="description_memory_tile">Mostare una notifica persistente con i dettagli della memoria del dispositivo: disponibile, in uso, soglia, memoria scarsa. L\'etichetta dell\'impostazione rapida mostra la memoria disponibile del dispositivo quando la notifica è attiva.</string>
     <string name="description_mono_audio_tile">Unisci i canali durante la riproduzione dell\'audio.</string>
     <string name="description_monochromacy_tile">Simula spazio colore monocromia (bianco &amp; nero).\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_multi_window_tile">Android Nougat supporta la visualizzazione di più di una applicazione nello stesso momento: due applicazioni possono essere eseguite una vicina all\'altra o una sopra l\'altra in modalità schermo suddiviso. Il servizio accessibilità è richiesto abilitato.</string>
@@ -49,6 +50,7 @@
     <string name="description_shortcuts_tile">Scegliere e impostare scorciatoie per eseguire azioni specifiche attraverso qualsiasi applicazione che implementa tale funzione.\nAutorizzazione telefono è necessaria per eseguire scorciatoie per chiamata diretta.</string>
     <string name="description_sleep_tile">Mettere il dispositivo in sospensione.</string>
     <string name="description_sleep_timeout_tile">Modificare quanto tempo trascorre prima che il dispositivo entri in sospensione quando non utilizzato.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
+    <string name="description_stopwatch_tile">Mostare un dialogo con cronometro.</string>
     <string name="description_storage_tile">Visualizzare le impostazioni spazio di archiviazione o lanciare il file manager nativo di Android per esplorare lo spazio di archiviazione del dispositivo.</string>
     <string name="description_street_view_tile">Lanciare l\'applicazione Street View di Google, se installata, visualizzando la posizione corrente del dispositivo. Questa funzione usa l\'API Google Awareness.\nAutorizzazione posizione è necessaria per utilizzare questa funzione.</string>
     <string name="description_sync_tile">Abilitare o disabilitare la sincronizzazione, o visualizzare le impostazioni sincronizzazione.</string>

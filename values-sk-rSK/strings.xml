@@ -433,7 +433,7 @@
     <!--stopwatch-->
     <string name="stopwatch_tile_label">Stopky</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
+    <string name="memory_tile_label">Pamäť</string>
     <string name="memory_tile_formatted_available_memory">Dostupné: %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_total_memory">Celkom: %s</string>
     <string name="memory_tile_formatted_used_memory">Použité: %1$s (%2$.1f%%)</string>

@@ -36,7 +36,7 @@
     <string name="settings_restart_active_tiles_title">Neustart der aktiven Kacheln</string>
     <string name="settings_restart_active_tiles_summary">Erzwinge einen Neustart für die aktiven Kacheln. Verwende diese Aktion nur, nachdem die Kacheln durch das Betriebssystem beendet worden sind und deswegen nicht mehr reagieren.</string>
     <string name="settings_restart_active_tiles_summary_processing">Neustart der aktiven Kacheln im Gange.</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_scheduled_restart_tiles_title">Geplanter Neustart</string>
     <!--UX-->
     <string name="settings_permission">Berechtigungen</string>
     <string name="settings_phone_call_permission_title">Telefon-Rechte</string>
@@ -72,9 +72,9 @@
     <string name="settings_component_summary_on">Zeige die Kachel in den Schnelleinstellungen</string>
     <string name="settings_tile_action_start_service_and_collapse">Schließe die Schnelleinstellungen und starte den Dienst</string>
     <string name="settings_tile_action_start_service_without_collapsing">Starte den Dienst ohne die Schnelleinstellungen schließen</string>
-    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
-    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
-    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_title">Stop während dem Schlaf</string>
+    <string name="settings_stop_on_sleep_summary_on">Stoppt den Dienst wenn das Gerät schlafen geht</string>
+    <string name="settings_stop_on_sleep_summary_off">Dienst läuft weiter wenn das Gerät schlafen geht</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht die Helligkeit ändern</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Helligkeit ändern</string>
@@ -317,20 +317,20 @@
     <string name="settings_storage_tile_action_open_storage_settings">Öffne die Speicher-Einstellungen</string>
     <string name="settings_storage_tile_action_open_file_manager">Öffne den Dateimanager</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">Gesundheit</string>
+    <string name="settings_battery_details_tile_temperature">Temperatur</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperatur Einheit</string>
+    <string name="settings_battery_details_tile_voltage">Spannung</string>
+    <string name="settings_battery_details_tile_technology">Technologie</string>
     <!--activities-->
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_no_activity_selected">Keine Aktivität ausgewählt</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
+        <item quantity="one">%d Aktivität gefunden</item>
+        <item quantity="other">%d Aktivitäten gefunden</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Verwendet</string>
+    <string name="settings_memory_tile_total">Insgesamt</string>
+    <string name="settings_memory_tile_threshold">Schwellenwert</string>
+    <string name="settings_memory_tile_low_memory">Geringen Speicher</string>
 </resources>

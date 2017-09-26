@@ -333,8 +333,8 @@
         <item quantity="many">%d активностей найдено</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Используется</string>
+    <string name="settings_memory_tile_total">Всего</string>
+    <string name="settings_memory_tile_threshold">Пороговое значение</string>
+    <string name="settings_memory_tile_low_memory">Мало памяти</string>
 </resources>

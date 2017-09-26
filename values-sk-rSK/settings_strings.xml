@@ -331,8 +331,8 @@
         <item quantity="few">%d nájdených aktivít</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Použité</string>
+    <string name="settings_memory_tile_total">Celkom</string>
+    <string name="settings_memory_tile_threshold">Prah</string>
+    <string name="settings_memory_tile_low_memory">Nedostatok pamäte</string>
 </resources>

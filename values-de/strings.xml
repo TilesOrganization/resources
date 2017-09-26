@@ -4,7 +4,7 @@
     <string name="location_off_alert_dialog_message">Standort ist aus. Öffne die Einstellungen und aktiviere die Standortbestimmung, damit Tiles deine aktuelle Position ermitteln kann.</string>
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Keine Anwendung für das Ausführen der Aktion gefunden.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Aktivität kann nicht gestartet werden.</string>
     <string name="su_alert_dialog_message">Um diese Aktion auszuführen, erteile bitte Superuser-Rechte für eine interaktive Shell.</string>
     <string name="play_services_alert_dialog_message">Google Play Services wird für die Ausführung dieser Aktion benötigt. Installiere diese und versuche es erneut.</string>
     <string name="high">Hoch</string>
@@ -22,15 +22,15 @@
     <string name="warning">Warnung</string>
     <string name="accessibility_service_label">Erreichbarkeitsdienst</string>
     <string name="accessibility_service_description">Erreichbarkeitsdienst um Tiles die Ausführung globaler Aktionen zu erlauben: Zeige den System Power-Menü, zeige letzte Apps, umschalten des Mehrfenster-Modus</string>
-    <string name="fifteen_minutes">15 minutes</string>
-    <string name="thirty_minutes">30 minutes</string>
-    <string name="forty_two_minutes">42 minutes</string>
-    <string name="forty_five_minutes">45 minutes</string>
-    <string name="one_hour">1 hour</string>
-    <string name="two_hours">2 hours</string>
-    <string name="three_hours">3 hours</string>
-    <string name="six_hours">6 hours</string>
-    <string name="twelve_hours">12 hours</string>
+    <string name="fifteen_minutes">15 Minuten</string>
+    <string name="thirty_minutes">30 Minuten</string>
+    <string name="forty_two_minutes">42 Minuten</string>
+    <string name="forty_five_minutes">45 Minuten</string>
+    <string name="one_hour">1 Stunde</string>
+    <string name="two_hours">2 Stunden</string>
+    <string name="three_hours">3 Stunden</string>
+    <string name="six_hours">6 Stunden</string>
+    <string name="twelve_hours">12 Stunden</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="fahrenheit">Fahrenheit</string>
@@ -401,42 +401,42 @@
     <!-- notification light -->
     <string name="notification_light_tile_label">Benachrichtigungs-Licht</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">Akku-Details</string>
+    <string name="battery_details_tile_formatted_battery_level">Akku-Level: %1d%%</string>
+    <string name="battery_details_tile_discharging">Endladen</string>
+    <string name="battery_details_tile_formatted_charging">Laden: %s</string>
     <string name="battery_details_tile_usb">USB</string>
     <string name="battery_details_tile_ac">AC</string>
     <string name="battery_details_tile_wireless">Wireless</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_formatted_health">Gesundheit: %s</string>
+    <string name="battery_details_tile_health_cold">Kalt</string>
+    <string name="battery_details_tile_health_dead">Tot</string>
+    <string name="battery_details_tile_health_good">Gut</string>
+    <string name="battery_details_tile_health_over_voltage">Überspannung</string>
+    <string name="battery_details_tile_health_overheat">Überhitzung</string>
+    <string name="battery_details_tile_unknown">Unbekannt</string>
+    <string name="battery_details_tile_unspecified_failure">Unspezifiziertes Versagen</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatur: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Spannung: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Technologie: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Betriebszeit</string>
     <string name="up_time_tile_formatted_uptime">Betriebszeit: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Aktivitäten</string>
+    <string name="activity_a_tile_label">Aktivität #1</string>
+    <string name="activity_b_tile_label">Aktivität #2</string>
+    <string name="activity_c_tile_label">Aktivität #3</string>
+    <string name="activity_d_tile_label">Aktivität #4</string>
+    <string name="activity_e_tile_label">Aktivität #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Keine Aktivität ausgewählt, öffne die Einstellungen und wähle Aktivitäten aus.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">Stoppuhr</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">Speicher</string>
+    <string name="memory_tile_formatted_available_memory">Verfügbar: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Insgesamt: %s</string>
+    <string name="memory_tile_formatted_used_memory">Verwendet: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Schwellwert: %s</string>
+    <string name="memory_tile_low_memory">Geringer Speicher</string>
 </resources>

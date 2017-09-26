@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
     <string name="settings_send_email">Отправить письмо</string>
-    <string name="settings_support_summary">Разработано для Android Nougat</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">Благодарности</string>
     <string name="settings_credit_app_icon">Иконка приложения</string>
     <string name="settings_translations">Переводы</string>

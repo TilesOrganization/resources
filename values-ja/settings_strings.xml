@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">アプリを評価・レビュー</string>
     <string name="settings_support_title">サポートありがとうございます！</string>
     <string name="settings_send_email">メールを送る</string>
-    <string name="settings_support_summary">Android Nougat用に開発</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">協力者</string>
     <string name="settings_credit_app_icon">アプリのアイコン</string>
     <string name="settings_translations">翻訳</string>

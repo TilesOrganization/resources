@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">Alkalmazás értékelése</string>
     <string name="settings_support_title">Köszönöm a támogatásodat!</string>
     <string name="settings_send_email">Email küldése</string>
-    <string name="settings_support_summary">Android Nougathoz fejlesztve</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">Készítők</string>
     <string name="settings_credit_app_icon">Alkalmazás fejlesztője</string>
     <string name="settings_translations">Fordítások</string>

@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">Beoordeel of waardeer de app</string>
     <string name="settings_support_title">Bedankt voor je steun!</string>
     <string name="settings_send_email">Stuur email</string>
-    <string name="settings_support_summary">Ontworpen voor Android Nougat</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">Credit</string>
     <string name="settings_credit_app_icon">Applicatie\'s icoon</string>
     <string name="settings_translations">Vertaling</string>

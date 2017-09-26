@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">謝謝您的支持！</string>
     <string name="settings_send_email">發送寄送電子郵件</string>
-    <string name="settings_support_summary">Android Nougat專屬</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">嗚謝</string>
     <string name="settings_credit_app_icon">程式圖示</string>
     <string name="settings_translations">程式翻譯</string>

@@ -48,7 +48,7 @@
     <string name="settings_rate_or_review">Pontuar ou comentar a aplicação</string>
     <string name="settings_support_title">Obrigado pelo apoio!</string>
     <string name="settings_send_email">Enviar email</string>
-    <string name="settings_support_summary">Desenvolvido para o Android Nougat</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
     <string name="settings_credit">Créditos</string>
     <string name="settings_credit_app_icon">Ícone da aplicação</string>
     <string name="settings_translations">Traduções</string>

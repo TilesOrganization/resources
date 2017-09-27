@@ -431,12 +431,12 @@
     <string name="activity_e_tile_label">動作 #5</string>
     <string name="activity_tile_no_activity_selected_alert_dialog_message">沒有選取任何動作，請前往設定選取動作。</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">計時器</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">記憶體</string>
+    <string name="memory_tile_formatted_available_memory">可用: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">總記憶體: %s</string>
+    <string name="memory_tile_formatted_used_memory">已使用: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">保留: %s</string>
+    <string name="memory_tile_low_memory">低記憶體</string>
 </resources>

@@ -329,8 +329,8 @@
         <item quantity="other">%d 個動作被找到</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">已使用</string>
+    <string name="settings_memory_tile_total">總記憶體</string>
+    <string name="settings_memory_tile_threshold">保留</string>
+    <string name="settings_memory_tile_low_memory">低記憶體</string>
 </resources>

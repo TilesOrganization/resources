@@ -268,6 +268,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Permitida. O mosaico pode mostrar as aplicações recentes</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Acesso ao não incomodar</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Permitida. A aplicação pode activar/desactivar o não incomodar e alterar o volume de toque</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negada. A aplicação não pode activar/desactivar o não incomodar e alterar o volume de toque</string>
     <!--vibrate on tap-->
@@ -333,4 +334,9 @@
     <string name="settings_memory_tile_total">Total</string>
     <string name="settings_memory_tile_threshold">Threshold</string>
     <string name="settings_memory_tile_low_memory">Low memory</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reset value</string>
+    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_action_addition">Addition</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
 </resources>

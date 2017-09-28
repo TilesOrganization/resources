@@ -439,4 +439,8 @@
     <string name="memory_tile_formatted_used_memory">In uso: %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_threshold">Soglia: %s</string>
     <string name="memory_tile_low_memory">Memoria scarsa</string>
+    <!--counter-->
+    <string name="counter_tile_label">Contatore</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Valore non può essere addizionato: è stato raggiunto il valore massimo dell\'intero.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Valore non può essere sottratto: è stato raggiunto il valore minimo dell\'intero.</string>
 </resources>

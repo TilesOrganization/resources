@@ -268,6 +268,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Ativado. O bloco está permitido mostrar a tela de recentes</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Acesso ao Não perturbe</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concedido. O aplicativo está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negado. O aplicativo não está autorizado para ativar/desativar o Não perturbe e alterar o volume do toque</string>
     <!--vibrate on tap-->
@@ -333,4 +334,9 @@
     <string name="settings_memory_tile_total">Total</string>
     <string name="settings_memory_tile_threshold">Limite</string>
     <string name="settings_memory_tile_low_memory">Pouca memória</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reset value</string>
+    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_action_addition">Addition</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
 </resources>

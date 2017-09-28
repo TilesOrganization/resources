@@ -268,6 +268,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a mostrare schermo recenti</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Accesso Non disturbare</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Apri pannello volume</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Concessa. La funzione ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Negata. La funzione non ha l\'autorizzazione ad attivare/disattivare Non disturbare e cambiare volume suoneria.</string>
     <!--vibrate on tap-->
@@ -333,4 +334,9 @@
     <string name="settings_memory_tile_total">Totale</string>
     <string name="settings_memory_tile_threshold">Soglia</string>
     <string name="settings_memory_tile_low_memory">Memoria scarsa</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reinizializza valore</string>
+    <string name="settings_counter_tile_current_value">Valore corrente</string>
+    <string name="settings_counter_tile_action_addition">Addizione</string>
+    <string name="settings_counter_tile_action_subtraction">Sottrazione</string>
 </resources>

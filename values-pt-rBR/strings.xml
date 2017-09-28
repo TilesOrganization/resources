@@ -439,4 +439,8 @@
     <string name="memory_tile_formatted_used_memory">Em uso: %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_threshold">Limite: %s</string>
     <string name="memory_tile_low_memory">Pouca memória</string>
+    <!--counter-->
+    <string name="counter_tile_label">Counter</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
 </resources>

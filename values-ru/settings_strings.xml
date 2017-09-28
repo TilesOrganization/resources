@@ -270,6 +270,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Разрешено. Плитка может показывать недавние приложения</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Доступ к режиму Не беспокоить</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Разрешено. Плитка может менять состояние режима Не беспокоить и менять громкость звонка</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Запрещено. Плитка не может менять состояние режима Не беспокоить и менять громкость звонка</string>
     <!--vibrate on tap-->
@@ -337,4 +338,9 @@
     <string name="settings_memory_tile_total">Общее значение</string>
     <string name="settings_memory_tile_threshold">Пороговое значение</string>
     <string name="settings_memory_tile_low_memory">Предупреждение о нехватке памяти</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reset value</string>
+    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_action_addition">Addition</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
 </resources>

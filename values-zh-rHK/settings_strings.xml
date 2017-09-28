@@ -268,6 +268,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">已授權。此快速設定磚允許顯示最近使用的應用程式。</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">「請勿打擾」模式存取</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">>已授權。此快速設定磚允許開啟「請勿打擾」模式及變更音量。</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已禁止。 此快速設定磚禁止開啟「請勿打擾」模式及變更音量。</string>
     <!--vibrate on tap-->
@@ -333,4 +334,9 @@
     <string name="settings_memory_tile_total">總記憶體</string>
     <string name="settings_memory_tile_threshold">保留</string>
     <string name="settings_memory_tile_low_memory">低記憶體</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reset value</string>
+    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_action_addition">Addition</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
 </resources>

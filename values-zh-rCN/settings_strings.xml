@@ -66,6 +66,7 @@
     <string name="settings_translations_locale_ru">Russian</string>
     <string name="settings_translations_locale_fr">French</string>
     <string name="settings_translations_locale_hr">克罗地亚</string>
+    <string name="settings_translations_locale_ja">Japanese</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tile visibility</string>
     <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>

@@ -66,6 +66,7 @@
     <string name="settings_translations_locale_zh_rTW">Традиционный китайский, Тайвань</string>
     <string name="settings_translations_locale_fr">Французский</string>
     <string name="settings_translations_locale_hr">Хорватский</string>
+    <string name="settings_translations_locale_ja">Японский</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Видимость плитки</string>
     <string name="settings_component_summary_off">Скрыть плитку из панели быстрых настроек</string>

@@ -440,7 +440,7 @@
     <string name="memory_tile_formatted_threshold">Prah: %s</string>
     <string name="memory_tile_low_memory">Nedostatok pamäte</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Počítadlo</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Hodnota nemôže byť pridaná: maximálna celá hodnota bola dosiahnutá.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Hodnota nemôže byť odčítaná: minimálna celá hodnota bola dosiahnutá.</string>
 </resources>

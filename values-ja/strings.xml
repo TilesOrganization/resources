@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something went wrong. Please try again</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
+    <string name="something_went_wrong">問題が発生しました。もう一度お試しください。</string>
+    <string name="location_off_alert_dialog_message">位置情報がオフになっています。タイルで位置情報を取得するには位置情報の権限を許可してください。/string>
+    <string name="location_device_only_alert_dialog_message">位置情報モードがGPSのみになっています。より速く正確な結果を得るためには、設定から他の位置情報モードを有効にしてください。</string>
     <string name="resolve_activity_alert_dialog_message">このアクションを実行するためのアプリが見つかりませんでした。</string>
     <string name="start_activity_can_not_be_started_alert_dialog_message">アクティビティを開始することができません。</string>
-    <string name="su_alert_dialog_message">アクションを実行するには対話シェルのSuperuser権限を許可してください。</string>
-    <string name="play_services_alert_dialog_message">アクションを実行するにはGoogle Play開発者サービスが必要です。インストールしてやり直してください。</string>
+    <string name="su_alert_dialog_message">アクションを実行するには対話シェルのSuperuser権限を付与してください。</string>
+    <string name="play_services_alert_dialog_message">アクションを実行するにはGoogle Play開発者サービスが必要です。インストールしてからやり直してください。</string>
     <string name="high">高</string>
     <string name="medium">中</string>
     <string name="low">低</string>
@@ -18,195 +18,195 @@
     <string name="share">共有</string>
     <string name="delete">削除</string>
     <string name="save">保存</string>
-    <string name="save_and_close">Save &amp; Close</string>
+    <string name="save_and_close">保存して閉じる</string>
     <string name="warning">警告</string>
     <string name="accessibility_service_label">ユーザー補助サービス</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
-    <string name="fifteen_minutes">15 分</string>
-    <string name="thirty_minutes">30 分</string>
-    <string name="forty_two_minutes">42 分</string>
-    <string name="forty_five_minutes">45 分</string>
-    <string name="one_hour">1 時間</string>
-    <string name="two_hours">2 時間</string>
-    <string name="three_hours">3 時間</string>
-    <string name="six_hours">6 時間</string>
-    <string name="twelve_hours">12 時間</string>
+    <string name="accessibility_service_description">電源メニュの表示、オーバービュー画面の表示、分割画面の切り替えを許可するためのユーザー補助サービス</string>
+    <string name="fifteen_minutes">15分</string>
+    <string name="thirty_minutes">30分</string>
+    <string name="forty_two_minutes">42分</string>
+    <string name="forty_five_minutes">45分</string>
+    <string name="one_hour">1時間</string>
+    <string name="two_hours">2時間</string>
+    <string name="three_hours">3時間</string>
+    <string name="six_hours">6時間</string>
+    <string name="twelve_hours">12時間</string>
     <string name="start">開始</string>
     <string name="stop">停止</string>
     <string name="fahrenheit">華氏</string>
     <string name="celsius">摂氏</string>
     <!--adaptive brightness-->
-    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_label">明るさの自動調節</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">タイルから明るさのモードを変更するには、設定からシステム設定の書き込みを許可してください。</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">Applications</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_label">アプリ</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">アプリが選択されていません。設定からアプリを選択してください。</string>
     <!--application-->
-    <string name="application_a_tile_label">アプリ 1</string>
-    <string name="application_b_tile_label">アプリ 2</string>
-    <string name="application_c_tile_label">アプリ 3</string>
-    <string name="application_d_tile_label">アプリ 4</string>
-    <string name="application_e_tile_label">アプリ 5</string>
+    <string name="application_a_tile_label">アプリ1</string>
+    <string name="application_b_tile_label">アプリ2</string>
+    <string name="application_c_tile_label">アプリ3</string>
+    <string name="application_d_tile_label">アプリ4</string>
+    <string name="application_e_tile_label">アプリ5</string>
     <string name="application_tile_label">アプリ</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">アプリが選択されていません。設定からアプリを選択してください。</string>
     <string name="application_info_dialog_message">クイック起動にはアプリを1つだけ選択してください。</string>
     <!--brightness-->
     <string name="brightness_tile_label">明るさ</string>
     <string name="brightness_tile_label_formatted">明るさ %1$s</string>
-    <string name="brightness_tile_label_formatted_high">高: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_medium">中: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_low">低: %1$d%%</string>
-    <string name="brightness_tile_formatted_label_one_param">明るさ: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_high">高： %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">中： %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">低： %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">明るさ： %1$d%%</string>
     <string name="brightness_tile_undefined_label">明るさ不明</string>
     <string name="brightness_tile_alert_dialog_message">タイルから明るさを変更するには、設定からシステム設定の書き込みを許可してください。</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>明るさの自動調整&lt;/b> 有効です</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">現在の明るさ: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>明るさの自動調節&lt;/b> 有効です</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">現在の明るさ： &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">電卓</string>
     <!--calendar-->
     <string name="calendar_tile_label">カレンダー</string>
     <!--call-->
     <string name="call_tile_label">通話</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">タイルから電話を発信するには、設定から通話の権限を許可してください。</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">連絡先が選択されていません。設定から連絡先を選択するか、違うアクションを選択してください。</string>
+    <string name="call_tile_formatted_label">%sに発信</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">選択先を選択</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">カメラ</string>
+    <string name="camera_tile_video_label">ビデオカメラ</string>
     <!--email -->
-    <string name="email_tile_label">Email</string>
-    <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_label">メール</string>
+    <string name="email_tile_formatted_label">%s宛てに作成</string>
+    <string name="email_tile_empty_email_alert_dialog_message">連絡先が選択されていません。設定から連絡先を選択するか、違うアクションを選択してください。</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\u2019t be allowed to lock the device.</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
+    <string name="lock_tile_label">ロック</string>
+    <string name="lock_tile_device_admin_description">ロックタイルに端末をロックすることを許可します。</string>
+    <string name="lock_tile_device_admin_activated">機器管理機能が有効です。</string>
+    <string name="lock_tile_device_admin_deactivated">機器管理機能が無効です。</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">無効にすると、ロックタイルから端末をロックすることができなくなります。</string>
+    <string name="lock_tile_alert_dialog_message">ロックタイルから端末をロックするには、機器管理機能を有効にしてください。</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">有効にすると、ロックタイルから端末をロックすることができるようになります。</string>
     <!--map-->
-    <string name="maps_tile_label">Maps</string>
+    <string name="maps_tile_label">マップ</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_service_description">NFCの状態を確認するサービスです。タイルを削除するとサービスは停止しますが、それに伴いタイルも停止する恐れがあります。</string>
+    <string name="nfc_tile_alert_dialog_message">タイルからNFCの状態を変更するにはADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--power-->
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">タイルから電源メニューを開くには、設定からユーザー補助設定を有効にしてください。</string>
+    <string name="power_tile_action_system_power_dialog">システム電源メニュー</string>
+    <string name="power_tile_action_power_dialog">電源メニュー</string>
+    <string name="power_tile_label">電源</string>
+    <string name="power_tile_action_reboot">再起動</string>
+    <string name="power_tile_action_reboot_recovery">リカバリーの再起動</string>
+    <string name="power_tile_action_reboot_bootloader">ブートローダーの再起動</string>
+    <string name="power_tile_action_restart_user_space_system">Userspaceシステムの再起動</string>
+    <string name="power_tile_action_power_off">電源を切る</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
-    <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label">着信モード</string>
+    <string name="ringer_mode_tile_label_normal">通常</string>
+    <string name="ringer_mode_tile_label_silent">サイレント</string>
+    <string name="ringer_mode_tile_label_vibrate">マナーモード</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">タイルから着信モードを変更するには、設定から通知の鳴動制限へのアクセスを許可してください。</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
-    <string name="caffeine_tile_service_notification_title">Service is running</string>
-    <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
+    <string name="caffeine_tile_label">カフェイン</string>
+    <string name="caffeine_tile_service_notification_title">サービスは稼働中です。</string>
+    <string name="caffeine_tile_service_notification_content_text">端末はスリープ状態になりません。タップしてサービスを停止。</string>
     <!--streetview-->
-    <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_tile_label">ストリートビュー</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">このタイルから位置情報を取得するには、設定から位置情報の権限を許可してください。</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">同期</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">タイマー</string>
+    <string name="timer_formatted_label">タイマー\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">タイルから気象情報を取得するには、設定から位置情報の権限を許可してください。</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">気象情報を取得しています。お待ちください。</string>
+    <string name="weather_formatted_temperature_celsius">気温： &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">気温： &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">体感温度： &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">体感温度： &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">露点： &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">露点： &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">湿度： &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">摂氏</string>
+    <string name="weather_fahrenheit">華氏</string>
+    <string name="weather_clear">快晴</string>
+    <string name="weather_cloudy">曇り</string>
+    <string name="weather_foggy">霧</string>
+    <string name="weather_hazy">靄</string>
+    <string name="weather_icy">冷たい</string>
+    <string name="weather_rainy">雨</string>
+    <string name="weather_snowy">雪</string>
+    <string name="weather_stormy">嵐</string>
+    <string name="weather_windy">強風</string>
+    <string name="weather_conditions">状態</string>
+    <string name="weather_temperature">気温</string>
+    <string name="weather_feels_like">体感温度</string>
+    <string name="weather_humidity">湿度</string>
+    <string name="weather_dew_point">露点</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">ウェブ検索</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_content_hint">Content</string>
-    <string name="reminder_tile_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
+    <string name="reminder_tile_label">リマインダー</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">タイトル（%d字まで）</string>
+    <string name="reminder_tile_content_hint">内容</string>
+    <string name="reminder_tile_persistent_checkbox">固定</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">削除</string>
+    <string name="reminder_tile_empty_notification_text_fields">リマインダーが追加されていません。有効なリマインダーを追加するには、タイトルか内容を入力してください。</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">リマインダーを削除しますか？</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">リマインダーを元に戻しますか？</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">変更を元に戻しますか？</string>
     <string name="reminder_tile_remind_me">Remind me</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="retrieving_location_dialog_message">位置情報を取得しています。お待ちください。</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_label">スリープタイムアウト</string>
+    <string name="sleep_timeout_tile_formatted_label">スリープ\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">タイルからスリープタイムアウトを変更するには、設定からシステム設定の書き込みを許可してください。</string>
+    <string name="sleep_timeout_tile_value_15000">15秒</string>
+    <string name="sleep_timeout_tile_value_30000">30秒</string>
+    <string name="sleep_timeout_tile_value_60000">1分</string>
+    <string name="sleep_timeout_tile_value_120000">2分</string>
+    <string name="sleep_timeout_tile_value_300000">5分</string>
+    <string name="sleep_timeout_tile_value_600000">10分</string>
+    <string name="sleep_timeout_tile_value_1800000">30分</string>
     <!--location mode-->
-    <string name="location_tile_label">Location</string>
-    <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_tile_label_off">Location off</string>
-    <string name="location_tile_label_battery_saving">Battery saving</string>
-    <string name="location_tile_label_sensors_only">Device only</string>
-    <string name="location_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_tile_label">位置情報</string>
+    <string name="location_tile_alert_dialog_message">タイルから位置情報モードを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
+    <string name="location_tile_label_off">位置情報OFF</string>
+    <string name="location_tile_label_battery_saving">電池節約</string>
+    <string name="location_tile_label_sensors_only">GPSのみ</string>
+    <string name="location_tile_label_high_accuracy">高精度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="permission_dialog_message_grant">Grant</string>
-    <string name="permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsにはアプリケーションが読み込めても書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。アプリがユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tilesに対話シェルのSuperuser権限が付与されました。対話シェルからプログラムでSecure system settingsに書き込みますか？</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">手動で権限を付与するには、端末をPCに接続し次のADBコマンドを実行してください。：adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="permission_dialog_message_grant">付与</string>
+    <string name="permission_dialog_message_revoke">取り消し</string>
     <!--timer H M S symbols -->
-    <string name="hour_symbol">H</string>
-    <string name="minute_symbol">M</string>
-    <string name="second_symbol">S</string>
+    <string name="hour_symbol">時</string>
+    <string name="minute_symbol">分</string>
+    <string name="second_symbol">秒</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">スリープ</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
+    <string name="screenshot_tile_label">スクリーンショット</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">タイルからスクリーンショットを撮影し保存するには、設定からストレージの権限を許可してください。</string>
+    <string name="screenshot_tile_screenshot_captured">スクリーンショットをキャプチャーしました。</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">タップしてスクリーンショットを表示。</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
+    <string name="immersive_mode_tile_label">フルスクリーンモード</string>
+    <string name="immersive_mode_tile_off">フルスクリーンモードOFF</string>
+    <string name="immersive_mode_tile_hide_system_bars">システムバーを隠す</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">ナビゲーションバーを隠す</string>
+    <string name="immersive_mode_tile_hide_status_bar">ステータスバーを隠す</string>
+    <string name="immersive_mode_tile_alert_dialog_message">タイルからフルスクリーンモードを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">アンビエントディスプレイ</string>
+    <string name="ambient_display_tile_alert_dialog_message">タイルからアンビエントディスプレイを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--animations-->
     <string name="animations_tile_label">アニメーション</string>
     <string name="animations_tile_label_animator">アニメーター</string>
@@ -214,233 +214,233 @@
     <string name="animations_tile_label_window">ウィンドウ</string>
     <string name="animations_tile_label_dialog_check_box_off_label">アニメーションOFF</string>
     <string name="animations_tile_label_dialog_check_box_formatted_label">スケール %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">タイルからアニメーションを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--alarm-->
     <string name="alarm_tile_label">アラーム</string>
     <string name="alarm_tile_no_alarm_set">アラームが設定されていません</string>
     <!--storage-->
     <string name="storage_tile_label">ストレージ</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
-    <string name="settings_shortcut_tile_action_accessibility">Accessibility</string>
-    <string name="settings_shortcut_tile_action_add_account">Add an account</string>
-    <string name="settings_shortcut_tile_action_apn">APNs</string>
-    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
-    <string name="settings_shortcut_tile_action_battery_saver">Battery saver</string>
+    <string name="settings_shortcut_tile_label">設定のショートカット</string>
+    <string name="settings_shortcut_tile_action_accessibility">ユーザー補助</string>
+    <string name="settings_shortcut_tile_action_add_account">アカウントを追加</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">アプリ</string>
+    <string name="settings_shortcut_tile_action_battery_saver">バッテリーセーバー</string>
     <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
-    <string name="settings_shortcut_tile_action_captions">Captions</string>
-    <string name="settings_shortcut_tile_action_cast">Cast</string>
-    <string name="settings_shortcut_tile_action_data_roaming">Cellular networks</string>
-    <string name="settings_shortcut_tile_action_date">Date &amp; time</string>
-    <string name="settings_shortcut_tile_action_device_info">Phone status</string>
-    <string name="settings_shortcut_tile_action_display">Display</string>
-    <string name="settings_shortcut_tile_action_battery_optimization">Battery optimization</string>
-    <string name="settings_shortcut_tile_action_location_sources">Location</string>
-    <string name="settings_shortcut_tile_action_manage_overlay">Apps that can draw over other apps</string>
-    <string name="settings_shortcut_tile_action_manage_write">Can modify system settings</string>
-    <string name="settings_shortcut_tile_action_network_operators">Network operators</string>
+    <string name="settings_shortcut_tile_action_captions">字幕</string>
+    <string name="settings_shortcut_tile_action_cast">キャスト</string>
+    <string name="settings_shortcut_tile_action_data_roaming">モバイルネットワーク設定</string>
+    <string name="settings_shortcut_tile_action_date">日付と時刻</string>
+    <string name="settings_shortcut_tile_action_device_info">端末情報</string>
+    <string name="settings_shortcut_tile_action_display">画面設定</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">電池の最適化</string>
+    <string name="settings_shortcut_tile_action_location_sources">位置情報</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">他のアプリの上に表示できるアプリ</string>
+    <string name="settings_shortcut_tile_action_manage_write">システム設定の書き込み</string>
+    <string name="settings_shortcut_tile_action_network_operators">通信事業者</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>
-    <string name="settings_shortcut_tile_action_notification_listener">Notification access</string>
-    <string name="settings_shortcut_tile_action_printing">Printing</string>
-    <string name="settings_shortcut_tile_action_search">Search</string>
-    <string name="settings_shortcut_tile_action_security">Security</string>
-    <string name="settings_shortcut_tile_action_sound">Sound</string>
-    <string name="settings_shortcut_tile_action_sync">Sync</string>
-    <string name="settings_shortcut_tile_action_usage_access">Apps with usage access</string>
-    <string name="settings_shortcut_tile_action_user_dictionary">Personal dictionary</string>
-    <string name="settings_shortcut_tile_action_voice_input">Assist &amp; voice input</string>
+    <string name="settings_shortcut_tile_action_notification_listener">通知へのアクセス</string>
+    <string name="settings_shortcut_tile_action_printing">印刷</string>
+    <string name="settings_shortcut_tile_action_search">検索</string>
+    <string name="settings_shortcut_tile_action_security">セキュリティ</string>
+    <string name="settings_shortcut_tile_action_sound">音設定</string>
+    <string name="settings_shortcut_tile_action_sync">同期</string>
+    <string name="settings_shortcut_tile_action_usage_access">使用履歴へアクセスするアプリ</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">単語リスト</string>
+    <string name="settings_shortcut_tile_action_voice_input">アシストと音声入力</string>
     <string name="settings_shortcut_tile_action_vpn">VPN</string>
-    <string name="settings_shortcut_tile_action_vr_listener">VR helper services</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VRヘルパーサービス</string>
     <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
-    <string name="settings_shortcut_tile_action_wireless">Wireless &amp; networks</string>
+    <string name="settings_shortcut_tile_action_wireless">無線とネットワーク</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">フォントサイズ</string>
+    <string name="font_size_tile_alert_dialog_message">タイルからフォントサイズの変更を許可するには、システム設定の変更を許可してください。</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">音声</string>
     <!--text-->
-    <string name="text_tile_label">Text</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_label">テキスト</string>
+    <string name="text_tile_empty_chat_text_field">テキストが追加されていません。内容を入力してください。</string>
     <!--data roaming-->
-    <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_label">データローミング</string>
+    <string name="data_roaming_tile_alert_dialog_message">タイルからデータローミングを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--density-->
     <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default: %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
-    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_label_formatted">Density： %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Smallest width： &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Screen size： &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Default： %ddp</string>
+    <string name="density_tile_density_low">Low (ldpi)： ~120dpi</string>
+    <string name="density_tile_density_medium">Medium (mdpi)： ~160dpi</string>
+    <string name="density_tile_density_high">High (hdpi)： ~240dpi</string>
+    <string name="density_tile_density_xhigh">XHigh (xhdpi)： ~320dpi</string>
+    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi)： ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi)： ~640dpi</string>
     <string name="density_tile_density_custom">Custom density</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">スリープモードにしない</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">タイルからスリープモードにしないを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command： adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_label">デモモード</string>
+    <string name="demo_mode_tile_alert_dialog_message">タイルからデモモードを変更するには、ADBからWRITE_SECURE_SETTINGSとDUMPの権限を付与してください。</string>
+    <string name="demo_mode_tile_system_bars">システムバー</string>
+    <string name="demo_mode_tile_system_bars_transparent">透明</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
+    <string name="demo_mode_tile_system_bars_translucent">トランスルーセント</string>
+    <string name="demo_mode_tile_system_bars_opaque">不透明</string>
+    <string name="demo_mode_tile_system_bars_warning">警告</string>
+    <string name="demo_mode_tile_battery">電池</string>
+    <string name="demo_mode_tile_state_plugged">接続済み</string>
+    <string name="demo_mode_tile_state_unplugged">未接続</string>
+    <string name="demo_mode_tile_level_formatted">レベル%1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
-    <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
-    <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_state_disconnected">未接続</string>
+    <string name="demo_mode_tile_state_connected">接続済み</string>
+    <string name="demo_mode_tile_mobile">モバイルネットワーク</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">ローミング</string>
+    <string name="demo_mode_tile_notifications">通知</string>
+    <string name="demo_mode_tile_alarm">アラーム</string>
+    <string name="demo_mode_tile_location">位置情報</string>
+    <string name="demo_mode_tile_clock">時計</string>
+    <string name="demo_mode_tile_mute">ミュート</string>
+    <string name="demo_mode_tile_speakerphone">スピーカーフォン</string>
+    <string name="demo_mode_tile_vibrate">バイブ</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">クリップボード</string>
+    <string name="clipboard_tile_empty_clip">クリップボードが空です。</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\u2019t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">ヘッドアップ通知</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">タイルからヘッドアップ通知を変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
+    <string name="heads_up_notifications_tile_alert_summary">Androidフレームワークはヘッドアップ通知を変更するための可視の設定を公開していません。元の動作を正しく復元するにはアプリをアンインストールする前に、必ずヘッドアップ通知を有効にしてください。</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">分割画面</string>
+    <string name="multi_window_tile_alert_dialog_message">タイルから分割画面を切り替えるには、設定からユーザー補助サービスを有効にしてください。</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">オーバービュー画面</string>
+    <string name="recents_screens_tile_alert_dialog_message">タイルからオーバービュー画面を表示するには、設定からユーザー補助サービスを有効にしてください。</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
-    <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_label">音量</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">タイルから音量を変更するには、設定から通知の鳴動制限へのアクセスを許可してください。</string>
+    <string name="volumes_tile_volume_keys_disabled">音量キーが一時的に無効</string>
+    <string name="volumes_tile_volume_alarm">アラーム</string>
+    <string name="volumes_tile_volume_media">メディア</string>
+    <string name="volumes_tile_volume_ring">着信</string>
+    <string name="volumes_tile_volume_call">通話</string>
     <!--vibrate on tap-->
-    <string name="vibrate_on_tap_tile_label">Vibrate on tap</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_label">タッチ操作時のバイブ</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">タイルからタッチ操作時のバイブを変更するには、設定からシステム設定の書き込みを許可してください。</string>
     <!--touch sounds-->
-    <string name="touch_sounds_tile_label">Touch sounds</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_label">タッチ操作音</string>
+    <string name="touch_sounds_tile_alert_dialog_message">タイルからタッチ操作音を変更するには、設定からシステム設定の書き込みを許可してください。</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">画面の向きのロック</string>
+    <string name="orientation_lock_tile_alert_dialog_message">タイルから画面の向きの変更とロックをするには、設定からシステム設定の書き込みを許可してください。</string>
+    <string name="orientation_lock_tile_label_rotation_0">0\u00B0回転</string>
+    <string name="orientation_lock_tile_label_rotation_90">90\u00B0回転</string>
+    <string name="orientation_lock_tile_label_rotation_180">180\u00B0回転</string>
+    <string name="orientation_lock_tile_label_rotation_270">270\u00B0回転</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">自動回転</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">着信時のバイブ</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">タイルから着信時のバイブを変更するには、設定からシステム設定の書き込みを許可してください。</string>
     <!--battery saver-->
-    <string name="battery_saver_tile_label">Battery saver</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
-    <string name="battery_saver_tile_device_charging_alert_dialog_message">Battery saver not available during charging.</string>
+    <string name="battery_saver_tile_label">バッテリーセーバー</string>
+    <string name="battery_saver_tile_alert_dialog_message">タイルからバッテリーセーバーのON・OFFを切り替えるには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">充電中はバッテリーセーバーが利用できません。</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">USB debugging</string>
-    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <string name="usb_debugging_tile_label">USBデバッグ</string>
+    <string name="usb_debugging_tile_alert_dialog_message">タイルからUSBデバッグを有効にするには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--cellular data-->
-    <string name="cellular_data_tile_label">Cellular data</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_label">モバイルデータ</string>
+    <string name="cellular_data_tile_mobile_network_label">モバイルネットワーク</string>
+    <string name="cellular_data_tile_data_usage_label">データ使用</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">メディア音量</string>
+    <string name="media_volume_tile_formatted_label">メディア音量： %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_label">ショートカット</string>
+    <string name="shortcut_a_tile_label">ショートカット1</string>
+    <string name="shortcut_b_tile_label">ショートカット2</string>
+    <string name="shortcut_c_tile_label">ショートカット3</string>
+    <string name="shortcut_d_tile_label">ショートカット4</string>
+    <string name="shortcut_e_tile_label">ショートカット5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">ショートカットが選択されていません。設定からショートカットを選択してください。</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">問題が発生しました。設定から選択したショートカットを確認してください。</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">タイルでダイヤルショートカットを利用するには、設定から通話の権限を許可してください。</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">アクションが利用できません。この端末ではBluetoothがサポートされていません。</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">モノクロ表示</string>
+    <string name="monochromacy_tile_alert_dialog_message">タイルからモノクロ表示を変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">入力方法</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">連絡先</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">連絡先が選択されていません。設定から連絡先を選択してください。</string>
+    <string name="contacts_tile_exception_alert_dialog_message">問題が発生しました。設定から選択した連絡先を確認してください。</string>
+    <string name="contact_a_tile_label">連絡先1</string>
+    <string name="contact_b_tile_label">連絡先2</string>
+    <string name="contact_c_tile_label">連絡先3</string>
+    <string name="contact_d_tile_label">連絡先4</string>
+    <string name="contact_e_tile_label">連絡先5</string>
     <!--invert colors-->
-    <string name="invert_colors_tile_label">Invert colors</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_label">色反転</string>
+    <string name="invert_colors_tile_alert_dialog_message">タイルから色反転を変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">モノラル音声</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">通知LED</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">電池の詳細</string>
+    <string name="battery_details_tile_formatted_battery_level">バッテリー残量： %1d%%</string>
+    <string name="battery_details_tile_discharging">放電中</string>
+    <string name="battery_details_tile_formatted_charging">充電中： %s</string>
     <string name="battery_details_tile_usb">USB</string>
     <string name="battery_details_tile_ac">AC</string>
-    <string name="battery_details_tile_wireless">Wireless</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_wireless">ワイヤレス</string>
+    <string name="battery_details_tile_formatted_health">性能： %s</string>
+    <string name="battery_details_tile_health_cold">コールド</string>
+    <string name="battery_details_tile_health_dead">電池切れ</string>
+    <string name="battery_details_tile_health_good">良好</string>
+    <string name="battery_details_tile_health_over_voltage">過電圧</string>
+    <string name="battery_details_tile_health_overheat">過熱</string>
+    <string name="battery_details_tile_unknown">不明</string>
+    <string name="battery_details_tile_unspecified_failure">不明な障害</string>
+    <string name="battery_details_tile_formatted_temperature">温度： %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">電圧： %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">技術： %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">稼働時間</string>
-    <string name="up_time_tile_formatted_uptime">稼働時間: %s</string>
+    <string name="up_time_tile_formatted_uptime">稼働時間： %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">アクティビティ</string>
+    <string name="activity_a_tile_label">アクティビティ1</string>
+    <string name="activity_b_tile_label">アクティビティ2</string>
+    <string name="activity_c_tile_label">アクティビティ3</string>
+    <string name="activity_d_tile_label">アクティビティ4</string>
+    <string name="activity_e_tile_label">アクティビティ5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">アクティビティが選択されていません。設定からアクティビティを選択してください。</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">ストップウォッチ</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">メモリ</string>
+    <string name="memory_tile_formatted_available_memory">利用可能： %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">合計： %s</string>
+    <string name="memory_tile_formatted_used_memory">使用済み： %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">しきい値： %s</string>
+    <string name="memory_tile_low_memory">低メモリ</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">カウンター</string>
+    <string name="counter_tile_max_int_alert_dialog_message">値を加算できません：最大整数値に達しました</string>
+    <string name="counter_tile_min_int_alert_dialog_message">値を減算できません：最小整数値に達しました。</string>
 </resources>

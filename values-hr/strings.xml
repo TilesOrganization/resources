@@ -22,19 +22,19 @@
     <string name="warning">Upozorenje</string>
     <string name="accessibility_service_label">Usluga pristupačnosti</string>
     <string name="accessibility_service_description">Usluga pristupačnosti kako bi Pločicama omogućila globalne radnje: prikaz dijaloškog okvira napajanja sustava, prikazivanje zaslona nedavno korištenih aplikacija, uključivanje/isključivanje načina podijeljenog zaslona.</string>
-    <string name="fifteen_minutes">15 minutes</string>
-    <string name="thirty_minutes">30 minutes</string>
-    <string name="forty_two_minutes">42 minutes</string>
-    <string name="forty_five_minutes">45 minutes</string>
-    <string name="one_hour">1 hour</string>
-    <string name="two_hours">2 hours</string>
-    <string name="three_hours">3 hours</string>
-    <string name="six_hours">6 hours</string>
-    <string name="twelve_hours">12 hours</string>
+    <string name="fifteen_minutes">15 minuta</string>
+    <string name="thirty_minutes">30 minuta</string>
+    <string name="forty_two_minutes">42 minute</string>
+    <string name="forty_five_minutes">45 minuta</string>
+    <string name="one_hour">1 sat</string>
+    <string name="two_hours">2 sata</string>
+    <string name="three_hours">3 sata</string>
+    <string name="six_hours">6 sati</string>
+    <string name="twelve_hours">12 sata</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="fahrenheit">Fahrenheit</string>
-    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Farenhajt</string>
+    <string name="celsius">Celzijus</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prilagodljiva svjetlina</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Da biste pločici omogućili promjenu načina svijeltine, otvorite postavke i odobrite izmjenu postavki sustava.</string>
@@ -57,7 +57,7 @@
     <string name="brightness_tile_label_formatted_medium">Srednje: %1$d%%</string>
     <string name="brightness_tile_label_formatted_low">Nisko: %1$d%%</string>
     <string name="brightness_tile_formatted_label_one_param">Svjetlina: %1$d%%</string>
-    <string name="brightness_tile_undefined_label">Svjetlina je nedefinirana</string>
+    <string name="brightness_tile_undefined_label">Svjetlina nije definirana</string>
     <string name="brightness_tile_alert_dialog_message">Da biste pločici omogućili promjenu razine svjetline, otvorite postavke i odobrite izmjenu postavki sustava.</string>
     <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Prilagodljiva svjetlina&lt;/b> je uključena</string>
     <string name="brightness_tile_dialog_formatted_current_brightness">Trenutna svjetlina: &lt;b>%1$d%%&lt;/b></string>
@@ -110,7 +110,7 @@
     <string name="ringer_mode_tile_label_vibrate">Vibracija</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Da biste pločici omogućili promjenu načina zvona, otvorite postavke i dozvolite pristup opciji "Ne ometaj".</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_label">Kofein</string>
     <string name="caffeine_tile_service_notification_title">Usluga je pokrenuta</string>
     <string name="caffeine_tile_service_notification_content_text">Uređaj ne želi prijeći u stanje mirovanja. Dodirnite za zaustavljanje usluge.</string>
     <!--streetview-->
@@ -342,10 +342,10 @@
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">Zaključavanje orijentacije</string>
     <string name="orientation_lock_tile_alert_dialog_message">Da biste pločici omogućili izmjenu zaključavanja orijentacije, otvorite postavke i odobrite izmjenu postavki sustava.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270</string>
+    <string name="orientation_lock_tile_label_rotation_0">Orijentacija 0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Orijentacija 90</string>
+    <string name="orientation_lock_tile_label_rotation_180">Orijentacija 180</string>
+    <string name="orientation_lock_tile_label_rotation_270">Orijentacija 270</string>
     <string name="orientation_lock_tile_label_rotation_auto_rotate">Automatski rotiraj</string>
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">Vibriraj za pozive</string>
@@ -401,46 +401,46 @@
     <!-- notification light -->
     <string name="notification_light_tile_label">Svjetlo obavijesti</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">Detalji baterije</string>
+    <string name="battery_details_tile_formatted_battery_level">Razina baterije: %1d%%</string>
+    <string name="battery_details_tile_discharging">Pražnjenje</string>
+    <string name="battery_details_tile_formatted_charging">Punjenje: %s</string>
     <string name="battery_details_tile_usb">USB</string>
-    <string name="battery_details_tile_ac">AC</string>
-    <string name="battery_details_tile_wireless">Wireless</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_ac">Punjač</string>
+    <string name="battery_details_tile_wireless">Bežično</string>
+    <string name="battery_details_tile_formatted_health">Zdravlje: %s</string>
+    <string name="battery_details_tile_health_cold">Hladno</string>
+    <string name="battery_details_tile_health_dead">Mrtvo</string>
+    <string name="battery_details_tile_health_good">Dobro</string>
+    <string name="battery_details_tile_health_over_voltage">Preveliki napon</string>
+    <string name="battery_details_tile_health_overheat">Pregrijavanje</string>
+    <string name="battery_details_tile_unknown">Nepoznato</string>
+    <string name="battery_details_tile_unspecified_failure">Neodređeni kvar</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Napon: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Tehnologija: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Vrijeme aktivnosti</string>
     <string name="up_time_tile_formatted_uptime">Vrijeme aktivnosti: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Aktivnosti</string>
+    <string name="activity_a_tile_label">Aktivnost #1</string>
+    <string name="activity_b_tile_label">Aktivnost #2</string>
+    <string name="activity_c_tile_label">Aktivnost #3</string>
+    <string name="activity_d_tile_label">Aktivnost #4</string>
+    <string name="activity_e_tile_label">Aktivnost #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Nijedna aktivnost nije odabrana, otvorite postavke i odaberite aktivnost.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">Štoperica</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">Memorija</string>
+    <string name="memory_tile_formatted_available_memory">Dostupno: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Ukupno: %s</string>
+    <string name="memory_tile_formatted_used_memory">U upotrebi: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Prag: %s</string>
+    <string name="memory_tile_low_memory">Nedovoljno memorije</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Brojač</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Vrijednost se ne može dodati: dosegnuta je maksimalna cjelobrojna vrijednost.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Vrijednost se ne može oduzeti: postignuta je minimalna cjelobrojna vrijednost.</string>
 </resources>

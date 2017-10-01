@@ -340,4 +340,7 @@
     <string name="settings_counter_tile_current_value">現時數值</string>
     <string name="settings_counter_tile_action_addition">加</string>
     <string name="settings_counter_tile_action_subtraction">減</string>
+    <!--camera lock-->
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
 </resources>

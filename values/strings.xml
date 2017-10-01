@@ -35,6 +35,11 @@
     <string name="stop">Stop</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Device administrator activated</string>
+    <string name="device_admin_deactivated">Device administrator deactivated</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">Lock</string>
     <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_device_admin_activated">Device administrator activated</string>
-    <string name="lock_tile_device_admin_deactivated">Device administrator deactivated</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">If deactivated, the lock tile won\u2019t be allowed to lock the device.</string>
     <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">If activated, the lock tile will be allowed to lock the device.</string>
     <!--map-->
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Counter</string>
     <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

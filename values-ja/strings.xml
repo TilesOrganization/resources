@@ -35,6 +35,11 @@
     <string name="stop">停止</string>
     <string name="fahrenheit">華氏</string>
     <string name="celsius">摂氏</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">機器管理機能が有効です。</string>
+    <string name="device_admin_deactivated">機器管理機能が無効です。</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">明るさの自動調節</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">タイルから明るさのモードを変更するには、設定からシステム設定の書き込みを許可してください。</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">ロック</string>
     <string name="lock_tile_device_admin_description">ロックタイルに端末をロックすることを許可します。</string>
-    <string name="lock_tile_device_admin_activated">機器管理機能が有効です。</string>
-    <string name="lock_tile_device_admin_deactivated">機器管理機能が無効です。</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">無効にすると、ロックタイルから端末をロックすることができなくなります。</string>
     <string name="lock_tile_alert_dialog_message">ロックタイルから端末をロックするには、機器管理機能を有効にしてください。</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">有効にすると、ロックタイルから端末をロックすることができるようになります。</string>
     <!--map-->
     <string name="maps_tile_label">マップ</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">カウンター</string>
     <string name="counter_tile_max_int_alert_dialog_message">値を加算できません：最大整数値に達しました</string>
     <string name="counter_tile_min_int_alert_dialog_message">値を減算できません：最小整数値に達しました。</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

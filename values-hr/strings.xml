@@ -35,6 +35,11 @@
     <string name="stop">Stop</string>
     <string name="fahrenheit">Farenhajt</string>
     <string name="celsius">Celzijus</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Administrator uređaja aktiviran</string>
+    <string name="device_admin_deactivated">Administrator uređaja deaktiviran</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prilagodljiva svjetlina</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Da biste pločici omogućili promjenu načina svijeltine, otvorite postavke i odobrite izmjenu postavki sustava.</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">Zaključaj</string>
     <string name="lock_tile_device_admin_description">Omogući pločici za zaključavanje da zaključa uređaj</string>
-    <string name="lock_tile_device_admin_activated">Administrator uređaja aktiviran</string>
-    <string name="lock_tile_device_admin_deactivated">Administrator uređaja deaktiviran</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Ukoliko se deaktivira, pločici neće biti dozvoljeno zaključavanje uređaja.</string>
     <string name="lock_tile_alert_dialog_message">Da biste pločici omogućili zaključavanje uređaja, otvorite postavke i aktivirajte je kao administrator uređaja.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">Ako je aktivirano, pločici za zaključavanje bit će dopušteno zaključavanje uređaja.</string>
     <!--map-->
     <string name="maps_tile_label">Karte</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Brojač</string>
     <string name="counter_tile_max_int_alert_dialog_message">Vrijednost se ne može dodati: dosegnuta je maksimalna cjelobrojna vrijednost.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Vrijednost se ne može oduzeti: postignuta je minimalna cjelobrojna vrijednost.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

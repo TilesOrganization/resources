@@ -340,4 +340,7 @@
     <string name="settings_counter_tile_current_value">Valore corrente</string>
     <string name="settings_counter_tile_action_addition">Addizione</string>
     <string name="settings_counter_tile_action_subtraction">Sottrazione</string>
+    <!--camera lock-->
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Attivato. La funzione ha l\'autorizzazione a bloccare la camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Disattivato. La funzione non ha l\'autorizzazione a bloccare la camera</string>
 </resources>

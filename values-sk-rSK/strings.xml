@@ -35,6 +35,11 @@
     <string name="stop">Zastaviť</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celzia</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Správca zariadenia je aktívny</string>
+    <string name="device_admin_deactivated">Správca zariadenia je neaktívny</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">Zamknúť</string>
     <string name="lock_tile_device_admin_description">Povoliť dlaždici zamknúť zariadenie</string>
-    <string name="lock_tile_device_admin_activated">Správca zariadenia je aktívny</string>
-    <string name="lock_tile_device_admin_deactivated">Správca zariadenia je neaktívny</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Ak neaktívne, dlaždica nebude môcť zamknúť zariadenie.</string>
     <string name="lock_tile_alert_dialog_message">Aby dlaždica mohla zamknúť zariadenie, prosím, otvorte nastavenia a povoľte Správcu zariadenia.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">Ak aktívne, dlaždica bude môcť zamknúť zariadenie.</string>
     <!--map-->
     <string name="maps_tile_label">Mapa</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Počítadlo</string>
     <string name="counter_tile_max_int_alert_dialog_message">Hodnota nemôže byť pridaná: maximálna celá hodnota bola dosiahnutá.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Hodnota nemôže byť odčítaná: minimálna celá hodnota bola dosiahnutá.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

@@ -35,6 +35,11 @@
     <string name="stop">Arresta</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Centigradi</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Amministratore dispositivo attivato</string>
+    <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>
+    <string name="device_admin_description">Permette a Tiles di bloccare il dispositivo o le camere.</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Se disattivato, Tiles non avrà l\'autorizzazione a bloccare il dispositivo o le camere.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">Blocco</string>
     <string name="lock_tile_device_admin_description">Permette alla funzione blocco di bloccare il dispositivo</string>
-    <string name="lock_tile_device_admin_activated">Amministratore dispositivo attivato</string>
-    <string name="lock_tile_device_admin_deactivated">Amministratore dispositivo disattivato</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Se disattivato, la funzione blocco non avrà l\'autorizzazione a bloccare il dispositivo.</string>
     <string name="lock_tile_alert_dialog_message">Per permettere alla funzione di bloccare il dispositivo, per favore aprire le impostazioni e attivarlo come amministratore dispositivo.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">Se attivato, la funzione blocco avrà l\'autorizzazione a bloccare il dispositivo.</string>
     <!--map-->
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Contatore</string>
     <string name="counter_tile_max_int_alert_dialog_message">Valore non può essere addizionato: è stato raggiunto il valore massimo dell\'intero.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Valore non può essere sottratto: è stato raggiunto il valore minimo dell\'intero.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Blocco camera</string>
+    <string name="camera_lock_tile_alert_dialog_message">Per permettere alla funzione di bloccare la camera, per favore aprire le impostazioni e attivarlo come amministratore dispositivo.</string>
 </resources>

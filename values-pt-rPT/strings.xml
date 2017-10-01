@@ -35,6 +35,11 @@
     <string name="stop">Stop</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Administrador do dispositivo ativado</string>
+    <string name="device_admin_deactivated">Administrador do dispositivo desativado</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Luminosidade adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o mosaico mude a luminusidade adaptável, abra as configurações e conceda permissão para modificar as configurações do sistema.</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">Bloquear</string>
     <string name="lock_tile_device_admin_description">Permitir que o mosaico bloqueie o dispositivo</string>
-    <string name="lock_tile_device_admin_activated">Administrador do dispositivo ativado</string>
-    <string name="lock_tile_device_admin_deactivated">Administrador do dispositivo desativado</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">Se desativado, o mosaico não conseguirá bloquear o dispositivo.</string>
     <string name="lock_tile_alert_dialog_message">Para permitir que o mosaico bloqueie o dispositivo, vá ás definições e active como administrador do dispositivo.</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">Se ativado, o mosaico poderá bloquear o dispositivo.</string>
     <!--map-->
     <string name="maps_tile_label">Maps</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Counter</string>
     <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

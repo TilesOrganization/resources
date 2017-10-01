@@ -16,6 +16,7 @@
     <string name="description_calendar_tile">Show calendar\'s events or add a new one. The action is compatible with third-party apps that can receive the Android default broadcast to show and add calendar events.</string>
     <string name="description_call_tile">Choose a contact\'s number to quickly dial or launch the phone app. The action is compatible with third-party apps that can receive the Android default broadcast to initiate a phone call.\nPhone call permission is required to initiate a phone call directly from the tile without going through the dialer user interface.</string>
     <string name="description_camera_tile">Launch the camera app in photo or video mode. The action is compatible with third-party apps that can receive the Android default broadcast to launch the camera in photo and video mode.</string>
+    <string name="description_camera_lock_tile">Prevent use of all device cameras. Device administrator must be activated.</string>
     <string name="description_cellular_data_tile">Open mobile network settings or data usage settings, if available. On devices with super user privileges turn cellular data on or off.</string>
     <string name="description_clipboard_tile">View the content of the latest clipping, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_contacts_tile">Quickly access the details of the selected contact to call, text, edit, …</string>

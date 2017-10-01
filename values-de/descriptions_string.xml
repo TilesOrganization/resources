@@ -16,6 +16,7 @@
     <string name="description_calendar_tile">Zeigt die Kalendereinträge an oder fügt einen neuen Eintrag hinzu. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Anzeigen und Hinzufügen von Kalendereinträgen entgegen nehmen können.</string>
     <string name="description_call_tile">Wählt einen Kontakt für einen Anruf aus oder startet die Telefon-App. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Starten eines Anrufs entgegen nehmen können.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten.</string>
     <string name="description_camera_tile">Startet die Kamera-App im Kamera oder Video-Modus. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche den Start der Kamera-Funktion entgegen nehmen können.</string>
+    <string name="description_camera_lock_tile">Prevent use of all device cameras. Device administrator must be activated.</string>
     <string name="description_cellular_data_tile">Öffnet die Einstellungen für Mobilfunknetze oder die Datennutzung, sofern verfügbar. Auf Geräten mit Superrechten werden die Mobilfunkdaten de- oder aktiviert.</string>
     <string name="description_clipboard_tile">Zeigt den Inhalt der Zwischenablage an um ihn zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern, welche einen geteilten Text entgegen nehmen können.</string>
     <string name="description_contacts_tile">Schneller Zugriff auf die Details von ausgewählten Kontakten um diese anzurufen, anzuschreiben, zu bearbeiten, …</string>

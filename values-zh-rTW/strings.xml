@@ -35,6 +35,11 @@
     <string name="stop">Stop</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">裝置管理員已啟用</string>
+    <string name="device_admin_deactivated">裝置管理員已停用</string>
+    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">自動亮度模式</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">要允許快速設定動態磚變更亮度模式，請前往設定並允許修改系統設定的權限。</string>
@@ -82,11 +87,7 @@
     <!--lock-->
     <string name="lock_tile_label">鎖定螢幕</string>
     <string name="lock_tile_device_admin_description">允許快速設定動態磚鎖定螢幕</string>
-    <string name="lock_tile_device_admin_activated">裝置管理員已啟用</string>
-    <string name="lock_tile_device_admin_deactivated">裝置管理員已停用</string>
-    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">停用此裝置管理員，快速設定動態磚將不允許鎖定螢幕。</string>
     <string name="lock_tile_alert_dialog_message">要允許快速設定動態磚鎖定螢幕，請前往設定並啟用此裝置管理員。</string>
-    <string name="lock_tile_add_device_admin_extra_app_text">啟用此裝置管理員，快速設定動態磚將允許鎖定螢幕。</string>
     <!--map-->
     <string name="maps_tile_label">地圖定位</string>
     <!--NFC-->
@@ -443,4 +444,7 @@
     <string name="counter_tile_label">Counter</string>
     <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Camera lock</string>
+    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
 </resources>

@@ -16,6 +16,7 @@
     <string name="description_calendar_tile">顯示日曆活動或新增活動，支援顯示、編輯系統原生及第三方應用程式。</string>
     <string name="description_call_tile">提供「選取指定聯絡人號碼並進行快速撥號」或「開啟電話應用程式」。此快速設定動態磚亦能支援其他第三方電話應用程式。\n使用此快速設定動態磚需要需要獲取電話通話及撥號的權限才能使用。</string>
     <string name="description_camera_tile">利用快速設定動態磚直接打開相機應用程式的「相片拍攝」或「影片拍攝」模式。此快速設定動態磚亦能支援其他第三方相機應用程式。</string>
+    <string name="description_camera_lock_tile">Prevent use of all device cameras. Device administrator must be activated.</string>
     <string name="description_cellular_data_tile">如果可行的話，開啟網路設定或數據使用量設定。若有超級使用者權限 (Root)可以直接透過快速設定動態磚開啟或關閉行動數據。</string>
     <string name="description_clipboard_tile">可查看剪貼簿最新的內容，並可以進行複製、分享或儲存至其他應用程式。</string>
     <string name="description_contacts_tile">快速聯繫所選取的聯絡人進行撥號、發送簡訊或編輯聯絡人等…</string>

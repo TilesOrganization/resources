@@ -181,9 +181,9 @@
     <string name="location_tile_label_sensors_only">GPSのみ</string>
     <string name="location_tile_label_high_accuracy">高精度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsにはアプリケーションが読み込めても書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。アプリがユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tilesに対話シェルのSuperuser権限が付与されました。対話シェルからプログラムでSecure system settingsに書き込みますか？</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">手動で権限を付与するには、端末をPCに接続し次のADBコマンドを実行してください。：adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsにはアプリが読み込めても書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。アプリがユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tilesに対話シェルのSuperuser権限が付与されました。対話シェルからプログラムで % sSecure system settingsに書き込みますか？</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">手動で権限を付与するには、端末をPCに接続し次のADBコマンドを実行してください。: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_dialog_message_grant">付与</string>
     <string name="permission_dialog_message_revoke">取り消し</string>
     <!--timer H M S symbols -->
@@ -281,9 +281,10 @@
     <string name="awake_while_plugged_on_tile_label">スリープモードにしない</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">タイルからスリープモードにしないを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command： adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">アプリがシステムサービスからダンプ状態の情報を取得できるようにします。この保護レベルの権限はシステムアプリにのみ与えられます。アプリがユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tilesに対話シェルのSuperuser権限が付与されました。対話シェルからプログラムで ％s 権限をダンプしますか？
+</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">手動で権限を付与するには、端末をPCに接続し次のADBコマンドを実行してください。: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">デモモード</string>
     <string name="demo_mode_tile_alert_dialog_message">タイルからデモモードを変更するには、ADBからWRITE_SECURE_SETTINGSとDUMPの権限を付与してください。</string>
@@ -352,7 +353,7 @@
     <string name="vibrate_for_calls_tile_alert_dialog_message">タイルから着信時のバイブを変更するには、設定からシステム設定の書き込みを許可してください。</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">バッテリーセーバー</string>
-    <string name="battery_saver_tile_alert_dialog_message">タイルからバッテリーセーバーのON・OFFを切り替えるには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
+    <string name="battery_saver_tile_alert_dialog_message">タイルからバッテリーセーバーのON/OFFを切り替えるには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">充電中はバッテリーセーバーが利用できません。</string>
     <!--usb debugging-->
     <string name="usb_debugging_tile_label">USBデバッグ</string>

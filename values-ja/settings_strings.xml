@@ -4,8 +4,8 @@
     <string name="settings">設定</string>
     <string name="settings_design">デザイン</string>
     <string name="settings_animations">アニメーション</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
+    <string name="settings_animations_reveal_animation_title">Revealアニメーション</string>
+    <string name="settings_animations_drawable_animation_title">Drawableアニメーション</string>
     <string name="settings_enabled">有効</string>
     <string name="settings_disabled">無効</string>
     <string name="settings_action">アクション</string>
@@ -33,10 +33,10 @@
     <string name="settings_design_status_bar_icons_dark">ダークアイコン</string>
     <!--advanced-->
     <string name="settings_advanced">高度な設定</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_restart_active_tiles_title">アクティブなタイルを再起動する。</string>
+    <string name="settings_restart_active_tiles_summary">アクティブなタイルを強制再起動する。システムによって終了された後、タイルが正しく動作しない場合に実行してください。</string>
+    <string name="settings_restart_active_tiles_summary_processing">タイルの強制再起動中</string>
+    <string name="settings_scheduled_restart_tiles_title">再起動のスケジュール</string>
     <!--UX-->
     <string name="settings_permission">権限</string>
     <string name="settings_phone_call_permission_title">電話の権限</string>
@@ -48,11 +48,11 @@
     <string name="settings_rate_or_review">アプリを評価・レビュー</string>
     <string name="settings_support_title">サポートありがとうございます！</string>
     <string name="settings_send_email">メールを送る</string>
-    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
+    <string name="settings_support_summary">Android NougatとAndroid Oreo向けに開発</string>
     <string name="settings_credit">協力者</string>
     <string name="settings_credit_app_icon">アプリのアイコン</string>
     <string name="settings_translations">翻訳</string>
-    <string name="settings_translations_thanks">このアプリをあなたの言語に翻訳したい場合は気軽に私まで連絡してください: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_thanks">このアプリをあなたの言語に翻訳したい場合はご気軽に私まで連絡してください：rascarlo@gmail.com\nありがとうございます！</string>
     <string name="settings_translations_locale_de">ドイツ語</string>
     <string name="settings_translations_locale_pt_rBR">ブラジルポルトガル語</string>
     <string name="settings_translations_locale_nl">オランダ語</string>
@@ -72,153 +72,153 @@
     <string name="settings_component_summary_off">クイック設定でタイルを非表示</string>
     <string name="settings_component_summary_on">クイック設定でタイルを表示</string>
     <string name="settings_tile_action_start_service_and_collapse">クイック設定パネルを隠してサービスを開始</string>
-    <string name="settings_tile_action_start_service_without_collapsing">クイック設定パネルを隠さないでサービスを開始</string>
+    <string name="settings_tile_action_start_service_without_collapsing">クイック設定パネルを隠さずにサービスを開始</string>
     <string name="settings_stop_on_sleep_title">スリープで停止</string>
-    <string name="settings_stop_on_sleep_summary_on">端末がスリープしたらサービスを停止</string>
-    <string name="settings_stop_on_sleep_summary_off">端末がスリープしてもサービスを継続</string>
+    <string name="settings_stop_on_sleep_summary_on">端末がスリープしたらサービスを停止。</string>
+    <string name="settings_stop_on_sleep_summary_off">端末がスリープしてもサービスを継続。</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">拒否。タイルは明るさのモードを変更できません</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは明るさのモードを変更できます</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">未許可。タイルは明るさのモードを変更できません。</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは明るさのモードを変更できます。</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">すべてのアプリを表示</string>
     <string name="settings_application_tile_action_show_selected_apps">選択したアプリを表示</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_single_app">単一のアプリ</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%d個のアプリを選択済み</item>
+        <item quantity="other">%d個のアプリを選択済み</item>
     </plurals>
     <string name="settings_application_tile_selected_app">選択したアプリ</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">表示モード</string>
+    <string name="settings_application_tile_view_mode_list">リスト</string>
+    <string name="settings_application_tile_view_mode_grid">グリッド</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">ラベルなしのグリッド</string>
+    <string name="settings_application_tile_grid_columns">グリッドコラム</string>
+    <string name="settings_application_tile_application_list_show_title">表示するアプリ</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d個のアプリを選択済み。</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">アプリが選択されていません。</string>
+    <string name="settings_application_tile_application_list_launch_title">起動するアプリ</string>
+    <string name="settings_application_tile_loading_applications">アプリを読み込み中…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">未許可。タイルは明るさのレベルを変更することができません。</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは明るさのレベルを変更することができます。</string>
+    <string name="settings_brightness_tile_action_change_brightness">明るさを変更</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">明るさのレベル</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高：%1$d%%\n中：%2$d%%\n低：%3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">拒否。 The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">許可済み。 The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">通話アプリを開く</string>
+    <string name="settings_call_tile_action_make_call">選択された連絡先に発信</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">通話の権限</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">未許可。タイルは電話の発信をすることができません。</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">許可済み。タイルは電話の発信をすることができます。</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">発信する連絡先</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">メールアプリを開く</string>
+    <string name="settings_email_tile_action_send_email">選択された連絡先宛にメールを作成</string>
+    <string name="settings_email_tile_contact_preference_title">メールを送信する連絡先</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">端末管理者</string>
+    <string name="settings_lock_tile_device_admin_summary_on">有効。タイルから端末をロックすることができます。</string>
+    <string name="settings_lock_tile_device_admin_summary_off">無効。タイルから端末をロックすることができません。</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">拒否。 The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">通知の鳴動制限へのアクセス</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">許可済み。タイルは通知の鳴動制限のON/OFFの切り替えと関連する設定の変更ができます。</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">未許可。タイルは通知の鳴動制限のON/OFFの切り替えと関連する設定の変更ができません。</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">音量パネルを開く</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">着信モードの変更</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">音の再生</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">着信モードが通常の時は音を再生しない。</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">着信モードが通常の時は既定の通知音を再生する。</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">設定を開くアクションを表示する。</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">アクションを隠す。</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">音の再生</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">サービス開始時に音を再生しない。</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">サービス開始時に既定の通知音を再生する。</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">振動</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">サービス開始時に振動しない。</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">サービス開始時に振動する。</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">同期の状態を変更する</string>
+    <string name="settings_sync_tile_action_open_sync_settings">同期の設定を開く</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">タイマーを開く</string>
+    <string name="settings_timer_tile_action_start_timer">タイマーを開始</string>
+    <string name="settings_timer_tile_skip_ui_title">UIのスキップ</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">確認画面をスキップしてタイマーを開始する。</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">タイマーを開始する前に確認画面を表示する。</string>
+    <string name="settings_timer_tile_default_duration">既定の継続時間</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">拒否。 The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">許可済み。 The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">未許可。タイルは端末の位置情報へアクセスすることはできません。</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">許可済み。タイルは端末の位置情報へアクセスすることができます。</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">拒否。 The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">許可済み。 The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">未許可。タイルは端末の位置情報へアクセスして気象情報を取得することができません。</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">許可済み。タイルは端末の位置情報へアクセスして気象情報を取得することができます。</string>
+    <string name="settings_units">単位</string>
+    <string name="settings_summary_off_hidden">隠す</string>
+    <string name="settings_summary_on_shown">表示</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">左右へスワイプすることでリマインダーを削除する。</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">ボタンを押すことでリマインダーを削除する。</string>
+    <string name="settings_reminder_tile_persistent_notification_title">通知の固定</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">音の再生</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">リマインダー追加時に既定の通知音を再生する。</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">リマインダー追加時に音を再生しない。</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">振動</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">リマインダー追加時に振動する。</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">リマインダー追加時に振動しない</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">タイムスタンプのスタイル</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">通常</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">ストップウォッチ</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">設定を開くアクションを表示する。</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">アクションを隠す。</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">イベントを表示</string>
+    <string name="settings_calendar_tile_action_add">イベントを追加</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">許可済み。タイルは位置情報モードを変更できます。</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">未許可。タイルは位置情報モードを変更できません。</string>
+    <string name="settings_location_tile_action_change_location_mode">位置情報モードを変更</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">未許可。タイルはスリープタイムアウトを変更できません。</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">許可済み。タイルはスリープタイムアウトを変更できます。</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">スリープタイムアウトを変更</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">許可済み。 The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">拒否。 The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">外部ストレージへの書き込み</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">許可済み。タイルはスクリーンショットを撮影して保存することができます。</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">未許可。タイルはスクリーンショットを撮影して保存することができません。</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">音の再生</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">スクリーンショット撮影時に既定の通知音を撮影する。</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">スクリーンショット撮影時に既定の通知音を再生しない。</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">振動</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">スクリーンショット撮影時に振動する。</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">スクリーンショット撮影時に振動しない。</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">クイック設定パネルを隠してスクリーンショットを撮影</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">クイック設定パネルを隠さずにスクリーンショットを撮影</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">共有アクション表示</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">共有アクションを隠す</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">削除アクションを表示</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">削除アクションを隠す</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">通知の鳴動制限</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">アラームのみ</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">サイレント</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">重要な通知のみ</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">ダイアログを表示</string>
+    <string name="settings_notification_share_action_title">共有アクション</string>
+    <string name="settings_notification_settings_action_title">設定アクション</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">Secure settingsへの書き込み</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">許可済み。タイルはフルスクリーンモードを変更できます。</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">未許可。タイルはフルスクリーンモードを変更できません。</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">フルスクリーンモードの変更</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">許可済み。タイルはアンビエントディスプレイを変更できます。</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">未許可。タイルはアンビエントディスプレイを変更できません。</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">許可済み。タイルはアニメーションを変更できます。</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">未許可。タイルはアニメーションを変更できません。</string>
     <string name="settings_show_milliseconds">Show milliseconds</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">アラームを追加</string>
@@ -231,95 +231,95 @@
     <string name="settings_font_size_tile_font_scale_default">標準</string>
     <string name="settings_font_size_tile_font_scale_large">大</string>
     <string name="settings_font_size_tile_font_scale_largest">最大</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">未許可。タイルはフォントサイズを変更できません。</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">許可済み。タイルはフォントサイズを変更できます。</string>
+    <string name="settings_font_size_tile_action_change_font_size">フォントサイズの変更</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">許可済み。タイルはNFCの状態を変更できます。</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">未許可。タイルはNFCの状態を変更できません。</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">NFCの状態の変更</string>
+    <string name="settings_nfc_tile_open_nfc_settings">NFC設定を開く</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">許可済み。タイルはデータローミングを変更できます。</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">未許可。タイルはデータローミングを変更できません。</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">既定の密度</string>
+    <string name="settings_density_tile_current_density_title">現在の密度</string>
+    <string name="settings_density_tile_restore_default_density_title">既定の密度を復元</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">許可済み。タイルはスリープモードにしないを変更できます。</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">未許可。タイルはスリープモードにしないを変更できます。</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">許可済み。 The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">拒否。 The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">許可済み。タイルはデモモードを変更できます。</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">未許可。タイルはデモモードを変更できません。</string>
+    <string name="settings_dump_permission_title">権限をダンプ</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">許可済み。タイルはシステムサービスからダンプ状態の情報を取得できます。</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">未許可。タイルはシステムサービスからダンプ状態の情報を取得できません。</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">許可済み。タイルはヘッドアップ通知を変更できます。</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">未許可。タイルはヘッドアップ通知を変更できません。</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">無効。 The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">有効。 The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">無効。タイルは電源メニューを表示できません。</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">有効。タイルは電源メニューを表示できます。</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">無効。 The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">有効。 The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">無効。タイルは分割画面を切り替えることができます。</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">有効。タイルは分割画面を切り替えることができません。</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">無効。 The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">有効。 The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">無効。タイルはオーバービュー画面を表示できません。</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">有効。タイルはオーバービュー画面を表示できます。</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">拒否。 The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">通知の鳴動制限へのアクセス</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">音量パネルを開く</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">許可済み。タイルは通知の鳴動制限のON/OFFの切り替えと着信音の音量の変更ができます。</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">未許可。タイルは通知の鳴動制限のON/OFFの切り替えと着信音の音量の変更ができません。</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">未許可。タイルはタッチ操作時のバイブを変更できません。</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">許可済み。タイルはタッチ操作時のバイブを変更できます。</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">未許可。タイルはタッチ操作音を変更できません。</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">許可済み。タイルはタッチ操作音を変更できます。</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">画面の向きの変更とロック</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">未許可。タイルは画面の向きの変更とロックができます。</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは画面の向きの変更とロックができません。</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">拒否。 The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">許可済み。 The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">未許可。タイルは着信時のバイブを変更できます。</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">許可済み。タイルは着信時のバイブを変更できません。</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">未許可。タイルはバッテリーセーバーのON/OFFの切り替えができません。</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">許可済み。タイルはバッテリーセーバーのON/OFFの切り替えができます。</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">未許可。タイルはUSBデバッグの変更ができません。</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">許可済み。タイルはUSBデバッグの変更ができます。</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">モバイルデータの状態の変更</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">モバイルネットワーク設定を開く</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">データ使用設定を開く。</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">拒否。 The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">許可済み。 The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">選択されたショートカット</string>
+    <string name="settings_shortcuts_tile_summary_empty">ショートカットが選択されていません</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">未許可。タイルは電話の発信とダイヤルショートカットの実行ができません。</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">許可済み。タイルは電話の発信とダイヤルショートカットの実行ができません。</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Bluetoothの状態の変更</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Bluetoothの設定を開く</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">許可済み。 The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">許可済み。タイルはモノクロ表示を変更できます。</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">未許可。タイルはモノクロ表示を変更できます。</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">入力方法の切り替えメニュー</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">入力方法の設定を開く</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">選択された連絡先</string>
+    <string name="settings_contacts_tile_summary_empty">連絡先が選択されていません。</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">許可済み。The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">拒否。 The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">許可済み。タイルは色の反転を変更できます。</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">未許可。タイルは色の反転を変更できません。</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">ストレージ設定を開く</string>
     <string name="settings_storage_tile_action_open_file_manager">ファイルマネージャーを開く</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">充電能力</string>
+    <string name="settings_battery_details_tile_health">性能</string>
     <string name="settings_battery_details_tile_temperature">温度</string>
     <string name="settings_battery_details_tile_temperature_units">温度の単位</string>
     <string name="settings_battery_details_tile_voltage">電圧</string>
@@ -327,17 +327,17 @@
     <!--activities-->
     <string name="settings_no_activity_selected">アクティビティが選択されていません</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d アクティビティが見つかりました</item>
-        <item quantity="other">%d アクティビティが見つかりました</item>
+        <item quantity="one">%d個のアクティビティが見つかりました</item>
+        <item quantity="other">%d個のアクティビティが見つかりました</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">使用済み</string>
+    <string name="settings_memory_tile_total">合計</string>
+    <string name="settings_memory_tile_threshold">しきい値</string>
+    <string name="settings_memory_tile_low_memory">低メモリ</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">値をリセット</string>
+    <string name="settings_counter_tile_current_value">現在の値</string>
+    <string name="settings_counter_tile_action_addition">加算</string>
+    <string name="settings_counter_tile_action_subtraction">減算</string>
 </resources>

@@ -265,18 +265,18 @@
     <string name="data_roaming_tile_label">データローミング</string>
     <string name="data_roaming_tile_alert_dialog_message">タイルからデータローミングを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--density-->
-    <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density： %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width： &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size： &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default： %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi)： ~120dpi</string>
-    <string name="density_tile_density_medium">Medium (mdpi)： ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi)： ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi)： ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi)： ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi)： ~640dpi</string>
-    <string name="density_tile_density_custom">Custom density</string>
+    <string name="density_tile_label">画面密度</string>
+    <string name="density_tile_label_formatted">画面密度： %ddp</string>
+    <string name="density_tile_smallest_width_formatted">最小幅： &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">画面サイズ： &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">既定： %ddp</string>
+    <string name="density_tile_density_low">低 (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">中 (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">高 (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">超高 (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">超超高 (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">超超超高 (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">カスタム密度</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">スリープモードにしない</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">タイルからスリープモードにしないを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>

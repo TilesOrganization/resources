@@ -29,13 +29,13 @@
     <string name="settings_design_status_bar_tint_accent">Vurgu rengi</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">Durum çubuğu simgeleri</string>
-    <string name="settings_design_status_bar_icons_light"Aydınlık simgeler</string>
+    <string name="settings_design_status_bar_icons_light">Aydınlık simgeler</string>
     <string name="settings_design_status_bar_icons_dark">Karanlık simgeler</string>
     <!--advanced-->
     <string name="settings_advanced">Gelişmiş</string>
     <string name="settings_restart_active_tiles_title">Etkin blokları yeniden başlat</string>
     <string name="settings_restart_active_tiles_summary">Zorla etkin blokları yeniden başlat. Bloklar sistem tarafından kapatılıp yanıt vermeyi keserse bunu kullan.</string>
-    <string name="settings_restart_active_tiles_summary_processing">Bloklar yeniden başlamaya zorlanıyor...</string>
+    <string name="settings_restart_active_tiles_summary_processing">Bloklar yeniden başlamaya zorlanıyor…</string>
     <string name="settings_scheduled_restart_tiles_title">Planlanlı yeniden başlatma</string>
     <!--UX-->
     <string name="settings_permission">İzin</string>
@@ -121,7 +121,7 @@
     <string name="settings_lock_tile_device_admin_summary_on">Etkinleştirildi. Bloğun cihazı kilitleme izni var</string>
     <string name="settings_lock_tile_device_admin_summary_off">Etkisizleştirildi. Bloğun cihazı kilitleme izni yok</string>
     <!--ringer mode-->
-<string name="settings_ringer_mode_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Onaylandı. Blok, Rahatsız Etme\'yi açıp kapatabilir ve ilgili ayarlarda değişiklikler yapabilir</string>
     <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Reddedildi. Blok, Rahatsız Etme\'yi açıp kapatamaz ve ilgili ayarlarda değişiklikler yapamaz</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Ses panelini aç</string>
@@ -139,8 +139,8 @@
     <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Servis başlatıldığında titretme</string>
     <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Servis başlatıldığında titret</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>xxxxx
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>xxxxx
+    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
     <!--timer -->
     <string name="settings_timer_tile_action_open_timer">Zamanlayıcıyı aç</string>
     <string name="settings_timer_tile_action_start_timer">Zamanlayıcıyı başlat</string>

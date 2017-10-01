@@ -77,77 +77,77 @@
     <string name="settings_stop_on_sleep_summary_on">Cihaz uykuya geçince servisi durdur.</string>
     <string name="settings_stop_on_sleep_summary_off">Cihaz uykuya geçince servisin çalışmasını sürdür.</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Reddedildi. Bloğun parlaklık modunu değiştirme yetkisi yok</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Onaylandı. Bloğa parlaklık modunu değiştirme yetkisi verildi</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">Tüm uygulamaları göster</string>
+    <string name="settings_application_tile_action_show_selected_apps">Seçilmiş uygulamaları göster</string>
+    <string name="settings_application_tile_single_app">Tek uygulama</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%d uygulama seçildi</item>
+        <item quantity="other">%d uygulama seçildi</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">Seçilmiş uygulama</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">Görüntüleme modu</string>
+    <string name="settings_application_tile_view_mode_list">Liste</string>
+    <string name="settings_application_tile_view_mode_grid">Kılavuz</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Etiketsiz kılavuz</string>
+    <string name="settings_application_tile_grid_columns">Kılavuz sütunları</string>
+    <string name="settings_application_tile_application_list_show_title">Gösterilecek uygulamalar</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d uygulama seçildi</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Hiç uygulama seçilmedi</string>
+    <string name="settings_application_tile_application_list_launch_title">Başlatılacak uygulamalar</string>
+    <string name="settings_application_tile_loading_applications">Uygulamalar yükleniyor…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Reddedildi. Bloğun parlaklık seviyesini değiştirme yetkisi yok</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Onaylandı. Bloğa parlaklık seviyesini değiştirme yetkisi verildi</string>
+    <string name="settings_brightness_tile_action_change_brightness">Parlaklığı değiştir</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Parlaklık seviyeleri</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Yüksek: %1$d%%\nOrta: %2$d%%\nDüşük: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Telefon uygulamasını aç</string>
+    <string name="settings_call_tile_action_make_call">Seçilen kişiyi ara</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Telefon çağrısı izni</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Reddedildi. Bloğun çağrı yapma yetkisi yok</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Onaylandı. Bloğun çağrı yapma yetkisi var</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Aranacak kişi</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">E-posta uygulamasını aç</string>
+    <string name="settings_email_tile_action_send_email">Seçilen alıcıya e-posta oluştur</string>
+    <string name="settings_email_tile_contact_preference_title">E-posta yollanacak alıcı</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Cihaz Yöneticisi</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Etkinleştirildi. Bloğun cihazı kilitleme izni var</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Etkisizleştirildi. Bloğun cihazı kilitleme izni yok</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+<string name="settings_ringer_mode_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Onaylandı. Blok, Rahatsız Etme\'yi açıp kapatabilir ve ilgili ayarlarda değişiklikler yapabilir</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Reddedildi. Blok, Rahatsız Etme\'yi açıp kapatamaz ve ilgili ayarlarda değişiklikler yapamaz</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Ses panelini aç</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Zil modunu değiştir</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Ses çal</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Normal mod seçiliyken hiç ses çalma</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Normal mod seçiliyken varsayılan bildirim sesini çal</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">"Ayarlar" seçeneğini göster</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Seçeneği gizle</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Ses çal</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Servis başlatıldığında ses çalma</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Servis başlatıldığında varsayılan bildirim sesini çal</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Titret</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Servis başlatıldığında titretme</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Servis başlatıldığında titret</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Change sync state</string>xxxxx
+    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>xxxxx
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">Zamanlayıcıyı aç</string>
+    <string name="settings_timer_tile_action_start_timer">Zamanlayıcıyı başlat</string>
+    <string name="settings_timer_tile_skip_ui_title">Uygulamayı geç</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Uygulamayı açmadan yalnızca zamanlayıcıyı çalıştır</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Zamanlayıcıyla beraber uygulamayı da başlat</string>
+    <string name="settings_timer_tile_default_duration">Varsayılan süre</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>

@@ -120,8 +120,8 @@
     <!--sync-->
     <string name="sync_tile_label">Sinkronizacija</string>
     <!--timer-->
-    <string name="timer_tile_label">Brojač</string>
-    <string name="timer_formatted_label">Brojač\n%s</string>
+    <string name="timer_tile_label">Mjerač vremena</string>
+    <string name="timer_formatted_label">Mjerač vremena\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Vrijeme</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Da biste dopustili da pločica dobije vremensku prognozu, otvorite postavke i dozvolite pristup lokaciji.</string>

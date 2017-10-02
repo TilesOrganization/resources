@@ -344,6 +344,6 @@
     <string name="settings_counter_tile_action_addition">Sčítanie</string>
     <string name="settings_counter_tile_action_subtraction">Odčítanie</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Povolené. Dlaždica môže uzamknúť fotoaparát</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Zakázané. Dlaždica nemôže uzamknúť fotoaparát</string>
 </resources>

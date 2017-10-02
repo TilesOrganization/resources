@@ -38,8 +38,8 @@
     <!--device administrator-->
     <string name="device_admin_activated">Geräteadministrator aktiviert</string>
     <string name="device_admin_deactivated">Geräteadministrator deaktiviert</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_description">Erlaube Tiles das Sperren des Smartphones oder der Kameras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Wenn deaktiviert darf Tiles weder das Smartphone noch die Kameras sperren</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptive Helligkeit</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Damit die Kachel die Helligkeit ändern kann, öffne bitte die System-Einstellungen und erteile die Rechte für das Ändern von Systemeinstellungen.</string>
@@ -441,10 +441,10 @@
     <string name="memory_tile_formatted_threshold">Schwellwert: %s</string>
     <string name="memory_tile_low_memory">Geringer Speicher</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Zähler</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Wert kann nicht addiert werden: Maximaler Integer Wert wurde erreicht.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Wert kann nicht substrahiert werden: Minimaler Integer Wert wurde erreicht.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Kamera sperren</string>
+    <string name="camera_lock_tile_alert_dialog_message">Damit di Kachel den Zugriff auf die Kameras verweigern darf, öffne bitte die System-Einstellungen und setze Tiles als Geräteadministrator.</string>
 </resources>

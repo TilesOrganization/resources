@@ -33,9 +33,9 @@
     <string name="settings_design_status_bar_icons_dark">暗色图标</string>
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">重启使用中的瓷砖</string>
-    <string name="settings_restart_active_tiles_summary">强行停止使用中的瓷砖。如果某些瓷砖没有回应，而后被系统终止，请使用这个操作。</string>
-    <string name="settings_restart_active_tiles_summary_processing">正在开始强行重启使用中的瓷砖</string>
+    <string name="settings_restart_active_tiles_title">重启使用中的瓷贴</string>
+    <string name="settings_restart_active_tiles_summary">强行停止使用中的瓷贴。如果某些瓷贴没有回应，而后被系统终止，请使用这个操作。</string>
+    <string name="settings_restart_active_tiles_summary_processing">正在开始强行重启使用中的瓷贴</string>
     <string name="settings_scheduled_restart_tiles_title">定时重启</string>
     <!--UX-->
     <string name="settings_permission">Permission</string>
@@ -69,17 +69,17 @@
     <string name="settings_translations_locale_ja">日文</string>
     <string name="settings_translations_locale_tr">土耳其文</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">瓷砖可见性</string>
-    <string name="settings_component_summary_off">在快捷设置布局隐藏瓷砖</string>
-    <string name="settings_component_summary_on">在快捷设置布局显示瓷砖</string>
+    <string name="settings_component_summary_title">瓷贴可见性</string>
+    <string name="settings_component_summary_off">在快捷设置布局隐藏瓷贴</string>
+    <string name="settings_component_summary_on">在快捷设置布局显示瓷贴</string>
     <string name="settings_tile_action_start_service_and_collapse">收起快捷设置面板并开始服务</string>
     <string name="settings_tile_action_start_service_without_collapsing">无需收起快捷设置面板即开始服务</string>
     <string name="settings_stop_on_sleep_title">休眠时停止</string>
     <string name="settings_stop_on_sleep_summary_on">当设备进入休眠时停止服务</string>
     <string name="settings_stop_on_sleep_summary_off">当设备进入休眠时服务保持运行</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换亮度模式</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许切换亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许切换亮度模式</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">显示所有应用程序</string>
     <string name="settings_application_tile_action_show_selected_apps">显示已选应用程序</string>
@@ -101,8 +101,8 @@
     <string name="settings_application_tile_application_list_launch_title">要启动的应用程序</string>
     <string name="settings_application_tile_loading_applications">正在载入应用程序…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许调节亮度</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许调节亮度</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许调节亮度</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许调节亮度</string>
     <string name="settings_brightness_tile_action_change_brightness">调节亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">亮度</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$d%%\n中: %2$d%%\n低: %3$d%%</string>
@@ -110,8 +110,8 @@
     <string name="settings_call_tile_action_open_phone">打开电话应用</string>
     <string name="settings_call_tile_action_make_call">呼叫所选联系人</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">通话权限</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已拒绝。瓷砖不允许拨打电话</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已授予。瓷砖允许拨打电话</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已拒绝。瓷贴不允许拨打电话</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已授予。瓷贴允许拨打电话</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">要呼叫的联系人</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">打开Email应用</string>
@@ -119,12 +119,12 @@
     <string name="settings_email_tile_contact_preference_title">要发邮件的联系人</string>
     <!--lock-->
     <string name="settings_lock_tile_device_admin_title">设备管理器</string>
-    <string name="settings_lock_tile_device_admin_summary_on">已激活。瓷砖允许锁定设备</string>
-    <string name="settings_lock_tile_device_admin_summary_off">未激活。瓷砖不允许锁定设备</string>
+    <string name="settings_lock_tile_device_admin_summary_on">已激活。瓷贴允许锁定设备</string>
+    <string name="settings_lock_tile_device_admin_summary_off">未激活。瓷贴不允许锁定设备</string>
     <!--ringer mode-->
     <string name="settings_ringer_mode_tile_do_not_disturb_access_title">勿扰模式访问</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已允许。瓷砖能够打开/关闭勿扰模式并对相关设置作出变更</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已拒绝。瓷砖不能够打开/关闭勿扰模式并对相关设置作出变更</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已允许。瓷贴能够打开/关闭勿扰模式并对相关设置作出变更</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已拒绝。瓷贴不能够打开/关闭勿扰模式并对相关设置作出变更</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">打开音量面板</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">切换情景模式</string>
     <string name="settings_ringer_mode_tile_play_sound_title">播放声音</string>
@@ -150,11 +150,11 @@
     <string name="settings_timer_tile_skip_ui_summary_off">在开始计时之前显示确认 UI </string>
     <string name="settings_timer_tile_default_duration">默认时长</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">已拒绝。瓷砖不允许访问设备的位置</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">已授予。瓷砖允许访问设备的位置</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">已拒绝。瓷贴不允许访问设备的位置</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">已授予。瓷贴允许访问设备的位置</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">已拒绝。瓷砖不允许访问设备的位置并获取当前天气情况</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">已授予。瓷砖允许访问设备的位置并获取当前天气情况</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">已拒绝。瓷贴不允许访问设备的位置并获取当前天气情况</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">已授予。瓷贴允许访问设备的位置并获取当前天气情况</string>
     <string name="settings_units">单位</string>
     <string name="settings_summary_off_hidden">已隐藏</string>
     <string name="settings_summary_on_shown">已显示</string>
@@ -177,17 +177,17 @@
     <string name="settings_calendar_tile_action_view">查看事件</string>
     <string name="settings_calendar_tile_action_add">添加事件</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换位置模式</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换位置模式</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换位置模式</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换位置模式</string>
     <string name="settings_location_tile_action_change_location_mode">切换位置模式</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更休眠超时</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更休眠超时</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许变更休眠超时</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许变更休眠超时</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">变更休眠超时</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">写入外部存储权限</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授予。瓷砖允许进行和保存截图</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已拒绝。瓷砖不允许进行和保存截图</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授予。瓷贴允许进行和保存截图</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已拒绝。瓷贴不允许进行和保存截图</string>
     <string name="settings_screenshot_tile_notification_play_sound_title">播放声音</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_on">开始截图时播放默认通知音</string>
     <string name="settings_screenshot_tile_notification_play_sound_summary_off">开始截图时不播放声音</string>
@@ -211,15 +211,15 @@
     <string name="settings_notification_settings_action_title">设置操作</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">写入安全设置权限</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换沉浸模式</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换沉浸模式</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换沉浸模式</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换沉浸模式</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">切换沉浸模式</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换环境显示</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换环境显示</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换环境显示</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换环境显示</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换动画</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换动画</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换动画</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换动画</string>
     <string name="settings_show_milliseconds">显示毫秒</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">添加闹钟</string>
@@ -232,66 +232,66 @@
     <string name="settings_font_size_tile_font_scale_default">默认</string>
     <string name="settings_font_size_tile_font_scale_large">大号</string>
     <string name="settings_font_size_tile_font_scale_largest">最大</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换字号</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换字号</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许切换字号</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许切换字号</string>
     <string name="settings_font_size_tile_action_change_font_size">切换字号</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换 NFC 状态</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换 NFC 状态</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换 NFC 状态</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换 NFC 状态</string>
     <string name="settings_nfc_tile_action_change_nfc_state">切换 NFC 状态</string>
     <string name="settings_nfc_tile_open_nfc_settings">打开 NFC 设置</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">.已授予。瓷砖允许切换数据漫游</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换数据漫游</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">.已授予。瓷贴允许切换数据漫游</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换数据漫游</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">默认密度</string>
     <string name="settings_density_tile_current_density_title">当前密度</string>
     <string name="settings_density_tile_restore_default_density_title">还原默认密度</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换插入电源时的唤醒状态</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换插入电源时的唤醒状态</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换插入电源时的唤醒状态</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换插入电源时的唤醒状态</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换演示模式</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换演示模式</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换演示模式</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换演示模式</string>
     <string name="settings_dump_permission_title">转储权限</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">已授予。瓷砖允许从系统服务中检索状态转储的信息</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">已拒绝。瓷砖不允许从系统服务中检索状态转储的信息</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">已授予。瓷贴允许从系统服务中检索状态转储的信息</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">已拒绝。瓷贴不允许从系统服务中检索状态转储的信息</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换浮动通知</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换浮动通知</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换浮动通知</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换浮动通知</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已停用。瓷砖不允许显示系统电源菜单</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已启用。瓷砖允许显示系统电源菜单</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已停用。瓷贴不允许显示系统电源菜单</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已启用。瓷贴允许显示系统电源菜单</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">已停用。瓷砖不允许开关多窗口</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">已启用。瓷砖不允许开关多窗口</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">已停用。瓷贴不允许开关多窗口</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">已启用。瓷贴不允许开关多窗口</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。瓷砖不允许最近屏幕</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">已启用。瓷砖不允许显示最近屏幕</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。瓷贴不允许最近屏幕</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">已启用。瓷贴允许显示最近屏幕</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">勿扰模式访问</string>
     <string name="settings_volumes_tile_action_open_volume_panel">打开音量面板</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">已允许。瓷砖能够打开/关闭勿扰模式并调节铃声音量</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已拒绝。瓷砖不能够打开/关闭勿扰模式并调节铃声音量</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">已允许。瓷贴能够打开/关闭勿扰模式并调节铃声音量</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已拒绝。瓷贴不能够打开/关闭勿扰模式并调节铃声音量</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更点击时振动</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更点击时振动</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许变更点击时振动</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许变更点击时振动</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更触摸音效</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更触摸音效</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许变更触摸音效</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许变更触摸音效</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">切换和锁定方向</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换和锁定方向</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换和锁定方向</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许切换和锁定方向</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许切换和锁定方向</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换通话振动</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换通话振动</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许切换通话振动</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许切换通话振动</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许打开和关闭省电模式</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许打开和关闭省电模式</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许打开和关闭省电模式</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许打开和关闭省电模式</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换 USB 调试</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换 USB 调试</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换 USB 调试</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换 USB 调试</string>
     <!--cellular data-->
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">切换蜂窝数据状态</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">打开蜂窝数据网络设置</string>
@@ -299,14 +299,14 @@
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">已选快捷方式</string>
     <string name="settings_shortcuts_tile_summary_empty">未选择快捷方式</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已拒绝。瓷砖不允许拨打电话和执行直接拨号快捷方式</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已授予。瓷砖允许拨打电话和执行直接拨号快捷方式</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已拒绝。瓷不允许拨打电话和执行直接拨号快捷方式</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已授予。瓷贴允许拨打电话和执行直接拨号快捷方式</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">切换蓝牙状态</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">打开蓝牙设置</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换色盲模式</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换色盲模式</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换色盲模式</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换色盲模式</string>
     <!--input method-->
     <string name="settings_input_method_tile_action_show_input_method_picker">显示输入法选择器</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">打开输入法设置</string>
@@ -314,8 +314,8 @@
     <string name="settings_contacts_tile_selected_contact">已选联系人</string>
     <string name="settings_contacts_tile_summary_empty">未选择联系人</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换反色模式</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换反色模式</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已授予。瓷贴允许切换反色模式</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已拒绝。瓷贴不允许切换反色模式</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">打开存储设置</string>
     <string name="settings_storage_tile_action_open_file_manager">打开文件管理器</string>
@@ -342,6 +342,6 @@
     <string name="settings_counter_tile_action_addition">加法</string>
     <string name="settings_counter_tile_action_subtraction">减法</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">已激活。瓷砖允许锁定相机</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">未激活。瓷砖不允许锁定相机</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">已激活。瓷贴允许锁定相机</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">未激活。瓷贴不允许锁定相机</string>
 </resources>

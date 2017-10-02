@@ -4,7 +4,7 @@
     <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="location_device_only_alert_dialog_message">O modo de localização está como Somente no dispositivo. Para um resultado mais rápido e preciso, abra as configurações e ative um modo de localização diferente.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Atividade não pode ser executada.</string>
     <string name="su_alert_dialog_message">Para realizar tal ação, por favor, conceda as permissões de superusuário para um shell interativo.</string>
     <string name="play_services_alert_dialog_message">Google Play Services é necessário para realizar tal ação. Instale-o e tente novamente</string>
     <string name="high">Alto</string>
@@ -22,10 +22,10 @@
     <string name="warning">Aviso</string>
     <string name="accessibility_service_label">Serviço de acessibilidade</string>
     <string name="accessibility_service_description">Serviço de acessibilidade serve para permitir que os blocos executem ações globais como: mostram o menu de energia do sistema, mostrar a tela de recentes, alternar tela dividida.</string>
-    <string name="fifteen_minutes">15 minutes</string>
-    <string name="thirty_minutes">30 minutes</string>
-    <string name="forty_two_minutes">42 minutes</string>
-    <string name="forty_five_minutes">45 minutes</string>
+    <string name="fifteen_minutes">15 minutos</string>
+    <string name="thirty_minutes">30 minutos</string>
+    <string name="forty_two_minutes">42 minutos</string>
+    <string name="forty_five_minutes">45 minutos</string>
     <string name="one_hour">1 hora</string>
     <string name="two_hours">2 horas</string>
     <string name="three_hours">3 horas</string>
@@ -38,8 +38,8 @@
     <!--device administrator-->
     <string name="device_admin_activated">Administrator do disposito ativado</string>
     <string name="device_admin_deactivated">Administrator do disposito desativado</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_description">Permitir Tiles bloquear seu dispositivo ou as câmeras</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Se desativado, Tiles não terá permissão bloquear seu dispositivo ou as câmeras.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Brilho adaptável</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Para permitir que o bloco mude o modo de brilho, abra as configurações e dê a permissão de modificar configurações do sistema.</string>
@@ -441,10 +441,10 @@
     <string name="memory_tile_formatted_threshold">Limite: %s</string>
     <string name="memory_tile_low_memory">Pouca memória</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Contador</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Valor não pode ser adicionado: o valor inteiro máximo foi alcançado.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Valor não pode ser subtraído: o valor inteiro mínimo foi alcançado.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Bloqueio de câmera</string>
+    <string name="camera_lock_tile_alert_dialog_message">Para permitir o bloco bloquear a câmera, abra as configurações e ative a permissão para administrador do dispositivo.</string>
 </resources>

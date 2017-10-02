@@ -38,8 +38,8 @@
     <!--device administrator-->
     <string name="device_admin_activated">Администратор устройства активирован</string>
     <string name="device_admin_deactivated">Администратор устройства деактивирован</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_description">Позволяет Tiles блокировать устройство или доступ к камерам</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Если деактивировано, Tiles не сможет блокировать устройство или доступ к камерам.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Автонастройка яркости</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Чтобы позволить плитке менять режим автонастройки яркости, пожалуйста, откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
@@ -441,10 +441,10 @@
     <string name="memory_tile_formatted_threshold">Ограничение: %s</string>
     <string name="memory_tile_low_memory">Мало памяти</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Счетчик</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Значение не может быть добавлено: достигнут максимальный порог для целого числа.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Значение не может быть вычтено: достигнут минимальный порог для целого числа.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Блокировка камеры</string>
+    <string name="camera_lock_tile_alert_dialog_message">Чтобы позволить плитке блокировать камеру, пожалуйста, откройте настройки и активируйте приложение как администратора устройства.</string>
 </resources>

@@ -270,7 +270,7 @@
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">Gewährt. Die Kachel darf die letzten Apps nicht anzeigen</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">"Bitte nicht stören" Zugriff</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Öffne das Lautstärke-Menü</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Gewährt. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke ändern</string>
     <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Verweigert. Die Kachel darf den "Bitte nicht stören"-Modus und die Klingel-Lautstärke nicht ändern</string>
     <!--vibrate on tap-->
@@ -337,11 +337,11 @@
     <string name="settings_memory_tile_threshold">Schwellenwert</string>
     <string name="settings_memory_tile_low_memory">Geringen Speicher</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_reset_value">Wert zurücksetzen</string>
+    <string name="settings_counter_tile_current_value">Aktueller Wert</string>
     <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraktion</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Gewährt. Die Kachel darf den Zugriff auf die Kameras verbieten</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Verweigert. Die Kachel darf den Zugriff auf die Kameras nicht verbieten</string>
 </resources>

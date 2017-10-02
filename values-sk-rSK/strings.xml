@@ -38,8 +38,8 @@
     <!--device administrator-->
     <string name="device_admin_activated">Správca zariadenia je aktívny</string>
     <string name="device_admin_deactivated">Správca zariadenia je neaktívny</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_description">Umožniť Tiles zamknúť zariadenie alebo fotoaparáty</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Ak neaktívne, dlaždica nebude môcť zamknúť zariadenie alebo fotoaparáty.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prispôsobivý jas</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Aby dlaždica mohla meniť režim jasu, prosím, otvorte nastavenia a povoľte Úpravy nastavení systému.</string>

@@ -67,6 +67,7 @@
     <string name="settings_translations_locale_fr">Fransızca</string>
     <string name="settings_translations_locale_hr">Hırvatça</string>
     <string name="settings_translations_locale_ja">Japonca</string>
+    <string name="settings_translations_locale_tr">Türk</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Başlık görünürlüğü</string>
     <string name="settings_component_summary_off">Blok hızlı ayarlar panelinden gizlendi</string>

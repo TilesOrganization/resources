@@ -1,0 +1,258 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="something_went_wrong">"कुछ गलत हो गया। कृपया पुन: प्रयास करें"</string>
+    <string name="location_off_alert_dialog_message">"स्थान बंद है। टाइल वर्तमान स्थान प्राप्त करने की अनुमति के लिए, कृपया सेटिंग्स को खोलने और स्थान को सक्षम।"</string>
+    <string name="location_device_only_alert_dialog_message">"स्थान मोड केवल डिवाइस है। तेजी से और अधिक सटीक परिणाम के लिए, कृपया सेटिंग्स को खोलने और एक अलग स्थान मोड सक्षम  kare ।"</string>
+    <string name="resolve_activity_alert_dialog_message">"कोई भी आवेदन इस क्रिया को निष्पादित करने के लिए मिला।"</string>
+    <string name="su_alert_dialog_message">"ऐसी कार्रवाई को करने के लिए सुपर उपयोक्ता अनुमति देना |"</string>
+    <string name="play_services_alert_dialog_message">"गूगल प्ले सेवा ऐसी कार्रवाई करने के लिए आवश्यक है। कृपया इसे स्थापित करें और फिर कोशिश करें।"</string>
+    <string name="high">"उच्च"</string>
+    <string name="medium">"मध्यम"</string>
+    <string name="low">"कम"</string>
+    <string name="checking_features_progress_dialog_message">" विशिष्ट सुविधाओं के लिए को सक्षम करने के लिए जांच की जा रही है |"</string>
+    <string name="not_available">"उपलब्ध नहीं है"</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">"अनुकूलनीय चमक"</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">"चमक बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और सिस्टम सेटिंग्स संशोधित अनुमति  अनुदान करे।"</string>
+    <!--application-->
+    <string name="application_tile_label">"आवेदन"</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">"कोई एप्लिकेशन का चयन किया है, कृपया सेटिंग्स को खोलने और एप्लिकेशन को चुनें।"</string>
+    <string name="application_info_dialog_message">"त्वरित लॉन्च के लिए, कृपया केवल एक अनुप्रयोग का चयन करें।"</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">"चमक"</string>
+    <string name="brightness_tile_label_formatted">"चमक %1$s"</string>
+    <string name="brightness_tile_label_formatted_high">"उच्च: %1$.1f%%"</string>
+    <string name="brightness_tile_label_formatted_medium">"मध्यम:%1$.1f%%"</string>
+    <string name="brightness_tile_label_formatted_low">"कम:%1$.1f%%"</string>
+    <string name="brightness_tile_formatted_label_one_param">"चमक:%1$.1f%%"</string>
+    <string name="brightness_tile_undefined_label">"चमक अपरिभाषित"</string>
+    <string name="brightness_tile_alert_dialog_message">"टाइल चमक स्तर को बदलने की अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और सिस्टम सेटिंग्स अनुमति संशोधित अनुदान।"</string>
+    <!--calculator-->
+    <string name="calculator_tile_label">"कैलकुलेटर"</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">"कैलेंडर"</string>
+    <!--call-->
+    <string name="call_tile_label">"पु का र ना"</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">"टाइल एक फोन कॉल करने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और फोन कॉल की अनुमति दें।"</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">"कोई कॉल संपर्क का चयन किया है, कृपया सेटिंग्स को खोलने और संपर्क का चयन करें। या फिर एक अलग कार्रवाई की स्थापना की।"</string>
+    <string name="call_tile_formatted_label">"कॉल %s"</string>
+    <string name="formatted_contact_preference_screen">"%1$s\n(%2$s)"</string>
+    <string name="choose_contact">"संपर्क चुनें"</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">"कैमरा"</string>
+    <string name="camera_tile_video_label">"वीडियो कैमरा"</string>
+    <!--email -->
+    <string name="email_tile_label">"ईमेल"</string>
+    <string name="email_tile_formatted_label">"ईमेल %s"</string>
+    <string name="email_tile_empty_email_alert_dialog_message">"कोई ईमेल से संपर्क का चयन किया है, कृपया सेटिंग्स को खोलने और संपर्क का चयन करें। या फिर एक अलग कार्रवाई की स्थापना की।"</string>
+    <!--lock-->
+    <string name="lock_tile_label">"ताला"</string>
+    <string name="lock_tile_device_admin_description">"ताला टाइल डिवाइस लॉक करने की अनुमति दें"</string>
+    <string name="lock_tile_device_admin_activated">"उपकरण व्यवस्थापक सक्रिय"</string>
+    <string name="lock_tile_device_admin_deactivated">"उपकरण व्यवस्थापक कुकीज़ को निष्क्रिय कर"</string>
+    <string name="lock_tile_device_admin_receiver_status_deactivated_warning">"यदि सक्रिय, ताला टाइल डिवाइस लॉक करने के लिए अनुमति नहीं दी जाएगी।"</string>
+    <string name="lock_tile_alert_dialog_message">"टाइल डिवाइस लॉक करने के लिए अनुमति देने के लिए, कृपया सेटिंग्स खोलने के लिए और के रूप में डिवाइस व्यवस्थापक इसे सक्रिय।"</string>
+    <string name="lock_tile_add_device_admin_extra_app_text">"यदि सक्रिय, ताला टाइल डिवाइस लॉक करने के लिए अनुमति दी जाएगी।"</string>
+    <!--map-->
+    <string name="maps_tile_label">"मैप्स"</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">"एनएफसी"</string>
+    <string name="nfc_tile_service_description">"एनएफसी राज्य निरीक्षण करने के लिए सेवा है, यह जब टाइल निकाल दिया जाता है बंद कर दिया जाएगा। इसे रोकने टाइल विफल होने का कारण हो सकता है।"</string>
+    <string name="nfc_tile_alert_dialog_message">"टाइल एनएफसी राज्य बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--power-->
+    <string name="power_tile_action_power_dialog">"पावर संवाद"</string>
+    <string name="power_tile_label">"शक्ति"</string>
+    <string name="power_tile_action_reboot">"रिबूट"</string>
+    <string name="power_tile_action_reboot_recovery">"कम करने के एजेंट"</string>
+    <string name="power_tile_action_reboot_bootloader">"रिबूट बूटलोडर"</string>
+    <string name="power_tile_action_power_off">"बिजली बंद"</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">"घंटी मोड"</string>
+    <string name="ringer_mode_tile_label_normal">"साधारण"</string>
+    <string name="ringer_mode_tile_label_silent">"मूक"</string>
+    <string name="ringer_mode_tile_label_vibrate">"कांपना"</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">"टाइल घंटी मोड को बदलने की अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और पहुँच डू नॉट डिस्टर्ब अनुमति देते हैं।"</string>
+    <!--screen on-->
+    <string name="screen_on_tile_label">"स्क्रीन चालू"</string>
+    <string name="screen_on_tile_dialog_wake_lock_running">"सेवा पर स्क्रीन चल रहा है \n सेवा रोकें?"</string>
+    <string name="screen_on_tile_dialog_wake_lock_not_running">"सेवा पर स्क्रीन नहीं चल रहा है \nसेवा शुरू करें?"</string>
+    <string name="screen_on_tile_service_notification_title">"सेवा चल रही है"</string>
+    <string name="screen_on_tile_service_notification_content_text">"डिवाइस सोने के लिए नहीं जाना होगा। सेवा को रोकने के लिए टैप करें।"</string>
+    <string name="screen_on_tile_service_notification_sub_text">"सेवा पर स्क्रीन"</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">"सड़क का दृश्य"</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">"टाइल वर्तमान स्थान प्राप्त करने की अनुमति के लिए, कृपया सेटिंग्स को खोलने और स्थान की अनुमति दें।"</string>
+    <!--sync-->
+    <string name="sync_tile_label">"सिंक"</string>
+    <!--timer-->
+    <string name="timer_tile_label">"घड़ी"</string>
+    <string name="timer_formatted_label">"टाइमर \n %s"</string>
+    <!--weather-->
+    <string name="weather_tile_label">"मौसम"</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">"टाइल मौसम की स्थिति प्राप्त करने की अनुमति के लिए, कृपया सेटिंग्स को खोलने और स्थान की अनुमति दें।"</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">"मौसम की स्थिति हो रही है। कृपया प्रतीक्षा करें।"</string>
+    <string name="weather_formatted_temperature_celsius">"तापमान: &lt;b&gt;%1$.1f&lt;/b&gt; \u2103"</string>
+    <string name="weather_formatted_temperature_fahrenheit">"तापमान: &lt;b&gt;%1$.1f&lt;/b&gt; \u2109"</string>
+    <string name="weather_formatted_feels_like_celsius">"&lt;b&gt;%1$.1f&lt;/b&gt; \u2103: की तरह लगता है"</string>
+    <string name="weather_formatted_feels_like_fahrenheit">"&lt;b&gt;%1$.1f&lt;/b&gt; \u2109 की तरह लगता है"</string>
+    <string name="weather_formatted_dew_point_celsius">"ओस बिंदु: &lt;b&gt;%1$.1f&lt;/b&gt; \u2103"</string>
+    <string name="weather_formatted_dew_point_fahrenheit">"ओस बिंदु: &lt;b&gt;%1$.1f&lt;/b&gt; \u2109"</string>
+    <string name="weather_formatted_humidity">"आर्द्रता: &lt;b&gt;%d&lt;/b&gt;%%"</string>
+    <string name="weather_celsius">"सेल्सीयस"</string>
+    <string name="weather_fahrenheit">"फारेनहाइट"</string>
+    <string name="weather_clear">"स्पष्ट"</string>
+    <string name="weather_cloudy">"धुंधला"</string>
+    <string name="weather_foggy">"धूमिल"</string>
+    <string name="weather_hazy">"धुंधला"</string>
+    <string name="weather_icy">"ठंडा"</string>
+    <string name="weather_rainy">"बरसाती"</string>
+    <string name="weather_snowy">"हिमाच्छन्न"</string>
+    <string name="weather_stormy">"तूफ़ानी"</string>
+    <string name="weather_windy">"हवा"</string>
+    <string name="weather_conditions">"शर्तेँ"</string>
+    <string name="weather_temperature">"तापमान"</string>
+    <string name="weather_feels_like">"की तरह लगना"</string>
+    <string name="weather_humidity">"नमी"</string>
+    <string name="weather_dew_point">"ओसांक"</string>
+    <!--web search-->
+    <string name="web_search_tile_label">"वेब खोज"</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">"अनुस्मारक"</string>
+    <string name="reminder_tile_dialog_formatted_title_hint" tools:ignore="PluralsCandidate">"शीर्षक ( %d वर्ण सीमित)"</string>
+    <string name="reminder_tile_dialog_formatted_content_hint">"सामग्री"</string>
+    <string name="reminder_tile_dialog_persistent_checkbox">"ज़िद्दी"</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">"मिटाना"</string>
+    <string name="reminder_tile_empty_notification_text_fields">"कोई अनुस्मारक जोड़ा। एक वैध अनुस्मारक जोड़ने के लिए, शीर्षक या सामग्री दर्ज करें।"</string>
+    <string name="reminder_tile_draw_over_apps_permission_alert_message">"ऐसी कार्रवाई को करने के लिए क्षुधा की अनुमति पर आकर्षित अनुदान कृपया"</string>
+    <string name="reminder_tile_text_copied_to_clipboard">"पाठ क्लिपबोर्ड करने के लिए नकल"</string>
+    <string name="retrieving_location_dialog_message">"स्थान पुन: प्राप्त। कृपया प्रतीक्षा करें।"</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">"नींद मध्यांतर"</string>
+    <string name="sleep_timeout_tile_formatted_label">"नींद \n%1$02d:%2$02d"</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">"टाइल नींद मध्यांतर बदलने के लिए, खुली सेटिंग्स को खुश करने और अनुदान प्रणाली सेटिंग्स अनुमति को संशोधित करने की अनुमति देने के लिए।"</string>
+    <string name="sleep_timeout_tile_value_15000">"15 सेकंड"</string>
+    <string name="sleep_timeout_tile_value_30000">"30 सेकंड"</string>
+    <string name="sleep_timeout_tile_value_60000">"1 मिनट"</string>
+    <string name="sleep_timeout_tile_value_120000">"दो मिनट"</string>
+    <string name="sleep_timeout_tile_value_300000">"5 मिनट"</string>
+    <string name="sleep_timeout_tile_value_600000">"10 मिनटों"</string>
+    <string name="sleep_timeout_tile_value_1800000">"30 मिनिट"</string>
+    <!--location mode-->
+    <string name="location_tile_label">"स्थान"</string>
+    <string name="location_tile_alert_dialog_message">"टाइल स्थान मोड बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <string name="location_tile_label_off">"स्थान के लिए रवाना"</string>
+    <string name="location_tile_label_battery_saving">"बैटरी बचाना"</string>
+    <string name="location_tile_label_sensors_only">"डिवाइस केवल"</string>
+    <string name="location_tile_label_high_accuracy">"उच्च सटिकता"</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">"सुरक्षित सिस्टम सेटिंग सिस्टम प्राथमिकता है कि आवेदन पत्र पढ़ सकते हैं, लेकिन लिखने के लिए अनुमति नहीं है होते हैं। यह सुरक्षा के स्तर के साथ अनुमतियाँ केवल प्रणाली क्षुधा के लिए दिया जाता है। एक बॉक्स में एक नियमित रूप से गैर-प्रणाली एप्लिकेशन है, तो यह इन अनुमतियों का उपयोग करने में सक्षम होना कभी नहीं होगा।"</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">"टाइलें एक इंटरैक्टिव खोल के लिए सुपर उपयोक्ता अनुमतियाँ दी गई है। आप प्रोग्राम करना चाहते हैं %s सुपर उपयोक्ता इंटरैक्टिव खोल का उपयोग कर सुरक्षित सेटिंग अनुमति के बारे में?"</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">"मैन्युअल करने के लिए %1$s एडीबी खोल PM: अनुमति है, एक कंप्यूटर के लिए अपनी डिवाइस कनेक्ट और निम्न एडीबी आदेश चलाएँ %2$s %3$s android.permission.WRITE_SECURE_SETTINGS।"</string>
+    <string name="permission_dialog_message_grant">"अनुदान"</string>
+    <string name="permission_dialog_message_revoke">"वापस लेना"</string>
+    <!--timer H M S symbols -->
+    <string name="hour_symbol">"एच"</string>
+    <string name="minute_symbol">"एम"</string>
+    <string name="second_symbol">"एस"</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">"नींद"</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">"स्क्रीनशॉट"</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">"टाइल लेने के लिए और दुकान स्क्रीनशॉट, कृपया सेटिंग्स को खोलने और लिखने बाह्य भंडारण की अनुमति प्रदान करने के लिए अनुमति देते हैं।"</string>
+    <string name="screenshot_tile_screenshot_captured">"स्क्रीनशॉट पर कब्जा कर लिया।"</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">"अपना स्क्रीनशॉट देखने के लिए टैप करें।"</string>
+    <string name="share">"शेयर करे"</string>
+    <string name="delete">"मिटाना"</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">"इमर्सिव मोड"</string>
+    <string name="immersive_mode_tile_off">"Immersive मोड बंद"</string>
+    <string name="immersive_mode_tile_hide_system_bars">"मिटायें प्रणाली सलाखों"</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">"मिटायें नेविगेशन पट्टी"</string>
+    <string name="immersive_mode_tile_hide_status_bar">"स्थिति पट्टी छुपाएँ"</string>
+    <string name="immersive_mode_tile_alert_dialog_message">"टाइल immersive मोड बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">"परिवेश प्रदर्शन"</string>
+    <string name="ambient_display_tile_alert_dialog_message">"टाइल परिवेश के प्रदर्शन को बदलने की अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--animations-->
+    <string name="animations_tile_label">"एनिमेशन"</string>
+    <string name="animations_tile_label_animator">"एनिमेटर"</string>
+    <string name="animations_tile_label_transition">"संक्रमण"</string>
+    <string name="animations_tile_label_window">"खिड़की"</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">"एनीमेशन बंद"</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">"अवधि पैमाने% 1 $ .1fx"</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">"टाइल एनिमेशन बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--sleep time -->
+    <string name="sleep_time_tile_label">"सोने का समय"</string>
+    <string name="sleep_time_tile_awake">"जाग"</string>
+    <string name="sleep_time_tile_sleep">"नींद"</string>
+    <string name="sleep_time_tile_formatted_battery_percentage">"बैटरी %d %%"</string>
+    <string name="sleep_time_tile_unplugged">"अनप्लग्ड"</string>
+    <string name="sleep_time_tile_plugged_usb">"खामियों को दूर यूएसबी"</string>
+    <string name="sleep_time_tile_plugged_ac">"खामियों को दूर एसी"</string>
+    <string name="sleep_time_tile_plugged_wireless">"खामियों को दूर वायरलेस"</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">"अलार्म"</string>
+    <string name="alarm_tile_no_alarm_set">"कोई अलार्म सेट"</string>
+    <!--files-->
+    <string name="files_tile_label">"फ़ाइलें"</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">"सेटिंग शॉर्टकट"</string>
+    <!--font size-->
+    <string name="font_size_tile_label">"फ़ॉन्ट आकार"</string>
+    <string name="font_size_tile_alert_dialog_message">"टाइल फ़ॉन्ट आकार बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और सिस्टम सेटिंग्स अनुमति संशोधित अनुदान।"</string>
+    <!--voice-->
+    <string name="voice_tile_label">"आवाज़"</string>
+    <!--text-->
+    <string name="text_tile_label">"टेक्स्ट"</string>
+    <string name="text_tile_empty_chat_text_field">"कोई पाठ जोड़ा, सामग्री दर्ज करें।"</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">"डेटा रोमिंग"</string>
+    <string name="data_roaming_tile_alert_dialog_message">"टाइल डेटा रोमिंग बदलने के लिए अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--density-->
+    <string name="density_tile_label">"घनत्व"</string>
+    <string name="density_tile_label_formatted">"घनत्व: %d डीपी"</string>
+    <string name="density_tile_smallest_width_formatted">"छोटी से छोटी चौड़ाई: &lt;b&gt; %d &lt;/ b&gt; डीपी"</string>
+    <string name="density_tile_screen_size_formatted">"स्क्रीन का आकार:  &lt;b&gt;%1$dx%2$d&lt;/b&gt;px"</string>
+    <string name="density_tile_density_default_formatted">"डिफ़ॉल्ट: %d डीपी"</string>
+    <string name="density_tile_density_low">"कम (LDPI): ~ 120dpi"</string>
+    <string name="density_tile_density_medium">"मध्यम (MDPI): ~ 160dpi"</string>
+    <string name="density_tile_density_high">"उच्च (HDPI): ~ 240dpi"</string>
+    <string name="density_tile_density_xhigh">"XHigh (xhdpi): ~ 320dpi"</string>
+    <string name="density_tile_density_xxhigh">"XXHigh (xxhdpi): ~ 480dpi"</string>
+    <string name="density_tile_density_xxxhigh">"XXXHigh (XXXHDPI): ~ 640dpi"</string>
+    <!--awake while plugged in-->
+    <string name="awake_while_plugged_on_tile_label">"जाग समय में खामियों को दूर किया"</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">"टाइल जागते समय में खामियों को दूर बदलने के लिए अनुमति के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति दें।"</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">"सिस्टम सेवाओं से राज्य डंप जानकारी प्राप्त करने के लिए एक आवेदन की अनुमति देता है। यह सुरक्षा के स्तर के साथ अनुमतियाँ केवल प्रणाली क्षुधा के लिए दिया जाता है। एक बॉक्स में एक नियमित रूप से गैर-प्रणाली एप्लिकेशन है, तो यह इन अनुमतियों का उपयोग करने में सक्षम होना कभी नहीं होगा।"</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">"टाइलें एक इंटरैक्टिव खोल के लिए सुपर उपयोक्ता अनुमतियाँ दी गई है। आप प्रोग्राम करना चाहते हैं %s सुपर उपयोक्ता इंटरैक्टिव खोल का उपयोग कर अनुमति डंप?"</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">"मैन्युअल करने के लिए %1$s अनुमति, एक कंप्यूटर के लिए अपनी डिवाइस कनेक्ट और निम्न एडीबी आदेश चलाएँ: एडीबी खोल बजे %2$s %3$s android.permission.DUMP।"</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">"डेमो मोड"</string>
+    <string name="demo_mode_tile_alert_dialog_message">"टाइल डेमो मोड को बदलने की अनुमति देने के लिए, कृपया सेटिंग्स को खोलने और लिखने सुरक्षित सेटिंग की अनुमति देना और अनुमति डंप।"</string>
+    <string name="demo_mode_tile_system_bars">"प्रणाली सलाखों"</string>
+    <string name="demo_mode_tile_system_bars_transparent">"पारदर्शक"</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">"अर्ध-पारदर्शी"</string>
+    <string name="demo_mode_tile_system_bars_translucent">"पारभासी"</string>
+    <string name="demo_mode_tile_system_bars_opaque">"न झिल्लड़"</string>
+    <string name="demo_mode_tile_system_bars_warning">"चेतावनी"</string>
+    <string name="demo_mode_tile_battery">"बैटरी"</string>
+    <string name="demo_mode_tile_state_plugged">"खामियों को दूर किया"</string>
+    <string name="demo_mode_tile_state_unplugged">"अनप्लग्ड"</string>
+    <string name="demo_mode_tile_level_formatted">"स्तर% 1d"</string>
+    <string name="demo_mode_tile_wifi">"वाई - फाई"</string>
+    <string name="demo_mode_tile_bluetooth">"ब्लूटूथ"</string>
+    <string name="demo_mode_tile_state_disconnected">"डिस्कनेक्टेड"</string>
+    <string name="demo_mode_tile_state_connected">"जुड़े हुए"</string>
+    <string name="demo_mode_tile_mobile">"सेलुलर नेटवर्क"</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">"घूमना"</string>
+    <string name="demo_mode_tile_notifications">"सूचनाएं"</string>
+    <string name="demo_mode_tile_alarm">"अलार्म"</string>
+    <string name="demo_mode_tile_location">"स्थान"</string>
+    <string name="demo_mode_tile_clock">"घड़ी"</string>
+    <string name="demo_mode_tile_mute">"मूक"</string>
+    <string name="demo_mode_tile_speakerphone">"फ़ोन स्पीकर"</string>
+    <string name="demo_mode_tile_vibrate">"कांपना"</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">"क्लिपबोर्ड"</string>
+    <string name="clipboard_tile_empty_clip">"क्लिपबोर्ड पाठ शामिल नहीं है।"</string>
+</resources>

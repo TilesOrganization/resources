@@ -1,347 +1,346 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
-    <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_notification">Notification</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
-    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings">设置</string>
+    <string name="settings_design">设计</string>
+    <string name="settings_animations">动画</string>
+    <string name="settings_animations_reveal_animation_title">翻牌动画</string>
+    <string name="settings_animations_drawable_animation_title">拉曳动画</string>
+    <string name="settings_enabled">已启用</string>
+    <string name="settings_disabled">已停用</string>
+    <string name="settings_action">操作</string>
+    <string name="settings_layout">布局</string>
+    <string name="settings_notification">通知</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_light">亮色</string>
+    <string name="settings_theme_dark">暗色</string>
+    <string name="settings_theme_black">黑色</string>
+    <string name="settings_theme_terminal">终端</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">导航栏着色</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">不着色</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">主暗色</string>
+    <string name="settings_design_navigation_bar_tint_primary">主色调</string>
+    <string name="settings_design_navigation_bar_tint_accent">强调色</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">状态栏着色</string>
+    <string name="settings_design_status_bar_tint_primary_dark">主暗色</string>
+    <string name="settings_design_status_bar_tint_primary">主色调</string>
+    <string name="settings_design_status_bar_tint_accent">强调色</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">状态栏图标</string>
+    <string name="settings_design_status_bar_icons_light">亮色图标</string>
+    <string name="settings_design_status_bar_icons_dark">暗色图标</string>
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_restart_active_tiles_title">重启使用中的瓷砖</string>
+    <string name="settings_restart_active_tiles_summary">强行停止使用中的瓷砖。如果某些瓷砖没有回应，而后被系统终止，请使用这个操作。</string>
+    <string name="settings_restart_active_tiles_summary_processing">正在开始强行重启使用中的瓷砖</string>
+    <string name="settings_scheduled_restart_tiles_title">定时重启</string>
     <!--UX-->
     <string name="settings_permission">Permission</string>
-    <string name="settings_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
-    <string name="settings_privacy_policy">Privacy Policy</string>
-    <string name="settings_wiki">Wiki</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
-    <string name="settings_send_email">Send email</string>
-    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
-    <string name="settings_credit">Credit</string>
-    <string name="settings_credit_app_icon">Application\'s icon</string>
-    <string name="settings_translations">Translations</string>
-    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
-    <string name="settings_translations_locale_de">German</string>
-    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
-    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
-    <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
-    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
-    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
-    <string name="settings_translations_locale_it">Italian</string>
-    <string name="settings_translations_locale_hu">Hungarian</string>
-    <string name="settings_translations_locale_es">Spanish</string>
-    <string name="settings_translations_locale_ru">Russian</string>
-    <string name="settings_translations_locale_fr">French</string>
-    <string name="settings_translations_locale_hr">Croatian</string>
-    <string name="settings_translations_locale_ja">Japanese</string>
-    <string name="settings_translations_locale_tr">Turkish</string>
+    <string name="settings_phone_call_permission_title">通话权限</string>
+    <string name="settings_location_permissions_preference_title">位置权限</string>
+    <string name="settings_modify_system_settings_permissions_title">修改系统设置权限</string>
+    <string name="settings_feedback">反馈 &amp; 支持</string>
+    <string name="settings_privacy_policy">隐私政策</string>
+    <string name="settings_wiki">维基</string>
+    <string name="settings_rate_or_review">评价或评论应用</string>
+    <string name="settings_support_title">谢谢你的支持!</string>
+    <string name="settings_send_email">发送邮件</string>
+    <string name="settings_support_summary">专为 Android Nougat &amp; Android Oreo 开发</string>
+    <string name="settings_credit">致谢名单</string>
+    <string name="settings_credit_app_icon">应用程序的图标</string>
+    <string name="settings_translations">翻译者</string>
+    <string name="settings_translations_thanks">如果你想帮助翻译这个应用为你的语言，请随时联系我: rascarlo@gmail.com.\n谢谢!</string>
+    <string name="settings_translations_locale_de">德文</string>
+    <string name="settings_translations_locale_pt_rBR">葡萄牙文(巴西)</string>
+    <string name="settings_translations_locale_nl">荷兰文</string>
+    <string name="settings_translations_locale_pt_rPT">葡萄牙文(葡萄牙)</string>
+    <string name="settings_translations_locale_sk_rSK">斯洛伐克文(斯洛伐克)</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">繁体中文(香港、澳门地区)</string>
+    <string name="settings_translations_locale_zh_rTW">繁体中文(台湾地区)</string>
+    <string name="settings_translations_locale_it">意大利文</string>
+    <string name="settings_translations_locale_hu">匈牙利文</string>
+    <string name="settings_translations_locale_es">西班牙文</string>
+    <string name="settings_translations_locale_ru">俄罗斯文</string>
+    <string name="settings_translations_locale_fr">法文</string>
+    <string name="settings_translations_locale_hr">克罗地亚文</string>
+    <string name="settings_translations_locale_ja">日文</string>
+    <string name="settings_translations_locale_tr">土耳其文</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
-    <string name="settings_tile_action_start_service_and_collapse">Collapse Quick Settings panel and start service</string>
-    <string name="settings_tile_action_start_service_without_collapsing">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
-    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
-    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
+    <string name="settings_component_summary_title">瓷砖可见性</string>
+    <string name="settings_component_summary_off">在快捷设置布局隐藏瓷砖</string>
+    <string name="settings_component_summary_on">在快捷设置布局显示瓷砖</string>
+    <string name="settings_tile_action_start_service_and_collapse">收起快捷设置面板并开始服务</string>
+    <string name="settings_tile_action_start_service_without_collapsing">无需收起快捷设置面板即开始服务</string>
+    <string name="settings_stop_on_sleep_title">休眠时停止</string>
+    <string name="settings_stop_on_sleep_summary_on">当设备进入休眠时停止服务</string>
+    <string name="settings_stop_on_sleep_summary_off">当设备进入休眠时服务保持运行</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换亮度模式</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换亮度模式</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">显示所有应用程序</string>
+    <string name="settings_application_tile_action_show_selected_apps">显示已选应用程序</string>
+    <string name="settings_application_tile_single_app">单个应用程序</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
-    </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+        <item quantity="one">已选择 %d 款应用程序</item>
+        <item quantity="other">已选择 %d 款应用程序</item>
+    </plurals>已选应用程序</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">视图模式</string>
+    <string name="settings_application_tile_view_mode_list">列表</string>
+    <string name="settings_application_tile_view_mode_grid">网格</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">网格但无标签</string>
+    <string name="settings_application_tile_grid_columns">网格纵列</string>
+    <string name="settings_application_tile_application_list_show_title">要显示的应用程序</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">已选择 %d 款应用程序</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">未选择应用程序</string>
+    <string name="settings_application_tile_application_list_launch_title">要启动的应用程序</string>
+    <string name="settings_application_tile_loading_applications">正在载入应用程序…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许调节亮度</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许调节亮度</string>
+    <string name="settings_brightness_tile_action_change_brightness">调节亮度</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">亮度</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">高: %1$d%%\n中: %2$d%%\n低: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">打开电话应用</string>
+    <string name="settings_call_tile_action_make_call">呼叫所选联系人</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">通话权限</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">已拒绝。瓷砖不允许拨打电话</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">已授予。瓷砖允许拨打电话</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">要呼叫的联系人</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">打开Email应用</string>
+    <string name="settings_email_tile_action_send_email">使用所选的联系接收者撰写邮件</string>
+    <string name="settings_email_tile_contact_preference_title">要发邮件的联系人</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">设备管理器</string>
+    <string name="settings_lock_tile_device_admin_summary_on">已激活。瓷砖允许锁定设备</string>
+    <string name="settings_lock_tile_device_admin_summary_off">未激活。瓷砖不允许锁定设备</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">勿扰模式访问</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">已允许。瓷砖能够打开/关闭勿扰模式并对相关设置作出变更</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">已拒绝。瓷砖不能够打开/关闭勿扰模式并对相关设置作出变更</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">打开音量面板</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">切换情景模式</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">播放声音</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">当选择的情景模式为普通时，不播放声音</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">当选择的情景模式为普通时，播放默认通知音</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">显示打开设置的操作</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">隐藏操作</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">播放声音</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">当服务开始时不播放声音</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">当服务开始时播放默认通知音</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">振动</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">当服务开始时不振动</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">当服务开始时振动</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">变更同步状态</string>
+    <string name="settings_sync_tile_action_open_sync_settings">打开同步设置</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">打开计时器</string>
+    <string name="settings_timer_tile_action_start_timer">开始计时</string>
+    <string name="settings_timer_tile_skip_ui_title">跳过 UI</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">避开任何确认 UI 并直接开始计时</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">在开始计时之前显示确认 UI </string>
+    <string name="settings_timer_tile_default_duration">默认时长</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">已拒绝。瓷砖不允许访问设备的位置</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">已授予。瓷砖允许访问设备的位置</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">已拒绝。瓷砖不允许访问设备的位置并获取当前天气情况</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">已授予。瓷砖允许访问设备的位置并获取当前天气情况</string>
+    <string name="settings_units">单位</string>
+    <string name="settings_summary_off_hidden">已隐藏</string>
+    <string name="settings_summary_on_shown">已显示</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">向左或向右滑动可删除提醒</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">点击删除操作按钮可删除提醒</string>
+    <string name="settings_reminder_tile_persistent_notification_title">常驻通知</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">播放声音</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">当新增提醒时播放默认通知音</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">新增提醒时不播放声音</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">振动</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">新增提醒时振动</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">新增提醒时不振动</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">时间戳样式</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">普通</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">秒表</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">显示打开设置的操作</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">隐藏操作</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">查看事件</string>
+    <string name="settings_calendar_tile_action_add">添加事件</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换位置模式</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换位置模式</string>
+    <string name="settings_location_tile_action_change_location_mode">切换位置模式</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更休眠超时</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更休眠超时</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">变更休眠超时</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">写入外部存储权限</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授予。瓷砖允许进行和保存截图</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已拒绝。瓷砖不允许进行和保存截图</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">播放声音</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">开始截图时播放默认通知音</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">开始截图时不播放声音</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">振动</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">开始截图时振动</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">开始截图时不振动</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">收起快捷设置面板并开始截图</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">无需快捷设置面板即开始截图</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">显示分享截图的操作</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">隐藏分享截图的操作</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">显示删除截图的操作</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">隐藏删除截图的操作</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">勿扰模式</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">仅限闹钟</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">完全静音</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">仅限优先打扰</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">显示对话框</string>
+    <string name="settings_notification_share_action_title">分享操作</string>
+    <string name="settings_notification_settings_action_title">设置操作</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_write_secure_settings_permission_title">写入安全设置权限</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换沉浸模式</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换沉浸模式</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">切换沉浸模式</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换环境显示</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换环境显示</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换动画</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换动画</string>
+    <string name="settings_show_milliseconds">显示毫秒</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">添加闹钟</string>
+    <string name="settings_alarm_tile_action_show_alarms">显示闹钟</string>
+    <string name="settings_date_format">日期格式</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">时间格式</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">小号</string>
+    <string name="settings_font_size_tile_font_scale_default">默认</string>
+    <string name="settings_font_size_tile_font_scale_large">大号</string>
+    <string name="settings_font_size_tile_font_scale_largest">最大</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换字号</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换字号</string>
+    <string name="settings_font_size_tile_action_change_font_size">切换字号</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换 NFC 状态</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换 NFC 状态</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">切换 NFC 状态</string>
+    <string name="settings_nfc_tile_open_nfc_settings">打开 NFC 设置</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">.已授予。瓷砖允许切换数据漫游</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换数据漫游</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">默认密度</string>
+    <string name="settings_density_tile_current_density_title">当前密度</string>
+    <string name="settings_density_tile_restore_default_density_title">还原默认密度</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换插入电源时的唤醒状态</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换插入电源时的唤醒状态</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换演示模式</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换演示模式</string>
+    <string name="settings_dump_permission_title">转储权限</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">已授予。瓷砖允许从系统服务中检索状态转储的信息</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">已拒绝。瓷砖不允许从系统服务中检索状态转储的信息</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换浮动通知</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换浮动通知</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">已停用。瓷砖不允许显示系统电源菜单</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">已启用。瓷砖允许显示系统电源菜单</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">已停用。瓷砖不允许开关多窗口</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">已启用。瓷砖不允许开关多窗口</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。瓷砖不允许最近屏幕</strings>
+	<string name="settings_recents_screen_tile_accessibility_service_summary_on">已启用。瓷砖不允许显示最近屏幕</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">勿扰模式访问</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">打开音量面板</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">已允许。瓷砖能够打开/关闭勿扰模式并调节铃声音量</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">已拒绝。瓷砖不能够打开/关闭勿扰模式并调节铃声音量</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更点击时振动</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更点击时振动</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许变更触摸音效</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许变更触摸音效</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">切换和锁定方向</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换和锁定方向</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换和锁定方向</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷砖不允许切换通话振动</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">已授予。瓷砖允许切换通话振动</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许打开和关闭省电模式</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许打开和关闭省电模式</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换 USB 调试</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换 USB 调试</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">切换蜂窝数据状态</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">打开蜂窝数据网络设置</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">打开数据使用情况设置</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">已选快捷方式</string>
+    <string name="settings_shortcuts_tile_summary_empty">未选择快捷方式</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已拒绝。瓷砖不允许拨打电话和执行直接拨号快捷方式</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已授予。瓷砖允许拨打电话和执行直接拨号快捷方式</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">切换蓝牙状态</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">打开蓝牙设置</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换色盲模式</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换色盲模式</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">显示输入法选择器</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">打开输入法设置</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">已选联系人</string>
+    <string name="settings_contacts_tile_summary_empty">未选择联系人</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">已授予。瓷砖允许切换反色模式</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">已拒绝。瓷砖不允许切换反色模式</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">打开存储设置</string>
+    <string name="settings_storage_tile_action_open_file_manager">打开文件管理器</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">健康度</string>
+    <string name="settings_battery_details_tile_temperature">温度</string>
+    <string name="settings_battery_details_tile_temperature_units">温度单位</string>
+    <string name="settings_battery_details_tile_voltage">电压</string>
+    <string name="settings_battery_details_tile_technology">工艺</string>
     <!--activities-->
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_no_activity_selected">未选择活动项</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
+        <item quantity="one">发现 %d 个活动项</item>
+        <item quantity="other">发现 %d 个活动项</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">已用</string>
+    <string name="settings_memory_tile_total">共计</string>
+    <string name="settings_memory_tile_threshold">临界值</string>
+    <string name="settings_memory_tile_low_memory">低内存</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">重置数值</string>
+    <string name="settings_counter_tile_current_value">当前值</string>
+    <string name="settings_counter_tile_action_addition">加法</string>
+    <string name="settings_counter_tile_action_subtraction">减法</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">已激活。瓷砖允许锁定相机</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">未激活。瓷砖不允许锁定相机</string>
 </resources>

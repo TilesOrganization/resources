@@ -446,5 +446,5 @@
     <string name="counter_tile_min_int_alert_dialog_message">無法減去數值:已到達最小值。</string>
     <!--camera lock-->
     <string name="camera_lock_tile_label">相機鎖</string>
-    <string name="camera_lock_tile_alert_dialog_message">要允許快速設定磚鎖定相機。 請前往設定並允許裝置管理員權限。 please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_alert_dialog_message">要允許快速設定磚鎖定相機。 請前往設定並允許裝置管理員權限。</string>
 </resources>

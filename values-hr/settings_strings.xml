@@ -36,7 +36,7 @@
     <string name="settings_restart_active_tiles_title">Ponovo pokreni aktivne pločice</string>
     <string name="settings_restart_active_tiles_summary">Prisilno ponovno pokreni aktivne pločice. Koristite ovu akciju ako neke pločice ne reagiraju, nakon što ih je sustav ubio</string>
     <string name="settings_restart_active_tiles_summary_processing">Obrada prisilnog ponovnog pokretanja aktivnih pločica</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_scheduled_restart_tiles_title">Planirano ponovno pokretanje</string>
     <!--UX-->
     <string name="settings_permission">Dopuštenja</string>
     <string name="settings_phone_call_permission_title">Dopuštenja za telefonski poziv</string>
@@ -344,6 +344,6 @@
     <string name="settings_counter_tile_action_addition">Dodavanje</string>
     <string name="settings_counter_tile_action_subtraction">Oduzimanje</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Omogućeno. Pločici je dozvoljeno zaključati kameru</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Onemogućeno. Pločici nije dozvoljeno zaključati kameru</string>
 </resources>

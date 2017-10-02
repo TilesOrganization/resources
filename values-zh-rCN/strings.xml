@@ -42,7 +42,7 @@
     <string name="device_admin_receiver_status_deactivated_warning">如果未激活，Tiles 将不被允许锁定设备或者相机。</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">适应亮度</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">要允许瓷砖切换亮度模式，请打开设置并授予修改系统设置权限。</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">要允许瓷贴切换亮度模式，请打开设置并授予修改系统设置权限。</string>
     <!--applications list-->
     <string name="applications_list_tile_label">应用程序</string>
     <string name="applications_list_tile_no_app_selected_alert_dialog_message">未选择应用，请打开设置并选择应用。</string>
@@ -72,7 +72,7 @@
     <string name="calendar_tile_label">日历</string>
     <!--call-->
     <string name="call_tile_label">通话</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">要允许瓷砖拨打电话，请打开设置并授予通话权限。</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">要允许瓷贴拨打电话，请打开设置并授予通话权限。</string>
     <string name="call_tile_empty_contact_alert_dialog_message">未选择通话联系人，请打开设置并选择联系人。或者设定不同的操作。</string>
     <string name="call_tile_formatted_label">呼叫 %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
@@ -86,16 +86,16 @@
     <string name="email_tile_empty_email_alert_dialog_message">未选择邮件接收者，请打开设置并选择接收者。或者设定不同的操作。</string>
     <!--lock-->
     <string name="lock_tile_label">锁定</string>
-    <string name="lock_tile_device_admin_description">允许使用锁定瓷砖以锁定设备</string>
-    <string name="lock_tile_alert_dialog_message">要允许瓷砖锁定设备，请打开设置并将其激活为设备管理器。</string>
+    <string name="lock_tile_device_admin_description">允许使用锁定瓷贴以锁定设备</string>
+    <string name="lock_tile_alert_dialog_message">要允许瓷贴锁定设备，请打开设置并将其激活为设备管理器。</string>
     <!--map-->
     <string name="maps_tile_label">地图</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">用于侦察 NFC 状态的服务，将会在瓷砖被移除时停止。将其停止可能会导致瓷砖发生错误。</string>
-    <string name="nfc_tile_alert_dialog_message">要允许瓷砖切换 NFC 状态，请打开设置并授予写入安全设置权限。</string>
+    <string name="nfc_tile_service_description">用于侦察 NFC 状态的服务，将会在瓷贴被移除时停止。将其停止可能会导致瓷贴发生错误。</string>
+    <string name="nfc_tile_alert_dialog_message">要允许瓷贴切换 NFC 状态，请打开设置并授予写入安全设置权限。</string>
     <!--power-->
-    <string name="power_tile_accessibility_service_alert_dialog_message">要允许瓷砖显示系统电源菜单，请打开设置并启用辅助服务。</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">要允许瓷贴显示系统电源菜单，请打开设置并启用辅助服务。</string>
     <string name="power_tile_action_system_power_dialog">系统电源菜单</string>
     <string name="power_tile_action_power_dialog">电源菜单</string>
     <string name="power_tile_label">电源</string>
@@ -109,14 +109,14 @@
     <string name="ringer_mode_tile_label_normal">普通</string>
     <string name="ringer_mode_tile_label_silent">静音</string>
     <string name="ringer_mode_tile_label_vibrate">振动</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允许瓷砖切换情景模式，请打开设置并允许勿扰模式访问。</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允许瓷贴切换情景模式，请打开设置并允许勿扰模式访问。</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">咖啡因</string>
     <string name="caffeine_tile_service_notification_title">服务正在运行</string>
     <string name="caffeine_tile_service_notification_content_text">设备不会进入休眠。轻按即可停止服务。</string>
     <!--streetview-->
     <string name="streetview_tile_label">街景</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">要允许瓷砖获取当前位置，请打开设置并授予位置权限。</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">要允许瓷贴获取当前位置，请打开设置并授予位置权限。</string>
     <!--sync-->
     <string name="sync_tile_label">同步</string>
     <!--timer-->
@@ -124,7 +124,7 @@
     <string name="timer_formatted_label">计时器\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">要允许瓷砖获取天气情况，请打开设置并授予位置权限。</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">要允许瓷贴获取天气情况，请打开设置并授予位置权限。</string>
     <string name="weather_tile_getting_weather_conditions_dialog_message">正在获取天气情况，请稍等</string>
     <string name="weather_formatted_temperature_celsius">温度: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">温度: &lt;b>%1$.1f&lt;/b> \u2109</string>
@@ -166,7 +166,7 @@
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">休眠超时</string>
     <string name="sleep_timeout_tile_formatted_label">休眠\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">要允许瓷砖变更休眠超时，请打开设置并授予修改系统设置权限。</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">要允许瓷贴变更休眠超时，请打开设置并授予修改系统设置权限。</string>
     <string name="sleep_timeout_tile_value_15000">15秒</string>
     <string name="sleep_timeout_tile_value_30000">30秒</string>
     <string name="sleep_timeout_tile_value_60000">1分钟</string>
@@ -195,7 +195,7 @@
     <string name="sleep_tile_label">休眠</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">截图</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允许瓷砖进行和储存截图，请打开设置并授予写入外部存储权限。</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允许瓷贴进行和储存截图，请打开设置并授予写入外部存储权限。</string>
     <string name="screenshot_tile_screenshot_captured">截图已捕获</string>
     <string name="screenshot_tile_tap_to_view_screenshot">轻按即可查看截图</string>
     <!--immersive mode-->
@@ -204,13 +204,13 @@
     <string name="immersive_mode_tile_hide_system_bars">隐藏系统栏</string>
     <string name="immersive_mode_tile_hide_navigation_bar">隐藏导航栏</string>
     <string name="immersive_mode_tile_hide_status_bar">隐藏状态栏</string>
-    <string name="immersive_mode_tile_alert_dialog_message">要允许瓷砖切换沉浸模式，请打开设置并授予写入安全设置权限。</string>
+    <string name="immersive_mode_tile_alert_dialog_message">要允许瓷贴切换沉浸模式，请打开设置并授予写入安全设置权限。</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">环境显示</string>
-    <string name="ambient_display_tile_alert_dialog_message">要允许瓷砖切换环境显示，请打开设置并授予写入安全设置权限。</string>
+    <string name="ambient_display_tile_alert_dialog_message">要允许瓷贴切换环境显示，请打开设置并授予写入安全设置权限。</string>
     <!--animations-->
     <string name="animations_tile_label">动画</string>
-    <string name="animations_tile_label_animator">动画师</string>
+    <string name="animations_tile_label_animator">动画程序</string>
     <string name="animations_tile_label_transition">过渡</string>
     <string name="animations_tile_label_window">窗口</string>
     <string name="animations_tile_label_dialog_check_box_off_label">动画关闭</string>
@@ -256,7 +256,7 @@
     <string name="settings_shortcut_tile_action_wireless">无线 &amp; 网络</string>
     <!--font size-->
     <string name="font_size_tile_label">字号</string>
-    <string name="font_size_tile_alert_dialog_message">要允许瓷砖变更字号，请打开设置并授予修改系统设置权限。</string>
+    <string name="font_size_tile_alert_dialog_message">要允许瓷贴变更字号，请打开设置并授予修改系统设置权限。</string>
     <!--voice-->
     <string name="voice_tile_label">语音</string>
     <!--text-->
@@ -264,7 +264,7 @@
     <string name="text_tile_empty_chat_text_field">未添加文本，请输入内容</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">数据漫游</string>
-    <string name="data_roaming_tile_alert_dialog_message">要允许瓷砖切换数据漫游，请打开设置并授予写入安全设置权限。</string>
+    <string name="data_roaming_tile_alert_dialog_message">要允许瓷贴切换数据漫游，请打开设置并授予写入安全设置权限。</string>
     <!--density-->
     <string name="density_tile_label">密度</string>
     <string name="density_tile_label_formatted">密度: %ddp</string>
@@ -280,14 +280,14 @@
     <string name="density_tile_density_custom">自定义密度</string>
     <!--awake while plugged in-->
     <string name="awake_while_plugged_on_tile_label">插入电源时唤醒</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允许瓷砖切换插入电源时的唤醒状态，请打开设置并授予写入安全设置权限。</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">要允许瓷贴切换插入电源时的唤醒状态，请打开设置并授予写入安全设置权限。</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">允许应用程序从系统服务中检索状态转储信息。这个保护级别的权限仅能授予系统应用。如果应用普通非系统应用，将永远无法使用这些权限。</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles 已授予交互命令的超级用户权限。你是否要使用超级用户交互命令以编程方式授予 %s 转储权限?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手动授予 %1$s 权限，连接你的设备至电脑并运行如下adb命令: adb shell pm %2$s %3$s android.permission.DUMP</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">演示模式</string>
-    <string name="demo_mode_tile_alert_dialog_message">要允许瓷砖切换演示模式，请打开设置并授予写入安全设置权限和转储权限。</string>
+    <string name="demo_mode_tile_alert_dialog_message">要允许瓷贴切换演示模式，请打开设置并授予写入安全设置权限和转储权限。</string>
     <string name="demo_mode_tile_system_bars">系统栏</string>
     <string name="demo_mode_tile_system_bars_transparent">透明</string>
     <string name="demo_mode_tile_system_bars_semitransparent">半透明</string>
@@ -318,17 +318,17 @@
     <string name="keep_tile_label">保持</string>
     <!--heads up notification-->
     <string name="heads_up_notifications_tile_label">浮动通知</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">要允许瓷砖变更浮动通知，请打开设置并授予写入安全设置权限。</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">要允许瓷贴变更浮动通知，请打开设置并授予写入安全设置权限。</string>
     <string name="heads_up_notifications_tile_alert_summary">Android 框架不会显示变更浮动通知的可见设置。请确保在卸载应用之前再次打开浮动通知以正确还原原来的行为。</string>
     <!--multi window-->
     <string name="multi_window_tile_label">多窗口</string>
-    <string name="multi_window_tile_alert_dialog_message">要允许瓷砖开关多窗口，请打开设置并启用辅助服务。</string>
+    <string name="multi_window_tile_alert_dialog_message">要允许瓷贴开关多窗口，请打开设置并启用辅助服务。</string>
     <!--recents screen-->
     <string name="recents_screen_tile_label">最近屏幕</string>
-    <string name="recents_screens_tile_alert_dialog_message">要允许瓷砖显示最近屏幕，请打开设置并启用辅助服务。</string>
+    <string name="recents_screens_tile_alert_dialog_message">要允许瓷贴显示最近屏幕，请打开设置并启用辅助服务。</string>
     <!--volumes-->
     <string name="volumes_tile_label">音量</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允许瓷砖变更铃声音量，请打开设置并允许勿扰模式访问。</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">要允许瓷贴变更铃声音量，请打开设置并允许勿扰模式访问。</string>
     <string name="volumes_tile_volume_keys_disabled">临时停用音量键</string>
     <string name="volumes_tile_volume_alarm">闹钟</string>
     <string name="volumes_tile_volume_media">媒体</string>
@@ -336,13 +336,13 @@
     <string name="volumes_tile_volume_call">通话</string>
     <!--vibrate on tap-->
     <string name="vibrate_on_tap_tile_label">点击时振动</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">要允许瓷砖变更点击时振动，请打开设置并授予修改系统设置权限。</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">要允许瓷贴变更点击时振动，请打开设置并授予修改系统设置权限。</string>
     <!--touch sounds-->
     <string name="touch_sounds_tile_label">触摸音效</string>
-    <string name="touch_sounds_tile_alert_dialog_message">要允许瓷砖切换触摸音效，请打开设置并授予修改系统设置权限。</string>
+    <string name="touch_sounds_tile_alert_dialog_message">要允许瓷贴切换触摸音效，请打开设置并授予修改系统设置权限。</string>
     <!--orientation lock-->
     <string name="orientation_lock_tile_label">方向锁定</string>
-    <string name="orientation_lock_tile_alert_dialog_message">要允许瓷砖切换和锁定方向，请打开设置并授予修改系统设置权限。</string>
+    <string name="orientation_lock_tile_alert_dialog_message">要允许瓷贴切换和锁定方向，请打开设置并授予修改系统设置权限。</string>
     <string name="orientation_lock_tile_label_rotation_0">方向 0\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_90">方向 90\u00B0</string>
     <string name="orientation_lock_tile_label_rotation_180">方向 180\u00B0</string>
@@ -350,18 +350,18 @@
     <string name="orientation_lock_tile_label_rotation_auto_rotate">自动旋转</string>
     <!--vibrate for calls-->
     <string name="vibrate_for_calls_tile_label">通话振动</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">要允许瓷砖变更通话振动，请打开设置并授予修改系统设置权限。</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">要允许瓷贴变更通话振动，请打开设置并授予修改系统设置权限。</string>
     <!--battery saver-->
     <string name="battery_saver_tile_label">省电模式</string>
-    <string name="battery_saver_tile_alert_dialog_message">要允许瓷砖打开和关闭省电模式，请打开设置并授予写入安全设置权限。</string>
+    <string name="battery_saver_tile_alert_dialog_message">要允许瓷贴打开和关闭省电模式，请打开设置并授予写入安全设置权限。</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">省电模式在充电时不可用。</string>
     <!--usb debugging-->
     <string name="usb_debugging_tile_label">USB 调试</string>
-    <string name="usb_debugging_tile_alert_dialog_message">要允许瓷砖变更 USB 调试，请打开设置并授予写入安全设置权限。</string>
+    <string name="usb_debugging_tile_alert_dialog_message">要允许瓷贴变更 USB 调试，请打开设置并授予写入安全设置权限。</string>
     <!--cellular data-->
     <string name="cellular_data_tile_label">蜂窝数据</string>
     <string name="cellular_data_tile_mobile_network_label">移动网络</string>
-    <string name="cellular_data_tile_data_usage_label">数据使用情况</string>
+    <string name="cellular_data_tile_data_usage_label">流量使用情况</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -376,13 +376,13 @@
     <string name="shortcut_e_tile_label">快捷方式 #5</string>
     <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">未选择快捷方式，请打开设置并选择快捷方式。</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">发生一些错误，请打开设置并检查所选的快捷方式。</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">要允许瓷砖执行拨号快捷方式，请打开设置并授予通话权限。</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">要允许瓷贴执行拨号快捷方式，请打开设置并授予通话权限。</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">蓝牙</string>
     <string name="bluetooth_tile_not_supported_alert_dialog_message">操作不可用。设备不支持蓝牙。</string>
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">色盲模式</string>
-    <string name="monochromacy_tile_alert_dialog_message">要允许瓷砖切换色盲模式，请打开设置并授予写入安全设置权限。</string>
+    <string name="monochromacy_tile_alert_dialog_message">要允许瓷贴切换色盲模式，请打开设置并授予写入安全设置权限。</string>
     <!-- input method -->
     <string name="input_method_tile_label">输入法</string>
     <!--contacts-->
@@ -396,7 +396,7 @@
     <string name="contact_e_tile_label">联系人 #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">反色模式</string>
-    <string name="invert_colors_tile_alert_dialog_message">要允许瓷砖切换反色模式，请打开设置并授予写入安全设置权限。</string>
+    <string name="invert_colors_tile_alert_dialog_message">要允许瓷贴切换反色模式，请打开设置并授予写入安全设置权限。</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">单声道</string>
     <!-- notification light -->
@@ -446,5 +446,5 @@
     <string name="counter_tile_min_int_alert_dialog_message">数值无法相减: 已达最小整数值。</string>
     <!--camera lock-->
     <string name="camera_lock_tile_label">相机锁</string>
-    <string name="camera_lock_tile_alert_dialog_message">要允许瓷砖锁定相机，请打开设置并将其激活为设备管理器。</string>
+    <string name="camera_lock_tile_alert_dialog_message">要允许瓷贴锁定相机，请打开设置并将其激活为设备管理器。</string>
 </resources>

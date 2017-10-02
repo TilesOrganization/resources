@@ -4,7 +4,7 @@
     <string name="location_off_alert_dialog_message">Lokacija je isključena. Da biste dopustili da pločica dobije trenutačnu lokaciju, otvorite postavke i omogućite lokaciju.</string>
     <string name="location_device_only_alert_dialog_message">Način lokacije je "Samo uređaj". Za brži i točniji rezultat, otvorite postavke i omogućite drugi način lokacije.</string>
     <string name="resolve_activity_alert_dialog_message">Nije pronađena nijedna aplikacija za izvođenje ove radnje.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Aktivnost ne može biti započeta.</string>
     <string name="su_alert_dialog_message">Da biste izvršili takvu radnju, dodijelite superuser prava za interaktivnu ljusku.</string>
     <string name="play_services_alert_dialog_message">Google Play servisi su potrebni za obavljanje takve radnje. Instalirajte ih i pokušajte ponovo.</string>
     <string name="high">Visoko</string>
@@ -30,7 +30,7 @@
     <string name="two_hours">2 sata</string>
     <string name="three_hours">3 sata</string>
     <string name="six_hours">6 sati</string>
-    <string name="twelve_hours">12 sata</string>
+    <string name="twelve_hours">12 sati</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="fahrenheit">Farenhajt</string>
@@ -38,8 +38,8 @@
     <!--device administrator-->
     <string name="device_admin_activated">Administrator uređaja aktiviran</string>
     <string name="device_admin_deactivated">Administrator uređaja deaktiviran</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_description">Dopusti Pločicama da zaključaju uređaj ili kamere</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Ako je deaktivirano, Pločicama neće biti omogućeno zaključati uređaj ili kamere.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Prilagodljiva svjetlina</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Da biste pločici omogućili promjenu načina svijeltine, otvorite postavke i odobrite izmjenu postavki sustava.</string>
@@ -445,6 +445,6 @@
     <string name="counter_tile_max_int_alert_dialog_message">Vrijednost se ne može dodati: dosegnuta je maksimalna cjelobrojna vrijednost.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Vrijednost se ne može oduzeti: postignuta je minimalna cjelobrojna vrijednost.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Zaključavanje kamere</string>
+    <string name="camera_lock_tile_alert_dialog_message">Da biste pločici omogućili zaključavanje kamere, otvorite postavke i aktivirajte je kao administrator uređaja.</string>
 </resources>

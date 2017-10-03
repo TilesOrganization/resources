@@ -203,9 +203,9 @@
     <string name="immersive_mode_tile_off">Immersiver Modus aus</string>
     <string name="immersive_mode_tile_hide_system_bars">Verstecke System-Bar</string>
     <string name="immersive_mode_tile_hide_navigation_bar">Verstecke Navigations-Bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Verstecke Status-bar</string>
+    <string name="immersive_mode_tile_hide_status_bar">Verstecke Status-Bar</string>
     <string name="immersive_mode_tile_alert_dialog_message">Damit die Kachel den immersiven Modus ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Immersiver Modus ist aktiv, wird beim Übergang in den Ruhezustand deaktiviert</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Inaktivitätsdisplay</string>
     <string name="ambient_display_tile_alert_dialog_message">Damit die Kachel den Status des Inaktivitätsdisplay ändern kann, öffne bitte die System-Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>

@@ -123,7 +123,7 @@
     <string name="timer_tile_label">计时器</string>
     <string name="timer_formatted_label">计时器\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
+    <string name="weather_tile_label">天气</string>
     <string name="weather_tile_location_permission_alert_dialog_message">要允许瓷贴获取天气情况，请打开设置并授予位置权限。</string>
     <string name="weather_tile_getting_weather_conditions_dialog_message">正在获取天气情况，请稍等</string>
     <string name="weather_formatted_temperature_celsius">温度: &lt;b>%1$.1f&lt;/b> \u2103</string>

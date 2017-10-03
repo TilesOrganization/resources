@@ -183,10 +183,10 @@
     <string name="location_tile_label_high_accuracy">高精确度</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">安全系统设置包含应用程序可以读取但不能写入的系统偏好设置。这个保护级别的权限仅能授予系统应用。如果应用为普通非系统应用，将永远无法使用这些权限。</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles 已授予交互命令的超级用户权限。你是否要使用交互命令将 %s 以编程方式写入安全设置权限?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手动授予 %1$s 权限，将你的设备连接至电脑并运行如下adb命令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles 已被授予交互命令的超级用户权限。你是否要使用交互命令以编程方式 %s 写入安全设置权限?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">要手动 %1$s 权限，将你的设备连接至电脑并运行如下adb命令: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_dialog_message_grant">授予</string>
-    <string name="permission_dialog_message_revoke">撤回</string>
+    <string name="permission_dialog_message_revoke">回收</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">时</string>
     <string name="minute_symbol">分</string>

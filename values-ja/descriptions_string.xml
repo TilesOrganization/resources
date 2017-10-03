@@ -2,10 +2,10 @@
 <resources>
     <string name="description_activities_tile">アプリの隠れたアクティビティを起動するタイルを５つまで追加できます。</string>
     <string name="description_adaptive_brightness_tile">有効にすると、周囲に合わせて明るさを最適化します。明るさの自動調整を有効にしても明るさを調整することができます。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
-    <string name="description_alarm_tile">現在設定されているアラームを表示、または新しくアラームを設定します。アラームが設定されている場合、次のアラームをタイルに表示します。このアクションはアラームの表示と編集のために、Androidの規定のブロードキャストを受け取れるサードパーティ製のアプリとの互換性があります。</string>
+    <string name="description_alarm_tile">現在設定されているアラームを表示、または新しくアラームを設定します。アラームが設定されている場合、次のアラームをタイルに表示します。このアクションはアラームの表示と編集のために、Androidの既定のブロードキャストを受け取れるサードパーティ製のアプリとの互換性があります。</string>
     <string name="description_ambient_display_tile">通知を受け取った時にロック画面の内容を端末に表示します。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
     <string name="description_animations_tile">アニメーター再生時間とトランジションアニメとウィンドウアニメのスケールを設定します。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
-    <string name="description_application_tile">Create a list of applications to be displayed in a dialog.\nFive single application tiles are also available.</string>
+    <string name="description_application_tile">ダイアログに表示するアプリのリストを作成します。\n単体アプリタイルも5つまで利用できます。</string>
     <string name="description_awake_while_plugged_in_tile">充電中に画面をスリープにしません。\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>
     <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Turn battery saver on and off. While battery saver is on, performance is reduced and location services and background data are turned off.\nこのタイルを使用するにはシステム設定の変更の許可が必要です。</string>

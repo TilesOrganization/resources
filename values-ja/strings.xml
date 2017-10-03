@@ -123,7 +123,7 @@
     <string name="timer_tile_label">タイマー</string>
     <string name="timer_formatted_label">タイマー\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
+    <string name="weather_tile_label">天気</string>
     <string name="weather_tile_location_permission_alert_dialog_message">タイルから気象情報を取得するには、設定から位置情報の権限を許可してください。</string>
     <string name="weather_tile_getting_weather_conditions_dialog_message">気象情報を取得しています。お待ちください。</string>
     <string name="weather_formatted_temperature_celsius">気温： &lt;b>%1$.1f&lt;/b> \u2103</string>
@@ -182,11 +182,11 @@
     <string name="location_tile_label_sensors_only">GPSのみ</string>
     <string name="location_tile_label_high_accuracy">高精度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsには、アプリが読み込むができて書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。ユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tilesには、対話シェルのSuperuser権限が付与されています。Superuserの対話シェルを使用してWRITE_SECURE_SETTINGSの権限を%sしますか？</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">手動で権限を%1$sには、端末をPCに接続し次のadbコマンドを実行してください： adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_dialog_message_grant">付与</string>
-    <string name="permission_dialog_message_revoke">取り消し</string>
+    <string name="permission_dialog_message_revoke">取り消す</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">時</string>
     <string name="minute_symbol">分</string>
@@ -205,7 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">ナビゲーションバーを隠す</string>
     <string name="immersive_mode_tile_hide_status_bar">ステータスバーを隠す</string>
     <string name="immersive_mode_tile_alert_dialog_message">タイルからフルスクリーンモードを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_foreground_service_message">フルスクリーンモードが有効です。端末がスリープすると終了します。</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">アンビエントディスプレイ</string>
     <string name="ambient_display_tile_alert_dialog_message">タイルからアンビエントディスプレイを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
@@ -283,9 +283,9 @@
     <string name="awake_while_plugged_on_tile_label">スリープモードにしない</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">タイルからスリープモードにしないを変更するには、ADBからWRITE_SECURE_SETTINGSの権限を付与してください。</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">アプリがシステムサービスから状態のダンプの情報を取得できるようにします。この保護レベルの権限はシステムアプリにのみ与えられます。ユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tilesには、対話シェルのSuperuser権限が付与されています。Superuserの対話シェルを使用してプログラムでダンプ権限を%sしますか？</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">手動で権限を%1$sには、端末をPCに接続し次のadbコマンドを実行してください： adb shell pm %2$s %3$s android.permission.DUMP</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">デモモード</string>
     <string name="demo_mode_tile_alert_dialog_message">タイルからデモモードを変更するには、ADBからWRITE_SECURE_SETTINGSとDUMPの権限を付与してください。</string>
@@ -439,13 +439,13 @@
     <string name="memory_tile_formatted_available_memory">利用可能： %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_total_memory">合計： %s</string>
     <string name="memory_tile_formatted_used_memory">使用済み： %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">しきい値： %s</string>
+    <string name="memory_tile_formatted_threshold">閾値： %s</string>
     <string name="memory_tile_low_memory">低メモリ</string>
     <!--counter-->
     <string name="counter_tile_label">カウンター</string>
     <string name="counter_tile_max_int_alert_dialog_message">値を加算できません：最大整数値に達しました</string>
     <string name="counter_tile_min_int_alert_dialog_message">値を減算できません：最小整数値に達しました。</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">カメラロック</string>
+    <string name="camera_lock_tile_alert_dialog_message">タイルからカメラをロックするには、設定から機器管理機能を有効にしてください。</string>
 </resources>

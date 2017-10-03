@@ -222,7 +222,7 @@
     <!--storage-->
     <string name="storage_tile_label">存储</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">设置截图</string>
+    <string name="settings_shortcut_tile_label">设置快捷方式</string>
     <string name="settings_shortcut_tile_action_accessibility">辅助选项</string>
     <string name="settings_shortcut_tile_action_add_account">添加帐号</string>
     <string name="settings_shortcut_tile_action_apn">APN</string>

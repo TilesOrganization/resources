@@ -32,13 +32,13 @@
     <string name="settings_design_status_bar_icons_light">亮色图标</string>
     <string name="settings_design_status_bar_icons_dark">暗色图标</string>
     <!--advanced-->
-    <string name="settings_advanced">Advanced</string>
+    <string name="settings_advanced">高级</string>
     <string name="settings_restart_active_tiles_title">重启使用中的瓷贴</string>
     <string name="settings_restart_active_tiles_summary">强行停止使用中的瓷贴。如果某些瓷贴没有回应，而后被系统终止，请使用这个操作。</string>
     <string name="settings_restart_active_tiles_summary_processing">正在开始强行重启使用中的瓷贴</string>
     <string name="settings_scheduled_restart_tiles_title">定时重启</string>
     <!--UX-->
-    <string name="settings_permission">Permission</string>
+    <string name="settings_permission">权限</string>
     <string name="settings_phone_call_permission_title">通话权限</string>
     <string name="settings_location_permissions_preference_title">位置权限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系统设置权限</string>

@@ -300,7 +300,7 @@
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">已选快捷方式</string>
     <string name="settings_shortcuts_tile_summary_empty">未选择快捷方式</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已拒绝。瓷不允许拨打电话和执行直接拨号快捷方式</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">已拒绝。瓷贴不允许拨打电话和执行直接拨号快捷方式</string>
     <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">已授予。瓷贴允许拨打电话和执行直接拨号快捷方式</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">切换蓝牙状态</string>

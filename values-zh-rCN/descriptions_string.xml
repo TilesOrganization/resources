@@ -37,7 +37,7 @@
     <string name="description_media_volume_tile">为多媒体播放变更音频流音量的静音状态。</string>
     <string name="description_memory_tile">显示关于设备内存详情的常驻通知: 可用·已用·临界值·低内存。这个标题的标签会在通知进行时显示设备的可用内存。</string>
     <string name="description_mono_audio_tile">当播放音频时结合信道。</string>
-    <string name="description_monochromacy_tile">Simulate monochromacy模拟全色盲 (黑与白) 颜色空间\n需要写入安全设置权限才能使用这个瓷贴。</string>
+    <string name="description_monochromacy_tile">模拟全色盲 (黑与白) 颜色空间\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_multi_window_tile">Android Nougat 增加了对单个应用以上同时显示的支持: 两个应用可以一同运行或者分屏模式中单个应用在其他应用之上运行。必须启用辅助服务。</string>
     <string name="description_nfc_tile">Turn打开或关闭 NFC ，或者打开 NFC 设置。\n需要写入安全设置权限才能切换 NFC 状态。</string>
     <string name="description_notification_light_tile">打开或关闭呼吸灯。</string>

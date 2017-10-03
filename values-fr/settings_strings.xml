@@ -215,6 +215,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à basculer le mode immersif</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à basculer le mode immersif</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Changer le mode immersif</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Accordée. La tuile est autorisée à changer l\'état de l\'affichage en mode veille</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Refusée. La tuile n\'est pas autorisée à changer l\'état de l\'affichage en mode veille</string>

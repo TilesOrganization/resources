@@ -215,6 +215,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更全屏模式。</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更全屏模式。</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">變更全屏模式</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更環境顯示的使用狀態。</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更環境顯示的使用狀態。</string>

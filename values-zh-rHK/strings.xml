@@ -205,6 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">隱藏導航欄</string>
     <string name="immersive_mode_tile_hide_status_bar">隱藏狀態列</string>
     <string name="immersive_mode_tile_alert_dialog_message">要允許快速設定磚變更全屏模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">環境顯示</string>
     <string name="ambient_display_tile_alert_dialog_message">要允許快速設定磚變更環境顯示的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>

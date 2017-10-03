@@ -205,6 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Navigációs sáv elrejtése</string>
     <string name="immersive_mode_tile_hide_status_bar">Értesítési sáv elrejtése</string>
     <string name="immersive_mode_tile_alert_dialog_message">A kiterjesztett képernyő mód csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Környezeti kijelző</string>
     <string name="ambient_display_tile_alert_dialog_message">A környezeti kijelző csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>

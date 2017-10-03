@@ -216,6 +216,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način prikaza sučelja</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način prikaza sučelja</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Promijeni način prikaza sučelja</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>

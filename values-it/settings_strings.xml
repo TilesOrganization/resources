@@ -215,6 +215,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità immersiva</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità immersiva</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Cambia modalità immersiva</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Per evitare comportamenti inaspettati o ritardi nel risvegliare il dispositivo o quando si risponde a una telefonata mentre il dispositivo è in sospensione, per favore mantenere questa impostazione attivata.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare display ambient</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare display ambient</string>

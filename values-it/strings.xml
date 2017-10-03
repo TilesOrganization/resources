@@ -205,6 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Nascondi barra di navigazione</string>
     <string name="immersive_mode_tile_hide_status_bar">Nascondi barra di stato</string>
     <string name="immersive_mode_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità immersiva, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Modalità immersiva è attiva, si disattiva quando il dispositivo va in sospensione.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Display Ambient</string>
     <string name="ambient_display_tile_alert_dialog_message">Per permettere alla funzione di cambiare Display Ambient, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>

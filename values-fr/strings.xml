@@ -205,6 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Cacher la barre de navigation</string>
     <string name="immersive_mode_tile_hide_status_bar">Cacher la barre d\'état</string>
     <string name="immersive_mode_tile_alert_dialog_message">Pour permettre à la tuile de changer le mode immersif, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Affichage en mode veille</string>
     <string name="ambient_display_tile_alert_dialog_message">Pour permettre à la tuile de changer l\'affichage en mode veille, veuillez ouvrir les paramètres et accordez la permission d\'écrire les réglages sécurisés.</string>

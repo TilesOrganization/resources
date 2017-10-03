@@ -260,7 +260,7 @@
     <!--voice-->
     <string name="voice_tile_label">语音</string>
     <!--text-->
-    <string name="text_tile_label">文本</string>
+    <string name="text_tile_label">发短信</string>
     <string name="text_tile_empty_chat_text_field">未添加文本，请输入内容</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">数据漫游</string>

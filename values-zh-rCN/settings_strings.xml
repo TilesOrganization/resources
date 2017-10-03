@@ -89,7 +89,7 @@
         <item quantity="one">已选择 %d 款应用程序</item>
         <item quantity="other">已选择 %d 款应用程序</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">已选应用程序</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">视图模式</string>
     <string name="settings_application_tile_view_mode_list">列表</string>

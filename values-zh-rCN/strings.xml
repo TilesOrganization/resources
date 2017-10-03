@@ -205,7 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">隐藏导航栏</string>
     <string name="immersive_mode_tile_hide_status_bar">隐藏状态栏</string>
     <string name="immersive_mode_tile_alert_dialog_message">要允许瓷贴切换沉浸模式，请打开设置并授予写入安全设置权限。</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_foreground_service_message">沉浸模式使用中，当设备进入休眠时会停止使用。</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">环境显示</string>
     <string name="ambient_display_tile_alert_dialog_message">要允许瓷贴切换环境显示，请打开设置并授予写入安全设置权限。</string>

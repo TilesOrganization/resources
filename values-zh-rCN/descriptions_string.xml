@@ -42,7 +42,7 @@
     <string name="description_nfc_tile">Turn打开或关闭 NFC ，或者打开 NFC 设置。\n需要写入安全设置权限才能切换 NFC 状态。</string>
     <string name="description_notification_light_tile">打开或关闭呼吸灯。</string>
     <string name="description_orientation_lock_tile">锁定设备的屏幕方向: 0\u00B0、90\u00B0、180\u00B0、270\u00B0。要切换和锁定方向，瓷贴需要关闭自动旋转。\n需要修改系统设置才能使用这个瓷贴。</string>
-    <string name="description_power_tile">显示对话框用于关机·重启进入Recovery·重启进入Bootloader。要显示对话框，必须启用辅助服务。</string>
+    <string name="description_power_tile">显示对话框用于关机、重启进入Recovery、重启进入Bootloader。要显示对话框，必须启用辅助服务。</string>
     <string name="description_power_dialog_accessibility_tile">显示 Android 系统电源菜单用于关机或重新开机。必须启用辅助服务。</string>
     <string name="description_recents_screen_tile">显示最近屏幕，一个可列出最近访问的活动项和任务的系统级界面。必须启用辅助服务。</string>
     <string name="description_reminder_tile">显示常驻通知以快速添加提醒。通过轻按通知即可编辑或者删除提醒。</string>

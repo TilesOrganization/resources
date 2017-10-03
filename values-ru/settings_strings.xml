@@ -108,7 +108,7 @@
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может изменять уровень яркости</string>
     <string name="settings_brightness_tile_action_change_brightness">Изменить яркость</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Уровни яркости</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Высокий: %1$d%%\Средний: %2$d%%\nНизкий: %3$d%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Высокий: %1$d%%\nСредний: %2$d%%\nНизкий: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Открыть приложение телефона</string>
     <string name="settings_call_tile_action_make_call">Позвонить указанному контакту</string>
@@ -217,7 +217,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять полноэкранный режим</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять полноэкранный режим</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Полноэкранный режим</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Чтобы избежать некорректного поведения или задержки при пробуждении устройства или при получении телефонного вызова во время спящего режима, пожалуйста, оставьте эту опцию включенной.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может менять режим пробуждения экрана</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может менять режим пробуждения экрана</string>

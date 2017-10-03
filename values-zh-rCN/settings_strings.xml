@@ -267,7 +267,7 @@
     <string name="settings_multi_window_tile_accessibility_service_summary_off">已停用。瓷贴不允许开关多窗口</string>
     <string name="settings_multi_window_tile_accessibility_service_summary_on">已启用。瓷贴不允许开关多窗口</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。瓷贴不允许最近屏幕</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">已停用。瓷贴不允许显示最近屏幕</string>
     <string name="settings_recents_screen_tile_accessibility_service_summary_on">已启用。瓷贴允许显示最近屏幕</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">勿扰模式访问</string>

@@ -330,7 +330,7 @@
     <string name="settings_battery_details_tile_voltage">Напряжение</string>
     <string name="settings_battery_details_tile_technology">Тип батареи</string>
     <!--activities-->
-    <string name="settings_activities_tile_activity_label">активность</string>
+    <string name="settings_activities_tile_activity_label">Активность</string>
     <string name="settings_no_activity_selected">Нет выбранных активностей</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
         <item quantity="one">%d активность найдена</item>

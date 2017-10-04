@@ -46,7 +46,7 @@
     <string name="description_power_dialog_accessibility_tile">显示 Android 系统电源菜单用于关机或重新开机。必须启用辅助服务。</string>
     <string name="description_recents_screen_tile">显示最近屏幕，一个可列出最近访问的活动项和任务的系统级界面。必须启用辅助服务。</string>
     <string name="description_reminder_tile">显示常驻通知以快速添加提醒。通过轻按通知即可编辑或者删除提醒。</string>
-    <string name="description_ringer_mode_tile">设定设备的情景模式: 普通·振动或者勿扰模式。需要勿扰模式访问才能使用这个瓷贴。</string>
+    <string name="description_ringer_mode_tile">设定设备的情景模式: 普通、振动或者勿扰模式。需要勿扰模式访问才能使用这个瓷贴。</string>
     <string name="description_screenshot_tile">截取设备屏幕画面。\n需要写入外部存储权限才能使用这个瓷贴。</string>
     <string name="description_settings_shortcut_tile">打开 Android 的隐藏或者很难找到的设置。</string>
     <string name="description_shortcuts_tile">选择和设定快捷方式以在任何未来实现的应用程序中执行特定操作\n需要通话权限才能执行直接拨号快捷方式。</string>
@@ -62,7 +62,7 @@
     <string name="description_up_time_tile">显示设备运行时间的常驻通知。当通知进行时，这个标题的标签会显示设备的运行时间。</string>
     <string name="description_usb_debugging_tile">打开或关闭连接 USB 时的调试模式。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_vibrate_for_calls_tile">打开或关闭来电振动。\n需要修改系统设置权限才能使用这个瓷贴。</string>
-    <string name="description_vibrate_on_tap_tile">打开或关闭点击振动。\n需要修改系统设置权限才能使用这个瓷贴。</string>
+    <string name="description_vibrate_on_tap_tile">打开或关闭点击时振动。\n需要修改系统设置权限才能使用这个瓷贴。</string>
     <string name="description_voice_tile">使用语音操作以控制设备或者执行受支持的操作。</string>
     <string name="description_volumes_tile">控制设备的音量流: （在支持语音的设备上的)闹钟·媒体·铃声和通话音量。\n需要勿扰模式才能使用这个瓷贴。</string>
     <string name="description_vpn_tile">显示允许 VPN 配置的设置</string>

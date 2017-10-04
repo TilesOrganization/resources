@@ -328,6 +328,7 @@
     <string name="settings_battery_details_tile_voltage">Spannung</string>
     <string name="settings_battery_details_tile_technology">Technologie</string>
     <!--activities-->
+    <string name="settings_activities_tile_activity_label">Aktivität</string>
     <string name="settings_no_activity_selected">Keine Aktivität ausgewählt</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
         <item quantity="one">%d Aktivität gefunden</item>

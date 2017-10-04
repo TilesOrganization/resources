@@ -280,7 +280,7 @@
     <string name="density_tile_density_xxxhigh">XXXVisoka (xxxhdpi): ~640dpi</string>
     <string name="density_tile_density_custom">Prilagođena gustoća</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Budan dok je priključen na izvor napajanja</string>
+    <string name="awake_while_plugged_on_tile_label">Uređaj aktivan prilikom punjenja</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">Da biste pločici omogućili promjenu stanja uređaja dok je priključen na izvor napajanja, otvorite postavke i dozvolite izmjenu sigurnosnih postavki.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Omogućava aplikaciji dohvaćanje podataka iz servisa sustava. Dozvole s ovom razinom zaštite odobrene su samo aplikacijama sustava. Redovna aplikacija nikada neće moći upotrebljavati ta dopuštenja.</string>

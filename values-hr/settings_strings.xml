@@ -87,8 +87,8 @@
     <string name="settings_application_tile_single_app">Jedna aplikacija</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
         <item quantity="one">%d aplikacija odabrana</item>
-        <item quantity="other">%d aplikacija odabrano</item>
-        <item quantity="few">%d aplikacije odabrane</item>
+        <item quantity="other">%d aplikacije odabrane</item>
+        <item quantity="few">%d aplikacija odabrano</item>
     </plurals>
     <string name="settings_application_tile_selected_app">Odabrane aplikacije</string>
     <!-- applications list-->

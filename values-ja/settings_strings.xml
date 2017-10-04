@@ -215,14 +215,14 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">許可済み。タイルはフルスクリーンモードを変更できます。</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">未許可。タイルはフルスクリーンモードを変更できません。</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">フルスクリーンモードの変更</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">予期しない動作や端末の起動の遅れを防いだり、スリープ状態で着信に応答するには、この設定を有効にしておいてください。</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">許可済み。タイルはアンビエントディスプレイを変更できます。</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">未許可。タイルはアンビエントディスプレイを変更できません。</string>
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">許可済み。タイルはアニメーションを変更できます。</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">未許可。タイルはアニメーションを変更できません。</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_show_milliseconds">ミリ秒を表示</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">アラームを追加</string>
     <string name="settings_alarm_tile_action_show_alarms">アラームを表示</string>

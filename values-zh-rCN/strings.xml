@@ -111,7 +111,7 @@
     <string name="ringer_mode_tile_label_vibrate">振动</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允许瓷贴切换情景模式，请打开设置并允许勿扰模式访问。</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">咖啡因</string>
+    <string name="caffeine_tile_label">保持亮屏</string>
     <string name="caffeine_tile_service_notification_title">服务正在运行</string>
     <string name="caffeine_tile_service_notification_content_text">设备不会进入休眠。轻按即可停止服务。</string>
     <!--streetview-->

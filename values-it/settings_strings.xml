@@ -78,6 +78,9 @@
     <string name="settings_stop_on_sleep_title">Arresta quando sospeso</string>
     <string name="settings_stop_on_sleep_summary_on">Arresta servizio quando il dispositivo entra in sospensione</string>
     <string name="settings_stop_on_sleep_summary_off">Lascia servizio in esecuzione quando il dispositivo entra in sospensione</string>
+    <string name="settings_stay_awake">Rimani attivo</string>
+    <string name="settings_stay_awake_summary_on">Tieni il dispositivo attivo</string>
+    <string name="settings_stay_awake_summary_off">Lascia andare in sospensione il dispositivo</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione non ha l\'autorizzazione a cambiare la modalità luminosità</string>

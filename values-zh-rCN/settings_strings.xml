@@ -78,6 +78,9 @@
     <string name="settings_stop_on_sleep_title">休眠时停止</string>
     <string name="settings_stop_on_sleep_summary_on">当设备进入休眠时停止服务</string>
     <string name="settings_stop_on_sleep_summary_off">当设备进入休眠时服务保持运行</string>
+    <string name="settings_stay_awake">Stay awake</string>
+    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
+    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已拒绝。瓷贴不允许切换亮度模式</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许切换亮度模式</string>

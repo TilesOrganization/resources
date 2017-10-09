@@ -78,6 +78,9 @@
     <string name="settings_stop_on_sleep_title">Zastaviť po uspaní</string>
     <string name="settings_stop_on_sleep_summary_on">Zastaviť službu keď sa zariadenie uspí</string>
     <string name="settings_stop_on_sleep_summary_off">Ponechať službu spustenú aj po uspaní zariadenia</string>
+    <string name="settings_stay_awake">Stay awake</string>
+    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
+    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Zakázané. Dlaždica nemôže upravovať režim jasu</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Povolené. Dlaždica môže upravovať režim jasu</string>

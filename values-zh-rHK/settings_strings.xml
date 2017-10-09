@@ -78,6 +78,9 @@
     <string name="settings_stop_on_sleep_title">休眠時停止</string>
     <string name="settings_stop_on_sleep_summary_on">裝置休眠時停止服務</string>
     <string name="settings_stop_on_sleep_summary_off">裝置休眠時仍維持服務開啟</string>
+    <string name="settings_stay_awake">Stay awake</string>
+    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
+    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">已禁止。此快速設定磚禁止使用自動亮度模式</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許使用自動亮度模式</string>

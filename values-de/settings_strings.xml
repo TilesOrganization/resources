@@ -78,9 +78,9 @@
     <string name="settings_stop_on_sleep_title">Stop während dem Schlaf</string>
     <string name="settings_stop_on_sleep_summary_on">Stoppt den Dienst wenn das Gerät schlafen geht</string>
     <string name="settings_stop_on_sleep_summary_off">Dienst läuft weiter wenn das Gerät schlafen geht</string>
-    <string name="settings_stay_awake">Stay awake</string>
-    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
-    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <string name="settings_stay_awake">Aktiv lassen</string>
+    <string name="settings_stay_awake_summary_on">Das Gerät wird aktiv gehalten</string>
+    <string name="settings_stay_awake_summary_off">Das Gerät wird in den Ruhezustand versetzt</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Verweigert. Die Kachel darf nicht die Helligkeit ändern</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Gewährt. Die Kachel darf die Helligkeit ändern</string>

@@ -78,9 +78,9 @@
     <string name="settings_stop_on_sleep_title">Zaustavi na mirovanju</string>
     <string name="settings_stop_on_sleep_summary_on">Zaustavi uslugu kada uređaj prijeđe u stanje mirovanja</string>
     <string name="settings_stop_on_sleep_summary_off">Ostavi uslugu pokrenutu kada uređaj prijeđe u stanje mirovanja</string>
-    <string name="settings_stay_awake">Stay awake</string>
-    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
-    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <string name="settings_stay_awake">Ostani budan</string>
+    <string name="settings_stay_awake_summary_on">Drži uređaj budnim</string>
+    <string name="settings_stay_awake_summary_off">Dozvoli da uređaj prijeđe u stanje mirovanja</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način svjetline</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način svjetline</string>

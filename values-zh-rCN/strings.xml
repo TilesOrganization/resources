@@ -283,8 +283,8 @@
     <string name="awake_while_plugged_on_tile_label">插入电源时唤醒</string>
     <string name="awake_while_plugged_in_tile_alert_dialog_message">要允许瓷贴切换插入电源时的唤醒状态，请打开设置并授予写入安全设置权限。</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">允许应用程序从系统服务中检索状态转储信息。这个保护级别的权限仅能授予系统应用。如果应用普通非系统应用，将永远无法使用这些权限。</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles 已授予交互命令的超级用户权限。你是否要使用超级用户交互命令以编程方式授予 %s 转储权限?</string>
+    <string name="dump_permission_dialog_message_about">允许应用程序从系统服务中检索状态转储信息。这个保护级别的权限仅能授予系统应用。如果应用为普通非系统应用，将永远无法使用这些权限。</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles 已授予交互命令的超级用户权限。你是否要使用超级用户交互命令以编程方式 %s 转储权限?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">要手动授予 %1$s 权限，连接你的设备至电脑并运行如下adb命令: adb shell pm %2$s %3$s android.permission.DUMP</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">演示模式</string>

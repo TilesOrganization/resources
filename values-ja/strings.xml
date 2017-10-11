@@ -182,7 +182,7 @@
     <string name="location_tile_label_sensors_only">GPSのみ</string>
     <string name="location_tile_label_high_accuracy">高精度</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsには、アプリが読み込むができて書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。ユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Secure system settingsには、アプリが読み込むことができて書き込めないシステム設定が含まれています。この保護レベルの権限はシステムアプリにのみ与えられます。ユーザーアプリの場合、これらのアクセス権は決して使用できません。</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tilesには、対話シェルのSuperuser権限が付与されています。Superuserの対話シェルを使用してWRITE_SECURE_SETTINGSの権限を%sしますか？</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">手動で権限を%1$sには、端末をPCに接続し次のadbコマンドを実行してください： adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_dialog_message_grant">付与</string>

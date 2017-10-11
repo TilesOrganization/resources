@@ -76,9 +76,9 @@
     <string name="settings_tile_action_start_service_and_collapse">クイック設定パネルを隠してサービスを開始</string>
     <string name="settings_tile_action_start_service_without_collapsing">クイック設定パネルを隠さずにサービスを開始</string>
     <string name="settings_stop_on_sleep_title">スリープで停止</string>
-    <string name="settings_stop_on_sleep_summary_on">端末がスリープしたらサービスを停止。</string>
-    <string name="settings_stop_on_sleep_summary_off">端末がスリープしてもサービスを継続。</string>
-    <string name="settings_stay_awake">スリープの設定</string>
+    <string name="settings_stop_on_sleep_summary_on">端末がスリープしたらサービスを停止</string>
+    <string name="settings_stop_on_sleep_summary_off">端末がスリープしてもサービスを継続</string>
+    <string name="settings_stay_awake">スリープにしない</string>
     <string name="settings_stay_awake_summary_on">端末をスリープさせない。</string>
     <string name="settings_stay_awake_summary_off">端末をスリープさせる。</string>
     <!--adaptive brightness-->

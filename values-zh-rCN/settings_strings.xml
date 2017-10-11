@@ -345,8 +345,8 @@
     <!--counter-->
     <string name="settings_counter_tile_reset_value">重置数值</string>
     <string name="settings_counter_tile_current_value">当前值</string>
-    <string name="settings_counter_tile_action_addition">加法</string>
-    <string name="settings_counter_tile_action_subtraction">减法</string>
+    <string name="settings_counter_tile_action_addition">加</string>
+    <string name="settings_counter_tile_action_subtraction">减</string>
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">已激活。瓷贴允许锁定相机</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">未激活。瓷贴不允许锁定相机</string>

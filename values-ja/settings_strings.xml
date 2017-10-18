@@ -34,8 +34,8 @@
     <!--advanced-->
     <string name="settings_advanced">高度な設定</string>
     <string name="settings_restart_active_tiles_title">アクティブなタイルを再起動</string>
-    <string name="settings_restart_active_tiles_summary">アクティブなタイルを強制再起動します。システムによって終了された後、タイルが正しく動作しない場合に実行してください。</string>
-    <string name="settings_restart_active_tiles_summary_processing">タイルの強制再起動中</string>
+    <string name="settings_restart_active_tiles_summary">アクティブなタイルを強制的に再起動します。システムによって終了された後、タイルが正しく動作しない場合のみ実行してください。</string>
+    <string name="settings_restart_active_tiles_summary_processing">タイルを再起動しています…</string>
     <string name="settings_scheduled_restart_tiles_title">再起動のスケジュール</string>
     <!--UX-->
     <string name="settings_permission">権限</string>

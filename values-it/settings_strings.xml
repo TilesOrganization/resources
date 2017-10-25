@@ -16,6 +16,21 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme_deep_orange_light">Arancione profondo - Light</string>
+    <string name="settings_theme_deep_orange_dark">Arancione profondo - Dark</string>
+    <string name="settings_theme_deep_orange_black">Arancione profondo - Black</string>
+    <string name="settings_theme_deep_purple_light">Viola profondo - Light</string>
+    <string name="settings_theme_deep_purple_dark">Viola profondo - Dark</string>
+    <string name="settings_theme_deep_purple_black">Viola profondo - Black</string>
+    <string name="settings_theme_red_light">Rosso - Light</string>
+    <string name="settings_theme_red_dark">Rosso - Dark</string>
+    <string name="settings_theme_red_black">Rosso - Black</string>
+    <string name="settings_theme_teal_light">Foglia di tè  - Light</string>
+    <string name="settings_theme_teal_dark">Foglia di tè - Dark</string>
+    <string name="settings_theme_teal_black">Foglia di tè - Black</string>
+    <string name="settings_description">Descrizione</string>
+    <string name="settings_add_star">Aggiungi star</string>
+    <string name="settings_remove_star">Rimuovi star</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Tinta barra di navigazione</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nessuna tinta</string>

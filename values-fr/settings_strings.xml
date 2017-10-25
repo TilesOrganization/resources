@@ -16,6 +16,21 @@
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_theme_black">Black</string>
     <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
+    <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
+    <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
+    <string name="settings_theme_deep_purple_light">Deep purple - Light</string>
+    <string name="settings_theme_deep_purple_dark">Deep purple - Dark</string>
+    <string name="settings_theme_deep_purple_black">Deep purple - Black</string>
+    <string name="settings_theme_red_light">Red - Light</string>
+    <string name="settings_theme_red_dark">Red - Dark</string>
+    <string name="settings_theme_red_black">Red - Black</string>
+    <string name="settings_theme_teal_light">Teal - Light</string>
+    <string name="settings_theme_teal_dark">Teal - Dark</string>
+    <string name="settings_theme_teal_black">Teal - Black</string>
+    <string name="settings_description">Description</string>
+    <string name="settings_add_star">Add star</string>
+    <string name="settings_remove_star">Remove star</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Teinte de la barre de navigation</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Aucune teinte</string>

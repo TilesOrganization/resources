@@ -36,12 +36,12 @@
     <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">Cor escura primária</string>
     <string name="settings_design_navigation_bar_tint_primary">Cor primária</string>
-    <string name="settings_design_navigation_bar_tint_accent">Cor do accent</string>
+    <string name="settings_design_navigation_bar_tint_accent">Cor de destaque</string>
     <!--design status bar tint-->
     <string name="settings_design_status_bar_tint_title">Cor da Barra de status</string>
     <string name="settings_design_status_bar_tint_primary_dark">Cor escura primária</string>
     <string name="settings_design_status_bar_tint_primary">Cor primária</string>
-    <string name="settings_design_status_bar_tint_accent">Cor do accent</string>
+    <string name="settings_design_status_bar_tint_accent">Cor de destaque</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">Ícones da Barra de status</string>
     <string name="settings_design_status_bar_icons_light">Ícones claros</string>
@@ -233,7 +233,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo imersivo</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Alterar modo imersivo</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Para evitar comportamentos ou atrasos inesperados ao despertar o dispositivo ou quando for atender uma chamada enquanto o dispositivo está hibernado, mantenha essa opção ativada.</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar a exibição de ambiente</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar a exibição de ambiente</string>

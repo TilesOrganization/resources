@@ -205,7 +205,7 @@
     <string name="immersive_mode_tile_hide_navigation_bar">Esconder barra de navegação</string>
     <string name="immersive_mode_tile_hide_status_bar">Esconder barra de status</string>
     <string name="immersive_mode_tile_alert_dialog_message">Para permitir que o bloco altere o modo imersivo, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_foreground_service_message">O modo imersivo está ativado, ele será desativado quando o dispositivo hibernar.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Exibição de ambiente</string>
     <string name="ambient_display_tile_alert_dialog_message">Para permitir que o bloco altere a exibição de ambiente, abra as configurações e conceda a permissão para modificar configurações de segurança.</string>
@@ -411,9 +411,9 @@
     <string name="battery_details_tile_ac">CA</string>
     <string name="battery_details_tile_wireless">Wireless</string>
     <string name="battery_details_tile_formatted_health">Saúde: %s</string>
-    <string name="battery_details_tile_health_cold">Frio</string>
-    <string name="battery_details_tile_health_dead">Morto</string>
-    <string name="battery_details_tile_health_good">Bom</string>
+    <string name="battery_details_tile_health_cold">Fria</string>
+    <string name="battery_details_tile_health_dead">Descarregada</string>
+    <string name="battery_details_tile_health_good">Boa</string>
     <string name="battery_details_tile_health_over_voltage">Sobretensão</string>
     <string name="battery_details_tile_health_overheat">Superaquecimento</string>
     <string name="battery_details_tile_unknown">Desconhecido</string>

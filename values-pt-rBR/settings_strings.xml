@@ -16,21 +16,21 @@
     <string name="settings_theme_dark">Escuro</string>
     <string name="settings_theme_black">Preto</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
-    <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
-    <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
-    <string name="settings_theme_deep_purple_light">Deep purple - Light</string>
-    <string name="settings_theme_deep_purple_dark">Deep purple - Dark</string>
-    <string name="settings_theme_deep_purple_black">Deep purple - Black</string>
-    <string name="settings_theme_red_light">Red - Light</string>
-    <string name="settings_theme_red_dark">Red - Dark</string>
-    <string name="settings_theme_red_black">Red - Black</string>
-    <string name="settings_theme_teal_light">Teal - Light</string>
-    <string name="settings_theme_teal_dark">Teal - Dark</string>
-    <string name="settings_theme_teal_black">Teal - Black</string>
-    <string name="settings_description">Description</string>
-    <string name="settings_add_star">Add star</string>
-    <string name="settings_remove_star">Remove star</string>
+    <string name="settings_theme_deep_orange_light">Deep orange - Claro</string>
+    <string name="settings_theme_deep_orange_dark">Deep orange - Escuro</string>
+    <string name="settings_theme_deep_orange_black">Deep orange - Preto</string>
+    <string name="settings_theme_deep_purple_light">Deep purple - Claro</string>
+    <string name="settings_theme_deep_purple_dark">Deep purple - Escuro</string>
+    <string name="settings_theme_deep_purple_black">Deep purple - Preto</string>
+    <string name="settings_theme_red_light">Vermelho - Claro</string>
+    <string name="settings_theme_red_dark">Vermelho - Escuro</string>
+    <string name="settings_theme_red_black">Vermelho - Preto</string>
+    <string name="settings_theme_teal_light">Teal - Claro</string>
+    <string name="settings_theme_teal_dark">Teal - Escuro</string>
+    <string name="settings_theme_teal_black">Teal - Preto</string>
+    <string name="settings_description">Descrição</string>
+    <string name="settings_add_star">Adicionar favorito</string>
+    <string name="settings_remove_star">Remover favorito</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Cor da Barra de navegação</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Sem cor</string>
@@ -93,9 +93,9 @@
     <string name="settings_stop_on_sleep_title">Parar ao dormir</string>
     <string name="settings_stop_on_sleep_summary_on">Parar o serviço quando o dispositivo hibernar</string>
     <string name="settings_stop_on_sleep_summary_off">Deixar o serviço em funcionamento quando o dispositivo hibernar</string>
-    <string name="settings_stay_awake">Stay awake</string>
-    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
-    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <string name="settings_stay_awake">Manter acordado</string>
+    <string name="settings_stay_awake_summary_on">Manter o dispositivo acordado</string>
+    <string name="settings_stay_awake_summary_off">Manter o dispositivo hibernado</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Negado. O bloco não foi permitido mudar o modo do brilho</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Permitido. O bloco foi permitido mudar o modo do brilho</string>
@@ -358,10 +358,10 @@
     <string name="settings_memory_tile_threshold">Limite</string>
     <string name="settings_memory_tile_low_memory">Pouca memória</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">Restaurar valor</string>
+    <string name="settings_counter_tile_current_value">Valor atual</string>
+    <string name="settings_counter_tile_action_addition">Adição</string>
+    <string name="settings_counter_tile_action_subtraction">Subtração</string>
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">Ativado. O bloco está permitido bloquear a câmera</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">Desativado. O bloco não está permitido bloquear a câmera</string>

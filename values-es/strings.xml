@@ -35,6 +35,11 @@
     <string name="stop">Stop</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
+    <string name="filter">Filter</string>
+    <string name="description">Description</string>
+    <string name="all">All</string>
+    <string name="starred">Starred</string>
+    <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
     <!--device administrator-->
     <string name="device_admin_activated">Administrador de dispositivos activado</string>
     <string name="device_admin_deactivated">Administrador de dispositivos desactivado</string>
@@ -448,4 +453,11 @@
     <!--camera lock-->
     <string name="camera_lock_tile_label">Camera lock</string>
     <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <!--network traffic-->
+    <string name="network_traffic_tile_label">Network traffic</string>
+    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
 </resources>

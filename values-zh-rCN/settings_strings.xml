@@ -365,4 +365,9 @@
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">已激活。瓷贴允许锁定相机</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">未激活。瓷贴不允许锁定相机</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Total received</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
 </resources>

@@ -35,6 +35,11 @@
     <string name="stop">Arresta</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Centigradi</string>
+    <string name="filter">Filtro</string>
+    <string name="description">Descrizione</string>
+    <string name="all">Tutte</string>
+    <string name="starred">Starred</string>
+    <string name="empty_starred_tiles_database_alert_message">Nessuna funzione starred trovata.</string>
     <!--device administrator-->
     <string name="device_admin_activated">Amministratore dispositivo attivato</string>
     <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>
@@ -448,4 +453,11 @@
     <!--camera lock-->
     <string name="camera_lock_tile_label">Blocco camera</string>
     <string name="camera_lock_tile_alert_dialog_message">Per permettere alla funzione di bloccare la camera, per favore aprire le impostazioni e attivarlo come amministratore dispositivo.</string>
+    <!--network traffic-->
+    <string name="network_traffic_tile_label">Traffico network</string>
+    <string name="network_traffic_tile_formatted_total_received">Totale ricevuti: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Totale trasmessi: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Mobile ricevuti: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile trasmessi: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
 </resources>

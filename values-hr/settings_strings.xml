@@ -198,7 +198,7 @@
     <string name="settings_calendar_tile_action_add">Dodavanje događaja</string>
     <!--location mode-->
     <string name="settings_location_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način lokacije</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>r
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>
     <string name="settings_location_tile_action_change_location_mode">Promijeni način lokacije</string>
     <!--sleep timeout-->
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
@@ -367,4 +367,9 @@
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">Omogućeno. Pločici je dozvoljeno zaključati kameru</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">Onemogućeno. Pločici nije dozvoljeno zaključati kameru</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Total received</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
 </resources>

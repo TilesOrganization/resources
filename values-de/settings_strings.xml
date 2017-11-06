@@ -365,4 +365,9 @@
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">Gewährt. Die Kachel darf den Zugriff auf die Kameras verbieten</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">Verweigert. Die Kachel darf den Zugriff auf die Kameras nicht verbieten</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Total received</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
 </resources>

@@ -39,6 +39,7 @@
     <string name="description_mono_audio_tile">Pri prehrávaní zvuku zlúčiť kanály.</string>
     <string name="description_monochromacy_tile">Simulate monochromacy (black &amp; white) color space.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_multi_window_tile">Android Nougat adds support to display more than one app at the same time: two apps can run side-by-side or one above the other in split-screen mode. The accessibility service must be enabled.</string>
+    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">Turn NFC on or off, or open NFC settings. \nWrite secure settings permission is required to change NFC state.</string>
     <string name="description_notification_light_tile">Turn notification light on or off.</string>
     <string name="description_orientation_lock_tile">Lock the orientation of the device: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. To change and lock orientation, the tile needs to turn auto-rotate off.\nModify system settings permission is required to use this tile.</string>

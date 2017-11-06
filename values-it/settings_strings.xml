@@ -365,4 +365,9 @@
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">Attivato. La funzione ha l\'autorizzazione a bloccare la camera</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">Disattivato. La funzione non ha l\'autorizzazione a bloccare la camera</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Totale ricevuti</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Totale trasmessi</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile ricevuti</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile trasmessi</string>
 </resources>

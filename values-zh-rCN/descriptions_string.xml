@@ -39,6 +39,7 @@
     <string name="description_mono_audio_tile">当播放音频时结合信道。</string>
     <string name="description_monochromacy_tile">模拟全色盲 (黑与白) 颜色空间\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_multi_window_tile">Android Nougat 增加了对单个应用以上同时显示的支持: 两个应用可以一同运行或者分屏模式中单个应用在其他应用之上运行。必须启用辅助服务。</string>
+    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">打开或关闭 NFC ，或者打开 NFC 设置。\n需要写入安全设置权限才能切换 NFC 状态。</string>
     <string name="description_notification_light_tile">打开或关闭呼吸灯。</string>
     <string name="description_orientation_lock_tile">锁定设备的屏幕方向: 0\u00B0、90\u00B0、180\u00B0、270\u00B0。要切换和锁定方向，瓷贴需要关闭自动旋转。\n需要修改系统设置才能使用这个瓷贴。</string>

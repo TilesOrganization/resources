@@ -39,6 +39,7 @@
     <string name="description_mono_audio_tile">Kombiniranje kanala prilikom reprodukcije zvuka.</string>
     <string name="description_monochromacy_tile">Simuliraj monokromatske boje (crno i bijelo).\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_multi_window_tile">Android Nougat dodaje podršku za istodobno prikazivanje više aplikacija: dvije aplikacije mogu se prikazivati jedna uz drugu ili jedna iznad druge u načinu podijeljenog zaslona. Usluga pristupačnosti mora biti omogućena.</string>
+    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">Uključite ili isključite NFC ili otvorite NFC postavke.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli mijenjati stanje NFC-a.</string>
     <string name="description_notification_light_tile">Uključite ili isključite svijetlo obavijesti.</string>
     <string name="description_orientation_lock_tile">Zaključajte orijentaciju zaslona: 0, 90, 180, 270. Da biste promijenili i zaključali orijentaciju, pločica mora isključiti automatsko zakretanje zaslona.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>

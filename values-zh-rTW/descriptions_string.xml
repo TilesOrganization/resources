@@ -39,6 +39,7 @@
     <string name="description_mono_audio_tile">播放音訊時合併聲道</string>
     <string name="description_monochromacy_tile">模擬單色（黑白）色彩空間。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_multi_window_tile">Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的協助工具服務。</string>
+    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_notification_light_tile">開啟或關閉通知提示燈。</string>
     <string name="description_orientation_lock_tile">鎖定螢幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>

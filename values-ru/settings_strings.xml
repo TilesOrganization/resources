@@ -369,4 +369,9 @@
     <!--camera lock-->
     <string name="settings_camera_lock_tile_device_admin_summary_on">Активировано. Плитке позволено блокировать камеру</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">Деактивировано. Плитке не позволено блокировать камеру</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Total received</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
 </resources>

@@ -39,6 +39,7 @@
     <string name="description_mono_audio_tile">音声再生時のチャンネルを統合します".</string>
     <string name="description_monochromacy_tile">画面をモノクロ (白黒) 表示にします。\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_multi_window_tile">Android Nougat以降では分割画面がサポートされています。： 2つのアプリを上下/左右に並べて表示できます。このタイルを利用するには、ユーザー補助サービスを有効にする必要があります。</string>
+    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">Turn NFC on or off, or open NFC settings.\nWrite secure settings permission is required to change NFC state.</string>
     <string name="description_notification_light_tile">通知LEDのを切り替えます。</string>
     <string name="description_orientation_lock_tile">Lock the orientation of the device: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. To change and lock orientation, the tile needs to turn auto-rotate off.\nModify system settings permission is required to use this tile.</string>

@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Nešto je pošlo po zlu. Molim te pokušaj ponovno</string>
     <string name="location_off_alert_dialog_message">Lokacija je isključena. Da biste dopustili da pločica dobije trenutačnu lokaciju, otvorite postavke i omogućite lokaciju.</string>
-    <string name="location_device_only_alert_dialog_message">Način lokacije je "Samo uređaj". Za brži i točniji rezultat, otvorite postavke i omogućite drugi način lokacije.</string>
+    <string name="location_device_only_alert_dialog_message">Način lokacije je "Samo uređaj". Za brži i točniji rezultat, otvorite postavke i omogućite drugačiji način dobivanja lokacije.</string>
     <string name="resolve_activity_alert_dialog_message">Nije pronađena nijedna aplikacija za izvođenje ove radnje.</string>
     <string name="start_activity_can_not_be_started_alert_dialog_message">Aktivnost ne može biti započeta.</string>
     <string name="su_alert_dialog_message">Da biste izvršili takvu radnju, dodijelite superuser prava za interaktivnu ljusku.</string>
@@ -259,7 +259,7 @@
     <string name="settings_shortcut_tile_action_vpn">VPN</string>
     <string name="settings_shortcut_tile_action_vr_listener">VR pomoćne usluge</string>
     <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
-    <string name="settings_shortcut_tile_action_wireless">Bežićno &amp; mreže</string>
+    <string name="settings_shortcut_tile_action_wireless">Bežično &amp; mreže</string>
     <!--font size-->
     <string name="font_size_tile_label">Veličina fonta</string>
     <string name="font_size_tile_alert_dialog_message">Da biste pločici omogućili promjenu veličine fonta, otvorite postavke i odobrite izmjenu postavki sustava.</string>
@@ -406,7 +406,7 @@
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Monoaudio</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Svjetlo obavijesti</string>
+    <string name="notification_light_tile_label">Svijetlo obavijesti</string>
     <!--battery details-->
     <string name="battery_details_tile_label">Detalji baterije</string>
     <string name="battery_details_tile_formatted_battery_level">Razina baterije: %1d%%</string>
@@ -454,10 +454,10 @@
     <string name="camera_lock_tile_label">Zaključavanje kamere</string>
     <string name="camera_lock_tile_alert_dialog_message">Da biste pločici omogućili zaključavanje kamere, otvorite postavke i aktivirajte je kao administrator uređaja.</string>
     <!--network traffic-->
-    <string name="network_traffic_tile_label">Network traffic</string>
-    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
-    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <string name="network_traffic_tile_label">Mrežni promet</string>
+    <string name="network_traffic_tile_formatted_total_received">Ukupno primljeno: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Ukupno poslano: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Mobilni podaci primljeno: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobilni podaci poslano: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Preuzimanje: %1s/s - Prijenos: %2s/s</string>
 </resources>

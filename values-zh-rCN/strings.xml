@@ -35,11 +35,11 @@
     <string name="stop">停止</string>
     <string name="fahrenheit">华氏度</string>
     <string name="celsius">摄氏度</string>
-    <string name="filter">Filter</string>
-    <string name="description">Description</string>
-    <string name="all">All</string>
-    <string name="starred">Starred</string>
-    <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
+    <string name="filter">筛选</string>
+    <string name="description">描述</string>
+    <string name="all">全部</string>
+    <string name="starred">星标</string>
+    <string name="empty_starred_tiles_database_alert_message">未发现星标瓷贴。</string>
     <!--device administrator-->
     <string name="device_admin_activated">设备管理器已激活</string>
     <string name="device_admin_deactivated">设备管理器未激活</string>
@@ -454,10 +454,10 @@
     <string name="camera_lock_tile_label">相机锁</string>
     <string name="camera_lock_tile_alert_dialog_message">要允许瓷贴锁定相机，请打开设置并将其激活为设备管理器。</string>
     <!--network traffic-->
-    <string name="network_traffic_tile_label">Network traffic</string>
-    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
-    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <string name="network_traffic_tile_label">网络流量</string>
+    <string name="network_traffic_tile_formatted_total_received">总接收: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">总传输: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">移动接收: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">移动传输: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">下载: %1s/s - 上传: %2s/s</string>
 </resources>

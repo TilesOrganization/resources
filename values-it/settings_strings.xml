@@ -58,8 +58,13 @@
     <string name="settings_location_permissions_preference_title">Autorizzazione posizione</string>
     <string name="settings_modify_system_settings_permissions_title">Autorizzazione modifica impostazioni di sistema</string>
     <string name="settings_feedback">Feedback &amp; Supporto</string>
-    <string name="settings_privacy_policy">Norme sulla privacy</string>
+    <string name="settings_privacy_policy">Politica sulla riservatezza</string>
     <string name="settings_wiki">Wiki</string>
+    <string name="settings_wiki_device_administrator">Amministratore dispositivo</string>
+    <string name="settings_wiki_accessibility_service">Servizio accessibilità</string>
+    <string name="settings_wiki_how_to_add_tiles">Come aggiungere funzioni rapide</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">Come abilitare funzioni rapide nascoste</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Come usare ADB per concedere autorizzazioni</string>
     <string name="settings_rate_or_review">Valuta o scrivi una recensione</string>
     <string name="settings_support_title">Grazie per il tuo supporto!</string>
     <string name="settings_send_email">Spedisci e-mail</string>
@@ -67,7 +72,7 @@
     <string name="settings_credit">Credit</string>
     <string name="settings_credit_app_icon">Icona dell\'applicazione</string>
     <string name="settings_translations">Traduzioni</string>
-    <string name="settings_translations_thanks">Se vuoi aiutare a tradurre l\'applicazione nella tua lingua, per favore contattami: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_thanks">Se vuoi aiutare a tradurre l\'applicazione nella tua lingua, per favore contattami: rascarlo@gmail.com.\nGrazie!</string>
     <string name="settings_translations_locale_de">Tedesco</string>
     <string name="settings_translations_locale_pt_rBR">Portoghese, Brasile</string>
     <string name="settings_translations_locale_nl">Olandese</string>

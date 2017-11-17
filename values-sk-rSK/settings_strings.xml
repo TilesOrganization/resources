@@ -60,6 +60,11 @@
     <string name="settings_feedback">Spätná väzba a podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobných údajov</string>
     <string name="settings_wiki">Wiki</string>
+    <string name="settings_wiki_device_administrator">Device administrator</string>
+    <string name="settings_wiki_accessibility_service">Accessibility service</string>
+    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
     <string name="settings_rate_or_review">Ohodnoťte alebo napíšte komentár k aplikácii</string>
     <string name="settings_support_title">Ďakujeme za vašu podporu!</string>
     <string name="settings_send_email">Poslať e-mail</string>

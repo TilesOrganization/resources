@@ -60,6 +60,11 @@
     <string name="settings_feedback">Feedback &amp; Soporte</string>
     <string name="settings_privacy_policy">Política de privacidad</string>
     <string name="settings_wiki">Wiki</string>
+    <string name="settings_wiki_device_administrator">Device administrator</string>
+    <string name="settings_wiki_accessibility_service">Accessibility service</string>
+    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
     <string name="settings_rate_or_review">Puntua o deja una opinión sobre la aplicación</string>
     <string name="settings_support_title">¡Gracias por apoyar el proyecto!</string>
     <string name="settings_send_email">Enviar un email</string>

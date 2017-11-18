@@ -30,7 +30,7 @@
     <string name="settings_theme_teal_black">Modrozelena - Crno</string>
     <string name="settings_description">Opis</string>
     <string name="settings_add_star">Dodaj zvjezdicu</string>
-    <string name="settings_remove_star">Dodaj zvjezdicu</string>
+    <string name="settings_remove_star">Ukloni zvjezdicu</string>
     <!--navigation status bar tint-->
     <string name="settings_design_navigation_bar_tint_title">Boja navigacijske trake</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Nema boje</string>
@@ -49,7 +49,7 @@
     <!--advanced-->
     <string name="settings_advanced">Napredno</string>
     <string name="settings_restart_active_tiles_title">Ponovo pokreni aktivne pločice</string>
-    <string name="settings_restart_active_tiles_summary">Prisilno ponovno pokreni aktivne pločice. Koristite ovu akciju ako neke pločice ne reagiraju, nakon što ih je sustav ubio</string>
+    <string name="settings_restart_active_tiles_summary">Prisilno ponovno pokreni aktivne pločice. Koristite ovu akciju ako neke pločice ne reagiraju, nakon što ih je sustav prisilno zatvorio</string>
     <string name="settings_restart_active_tiles_summary_processing">Obrada prisilnog ponovnog pokretanja aktivnih pločica</string>
     <string name="settings_scheduled_restart_tiles_title">Planirano ponovno pokretanje</string>
     <!--UX-->
@@ -60,11 +60,11 @@
     <string name="settings_feedback">Povratne informacije &amp; Podrška</string>
     <string name="settings_privacy_policy">Pravila o privatnosti</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_wiki_device_administrator">Device administrator</string>
-    <string name="settings_wiki_accessibility_service">Accessibility service</string>
-    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
-    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
-    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
+    <string name="settings_wiki_device_administrator">Administrator uređaja</string>
+    <string name="settings_wiki_accessibility_service">Usluga pristupačnosti</string>
+    <string name="settings_wiki_how_to_add_tiles">Kako dodati pločice</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">Kako omogućiti skrivene pločice</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Kako koristiti ADB za dodjelu dopuštenja</string>
     <string name="settings_rate_or_review">Ocijenite ili recenzirajte aplikaciju</string>
     <string name="settings_support_title">Hvala na podršci!</string>
     <string name="settings_send_email">Pošalji e-mail</string>

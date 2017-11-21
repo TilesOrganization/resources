@@ -24,6 +24,7 @@
     <string name="description_data_roaming_tile">Veri dolaşımını açar veya kapatır. İzin gerektirir.</string>
     <string name="description_demo_mode_tile">Android Demo Moduna giriş yapar. Demo Modu, daha güzel ekran görüntüleri almak için durum çubuğunda iyileştirmeler yapan moddur. Bloğu kullanmak için izin gerekir.</string>
     <string name="description_density_tile">Ekranın yoğunluğunu değiştirir</string>
+    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
     <string name="description_email_tile">Hızlıca e-mail yazmak veya e-mail uygulamasını açmak için bir kişi belirle. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_font_size_tile">Cihazın yazı boyutunu değiştirir. Bloğu kullanabilmek için izin gerekir.</string>
     <string name="description_heads_up_notifications_tile">Bazı bildirimler ekranın üst kısmında küçük bir pencere halinde gözükür. Bu blok bu pencerinin oluşturulmasını önler. Video izlerken veya oyun oynarken vazgeçilmezdir.</string>

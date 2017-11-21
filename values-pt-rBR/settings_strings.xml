@@ -375,4 +375,7 @@
     <string name="settings_network_traffic_tile_total_transmitted">Total transmitido</string>
     <string name="settings_network_traffic_tile_mobile_received">Dados móveis recebidos</string>
     <string name="settings_network_traffic_tile_mobile_transmitted">Dados móveis transmitidos</string>
+    <!--dice-->
+    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
 </resources>

@@ -24,6 +24,7 @@
     <string name="description_data_roaming_tile">Turn data roaming on or off.\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission and dump permission are required to use this tile.</string>
     <string name="description_density_tile">Change the density of the screen.</string>
+    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
     <string name="description_email_tile">Choose a contact to quickly email or launch the email app. The action is compatible with third-party apps that can receive the Android default broadcast to compose and send emails.</string>
     <string name="description_font_size_tile">Change the font size the device shows.\nModify system settings permission is required to use this tile.</string>
     <string name="description_heads_up_notifications_tile">Some notifications may appear in a small floating window when the device is active. Turn it off to avoid disturbances; especially helpful for when watching a video or playing a game.\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>

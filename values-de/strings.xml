@@ -460,4 +460,6 @@
     <string name="network_traffic_tile_formatted_mobile_received">Über Mobilfunknetz empfangen: %s</string>
     <string name="network_traffic_tile_formatted_mobile_transmitted">Über Mobilfunknetz gesendet: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <!--dice-->
+    <string name="dice_tile_label">Dice</string>
 </resources>

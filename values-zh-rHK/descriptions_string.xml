@@ -24,6 +24,7 @@
     <string name="description_data_roaming_tile">「數據漫遊」，允許快速開啟或關閉數據漫遊。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_demo_mode_tile">「示範模式」，允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些屏幕截圖或演示需要。\n使用此快速設定磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">[顯示大小」，允許快速變更裝置屏幕的顯示大小。</string>
+    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
     <string name="description_email_tile">「電子郵件」，提供「發送電郵到指定聯絡人」及「開啟電郵應用程式」兩個功能。 此快速設定磚亦能支援其他第三方電郵應用程式。</string>
     <string name="description_font_size_tile">「字型大小」，允許快速變更裝置的字型大小。.\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_heads_up_notifications_tile">「浮動通知」，部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在屏幕上方以「浮動通知」形式顯示滑入通知，此快速設定磚可讓你開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>

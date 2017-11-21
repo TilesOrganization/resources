@@ -375,4 +375,7 @@
     <string name="settings_network_traffic_tile_total_transmitted">总传输</string>
     <string name="settings_network_traffic_tile_mobile_received">移动接收</string>
     <string name="settings_network_traffic_tile_mobile_transmitted">移动传输</string>
+    <!--dice-->
+    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
 </resources>

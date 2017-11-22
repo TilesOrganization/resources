@@ -461,5 +461,5 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">Mobilni podaci poslano: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Preuzimanje: %1s/s - Prijenos: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Kockice</string>
 </resources>

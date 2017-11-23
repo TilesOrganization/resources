@@ -31,7 +31,7 @@
     <string name="description_immersive_mode_tile">隐藏状态栏、导航栏或者同时隐藏以真正扩大系统界面。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_input_method_tile">显示输入法选择器或者打开输入法设置</string>
     <string name="description_invert_colors_tile">模拟颜色反转。\n需要写入安全设置权限才能使用这个瓷贴。</string>
-    <string name="description_keep_tile">如果有安装的话，打开一个对话框以在 Google 的原生 Keep app,应用中新增笔记。</string>
+    <string name="description_keep_tile">如果有安装的话，打开一个对话框以在 Google 的原生 Keep 应用中新增笔记。</string>
     <string name="description_location_tile">打开或关闭位置模式或者变更位置精确度。\n高精确度模式使用 GPS、Wi-Fi、蜂窝网络和其他传感器获取设备最高精确度的位置。使用 Google 的位置服务以帮助更快、更精确地判定位置。\n省电模式会使用低电量集中位置来源判定设备的位置，例如 Wi-Fi 和蜂窝网络。使用 Google 的位置服务来帮助更快、更精确地判定设备的位置。\n仅限设备模式只使用 GPS 判定设备的位置。不使用 Google 的位置服务来提供位置信息。这个模式可能会使用更多电量和更长时间来决定设备的位置。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_lock_tile">安全锁定设备。如果设定了屏幕锁 (密码、PIN码、图案, …)， 请遵循所提供的解锁步骤来解锁设备。必须激活设备管理器。</string>
     <string name="description_maps_tile">如果有安装的话，启动任何地图应用程序，显示设备的当前位置。此操作兼容于可接收 Android 默认广播的第三方应用程序以破解地理位置参数。这个瓷贴使用的是 Google 的 Awareness API 。\n需要位置权限才能使用这个瓷贴。</string>

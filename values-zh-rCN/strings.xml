@@ -461,5 +461,5 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">移动传输: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">下载: %1s/s - 上传: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">骰子</string>
 </resources>

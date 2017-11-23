@@ -43,6 +43,7 @@
     <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">「NFC」，提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_notification_light_tile">「通知燈」，允許開啟或關閉通知燈。</string>
+    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
     <string name="description_orientation_lock_tile">「屏幕旋轉方向」，鎖定屏幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重啟Recovery」及「重啟Bootloader」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_power_dialog_accessibility_tile">「電源選單」，開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>

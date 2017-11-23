@@ -462,4 +462,6 @@
     <string name="network_traffic_tile_formatted_down_up_label">下载: %1s/s - 上传: %2s/s</string>
     <!--dice-->
     <string name="dice_tile_label">骰子</string>
+    <!--notification log-->
+    <string name="notification_log_tile_label">通知日志</string>
 </resources>

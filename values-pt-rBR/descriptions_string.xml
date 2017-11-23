@@ -43,6 +43,7 @@
     <string name="description_network_traffic_tile">Exibe uma notificação persistente com detalhes sobre o tráfego de rede: velocidade de download e upload, total recebido e transmitido, dados móveis recebido e transmitido. O rótulo do bloco exibe a velocidade de download e upload quando a notificação está ativa.</string>
     <string name="description_nfc_tile">Ativa e desativa o NFC ou abrir configurações do mesmo. \nA permissão de modificar as configurações de segurança é necessária para alterar o estado do NFC.</string>
     <string name="description_notification_light_tile">Ativa ou desativa a luz de notificação.</string>
+    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
     <string name="description_orientation_lock_tile">Bloquear a rotação do dispositivo nos seguintes sentidos: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Para alterar e bloquear a rotação, o bloco precisa desativar a rotação automática.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_power_tile">Mostra uma caixa de diálogo para desligar, reiniciar, reiniciar para recuperação e reiniciar para bootloader. Para mostrar o menu de energia do sistema, o serviço de acessibilidade deve estar ativado.</string>
     <string name="description_power_dialog_accessibility_tile">Mostra o menu de energia do Android para desligar ou reiniciar o dispositivo. O serviço de acessibilidade deve estar ativado.</string>

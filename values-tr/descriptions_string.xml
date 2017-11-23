@@ -43,6 +43,7 @@
     <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
     <string name="description_nfc_tile">NFC\'yi aç, kapat ya da NFC ayarlarını göster. Özel izin gerektirir.</string>
     <string name="description_notification_light_tile">Bildirim ışığını açar ya da kapatır.</string>
+    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
     <string name="description_orientation_lock_tile">Cihazın dönüşünü kilitler: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Dönüşü değiştirmek ya da kilitlemek için blok otomatik döndürmeyi kapatma ihtiyacı duyar. Bunun için izin gereklidir.</string>
     <string name="description_power_tile">Sistemi kapatma, Yeniden başlatma, kurtarma modunda veya bootloader\'dan reboot seçenekleri sunan bir güç menüsü gösterir. Bunun için erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
     <string name="description_power_dialog_accessibility_tile">Cihazı açmak ya da yeniden başlatmak için bir menü gösterir. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>

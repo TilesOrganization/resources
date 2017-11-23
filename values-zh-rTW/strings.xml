@@ -462,4 +462,6 @@
     <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
     <!--dice-->
     <string name="dice_tile_label">Dice</string>
+    <!--notification log-->
+    <string name="notification_log_tile_label">通知紀錄</string>
 </resources>

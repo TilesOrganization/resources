@@ -43,6 +43,7 @@
     <string name="description_network_traffic_tile">持續於通知訊息顯示網路流量，如：下載和上傳速度、總接收及傳送量、行動數據接收傳輸用量。快速設定動態磚顯示下載及上傳速度。</string>
     <string name="description_nfc_tile">提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_notification_light_tile">開啟或關閉通知提示燈。</string>
+    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
     <string name="description_orientation_lock_tile">鎖定螢幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_power_tile">開啟進階電源選單以進行「關機」、「重新啟動」、「重新啟動至 Recovery 模式」及「重新啟動至 Bootloader 模式」。要允許快速設定動態磚開啟電源選單，需要允許Tiles的協助工具服務。</string>
     <string name="description_power_dialog_accessibility_tile">開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定動態磚開啟電源選單，需要允許Tiles的協助工具服務。</string>

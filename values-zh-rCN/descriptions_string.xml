@@ -24,7 +24,7 @@
     <string name="description_data_roaming_tile">打开或关闭数据漫游。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_demo_mode_tile">进入 Android 演示模式。 演示模式允许设备强制状态栏保持固定状态，对进行状态栏的动态变化截图或者测试不同的状态图标排列时很有用。\n需要写入安全设置权限和转储权限才能使用这个瓷贴。</string>
     <string name="description_density_tile">更改屏幕密度</string>
-    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
+    <string name="description_dice_tile">掷骰子，让掷出的数字决定。</string>
     <string name="description_email_tile">选择联系人以快速发邮件或者启动 Email 应用。此操作兼容于可接收 Android 默认广播的第三方应用以撰写和发送邮件。</string>
     <string name="description_font_size_tile">变更设备显示的字号。\n需要修改系统设置权限才能使用这个瓷贴。</string>
     <string name="description_heads_up_notifications_tile">当使用设备时，一些通知会出现在小小的悬浮窗口中。将其关闭可避免干扰: 尤其是在观看视频或者玩游戏时很有用。\n需要写入安全设置权限才能使用这个瓷贴。</string>

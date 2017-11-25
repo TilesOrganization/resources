@@ -43,7 +43,7 @@
     <string name="description_network_traffic_tile">Prikazuje trajnu obavijest s pojedinostima o mrežnom prometu: brzina preuzimanja i prijenosa podataka, ukupni primljeni i preneseni podaci, mobilni podaci, primljeni i preneseni. Oznaka pločice prikazuje brzinu preuzimanja i prijenosa kada je obavijest aktivna.</string>
     <string name="description_nfc_tile">Uključite ili isključite NFC ili otvorite NFC postavke.\nPotrebno je dozvoliti izmjenu sigurnosnih postavki kako bi mogli mijenjati stanje NFC-a.</string>
     <string name="description_notification_light_tile">Uključite ili isključite svijetlo obavijesti.</string>
-    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
+    <string name="description_notification_log_tile">Pristupite ugrađenom Android zapisniku obavijesti.</string>
     <string name="description_orientation_lock_tile">Zaključajte orijentaciju zaslona: 0, 90, 180, 270. Da biste promijenili i zaključali orijentaciju, pločica mora isključiti automatsko zakretanje zaslona.\nPotrebno je dozvoliti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_power_tile">Prikaži dijalog za isključivanje, ponovno pokretanje, ponovno pokretanje u recovery i ponovno pokretanje u bootloader. Da bi se prikazao dijaloški okvir sustava za napajanje, usluga pristupačnosti mora biti omogućena.</string>
     <string name="description_power_dialog_accessibility_tile">Pokažite dijaloški okvir napajanja sustava Android za isključivanje ili ponovno pokretanje uređaja. Usluga pristupačnosti mora biti omogućena.</string>

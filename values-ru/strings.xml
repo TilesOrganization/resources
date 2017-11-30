@@ -461,7 +461,7 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">Отправлено по мобильной сети: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Загрузка: %1s/s - Отдача: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Кубики</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Журнал уведомлений</string>
 </resources>

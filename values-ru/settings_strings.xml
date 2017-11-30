@@ -59,12 +59,12 @@
     <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
-    <string name="settings_wiki">Вики</string>
-    <string name="settings_wiki_device_administrator">Device administrator</string>
-    <string name="settings_wiki_accessibility_service">Accessibility service</string>
-    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
-    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
-    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
+    <string name="settings_wiki">Справка</string>
+    <string name="settings_wiki_device_administrator">Администратор устройства</string>
+    <string name="settings_wiki_accessibility_service">Сервис спец. возможностей</string>
+    <string name="settings_wiki_how_to_add_tiles">Как добавлять плитки</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">Как включить скрытые плитки</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Как использовать ADB для предоставления разрешений</string>
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
     <string name="settings_send_email">Отправить письмо</string>
@@ -380,6 +380,6 @@
     <string name="settings_network_traffic_tile_mobile_received">Получено по мобильной сети</string>
     <string name="settings_network_traffic_tile_mobile_transmitted">Отправлено по мобильной сети</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">Бросить один кубик</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Бросить два кубика</string>
 </resources>

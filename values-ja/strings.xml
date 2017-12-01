@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">問題が発生しました。もう一度お試しください。</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
     <string name="location_off_alert_dialog_message">位置情報がオフになっています。タイルで位置情報を取得するには位置情報の権限を許可してください。</string>
     <string name="location_device_only_alert_dialog_message">位置情報モードがGPSのみになっています。より速く正確な結果を得るためには、設定から他の位置情報モードを有効にしてください。</string>
     <string name="resolve_activity_alert_dialog_message">このアクションを実行するためのアプリが見つかりませんでした。</string>

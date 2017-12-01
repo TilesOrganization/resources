@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
     <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="location_device_only_alert_dialog_message">O modo de localização está como Somente no dispositivo. Para um resultado mais rápido e preciso, abra as configurações e ative um modo de localização diferente.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>

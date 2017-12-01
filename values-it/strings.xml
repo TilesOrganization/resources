@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
+    <string name="network_not_connected_alert_dialog_message">Nessuna connessione internet.</string>
     <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
     <string name="location_device_only_alert_dialog_message">Geolocalizzazione in modalità Solo dispositivo. Per un risultato più veloce e accurato, per favore aprire le impostazioni e attivare una diversa modalità di geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>

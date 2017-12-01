@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Niekde sa stala chyba. Prosím, skúste to znova</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="location_device_only_alert_dialog_message">Režim polohy je nastavený na Len senzory zariadenia. Pre rýchlejšie a presnejšie výsledky, prosím, otvorte nastavenia a zvoľte Vysoká presnosť.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>

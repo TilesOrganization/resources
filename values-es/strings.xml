@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Algo ha fallado. Por favor, vuelve a intentarlo</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">La ubicación está desactivada. Para permitir a Tile acceder a la ubicación, por favor, accede a los ajustes y activa la ubicación.</string>
     <string name="location_device_only_alert_dialog_message">El modo de ubicación seleccionado es Solo Dispositivo. Para unos resultados más rápidos y precisos, por favor, accede a los ajustes y activa otromodo de ubicación.</string>
     <string name="resolve_activity_alert_dialog_message">No se ha encontrado ninguna aplicación para realizar esta acción.</string>

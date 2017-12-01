@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">發生錯誤，請重試。</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
     <string name="location_device_only_alert_dialog_message">定位模式是僅限裝置。要提高定位精確度，請前往設定啟用其他定位模式以更迅速準確地獲得結果。</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>

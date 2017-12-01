@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">发生一些错误，请重试</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">位置已关闭。要允许瓷贴获取当前位置，请打开设置并启用位置。</string>
     <string name="location_device_only_alert_dialog_message">位置模式为仅限设备。为了更快、更精确的结果，请打开设置并启用其他位置模式。</string>
     <string name="resolve_activity_alert_dialog_message">未找到可执行此操作的应用程序</string>

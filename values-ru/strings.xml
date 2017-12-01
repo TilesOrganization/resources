@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Что-то пошло не так. Пожалуйста, попробуйте еще раз</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">Определение местоположения отключено. Чтобы дать плитке доступ к получению текущего местоположения, пожалуйста, откройте настройки и дайте приложению соответствующий доступ.</string>
     <string name="location_device_only_alert_dialog_message">Статус местоположения - Только устройство. Для более быстрого и точного результата, пожалуйста, откройте настройки и выберите другой режим.</string>
     <string name="resolve_activity_alert_dialog_message">Нет приложений, которые могли бы выполнить данное действие.</string>

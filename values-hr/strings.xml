@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Nešto je pošlo po zlu. Molim te pokušaj ponovno</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">Lokacija je isključena. Da biste dopustili da pločica dobije trenutačnu lokaciju, otvorite postavke i omogućite lokaciju.</string>
     <string name="location_device_only_alert_dialog_message">Način lokacije je "Samo uređaj". Za brži i točniji rezultat, otvorite postavke i omogućite drugačiji način dobivanja lokacije.</string>
     <string name="resolve_activity_alert_dialog_message">Nije pronađena nijedna aplikacija za izvođenje ove radnje.</string>

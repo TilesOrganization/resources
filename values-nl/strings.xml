@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Er is iets misgegaan. Probeer het nog een keer</string>
+    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
     <string name="location_off_alert_dialog_message">Locatie is uit. Om de tegel toe te staan om de huidige locatie te verkrijgen, open instellingen en zet locatie aan.</string>
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">Geen applicatie gevonden om deze actie uit te voeren.</string>

@@ -465,4 +465,13 @@
     <string name="dice_tile_label">Dadi</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Log notifiche</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Solleva per notifiche</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Per permettere alla funzione di cambiare solleva per notifiche, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Doppio tocco per notifiche</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Per permettere alla funzione di cambiare doppio tocco per notifiche, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Sempre attivo</string>
+    <string name="always_on_tile_alert_dialog_message">Per permettere alla funzione di cambiare sempre attivo, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
 </resources>

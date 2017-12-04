@@ -3,6 +3,7 @@
     <string name="description_activities_tile">可以設定最多5個快速設定動態磚用以執行任意應用程式的隱藏操作。</string>
     <string name="description_adaptive_brightness_tile">開啟時會根據環境明亮程度，自動調整螢幕亮度，您仍可手動調整螢幕亮度。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_alarm_tile">顯示下一個鬧鐘或新增鬧鐘。 若已有設定鬧鐘，將會顯示下一個鬧鐘時間。支援顯示、編輯系統原生及第三方應用程式。</string>
+    <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_ambient_display_tile">收到通知時點亮螢幕並在鎖定螢幕顯示內容。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_animations_tile">變更視窗動畫比例、轉場動畫比例及Animator影片長度比例。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_application_tile">建立清單式應用程式捷徑。\n也可以建立單個應用程式捷徑。</string>
@@ -25,6 +26,7 @@
     <string name="description_demo_mode_tile">允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些螢幕截圖或演示需要。\n使用此快速設定動態磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">允許快速變更裝置螢幕的顯示大小。</string>
     <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
+    <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
     <string name="description_email_tile">提供「發送寄送電子郵件到指定聯絡人」及「開啟寄送電子郵件應用程式」兩個功能。 此快速設定動態磚亦能支援其他第三方寄送電子郵件應用程式。</string>
     <string name="description_font_size_tile">允許快速變更裝置的字型大小。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_heads_up_notifications_tile">部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在螢幕上方以「浮動通知」形式顯示滑入通知，此快速設定動態磚可讓您開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
@@ -32,6 +34,7 @@
     <string name="description_input_method_tile">變更鍵盤或是顯示鍵盤設定。</string>
     <string name="description_invert_colors_tile">模擬顏色反轉。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_keep_tile">如有安裝「Google Keep」，快速設定動態磚將開啟Google Keep快速儲存筆記的方塊。</string>
+    <string name="description_lift_to_check_tile">To quickly check time, notification icons and other info, pick up the device.</string>
     <string name="description_location_tile">透過快速設定動態磚開啟定位模式設定版面或變更高定位精確度。\n「高精確度模式」，高精確度模式會運用 GPS、Wi-Fi、行動網路與其他感測器，取得高精確度的裝置位置資訊，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。\n「節約耗電量」，節約耗電量模式可運用低耗電量的位置資訊來源 (例如 Wi-Fi 和行動網路) 判斷您的位置，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。「僅限裝置」，僅限裝置模式只會使用 GPS 判斷您的位置，不會運用 Google 定位服務提供位置資訊。這種模式可能會增加耗電量，而且需要較長的時間判斷您的位置。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_lock_tile">如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定動態磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">開啟任何已安裝的地圖應用程式，顯示裝置目前所在位置。此快速設定動態磚支援可接收Android預設廣播[情境感知API（Google Awareness API）]的第三方應用程式進行定位。\n使用此快速設定動態磚需要授予位置存取的權限。</string>

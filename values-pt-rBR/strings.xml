@@ -465,4 +465,13 @@
     <string name="dice_tile_label">Dice</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Registro de notificação</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Lift to check</string>
+    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

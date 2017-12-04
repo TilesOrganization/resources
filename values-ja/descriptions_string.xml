@@ -3,6 +3,7 @@
     <string name="description_activities_tile">アプリの隠れたアクティビティを起動するタイルを５つまで追加できます。</string>
     <string name="description_adaptive_brightness_tile">有効にすると、周囲に合わせて明るさを最適化します。明るさの自動調整を有効にしても明るさを調整することができます。\nこのタイルを使用するにはシステム設定の書き込みの許可が必要です。</string>
     <string name="description_alarm_tile">現在設定されているアラームを表示、または新しくアラームを設定します。アラームが設定されている場合、次のアラームをタイルに表示します。このアクションはアラームの表示と編集のために、Androidの既定のブロードキャストを受け取れるサードパーティ製のアプリとの互換性があります。</string>
+    <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_ambient_display_tile">通知を受け取った時にロック画面の内容を端末に表示します。\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_animations_tile">アニメーター再生時間とトランジションアニメとウィンドウアニメのスケールを設定します。\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_application_tile">ダイアログに表示するアプリのリストを作成します。\n単一のアプリのタイルも5つまで利用できます。</string>
@@ -25,6 +26,7 @@
     <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission and dump permission are required to use this tile.</string>
     <string name="description_density_tile">Change the density of the screen.</string>
     <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
+    <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
     <string name="description_email_tile">Choose a contact to quickly email or launch the email app. The action is compatible with third-party apps that can receive the Android default broadcast to compose and send emails.</string>
     <string name="description_font_size_tile">Change the font size the device shows.\nModify system settings permission is required to use this tile.</string>
     <string name="description_heads_up_notifications_tile">Some notifications may appear in a small floating window when the device is active. Turn it off to avoid disturbances; especially helpful for when watching a video or playing a game.\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
@@ -32,6 +34,7 @@
     <string name="description_input_method_tile">Show input method picker or open input method settings.</string>
     <string name="description_invert_colors_tile">Simulate colors inversion.\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_keep_tile">Open a dialog to add a new note in Google\'s proprietary Keep app, if installed.</string>
+    <string name="description_lift_to_check_tile">To quickly check time, notification icons and other info, pick up the device.</string>
     <string name="description_location_tile">Turn location mode on or off or change location accuracy.\nHigh accuracy mode uses GPS, Wi-Fi, cellular networks, and other sensors to get the highest-accuracy location for the device. It uses Google\'s location service to help estimate the location of the device faster and more accurately.\nBattery saving mode estimates the location of the device using low battery-intensive location sources, like Wi-Fi and cellular networks. It uses Google\'s location service to help estimate the location of the device faster and more accurately.\nDevice only mode estimates the location of the device using GPS only. It doesn\u2019t use Google\'s location service to provide location information. This mode may use more battery power and take longer to determine the location of the device.\nこのタイルを使用するにはWRITE_SECURE_SETTINGSの権限が必要です。</string>
     <string name="description_lock_tile">Securely lock the device. If a screen lock (password, PIN, pattern, …) is set, please follow the provided unlocking procedure to unlock the device. Device administrator must be activated.</string>
     <string name="description_maps_tile">Launch any maps application, if installed, showing the current location of the device. The action is compatible with third-party apps that can receive the Android default broadcast to decode geolocation parameters. This tile makes use of the Google Awareness API.\nLocation permission is required to use this tile.</string>

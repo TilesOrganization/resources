@@ -3,6 +3,7 @@
     <string name="description_activities_tile">至多五个瓷贴可用于启动任何应用程序的隐藏活动项。</string>
     <string name="description_adaptive_brightness_tile">当启用时，自动调节屏幕亮度至你周围的灯光。当适应亮度开启时，亮度仍然可以调整。\n需要修改系统设置才能使用这个瓷贴。</string>
     <string name="description_alarm_tile">显示当前闹钟或者新建一个。 如果设定了闹钟，瓷贴会显示下一个闹钟。这个操作兼容于可接收 Android 默认广播的第三方应用以显示和编辑闹钟。</string>
+    <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_ambient_display_tile">设定设备在接收通知时显示锁屏内容\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_animations_tile">为动画程序、过渡和窗口设定动画的缩放。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_application_tile">创建应用程序列表以在对话框中显示。\n五个单独瓷贴同样可用。</string>
@@ -25,6 +26,7 @@
     <string name="description_demo_mode_tile">进入 Android 演示模式。 演示模式允许设备强制状态栏保持固定状态，对进行状态栏的动态变化截图或者测试不同的状态图标排列时很有用。\n需要写入安全设置权限和转储权限才能使用这个瓷贴。</string>
     <string name="description_density_tile">更改屏幕密度</string>
     <string name="description_dice_tile">掷骰子，让掷出的数字决定。</string>
+    <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
     <string name="description_email_tile">选择联系人以快速发邮件或者启动 Email 应用。此操作兼容于可接收 Android 默认广播的第三方应用以撰写和发送邮件。</string>
     <string name="description_font_size_tile">变更设备显示的字号。\n需要修改系统设置权限才能使用这个瓷贴。</string>
     <string name="description_heads_up_notifications_tile">当使用设备时，一些通知会出现在小小的悬浮窗口中。将其关闭可避免干扰: 尤其是在观看视频或者玩游戏时很有用。\n需要写入安全设置权限才能使用这个瓷贴。</string>
@@ -32,6 +34,7 @@
     <string name="description_input_method_tile">显示输入法选择器或者打开输入法设置</string>
     <string name="description_invert_colors_tile">模拟颜色反转。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_keep_tile">如果有安装的话，打开一个对话框以在 Google 的原生 Keep 应用中新增笔记。</string>
+    <string name="description_lift_to_check_tile">To quickly check time, notification icons and other info, pick up the device.</string>
     <string name="description_location_tile">打开或关闭位置模式或者变更位置精确度。\n高精确度模式使用 GPS、Wi-Fi、蜂窝网络和其他传感器获取设备最高精确度的位置。使用 Google 的位置服务以帮助更快、更精确地判定位置。\n省电模式会使用低电量集中位置来源判定设备的位置，例如 Wi-Fi 和蜂窝网络。使用 Google 的位置服务来帮助更快、更精确地判定设备的位置。\n仅限设备模式只使用 GPS 判定设备的位置。不使用 Google 的位置服务来提供位置信息。这个模式可能会使用更多电量和更长时间来决定设备的位置。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_lock_tile">安全锁定设备。如果设定了屏幕锁 (密码、PIN码、图案, …)， 请遵循所提供的解锁步骤来解锁设备。必须激活设备管理器。</string>
     <string name="description_maps_tile">如果有安装的话，启动任何地图应用程序，显示设备的当前位置。此操作兼容于可接收 Android 默认广播的第三方应用程序以破解地理位置参数。这个瓷贴使用的是 Google 的 Awareness API 。\n需要位置权限才能使用这个瓷贴。</string>

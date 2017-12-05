@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">发生一些错误，请重试</string>
-    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">发生一些错误。请检查设备是否已经连接到可用的网络。</string>
     <string name="location_off_alert_dialog_message">位置已关闭。要允许瓷贴获取当前位置，请打开设置并启用位置。</string>
     <string name="location_device_only_alert_dialog_message">位置模式为仅限设备。为了更快、更精确的结果，请打开设置并启用其他位置模式。</string>
     <string name="resolve_activity_alert_dialog_message">未找到可执行此操作的应用程序</string>
@@ -466,12 +466,12 @@
     <!--notification log-->
     <string name="notification_log_tile_label">通知日志</string>
     <!--lift to check-->
-    <string name="lift_to_check_tile_label">Lift to check</string>
-    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <string name="lift_to_check_tile_label">抬起检查</string>
+    <string name="lift_to_check_tile_alert_dialog_message">要允许瓷贴切换「抬起检查」，请打开设置并授予写入安全设置权限。</string>
     <!--double-tap to check-->
-    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
-    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <string name="double_tap_to_check_tile_label">双击检查</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">要允许瓷贴切换「双击检查」，请打开设置并授予写入安全设置权限。</string>
     <!--always on-->
-    <string name="always_on_tile_label">Always on</string>
-    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <string name="always_on_tile_label">永远开启</string>
+    <string name="always_on_tile_alert_dialog_message">要允许瓷贴切换「永远开启」，请打开设置并授予写入安全设置权限。</string>
 </resources>

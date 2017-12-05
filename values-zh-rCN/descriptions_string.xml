@@ -17,7 +17,7 @@
     <string name="description_calendar_tile">显示日历事件或者新增一个。此操作兼容于可接收 Android 默认广播的第三方应用以显示和添加日历事件。</string>
     <string name="description_call_tile">选择联系人号码以快速拨号或者启动电话应用。此操作兼容于可接收 Android 默认广播的第三方应用以发起通话\n需要通话权限才能直接从瓷贴发起通话而无需通过拨号器用户界面。</string>
     <string name="description_camera_tile">在照片或视频模式下启动相机应用。此操作兼容于可接收 Android 默认广播的第三方应用以在照片和视频模式下启动相机。</string>
-    <string name="description_camera_lock_tile">防止使用所有设备的相机。必须激活设备管理器。</string>
+    <string name="description_camera_lock_tile">阻止使用所有设备的相机。必须激活设备管理器。</string>
     <string name="description_cellular_data_tile">如果可用的话，打开移动网络设置或者流量使用情况设置。在有超级用户权限的设备上打开或关闭蜂窝数据。</string>
     <string name="description_clipboard_tile">查看剪贴板的最新内容，进行复制、分享或者保存到可接收 Android 默认广播的第三方应用以分享文本。</string>
     <string name="description_contacts_tile">快速访问所选联系人的详情以呼叫、发短信、编辑 …</string>

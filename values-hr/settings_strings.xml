@@ -381,12 +381,12 @@
     <string name="settings_dice_tile_action_roll_one_die">Baci jednu kockicu</string>
     <string name="settings_dice_tile_action_roll_two_dice">Baci dvije kockice</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Podigni za provjeru</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Podigni za provjeru</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Dodirni dvaput provjeru</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Dodirni dvaput provjeru</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Uvijek uključeno</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici je dozvoljeno promijeniti Uvijek uključeno</string>
 </resources>

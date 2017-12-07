@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">Nessuna connessione internet.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">Qualcosa non ha funzionanto. Per favore controllare che il dispositivo abbia una connessione network attiva.</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
     <string name="location_device_only_alert_dialog_message">Geolocalizzazione in modalità Solo dispositivo. Per un risultato più veloce e accurato, per favore aprire le impostazioni e attivare una diversa modalità di geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
@@ -465,4 +469,13 @@
     <string name="dice_tile_label">Dadi</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Log notifiche</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Solleva per notifiche</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Per permettere alla funzione di cambiare solleva per notifiche, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Doppio tocco per notifiche</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Per permettere alla funzione di cambiare doppio tocco per notifiche, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Sempre attivo</string>
+    <string name="always_on_tile_alert_dialog_message">Per permettere alla funzione di cambiare sempre attivo, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
 </resources>

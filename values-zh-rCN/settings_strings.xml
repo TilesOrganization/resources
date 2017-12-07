@@ -378,4 +378,13 @@
     <!--dice-->
     <string name="settings_dice_tile_action_roll_one_die">掷一次骰子</string>
     <string name="settings_dice_tile_action_roll_two_dice">掷两次骰子</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">已授予。允许瓷贴切换「抬起检查」</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off"已拒绝。不允许瓷贴切换「抬起检查」</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">已授予。允许瓷贴切换「双击检查」</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">已拒绝。不允许瓷贴切换「双击检查」</string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">已授予。允许瓷贴切换「永远开启」</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">已拒绝。不允许瓷贴切换「永远开启」</string>
 </resources>

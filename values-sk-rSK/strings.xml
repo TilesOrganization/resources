@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Niekde sa stala chyba. Prosím, skúste to znova</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">No network connection.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">Poloha je vypnutá. Aby dlaždica mohla zistiť vašu aktuálnu polohu, prosím, otvorte nastavenia a povoľte Polohu.</string>
     <string name="location_device_only_alert_dialog_message">Režim polohy je nastavený na Len senzory zariadenia. Pre rýchlejšie a presnejšie výsledky, prosím, otvorte nastavenia a zvoľte Vysoká presnosť.</string>
     <string name="resolve_activity_alert_dialog_message">Nenašla sa žiadna aplikácia na vykonanie tejto akcie.</string>
@@ -465,4 +469,13 @@
     <string name="dice_tile_label">Dice</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Denník upozornení</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Lift to check</string>
+    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

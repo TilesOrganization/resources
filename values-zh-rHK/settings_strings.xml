@@ -60,11 +60,11 @@
     <string name="settings_feedback">意見及援助</string>
     <string name="settings_privacy_policy">私隱政策</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_wiki_device_administrator">Device administrator</string>
-    <string name="settings_wiki_accessibility_service">Accessibility service</string>
-    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
-    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
-    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
+    <string name="settings_wiki_device_administrator">裝置管理員</string>
+    <string name="settings_wiki_accessibility_service">無障礙功能</string>
+    <string name="settings_wiki_how_to_add_tiles">如何加入快速設定磚</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">如何啟用隱藏的快速設定磚</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">如何使用ADB以獲取權限</string>
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">謝謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>
@@ -238,7 +238,7 @@
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更全屏模式。</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更全屏模式。</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">變更全屏模式</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">避免任何喚醒裝置的延遲情況或裝置休眠時接聽電話的延遲情況，請保持此設定開啟。</string>
     <!--ambient display-->
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更環境顯示的使用狀態。</string>
     <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">已禁止。此快速設定磚禁止變更環境顯示的使用狀態。</string>
@@ -371,11 +371,20 @@
     <string name="settings_camera_lock_tile_device_admin_summary_on">已授權。此快速設定磚允許鎖定相機。</string>
     <string name="settings_camera_lock_tile_device_admin_summary_off">已禁止。 此快速設定磚禁止鎖定相機。</string>
     <!--network traffic-->
-    <string name="settings_network_traffic_tile_total_received">Total received</string>
-    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
-    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
-    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <string name="settings_network_traffic_tile_total_received">已接收</string>
+    <string name="settings_network_traffic_tile_total_transmitted">已傳輸</string>
+    <string name="settings_network_traffic_tile_mobile_received">流動數據已接收</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">流動數據已傳輸</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">擲1顆骰子</string>
+    <string name="settings_dice_tile_action_roll_two_dice">擲2顆骰子</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更「提起以檢查」的使用狀態。</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更「提起以檢查」的使用狀態。</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更「雙擊以檢查」的使用狀態。</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更「雙擊以檢查」的使用狀態。</string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更「Always On」的使用狀態。</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更「Always On」的使用狀態。</string>
 </resources>

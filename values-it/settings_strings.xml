@@ -378,4 +378,13 @@
     <!--dice-->
     <string name="settings_dice_tile_action_roll_one_die">Lancia un dado</string>
     <string name="settings_dice_tile_action_roll_two_dice">Lancia due dadi</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare solleva per notifiche</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare solleva per notifiche</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare doppio tocco per notifiche</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare doppio tocco per notifiche</string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare sempre attivo</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare sempre attivo</string>
 </resources>

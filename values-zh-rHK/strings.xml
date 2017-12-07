@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">發生錯誤，請重試。</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">No network connection.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">發生錯誤，請檢查及確保裝置已連接網絡。</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">位置功能關閉。如要繼續，請前往設定並啟用位置功能以定位目前位置。</string>
     <string name="location_device_only_alert_dialog_message">定位模式是僅限裝置。要提高定位精確度，請前往設定啟用其他定位模式以更迅速準確地獲得結果。</string>
     <string name="resolve_activity_alert_dialog_message">沒有相關的應用程式</string>
@@ -36,11 +40,11 @@
     <string name="stop">停止</string>
     <string name="fahrenheit">華氏</string>
     <string name="celsius">攝氏</string>
-    <string name="filter">Filter</string>
-    <string name="description">Description</string>
-    <string name="all">All</string>
-    <string name="starred">Starred</string>
-    <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
+    <string name="filter">篩選</string>
+    <string name="description">描述</string>
+    <string name="all">全部</string>
+    <string name="starred">已加上星號</string>
+    <string name="empty_starred_tiles_database_alert_message">沒有找到已加上星號的設定磚</string>
     <!--device administrator-->
     <string name="device_admin_activated">裝置管理員已啟用</string>
     <string name="device_admin_deactivated">裝置管理員已停用</string>
@@ -455,14 +459,23 @@
     <string name="camera_lock_tile_label">相機鎖</string>
     <string name="camera_lock_tile_alert_dialog_message">要允許快速設定磚鎖定相機。 請前往設定並允許裝置管理員權限。</string>
     <!--network traffic-->
-    <string name="network_traffic_tile_label">Network traffic</string>
-    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
-    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <string name="network_traffic_tile_label">網絡流量狀態</string>
+    <string name="network_traffic_tile_formatted_total_received">已接收：%s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">已傳輸：%s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">流動數據已接收：%s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">流動數據已傳輸：%s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">下載：%1s/s - 上載：%2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">骰子</string>
     <!--notification log-->
     <string name="notification_log_tile_label">通知記錄</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">提起以檢查</string>
+    <string name="lift_to_check_tile_alert_dialog_message">要允許快速設定磚變更「提起以檢查」的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">雙擊以檢查</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">要允許快速設定磚變更「雙擊以檢查」的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">要允許快速設定磚變更「Always on」的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
 </resources>

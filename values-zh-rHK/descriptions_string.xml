@@ -3,6 +3,7 @@
     <string name="description_activities_tile">「動作」，可以設定最多5個快速設定磚以開啟任何程式的現在或隱藏動作。</string>
     <string name="description_adaptive_brightness_tile">「自動亮度模式」開啟時會令手機根據現場周圍環境光亮情況而自動調節屏幕亮度，開啟後你仍然可以手動調節屏幕亮度。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_alarm_tile">「鬧鐘」主要提供「顯示下一個鬧鐘」及「新增鬧鐘」 兩個選項。如已有設定的鬧鐘時間，快速設定磚將會顯示下一個鬧鐘時間。除了內置原生的時鐘程式，此快速設定磚亦能支援其他第三方時鐘應用程式。</string>
+    <string name="description_always_on_tile">「Always On」屏幕關閉的情況下顯示時間、通知圖示及其他資訊。</string>
     <string name="description_ambient_display_tile">「環境顯示」開啟後會在裝置收到通知時短暫在鎖定屏幕顯示通知供快速查閱。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_animations_tile">「動畫」允許變更視窗動畫比例、轉場動畫比例及Animator片長比例。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_application_tile">「應用程式」允許建立包含多個應用程式的清單式快速存取及提供5個獨立應用程式的快速存取。</string>
@@ -24,7 +25,8 @@
     <string name="description_data_roaming_tile">「數據漫遊」，允許快速開啟或關閉數據漫遊。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_demo_mode_tile">「示範模式」，允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些屏幕截圖或演示需要。\n使用此快速設定磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">[顯示大小」，允許快速變更裝置屏幕的顯示大小。</string>
-    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
+    <string name="description_dice_tile">「骰子」，隨機擲出數字。</string>
+    <string name="description_double_tap_to_check_tile">「雙擊以檢查」，允許快速變更裝置「雙擊以檢查」的使用狀態。</string>
     <string name="description_email_tile">「電子郵件」，提供「發送電郵到指定聯絡人」及「開啟電郵應用程式」兩個功能。 此快速設定磚亦能支援其他第三方電郵應用程式。</string>
     <string name="description_font_size_tile">「字型大小」，允許快速變更裝置的字型大小。.\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_heads_up_notifications_tile">「浮動通知」，部分通知會在用戶使用裝置（例如觀看影片或遊戲時）在屏幕上方以「浮動通知」形式顯示滑入通知，此快速設定磚可讓你開啟或關閉「浮動通知」的使用狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
@@ -32,6 +34,7 @@
     <string name="description_input_method_tile">「鍵盤及輸入法」，顯示鍵盤選取清單或開啟鍵盤和輸入方式設定。</string>
     <string name="description_invert_colors_tile">「反轉顏色」，模擬將顏色反轉顯示，使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_keep_tile">「Google Keep」，如有安裝「Google Keep」，快速設定磚將開啟Google Keep快速儲存筆記的方塊。</string>
+    <string name="description_lift_to_check_tile">「提起以檢查」，允許快速變更裝置「提起以檢查」的使用狀態。</string>
     <string name="description_location_tile">「定位模式」，透過快速設定磚開啟定位模式設定版面或變更高定位精確度。\n「高精確度模式」，高精確度模式會運用 GPS、Wi-Fi、行動網路與其他感測器，取得高精確度的裝置位置資訊，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。\n「節約耗電量」，節約耗電量模式可運用低耗電量的位置資訊來源 (例如 Wi-Fi 和行動網路) 判斷您的位置，同時也會運用 Google 定位服務，以便更快速精確地判斷您的位置。「僅限裝置」，僅限裝置模式只會使用 GPS 判斷您的位置，不會運用 Google 定位服務提供位置資訊。這種模式可能會增加耗電量，而且需要較長的時間判斷您的位置。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_lock_tile">「鎖定屏幕」，如已設定了任何安全鎖（例如密碼、PIN、圖形等），用戶仍然需要根據指示解鎖裝置，使用此快速設定磚需要啟用裝置管理員。</string>
     <string name="description_maps_tile">「地圖定位」，開啟任何已安裝的地圖應用程式，並顯示目前位置定位，此快速設定磚採用Google的情境感知API（Google Awareness API）進行開發。\n使用此快速設定磚需要位置存取權限才能使用。</string>
@@ -40,10 +43,10 @@
     <string name="description_mono_audio_tile">播放音訊時合併聲道</string>
     <string name="description_monochromacy_tile">「閱讀模式」，主要是透過模擬色彩空間至全色盲（黑白色）當作閱讀模式使用。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_multi_window_tile">「分屏模式」，Android Nougat允許使用者可以分割畫面，同時在同一畫面開啟2個應用程式。例如在左邊檢視網頁，同時在右邊撰寫電子郵件等。需要允許Tiles的無障礙設定服務。</string>
-    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
+    <string name="description_network_traffic_tile">「網路流量狀態」，顯示一個裝置網路流量狀態的固定通知，包括上下載速度、已接收、已傳輸的流量。快速設定磚的名稱會在通知生效時顯示裝置的上、下載速度。</string>
     <string name="description_nfc_tile">「NFC」，提供「開啟NFC設定」及「快速開關NFC」兩個功能。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_notification_light_tile">「通知燈」，允許開啟或關閉通知燈。</string>
-    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
+    <string name="description_notification_log_tile">「通知記錄」，透過快速設定磚進入原生Android的通知記錄。</string>
     <string name="description_orientation_lock_tile">「屏幕旋轉方向」，鎖定屏幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重啟Recovery」及「重啟Bootloader」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_power_dialog_accessibility_tile">「電源選單」，開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>

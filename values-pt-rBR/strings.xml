@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="something_went_wrong">Algo deu errado. Por favor, tente novamente</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">No network connection.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">Localização está desativada. Para permitir que o bloco obtenha a localização atual, abra as configurações e ative a localização.</string>
     <string name="location_device_only_alert_dialog_message">O modo de localização está como Somente no dispositivo. Para um resultado mais rápido e preciso, abra as configurações e ative um modo de localização diferente.</string>
     <string name="resolve_activity_alert_dialog_message">Nenhuma aplicativo foi encontrado para executar essa ação.</string>
@@ -465,4 +469,13 @@
     <string name="dice_tile_label">Dice</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Registro de notificação</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Lift to check</string>
+    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

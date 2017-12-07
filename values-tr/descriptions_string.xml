@@ -2,6 +2,7 @@
 <resources>
     <string name="description_activities_tile">İstediğin uygulamaya ait gizli özellikler başlatan en fazla 5 blok.</string>
     <string name="description_adaptive_brightness_tile">Aktifleştirildiğinde parlaklığı dış ortama göre otomatik olarak ayarlar. Aktif olsa da istenirse parlaklık elle ayarlanabilir. Bu bloğu kullanmak için sistem ayarlarında değişiklik yapma izni gereklidir.</string>
+    <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_alarm_tile">Geçerli alarmları gösterir veya yeni bir tane oluşturur. Kurulmuş bir alarm varsa sıradaki alarmı gösterir. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_ambient_display_tile">Cihazı bildirim geldiğinde kilit ekranı içeriğini göstermeye ayarlar. Bu bloğu kullanmak için izin gereklidir.</string>
     <string name="description_animations_tile">Pencere animasyonu, geçiş animasyonu ve animatör süre ölçeklerini ayarlar. Bu bloğu kullanmak izin gerektirir.</string>
@@ -25,6 +26,7 @@
     <string name="description_demo_mode_tile">Android Demo Moduna giriş yapar. Demo Modu, daha güzel ekran görüntüleri almak için durum çubuğunda iyileştirmeler yapan moddur. Bloğu kullanmak için izin gerekir.</string>
     <string name="description_density_tile">Ekranın yoğunluğunu değiştirir</string>
     <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
+    <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
     <string name="description_email_tile">Hızlıca e-mail yazmak veya e-mail uygulamasını açmak için bir kişi belirle. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_font_size_tile">Cihazın yazı boyutunu değiştirir. Bloğu kullanabilmek için izin gerekir.</string>
     <string name="description_heads_up_notifications_tile">Bazı bildirimler ekranın üst kısmında küçük bir pencere halinde gözükür. Bu blok bu pencerinin oluşturulmasını önler. Video izlerken veya oyun oynarken vazgeçilmezdir.</string>
@@ -32,6 +34,7 @@
     <string name="description_input_method_tile">Giriş metodu seçiciyi gösterir veya giriş metodu ayarlarını açar.</string>
     <string name="description_invert_colors_tile">Renkleri ters çevirir. Özel izin gerektirir.</string>
     <string name="description_keep_tile">Google Keep\'e (yüklüyse) not almak için bir pencere açar.</string>
+    <string name="description_lift_to_check_tile">To quickly check time, notification icons and other info, pick up the device.</string>
     <string name="description_location_tile">Konum servisini açar, kapatır veya doğruluk modunu değiştirir. Yüksek doğruluk modu daha net konum bilgisi sunarken daha fazla pil harcar. Düşük doğruluk yaklaşık konum sağlar ve düşük pil kullanır. Güç tasarrufu modu açıksa konum modu otomatik olarak kapatılır veya en düşüğe alınır.</string>
     <string name="description_lock_tile">Cihazı güvenli bir şekilde kilitler. Ekran kilidi ayarlanmışsa ekranı açmak için bu kilidi geçmek gerekir. Cihaz yöneticisi izni gereklidir.</string>
     <string name="description_maps_tile">Yüklüyse cihazın güncel konumunu gösteren herhangi bir harita uygulamasını açar. Üçüncü parti uygulamalarla uyumludur ve kullanımı için izin gerekmektedir.</string>

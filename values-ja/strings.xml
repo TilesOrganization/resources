@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">問題が発生しました。もう一度お試しください。</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">No network connection.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">位置情報がオフになっています。タイルで位置情報を取得するには位置情報の権限を許可してください。</string>
     <string name="location_device_only_alert_dialog_message">位置情報モードがGPSのみになっています。より速く正確な結果を得るためには、設定から他の位置情報モードを有効にしてください。</string>
     <string name="resolve_activity_alert_dialog_message">このアクションを実行するためのアプリが見つかりませんでした。</string>
@@ -465,4 +469,13 @@
     <string name="dice_tile_label">Dice</string>
     <!--notification log-->
     <string name="notification_log_tile_label">通知ログ</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Lift to check</string>
+    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

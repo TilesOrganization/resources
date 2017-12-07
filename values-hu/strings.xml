@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Hiba történt, kérlek próbáld újra.</string>
+<<<<<<< HEAD
     <string name="network_not_connected_alert_dialog_message">No network connection.</string>
+=======
+    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+>>>>>>> master
     <string name="location_off_alert_dialog_message">A helymeghatározás ki van kapcsolva. A csempe aktuális helyhez való hozzáféréséhez kérlek engedélyezd a helymeghatározást a beállításokban.</string>
     <string name="location_device_only_alert_dialog_message">Helymeghatározási mód Csak a készüléken. Gyorsabb és pontosabb eredményhez nyisd meg a beállításokat és válassz egy másik helymeghatárizási módot.</string>
     <string name="resolve_activity_alert_dialog_message">Nem található megfelelő alkalmazás a művelet végrehajtásához.</string>
@@ -465,4 +469,13 @@
     <string name="dice_tile_label">Dice</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Értesítési napló</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Lift to check</string>
+    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

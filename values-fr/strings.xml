@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Une erreur s\'est produite. Veuillez réessayer</string>
-<<<<<<< HEAD
-    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
-=======
     <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
->>>>>>> master
     <string name="location_off_alert_dialog_message">La localisation est désactivée. Pour permettre à la tuile d\'obtenir la position actuelle, veuillez ouvrir les paramètres et activer la localisation.</string>
     <string name="location_device_only_alert_dialog_message">Le mode de localisation est sur Appareil Uniquement. Pour des résultats plus précis et rapides, veuillez ouvrir les paramètres et activez un mode de localisation différent.</string>
     <string name="resolve_activity_alert_dialog_message">Aucune application trouvée pour effectuer cette action.</string>

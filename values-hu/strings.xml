@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Hiba történt, kérlek próbáld újra.</string>
-<<<<<<< HEAD
-    <string name="network_not_connected_alert_dialog_message">No network connection.</string>
-=======
     <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
->>>>>>> master
     <string name="location_off_alert_dialog_message">A helymeghatározás ki van kapcsolva. A csempe aktuális helyhez való hozzáféréséhez kérlek engedélyezd a helymeghatározást a beállításokban.</string>
     <string name="location_device_only_alert_dialog_message">Helymeghatározási mód Csak a készüléken. Gyorsabb és pontosabb eredményhez nyisd meg a beállításokat és válassz egy másik helymeghatárizási módot.</string>
     <string name="resolve_activity_alert_dialog_message">Nem található megfelelő alkalmazás a művelet végrehajtásához.</string>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="something_went_wrong">Qualcosa non ha funzionato. Per favore provare nuovamente.</string>
-<<<<<<< HEAD
-    <string name="network_not_connected_alert_dialog_message">Nessuna connessione internet.</string>
-=======
     <string name="something_went_wrong_check_for_active_internet_connection">Qualcosa non ha funzionanto. Per favore controllare che il dispositivo abbia una connessione network attiva.</string>
->>>>>>> master
     <string name="location_off_alert_dialog_message">Geolocalizzazione disattivata. Per permettere alla funzione di ottenere la geolocalizzazione corrente, per favore aprire le impostazioni e attivare geolocalizzazione.</string>
     <string name="location_device_only_alert_dialog_message">Geolocalizzazione in modalità Solo dispositivo. Per un risultato più veloce e accurato, per favore aprire le impostazioni e attivare una diversa modalità di geolocalizzazione.</string>
     <string name="resolve_activity_alert_dialog_message">Nessuna applicazione trovata per eseguire questa azione.</string>
@@ -429,7 +425,7 @@
     <string name="battery_details_tile_unknown">Sconosciuta</string>
     <string name="battery_details_tile_unspecified_failure">Errore non specificato</string>
     <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltaggio: %.5fV</string>
+    <string name="battery_details_tile_formatted_voltage">Tensione: %.5fV</string>
     <string name="battery_details_tile_formatted_technology">Tecnologia: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Tempo di attività</string>

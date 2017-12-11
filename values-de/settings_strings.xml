@@ -386,5 +386,5 @@
     <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Einstellung "Doppelklicken um das Display anzusehen" nicht ändern</string>
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf die Einstellung "Immer aktiv" ändern</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Verweigert. TDie Kachel darf die Einstellung "Immer aktiv" nicht ändern</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf die Einstellung "Immer aktiv" nicht ändern</string>
 </resources>

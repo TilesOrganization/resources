@@ -453,7 +453,7 @@
     <string name="counter_tile_min_int_alert_dialog_message">Wert kann nicht substrahiert werden: Minimaler Integer Wert wurde erreicht.</string>
     <!--camera lock-->
     <string name="camera_lock_tile_label">Kamera sperren</string>
-    <string name="camera_lock_tile_alert_dialog_message">Damit di Kachel den Zugriff auf die Kameras verweigern darf, öffne bitte die System-Einstellungen und setze Tiles als Geräteadministrator.</string>
+    <string name="camera_lock_tile_alert_dialog_message">Damit die Kachel den Zugriff auf die Kameras verweigern darf, öffne bitte die System-Einstellungen und setze Tiles als Geräteadministrator.</string>
     <!--network traffic-->
     <string name="network_traffic_tile_label">Netzwerkverkehr</string>
     <string name="network_traffic_tile_formatted_total_received">Gesamt empfangen: %s</string>
@@ -466,12 +466,12 @@
     <!--notification log-->
     <string name="notification_log_tile_label">Benachrichtigungsprotokoll</string>
     <!--lift to check-->
-    <string name="lift_to_check_tile_label">Lift to check</string>
-    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <string name="lift_to_check_tile_label">Hochnehmen um das Display anzusehen</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Damit die Kachel die Einstellung "Hochnehmen um das Display anzusehen" ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--double-tap to check-->
-    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
-    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <string name="double_tap_to_check_tile_label">Doppelklicken um das Display anzusehen</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Damit die Kachel die Einstellung "Doppelklicken um das Display anzusehen" ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--always on-->
-    <string name="always_on_tile_label">Always on</string>
-    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <string name="always_on_tile_label">Immer aktiv</string>
+    <string name="always_on_tile_alert_dialog_message">Damit die Kachel die Einstellung "Immer aktiv" ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
 </resources>

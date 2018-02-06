@@ -312,79 +312,79 @@
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Nektet. Knappen har ikke lov til endre vibrering for anrop</string>
     <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Gitt. Knappen har lov til endre vibrering for anrop</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å slå batterisparer på og av</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å slå batterisparer på og av</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre USB-feilsøking</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre USB-feilsøking</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Endre mobildata tilstand</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Åpne mobildata innstillinger</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Åpne mobildata bruksinnstillinger</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Velg snarvei</string>
+    <string name="settings_shortcuts_tile_summary_empty">Ingen snarvei valgt</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Nektet. Knappen har ikke lov til å starte telefonsamtaler og gjennomføre direkte anrop snarveier</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Gitt. Knappen har lov til å starte telefonsamtaler og gjennomføre direkte anrop snarveier</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Endre bluetooth tilstand</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Åpne bluetooth innstillinger</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre monochromacy</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Vis inntastingsmetodevelger</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Åpne inntastingsmetodeinnstillinger</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Valgte kontakt</string>
+    <string name="settings_contacts_tile_summary_empty">Ingen kontakt valgt</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre invertete farger</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre invertete farger</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Åpne lagringsinnstillinger</string>
+    <string name="settings_storage_tile_action_open_file_manager">Åpne filbehandler</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">Helse</string>
+    <string name="settings_battery_details_tile_temperature">Temperatur</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperaturenheter</string>
+    <string name="settings_battery_details_tile_voltage">Spenning</string>
+    <string name="settings_battery_details_tile_technology">Teknologi</string>
     <!--activities-->
-    <string name="settings_activities_tile_activity_label">Activity</string>
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_activities_tile_activity_label">Aktivitet</string>
+    <string name="settings_no_activity_selected">Ingen aktivitet valgt</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
+        <item quantity="one">%d aktivitet funnet</item>
+        <item quantity="other">%d aktiviteter funnet</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Brukt</string>
+    <string name="settings_memory_tile_total">Totalt</string>
+    <string name="settings_memory_tile_threshold">Terskel</string>
+    <string name="settings_memory_tile_low_memory">Lite minne</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">Tilbakestill verdi</string>
+    <string name="settings_counter_tile_current_value">Nåværende verdi</string>
+    <string name="settings_counter_tile_action_addition">Addisjon</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraksjon</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Aktivert. Knappen har lov til å låse kameraet</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Deaktivert. Knappen har ikke lov til å låse kameraet</string>
     <!--network traffic-->
-    <string name="settings_network_traffic_tile_total_received">Total received</string>
-    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
-    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
-    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <string name="settings_network_traffic_tile_total_received">Totalt mottatt</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Totalt overført</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobil mottatt</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobil overført</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">Kast en terning</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Kast to terninger</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre løft for å sjekke</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre løft for å sjekke</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre dobbel-trykk for å sjekke</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre dobbel-trykk for å sjekke</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Gitt. Knappen har lov til å endre "always on"</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Nektet. Knappen har ikke lov til å endre "always on"</string>
 </resources>

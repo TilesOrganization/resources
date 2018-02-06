@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something went wrong. Please try again</string>
-    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">High</string>
+    <string name="something_went_wrong">Noe gikk galt. Vennligst prøv igjen</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Noe gikk galt. Vennligst sjekk om enheten har en aktiv nettverkstilkobling.</string>
+    <string name="location_off_alert_dialog_message">Posisjon er av. For å tillate knappen til å få nåværende posisjon, vennligst åpne innstillinger og aktiver posisjon.</string>
+    <string name="location_device_only_alert_dialog_message">Posisjonmodus er bare Enhet. For raskere og mer nøye resultat, vennligst åpne innstillinger og aktiver en annen posisjonmodus.</string>
+    <string name="resolve_activity_alert_dialog_message">Ingen applikasjoner funnet for å gjennomføre denne handlingen.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Aktivitet kan ikke bli startet.</string>
+    <string name="su_alert_dialog_message">For å gjennomføre en slik handling, vennligst gi "superuser" tillatelser for et interaktivt skall.</string>
+    <string name="play_services_alert_dialog_message">Google Play Tjenester er krevet for å gjennomføre en slik handling. Vennligst innstaller den og prøv igjen.</string>
+    <string name="high">Høy</string>
     <string name="medium">Medium</string>
-    <string name="low">Low</string>
+    <string name="low">Lav</string>
     <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
     <string name="not_available">Not available</string>
     <string name="cancel">Cancel</string>

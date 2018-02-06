@@ -462,16 +462,16 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">Dados móveis transmitidos: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Dado</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Registro de notificação</string>
     <!--lift to check-->
-    <string name="lift_to_check_tile_label">Lift to check</string>
-    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <string name="lift_to_check_tile_label">Levantar para ativar</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Para permitir que o bloco altere o gesto acordar ao levantar, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
     <!--double-tap to check-->
-    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
-    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <string name="double_tap_to_check_tile_label">Toque duplo para ativar</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Para permitir que o bloco altere o gesto de toque duplo, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
     <!--always on-->
-    <string name="always_on_tile_label">Always on</string>
-    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <string name="always_on_tile_label">Sempre ativo</string>
+    <string name="always_on_tile_alert_dialog_message">Para permitir que o bloco altere o modo sempre ativo, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
 </resources>

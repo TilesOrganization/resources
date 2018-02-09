@@ -101,15 +101,15 @@
     <string name="nfc_tile_service_description">Tjeneste for å observere NFC tilstand, den vil bli stoppet når knappen er fjernet. Ved å stoppe den kan føre til at knappen svikter.</string>
     <string name="nfc_tile_alert_dialog_message">For å gi knappen tilgang til å endre NFC tilstanden, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--power-->
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
-    <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">For å gi knappen tilgang til å vise system strøm-menyen, vennligst åpne innstillinger og aktiver tilgjengelighetstjeneste.</string>
+    <string name="power_tile_action_system_power_dialog">System strøm-meny</string>
+    <string name="power_tile_action_power_dialog">Strøm-meny</string>
+    <string name="power_tile_label">Strøm</string>
+    <string name="power_tile_action_reboot">Omstart</string>
     <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
     <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
     <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_off">Slå av</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Ringer mode</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>

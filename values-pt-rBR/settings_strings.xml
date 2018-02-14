@@ -89,6 +89,7 @@
     <string name="settings_translations_locale_ja">Japonês</string>
     <string name="settings_translations_locale_tr">Turco</string>
     <string name="settings_translations_locale_zh_rCN">Chinês simplificado</string>
+    <string name="settings_translations_locale_nb">Bokmål norueguês</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do bloco</string>
     <string name="settings_component_summary_off">Esconder o bloco no layout de Configurações Rápidas</string>
@@ -376,15 +377,15 @@
     <string name="settings_network_traffic_tile_mobile_received">Dados móveis recebidos</string>
     <string name="settings_network_traffic_tile_mobile_transmitted">Dados móveis transmitidos</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Jogar um dado</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Jogar dois dados</string>
+    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo ativar ao levantar</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo ativar ao levantar</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo toque duplo para ativar</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo toque duplo para ativar</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo sempre ativo</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo sempre ativo</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
 </resources>

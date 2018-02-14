@@ -89,6 +89,7 @@
     <string name="settings_translations_locale_ja">Japonês</string>
     <string name="settings_translations_locale_tr">Turco</string>
     <string name="settings_translations_locale_zh_rCN">Chinês simplificado</string>
+    <string name="settings_translations_locale_nb">Bokmål norueguês</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do mosaico</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>

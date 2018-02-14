@@ -61,7 +61,7 @@
     <string name="description_stopwatch_tile">Vis en dialog med en stoppeklokke.</string>
     <string name="description_storage_tile">Åpne lagringsinnstillinger eller start Androids innebygde fil utforsker for å utforske lagringen til enheten.</string>
     <string name="description_street_view_tile">Start Googles proprietære «Street View» app, hvis installert, og vise posisjonen til enheten. Denne knappen bruker «Google Awareness API».\nPosisjon tillatelser er krevet for å bruke denne knappen.</string>
-    <string name="description_sync_tile">Slå «sync» på eller av, elelr åpne «sync» innstillinger.</string>
+    <string name="description_sync_tile">Slå «sync» på eller av, eller åpne «sync» innstillinger.</string>
     <string name="description_text_tile">Åpne en dialog for å skrive hva som helst, for å kopiere, for å dele, eller for å lagre med en tredjepartsapp som kan motta Androids originale kringkasting for å dele tekst.</string>
     <string name="description_timer_tile">Start en nedtellingsklokke. Handlingen er kompitabel med tredjepartsapper som kan motta Androids originale kringkasting for å starte en nedtellingsklokke.</string>
     <string name="description_touch_sounds_tile">Slå lommelykt lyder på eller av.\nModifisere systeminnstillinger tillatelse er krevet for å bruke denne knappen.</string>

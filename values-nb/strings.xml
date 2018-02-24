@@ -245,233 +245,232 @@
     <string name="settings_shortcut_tile_action_battery_optimization">Batterioptimalisering</string>
     <string name="settings_shortcut_tile_action_location_sources">Posisjon</string>
     <string name="settings_shortcut_tile_action_manage_overlay">Apper som kan ligge over andre apper</string>
-    <string name="settings_shortcut_tile_action_manage_write">Can modify system settings</string>
-    <string name="settings_shortcut_tile_action_network_operators">Network operators</string>
+    <string name="settings_shortcut_tile_action_manage_write">Kan endre systeminnstilliger</string>
+    <string name="settings_shortcut_tile_action_network_operators">Nettverk operatører</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>
-    <string name="settings_shortcut_tile_action_notification_listener">Notification access</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Vareltilgang</string>
     <string name="settings_shortcut_tile_action_printing">Printing</string>
-    <string name="settings_shortcut_tile_action_search">Search</string>
-    <string name="settings_shortcut_tile_action_security">Security</string>
-    <string name="settings_shortcut_tile_action_sound">Sound</string>
-    <string name="settings_shortcut_tile_action_sync">Sync</string>
-    <string name="settings_shortcut_tile_action_usage_access">Apps with usage access</string>
-    <string name="settings_shortcut_tile_action_user_dictionary">Personal dictionary</string>
-    <string name="settings_shortcut_tile_action_voice_input">Assist &amp; voice input</string>
+    <string name="settings_shortcut_tile_action_search">Søk</string>
+    <string name="settings_shortcut_tile_action_security">Sikkerhet</string>
+    <string name="settings_shortcut_tile_action_sound">Lyd</string>
+    <string name="settings_shortcut_tile_action_sync">Synkroniser</string>
+    <string name="settings_shortcut_tile_action_usage_access">Apper med bruksdatatilgang</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Personlig ordbok</string>
+    <string name="settings_shortcut_tile_action_voice_input">Assistent &amp; Stemmeinngang</string>
     <string name="settings_shortcut_tile_action_vpn">VPN</string>
-    <string name="settings_shortcut_tile_action_vr_listener">VR helper services</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VR hjelpetjenester</string>
     <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
-    <string name="settings_shortcut_tile_action_wireless">Wireless &amp; networks</string>
+    <string name="settings_shortcut_tile_action_wireless">Trådløs &amp; nettverk</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Skriftstørrelse</string>
+    <string name="font_size_tile_alert_dialog_message">For å gi knappen tilgang til å endre skriftstørrelsen, vennligst åpne innstillinger og gi endre systeminnstillinger tillatelse.</string>
     <!--voice-->
-    <string name="voice_tile_label">Voice</string>
+    <string name="voice_tile_label">Stemme</string>
     <!--text-->
-    <string name="text_tile_label">Text</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_label">Tekst</string>
+    <string name="text_tile_empty_chat_text_field">Ingen tekst lagt til, vennligst skriv inn innhold.</string>
     <!--data roaming-->
     <string name="data_roaming_tile_label">Data roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_alert_dialog_message">For å gi knappen tilgang til å endre data roaming, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--density-->
-    <string name="density_tile_label">Density</string>
-    <string name="density_tile_label_formatted">Density: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Smallest width: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Screen size: &lt;b>%1$dx%2$d&lt;/b>px</string>
-    <string name="density_tile_density_default_formatted">Default: %ddp</string>
-    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
+    <string name="density_tile_label">Tetthet</string>
+    <string name="density_tile_label_formatted">Tetthet: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Miste bredde: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Skjermstørrelse: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">Original: %ddp</string>
+    <string name="density_tile_density_low">Lav (ldpi): ~120dpi</string>
     <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
-    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
-    <string name="density_tile_density_custom">Custom density</string>
+    <string name="density_tile_density_high">Høy (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">XHøy (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">XXHøy (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">XXXHøy (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">Egendefinert tetthet</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">Hold våken når plugget inn</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">For å gi knappen tilgang til å endre hold våken når plugget inn, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">Tillater en applikasjon å få state dump informasjon frå system tjenester. Tillatelser med dette beskyttelsesnivået er bare gitt til system-apper. Hvis en app er en normal ikke-system app, vil den aldri kunne bruke disse tillatelsene.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Tiles har fått superuser tillatelser for et interaktivt skall. Vil du programatisk %s dumpe tillatelser med superuser interaktivt skall?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">For å manuelt %1$s tillatelse, koble til enheten din til en computer og kjør følgende adb kommando: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
+    <string name="demo_mode_tile_label">Demo modus</string>
+    <string name="demo_mode_tile_alert_dialog_message">For å gi knappen tilgang til å endre demo modus, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse og dump tillatelse.</string>
+    <string name="demo_mode_tile_system_bars">Systemlinjer</string>
+    <string name="demo_mode_tile_system_bars_transparent">Gjennomsiktig</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Halvgjennomsiktig</string>
+    <string name="demo_mode_tile_system_bars_translucent">Gjennomskinnelig</string>
+    <string name="demo_mode_tile_system_bars_opaque">Ugjennomsiktig</string>
+    <string name="demo_mode_tile_system_bars_warning">Advarsel</string>
+    <string name="demo_mode_tile_battery">Batteri</string>
+    <string name="demo_mode_tile_state_plugged">Plugget</string>
+    <string name="demo_mode_tile_state_unplugged">Utplugget</string>
     <string name="demo_mode_tile_level_formatted">Level %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
+    <string name="demo_mode_tile_state_disconnected">Frakoblet</string>
+    <string name="demo_mode_tile_state_connected">Tilkoblet</string>
+    <string name="demo_mode_tile_mobile">Mobilnettverk</string>
     <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
+    <string name="demo_mode_tile_notifications">Varsler</string>
     <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_location">Posisjon</string>
+    <string name="demo_mode_tile_clock">Klokke</string>
+    <string name="demo_mode_tile_mute">Dempe</string>
+    <string name="demo_mode_tile_speakerphone">Telefonhøyttaler</string>
+    <string name="demo_mode_tile_vibrate">Vibrer</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_label">Utklippstavlen</string>
+    <string name="clipboard_tile_empty_clip">Utklippstavlen inneholder ikke tekst.</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\u2019t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Heads-up varsler</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">For å gi knappen tilgang til å endre heads-up varsler, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Android frameworks avdekker ikke noen synlige innstillinger for å endre heads-up varsler. Vennligst vær sikker på å skru heads-up varsler på igjen før du avinstallerer appen for å riktig gjennopprette den originale oppførselen.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Flervindu</string>
+    <string name="multi_window_tile_alert_dialog_message">For å gi knappen tilgang til å veksle flervindu, vennligst åpne innstillinger og aktiver tilgjengelighetstjeneste.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Nylige-skjerm</string>
+    <string name="recents_screens_tile_alert_dialog_message">For å gi knappen tilgang til å vise nylige-skjermen, vennligst åpne innstillinger og aktiver tilgjengelighetstjeneste.</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
+    <string name="volumes_tile_label">Volumer</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">For å gi knappen tilgang til å endre ringevolumet, vennligst åpne innstillinger og gi Ikke Fortyrr tilgang.</string>
+    <string name="volumes_tile_volume_keys_disabled">Volumknapper midlertidlig deaktivert</string>
     <string name="volumes_tile_volume_alarm">Alarm</string>
-    <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_volume_media">Medier</string>
+    <string name="volumes_tile_volume_ring">Ringe</string>
+    <string name="volumes_tile_volume_call">Anrop</string>
     <!--vibrate on tap-->
-    <string name="vibrate_on_tap_tile_label">Vibrate on tap</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_label">Vibrer på trykk</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">For å gi knappen tilgang til å endre vibrer på trykk, vennligst åpne innstillinger og gi endre systeminnstillinger tillatelse.</string>
     <!--touch sounds-->
-    <string name="touch_sounds_tile_label">Touch sounds</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_label">Trykklyder</string>
+    <string name="touch_sounds_tile_alert_dialog_message">For å gi knappen tilgang til å endre trykklyder, vennligst åpne innstilligner og gi endre systeminnstilllinger tillatelse.</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">Rotasjonslås</string>
+    <string name="orientation_lock_tile_alert_dialog_message">For å gi knappen tilgang til å endre låseretningen, vennligst åpne innstilligner og gi endre systeminnstilllinger tillatelse.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Rotasjon 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Rotasjon 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Rotasjon 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Rotasjon 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotasjon</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">Vibrer for anrop</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">For å gi knappen tilgang til å endre vibrer for anrop, vennligst åpne innstilligner og gi endre systeminnstilllinger tillatelse.</string>
     <!--battery saver-->
-    <string name="battery_saver_tile_label">Battery saver</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
-    <string name="battery_saver_tile_device_charging_alert_dialog_message">Battery saver not available during charging.</string>
+    <string name="battery_saver_tile_label">Batterisparer</string>
+    <string name="battery_saver_tile_alert_dialog_message">For å gi knappen tilgang til å slå batterisparer på og av, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Batterisparer er ikke tilgjengelig under lading.</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">USB debugging</string>
-    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <string name="usb_debugging_tile_label">USB feilsøking</string>
+    <string name="usb_debugging_tile_alert_dialog_message">For å gi knappen tilgang til å endre USB feilsøking, vennligst åpne innstilliger og gi skrive sikre innstilligner tillatslse.</string>
     <!--cellular data-->
-    <string name="cellular_data_tile_label">Cellular data</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_label">Mobildata</string>
+    <string name="cellular_data_tile_mobile_network_label">Mobilnettverk</string>
+    <string name="cellular_data_tile_data_usage_label">Databruk</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">Medier volum</string>
+    <string name="media_volume_tile_formatted_label">Medier volume: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_label">Snarveier</string>
+    <string name="shortcut_a_tile_label">Snarvei #1</string>
+    <string name="shortcut_c_tile_label">Snarvei #3</string>
+    <string name="shortcut_d_tile_label">Snarvei #4</string>
+    <string name="shortcut_e_tile_label">Snarvei #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Ingen snarvei valgt, vennligst åpne innstillinger og velg snarvei.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Noe gikk galt, vennligst åpne innstilliner og gjennomgå valgte snarvei.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">For å gi knappen tilgang til å utføre anrop snarverier, vennligst åpne innstillinger og gi telefonsamtale tillatelse.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Handling ikke tilgjengelig. Enheten støtter ikke bluetooth</string>
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">Monochromacy</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_alert_dialog_message">For å gi knappen tilgang til å endre monochromacy, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Inngangsmetode</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contacts_tile_label">Kontakter</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Ingen kontakt valgt, vennligst åpne innstillinger og velg kontakt.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Noe gikk galt, vennligst åpne innstillinger og gjennomgå valgte kontakt.</string>
+    <string name="contact_a_tile_label">Kontakt #1</string>
+    <string name="contact_b_tile_label">Kontakt #2</string>
+    <string name="contact_c_tile_label">Kontakt #3</string>
+    <string name="contact_d_tile_label">Kontakt #4</string>
+    <string name="contact_e_tile_label">Kontakt #5</string>
     <!--invert colors-->
-    <string name="invert_colors_tile_label">Invert colors</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_label">Inverter farger</string>
+    <string name="invert_colors_tile_alert_dialog_message">For å gi knappen tilgang til å invertere farger, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!-- mono audio -->
-    <string name="mono_audio_tile_label">Mono audio</string>
+    <string name="mono_audio_tile_label">Mono lyd</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Varsellys</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">Batteridetaljer</string>
+    <string name="battery_details_tile_formatted_battery_level">Batterilevel: %1d%%</string>
+    <string name="battery_details_tile_discharging">Utlader</string>
+    <string name="battery_details_tile_formatted_charging">Lader: %s</string>
     <string name="battery_details_tile_usb">USB</string>
     <string name="battery_details_tile_ac">AC</string>
-    <string name="battery_details_tile_wireless">Wireless</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_wireless">Trådløs</string>
+    <string name="battery_details_tile_formatted_health">Helse: %s</string>
+    <string name="battery_details_tile_health_cold">Kalt</string>
+    <string name="battery_details_tile_health_dead">Dødt</string>
+    <string name="battery_details_tile_health_good">Bra</string>
+    <string name="battery_details_tile_health_over_voltage">Over spenning</string>
+    <string name="battery_details_tile_health_overheat">Overopphetet</string>
+    <string name="battery_details_tile_unknown">Ukjendt</string>
+    <string name="battery_details_tile_unspecified_failure">Uspesifisert feil</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatur: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Spenning: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Teknologi: %s</string>
     <!--uptime-->
-    <string name="up_time_tile_label">Up time</string>
-    <string name="up_time_tile_formatted_uptime">Up time: %s</string>
+    <string name="up_time_tile_label">Oppetid</string>
+    <string name="up_time_tile_formatted_uptime">Oppetid: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Aktiviteter</string>
+    <string name="activity_a_tile_label">Aktivitet #1</string>
+    <string name="activity_b_tile_label">Aktivitet #2</string>
+    <string name="activity_c_tile_label">Aktivitet #3</string>
+    <string name="activity_d_tile_label">Aktivitet #4</string>
+    <string name="activity_e_tile_label">Aktivitet #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Ingen aktivitet valgt, vennligst åpne innstillinger og velg aktivitet.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">Stoppeklokke</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">Minne</string>
+    <string name="memory_tile_formatted_available_memory">Tilgjenegelig: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Totalt: %s</string>
+    <string name="memory_tile_formatted_used_memory">Brukt: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Grense: %s</string>
+    <string name="memory_tile_low_memory">Lavt minne</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_label">Teller</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Verdi kan ikke bli lagt til: maksimum heltallverdi har blitt nådd.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Verdi kan ikke bli trekt fra: minimum heltallverdi har blitt nådd.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Kameralås</string>
+    <string name="camera_lock_tile_alert_dialog_message">For å gi knappen tilgang til å låse kameraet, vennligst åpne innstillinger og aktiver det som enhetsadministrator.</string>
     <!--network traffic-->
-    <string name="network_traffic_tile_label">Network traffic</string>
-    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
-    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <string name="network_traffic_tile_label">Nettverk trafikk</string>
+    <string name="network_traffic_tile_formatted_total_received">Totalt mottatt: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Totalt sendt: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Mobile mottatt: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobil sendt: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Nedlasting: %1s/s - Opplasting: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Terning</string>
     <!--notification log-->
-    <string name="notification_log_tile_label">Notification log</string>
+    <string name="notification_log_tile_label">Varsellogg</string>
     <!--lift to check-->
-    <string name="lift_to_check_tile_label">Lift to check</string>
-    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <string name="lift_to_check_tile_label">Løft for å sjekke</string>
+    <string name="lift_to_check_tile_alert_dialog_message">For å gi knappen tilgang til å endre løft for å sjekke, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--double-tap to check-->
-    <string name="double_tap_to_check_tile_label">Double-tap to check</string>
-    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <string name="double_tap_to_check_tile_label">Dobbeltrykk for å sjekke</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">For å gi knappen tilgang til å endre dobbeltrykk for å sjekke, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--always on-->
     <string name="always_on_tile_label">Always on</string>
-    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <string name="always_on_tile_alert_dialog_message">For å gi knappen tilgang til å endre always on, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
 </resources>

@@ -189,29 +189,29 @@
     <string name="location_tile_label_high_accuracy">Høy nøyaktighet</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Sikre systeminnstillinger inneholder systempreferanser som applikasjoner kan lese men er ikke tillat å skrive. Tillatelse med dette beskyttelse nivået er bare gitt til system-apper. Hvis en app er en normal ikke-system app, vil den aldri vere i stand til å bruke denne tillatelsen.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="permission_dialog_message_grant">Grant</string>
-    <string name="permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles har blitt gitt "superuser" tillatelser for et interaktivt skall. Vil du programatisk skrive sikre tillatesler med "superuser" interaktivt skall?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">For å manuelt %1$s tillatelse, koble enheten din til en computer og kjør den følgende adb kommandoen: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">Gi</string>
+    <string name="permission_dialog_message_revoke">Nekt</string>
     <!--timer H M S symbols -->
-    <string name="hour_symbol">H</string>
+    <string name="hour_symbol">T</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Dvale</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
+    <string name="screenshot_tile_label">Skjermbilde</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">For å gi knappen lov til å ta og lagre skjermbilde, vennligst åpne innstillinger og gi skrive ekstern lagring tillatelse.</string>
+    <string name="screenshot_tile_screenshot_captured">Skjermbilde tatt.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Trykk for å se ditt skjermbilde.</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_label">Nedsenkende modus</string>
+    <string name="immersive_mode_tile_off">Nedsenkende modus av</string>
+    <string name="immersive_mode_tile_hide_system_bars">Skjul systemlinjer</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Skjul navigeringslinje</string>
+    <string name="immersive_mode_tile_hide_status_bar">Skjul statuslinje</string>
+    <string name="immersive_mode_tile_alert_dialog_message">For å gi knappen tilgang til å endre nedsenkende modus, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Nedsenkende modus er aktivt, det deaktiveres når enheten går i dvalemodus.</string>
     <!--ambient display-->
     <string name="ambient_display_tile_label">Ambient display</string>
     <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>

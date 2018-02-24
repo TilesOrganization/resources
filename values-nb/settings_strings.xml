@@ -4,8 +4,8 @@
     <string name="settings">Innstillinger</string>
     <string name="settings_design">Design</string>
     <string name="settings_animations">Animasjoner</string>
-    <string name="settings_animations_reveal_animation_title">Avsløre animasjon</string>
-    <string name="settings_animations_drawable_animation_title">Teikn animasjon</string>
+    <string name="settings_animations_reveal_animation_title">Avsløringsanimasjon</string>
+    <string name="settings_animations_drawable_animation_title">Teikneanimasjon</string>
     <string name="settings_enabled">Aktivert</string>
     <string name="settings_disabled">Deaktivert</string>
     <string name="settings_action">Handling</string>
@@ -32,19 +32,19 @@
     <string name="settings_add_star">Legg til stjerne</string>
     <string name="settings_remove_star">Fjern stjerne</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigeringslinjetone</string>
+    <string name="settings_design_navigation_bar_tint_title">Navigeringslinjefarge</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Ingen fargetone</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Farge primær mørk</string>
-    <string name="settings_design_navigation_bar_tint_primary">Farge primær</string>
-    <string name="settings_design_navigation_bar_tint_accent">Farge aksent</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Primær mørk farge</string>
+    <string name="settings_design_navigation_bar_tint_primary">Primær farge</string>
+    <string name="settings_design_navigation_bar_tint_accent">Aksent farge</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Navigeringslinjetone</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Farge primær mørk</string>
-    <string name="settings_design_status_bar_tint_primary">Farge primær</string>
-    <string name="settings_design_status_bar_tint_accent">Farge aksent</string>
+    <string name="settings_design_status_bar_tint_title">Statuslinjefarge</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Primær mørk farge</string>
+    <string name="settings_design_status_bar_tint_primary">Primær farge</string>
+    <string name="settings_design_status_bar_tint_accent">Aksent farge</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">Statuslinjeikoner</string>
-    <string name="settings_design_status_bar_icons_light">Lyse ikone</string>
+    <string name="settings_design_status_bar_icons_light">Lyse ikoner</string>
     <string name="settings_design_status_bar_icons_dark">Mørke ikoner</string>
     <!--advanced-->
     <string name="settings_advanced">Avansert</string>
@@ -69,8 +69,8 @@
     <string name="settings_support_title">Takk for din støtte!</string>
     <string name="settings_send_email">Send e-post</string>
     <string name="settings_support_summary">Utviklet for Android Nougat &amp; Android Oreo</string>
-    <string name="settings_credit">Kreditt</string>
-    <string name="settings_credit_app_icon">Applikasjoners ikon</string>
+    <string name="settings_credit">Kreditter</string>
+    <string name="settings_credit_app_icon">Applikasjonens ikon</string>
     <string name="settings_translations">Oversettelser</string>
     <string name="settings_translations_thanks">Hvis du vil hjelpe til med å oversette appen til ditt språk, så er det bare til å kontakte meg: rascarlo@gmail.com.\nTusen takk!</string>
     <string name="settings_translations_locale_de">Tysk</string>
@@ -92,7 +92,7 @@
     <string name="settings_translations_locale_nb">Norsk bokmål</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Knapp synlighet</string>
-    <string name="settings_component_summary_off">Skjul knappen i Hurtig Innstillinger oppsettet</string>
+    <string name="settings_component_summary_off">Skjul knappen i Hurtiginnstillinger oppsettet</string>
     <string name="settings_component_summary_on">Vis knappen i Hurtig Innstillinger oppsettet</string>
     <string name="settings_tile_action_start_service_and_collapse">Kollaps Hurtig Innstillinger panelet og start tjeneste</string>
     <string name="settings_tile_action_start_service_without_collapsing">Start tjeneste uten å kollapse Hurtig Innstillinger panelet</string>

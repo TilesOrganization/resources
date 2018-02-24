@@ -213,38 +213,38 @@
     <string name="immersive_mode_tile_alert_dialog_message">For å gi knappen tilgang til å endre nedsenkende modus, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <string name="immersive_mode_tile_foreground_service_message">Nedsenkende modus er aktivt, det deaktiveres når enheten går i dvalemodus.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Omgivende visning</string>
+    <string name="ambient_display_tile_alert_dialog_message">For å gi knappen tilgang til å endre omgivende vsning, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
-    <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label">Animasjoner</string>
+    <string name="animations_tile_label_animator">Animatør</string>
+    <string name="animations_tile_label_transition">Overgang</string>
+    <string name="animations_tile_label_window">Vindu</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animasjon av</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Varighets lengde %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">For å gi knappen tilgang til å endre animasjoner, vennligst åpne innstillinger og gi skrive sikre innstillinger tillatelse.</string>
     <!--alarm-->
     <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_no_alarm_set">Ingen alarm satt</string>
     <!--storage-->
-    <string name="storage_tile_label">Storage</string>
+    <string name="storage_tile_label">Lagring</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
-    <string name="settings_shortcut_tile_action_accessibility">Accessibility</string>
-    <string name="settings_shortcut_tile_action_add_account">Add an account</string>
+    <string name="settings_shortcut_tile_label">Innstillinger snarvei</string>
+    <string name="settings_shortcut_tile_action_accessibility">Tilgjengelighet</string>
+    <string name="settings_shortcut_tile_action_add_account">Legg til en bruker</string>
     <string name="settings_shortcut_tile_action_apn">APNs</string>
-    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
-    <string name="settings_shortcut_tile_action_battery_saver">Battery saver</string>
+    <string name="settings_shortcut_tile_action_application_settings">Apper</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Batterisparer</string>
     <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
-    <string name="settings_shortcut_tile_action_captions">Captions</string>
+    <string name="settings_shortcut_tile_action_captions">Teksting</string>
     <string name="settings_shortcut_tile_action_cast">Cast</string>
-    <string name="settings_shortcut_tile_action_data_roaming">Cellular networks</string>
-    <string name="settings_shortcut_tile_action_date">Date &amp; time</string>
-    <string name="settings_shortcut_tile_action_device_info">Phone status</string>
-    <string name="settings_shortcut_tile_action_display">Display</string>
-    <string name="settings_shortcut_tile_action_battery_optimization">Battery optimization</string>
-    <string name="settings_shortcut_tile_action_location_sources">Location</string>
-    <string name="settings_shortcut_tile_action_manage_overlay">Apps that can draw over other apps</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Mobilnettverk</string>
+    <string name="settings_shortcut_tile_action_date">Dato &amp; tid</string>
+    <string name="settings_shortcut_tile_action_device_info">Telefonstatus</string>
+    <string name="settings_shortcut_tile_action_display">Skjerm</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Batterioptimalisering</string>
+    <string name="settings_shortcut_tile_action_location_sources">Posisjon</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Apper som kan ligge over andre apper</string>
     <string name="settings_shortcut_tile_action_manage_write">Can modify system settings</string>
     <string name="settings_shortcut_tile_action_network_operators">Network operators</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>

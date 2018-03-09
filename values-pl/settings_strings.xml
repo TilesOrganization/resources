@@ -60,14 +60,14 @@
     <string name="settings_feedback">Opinia &amp; Wsparcie</string>
     <string name="settings_privacy_policy">Politya prywatności</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_wiki_device_administrator">Administator użądzenia</string>
+    <string name="settings_wiki_device_administrator">Administator urządzenia</string>
     <string name="settings_wiki_accessibility_service">Usłga dostępności</string>
     <string name="settings_wiki_how_to_add_tiles">Jak dodać kafelki</string>
     <string name="settings_wiki_how_to_enable_hidden_tiles">Jak włączyć ukryte kafelki</string>
     <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Jak używać ADB aby przyznać uprawnienia</string>
     <string name="settings_rate_or_review">Oceń lub zrecenzuj apliakcję</string>
     <string name="settings_support_title">Dzieki za twoje wsparcie!</string>
-    <string name="settings_send_email">Wyślij mail'a</string>
+    <string name="settings_send_email">Wyślij maila</string>
     <string name="settings_support_summary">Stworzone pod Androida Nougat &amp; Androida Oreo</string>
     <string name="settings_credit">Twórcy</string>
     <string name="settings_credit_app_icon">Ikony apliacji</string>
@@ -101,13 +101,13 @@
     <string name="settings_stop_on_sleep_summary_off">Zostaw usługę włączoną, mimo tego, że urządzenie przeszło w stań uśpienia</string>
     <string name="settings_stay_awake">Pozostaw włączone</string>
     <string name="settings_stay_awake_summary_on">Zostaw urządzenie włączone</string>
-    <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejsć w stan uśpeinia</string>
+    <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejsć w stan uśpienia</string>
     <!--adaptive brightness-->
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Nope. Kafelek nie ma pozwolenia, żeby zmienić trybu automatycznego podświetlania</string>
     <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Ok. Kafelek może zmienić tryb automatycznego podświetlnia</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Pokaż wszystkie apliakcje</string>
-    <string name="settings_application_tile_action_show_selected_apps">Pokaż zaznaczone apliakcje</string>
+    <string name="settings_application_tile_action_show_all_apps">Pokaż wszystkie aplikacje</string>
+    <string name="settings_application_tile_action_show_selected_apps">Pokaż zaznaczone aplikacje</string>
     <string name="settings_application_tile_single_app">Pojedyncza aplikacja</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
         <item quantity="one">%d aplikacja zaznaczona</item>
@@ -115,7 +115,7 @@
         <item quantity="few">%d aplikacje zaznaczone</item>
         <item quantity="many">%d aplikacji zaznaczonych</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Zaznaczone apliakcje</string>
+    <string name="settings_application_tile_selected_app">Zaznaczone aplikacje</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">Tryb podglądu</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>

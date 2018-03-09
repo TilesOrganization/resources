@@ -103,60 +103,60 @@
     <string name="settings_stay_awake_summary_on">Zostaw urządzenie włączone</string>
     <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejsć w stan uśpeinia</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Nope. Kafelek nie ma pozwolenia, żeby zmienić trybu automatycznego podświetlania</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Ok. Kafelek może zmienić tryb automatycznego podświetlnia</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">Pokaż wszystkie apliakcje</string>
+    <string name="settings_application_tile_action_show_selected_apps">Pokaż zaznaczone apliakcje</string>
+    <string name="settings_application_tile_single_app">Pojedyncza aplikacja</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
-        <item quantity="few">%d applications selected</item>
-        <item quantity="many">%d applications selected</item>
+        <item quantity="one">%d aplikacja zaznaczona</item>
+        <item quantity="other">%d aplikacje zaznaczone</item>
+        <item quantity="few">%d aplikacje zaznaczone</item>
+        <item quantity="many">%d aplikacji zaznaczonych</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">Zaznaczone apliakcje</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">Tryb podglądu</string>
+    <string name="settings_application_tile_view_mode_list">Lista</string>
+    <string name="settings_application_tile_view_mode_grid">Siatka</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Siatka bez tytułów</string>
+    <string name="settings_application_tile_grid_columns">Kolumna siatki</string>
+    <string name="settings_application_tile_application_list_show_title">Aplikacje do pokazania</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d aplikacji zaznaczonych</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nie zaznaczono żadnych aplikacji</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplikacja do uruchomeina</string>
+    <string name="settings_application_tile_loading_applications">Ładowanie aplikacji…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Nope. Kafelek nie może zmienić poziom natężenia podświetlenia</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Ok. Kafelek może zmienić poziom natężenia podświetlania</string>
+    <string name="settings_brightness_tile_action_change_brightness">Zmień jasność</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Poziom jasności</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Najjaśniejszy: %1$d%%\nNormaly: %2$d%%\nCiemny: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Otwórz aplikację telefonu</string>
+    <string name="settings_call_tile_action_make_call">Zadzwoń na wybrany kontakt</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Pozwolenie na wykonaie rozmowy</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Nope. Kafelek nie może wykonywać rozmów</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">ok. Kafelek może wykonać rozmowę</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Kontakt do zadzwonienia</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">Otwórz klienta poczty</string>
+    <string name="settings_email_tile_action_send_email">Utwórz email dla wybranego odbiorcy</string>
+    <string name="settings_email_tile_contact_preference_title">Kontakt do maila</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Administator urządzenia</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Ok. Kafelek może blokować urząrzenie</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Nope. Kafelek nie może blokować urządzenia</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Dostęp do tyrbu Nie Przeszkadzać</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Ok. Kafelek może włączać/wyłączać tryb Nie Przeszkadzać i zmieniać powiązane z nim ustawienia</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Nope. Kafelek nie może może włączać/wyłączać tryb Nie Przeszkadzać i zmieniać powiązane z nim ustawień</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Otwórz panel głośności</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Zmień tryb dzwonka</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Zagraj dźwięk</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string> <!-- Need to be translated-->
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Odtwarzaj domyślne dźwięki</string>
     <!--caffeine-->
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>

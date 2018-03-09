@@ -189,7 +189,7 @@
     <string name="location_tile_label_high_accuracy">Høy nøyaktighet</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Sikre systeminnstillinger inneholder systempreferanser som applikasjoner kan lese men er ikke tillat å skrive. Tillatelse med dette beskyttelse nivået er bare gitt til system-apper. Hvis en app er en normal ikke-system app, vil den aldri vere i stand til å bruke denne tillatelsen.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles har blitt gitt "superuser" tillatelser for et interaktivt skall. Vil du programatisk skrive sikre tillatesler med "superuser" interaktivt skall?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles har blitt gitt "superuser" tillatelser for et interaktivt skall. Vil du programatisk %s skrive sikre tillatesler med "superuser" interaktivt skall?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">For å manuelt %1$s tillatelse, koble enheten din til en computer og kjør den følgende adb kommandoen: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">Gi</string>
     <string name="permission_dialog_message_revoke">Nekt</string>
@@ -377,6 +377,7 @@
     <!-- shortcuts -->
     <string name="shortcuts_tile_label">Snarveier</string>
     <string name="shortcut_a_tile_label">Snarvei #1</string>
+    <string name="shortcut_b_tile_label">Snarvei #2</string>
     <string name="shortcut_c_tile_label">Snarvei #3</string>
     <string name="shortcut_d_tile_label">Snarvei #4</string>
     <string name="shortcut_e_tile_label">Snarvei #5</string>

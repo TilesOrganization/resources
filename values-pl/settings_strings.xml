@@ -112,6 +112,8 @@
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
         <item quantity="one">%d application selected</item>
         <item quantity="other">%d applications selected</item>
+        <item quantity="few">%d applications selected</item>
+        <item quantity="many">%d applications selected</item>
     </plurals>
     <string name="settings_application_tile_selected_app">Selected application</string>
     <!-- applications list-->

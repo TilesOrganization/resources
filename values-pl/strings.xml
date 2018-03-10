@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Something went wrong. Please try again</string>
-    <string name="something_went_wrong_check_for_active_internet_connection">Something went wrong. Please check if the device has an active network connection.</string>
+    <string name="something_went_wrong">Coś się popsuło. Spróbuj pononownie.</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Coś poszło nie pomyśli. Sprawdź czy urządzenie jest podłączone do intetnetu.</string>
     <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
     <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
     <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
     <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
     <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
     <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">High</string>
-    <string name="medium">Medium</string>
-    <string name="low">Low</string>
-    <string name="checking_features_progress_dialog_message">Checking for device specific features to enable</string>
-    <string name="not_available">Not available</string>
-    <string name="cancel">Cancel</string>
+    <string name="high">Wysoko</string>
+    <string name="medium">Normalnie</string>
+    <string name="low">Nisko</string>
+    <string name="checking_features_progress_dialog_message">Sprawdzanie niestadatowych cech urządzenia</string>
+    <string name="not_available">Nie osiągalny</string>
+    <string name="cancel">Anuluj</string>
     <string name="revert">Revert</string>
-    <string name="discard">Discard</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="save">Save</string>
-    <string name="save_and_close">Save &amp; Close</string>
+    <string name="discard">Odrzuć</string>
+    <string name="share">Udostępnij</string>
+    <string name="delete">Usuń</string>
+    <string name="save">Zapisz</string>
+    <string name="save_and_close">Zapisz i zamknij</string>
     <string name="warning">Warning</string>
     <string name="accessibility_service_label">Accessibility service</string>
     <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window.</string>
-    <string name="fifteen_minutes">15 minutes</string>
-    <string name="thirty_minutes">30 minutes</string>
-    <string name="forty_two_minutes">42 minutes</string>
-    <string name="forty_five_minutes">45 minutes</string>
-    <string name="one_hour">1 hour</string>
-    <string name="two_hours">2 hours</string>
-    <string name="three_hours">3 hours</string>
-    <string name="six_hours">6 hours</string>
-    <string name="twelve_hours">12 hours</string>
+    <string name="fifteen_minutes">15 minut</string>
+    <string name="thirty_minutes">30 minut</string>
+    <string name="forty_two_minutes">42 minuty</string>
+    <string name="forty_five_minutes">45 minut</string>
+    <string name="one_hour">1 godzina</string>
+    <string name="two_hours">2 godziny</string>
+    <string name="three_hours">3 godziny</string>
+    <string name="six_hours">6 godzin</string>
+    <string name="twelve_hours">12 godzin</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="fahrenheit">Fahrenheit</string>
-    <string name="celsius">Celsius</string>
-    <string name="filter">Filter</string>
-    <string name="description">Description</string>
-    <string name="all">All</string>
-    <string name="starred">Starred</string>
-    <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
+    <string name="fahrenheit">Farenhaita</string>
+    <string name="celsius">Celsjusza</string>
+    <string name="filter">Filtr</string>
+    <string name="description">Opis</string>
+    <string name="all">Wszystike</string>
+    <string name="starred">Oznaczone</string>
+    <string name="empty_starred_tiles_database_alert_message">Nie znalalezniono oznaczonych kafelków.</string>
     <!--device administrator-->
-    <string name="device_admin_activated">Device administrator activated</string>
+    <string name="device_admin_activated">Adminitsator urządzenia</string>
     <string name="device_admin_deactivated">Device administrator deactivated</string>
     <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
     <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
@@ -62,30 +62,30 @@
     <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
     <!--brightness-->
-    <string name="brightness_tile_label">Brightness</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$d%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$d%%</string>
+    <string name="brightness_tile_label">Jasność</string>
+    <string name="brightness_tile_label_formatted">Jasność %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Jasno: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Normalnie: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Ciemno: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Jasność: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Brightness undefined</string>
     <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
     <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
     <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
-    <string name="calculator_tile_label">Calculator</string>
+    <string name="calculator_tile_label">Kalkulator</string>
     <!--calendar-->
-    <string name="calendar_tile_label">Calendar</string>
+    <string name="calendar_tile_label">Kalendarz</string>
     <!--call-->
-    <string name="call_tile_label">Call</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
+    <string name="call_tile_label">Wykonaj rozmowę</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Żeby wykonać rozmowę, otwórz ustawienia i przydziel uprawnienia do wykonywania rozmów.</string>
     <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
     <string name="call_tile_formatted_label">Call %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">Wybierz kontakt</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">Aparat</string>
+    <string name="camera_tile_video_label">Kamera</string>
     <!--email -->
     <string name="email_tile_label">Email</string>
     <string name="email_tile_formatted_label">Email %s</string>
@@ -95,7 +95,7 @@
     <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
     <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
     <!--map-->
-    <string name="maps_tile_label">Maps</string>
+    <string name="maps_tile_label">Mapy</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
     <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
@@ -117,46 +117,46 @@
     <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
     <!--caffeine-->
-    <string name="caffeine_tile_label">Caffeine</string>
-    <string name="caffeine_tile_service_notification_title">Service is running</string>
-    <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
+    <string name="caffeine_tile_label">Kofeina</string>
+    <string name="caffeine_tile_service_notification_title">Usługa działa</string>
+    <string name="caffeine_tile_service_notification_content_text">Urządzenie nie przejdzie w tryb uśpienia. Klinij aby zakończyć.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
     <!--sync-->
-    <string name="sync_tile_label">Sync</string>
+    <string name="sync_tile_label">Synchronizacja</string>
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
     <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_tile_label">Pogoda</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Aby użytwać pogody, otwórz ustawienia i przydziel pozwolenie określania pozycji.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Pobieranie inforamcji o pogodzie...</string>
+    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Odczuwalna: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Odczuwalna: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Temp. punktu rosy: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Temp. punktu rosy: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Wilgotność: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Celsjusze</string>
+    <string name="weather_fahrenheit">Farenhaity</string>
+    <string name="weather_clear">Czysto</string>
+    <string name="weather_cloudy">Chmury</string>
+    <string name="weather_foggy">Mgła</string>
+    <string name="weather_hazy">Mgła</string>
+    <string name="weather_icy">Zimne powietrze</string>
+    <string name="weather_rainy">Deszcz</string>
+    <string name="weather_snowy">Śnieg</string>
+    <string name="weather_stormy">Burze</string>
+    <string name="weather_windy">Wiatr</string>
+    <string name="weather_conditions">Warunki</string>
+    <string name="weather_temperature">Temperatura</string>
+    <string name="weather_feels_like">Odczuwalna</string>
+    <string name="weather_humidity">Wilgotność</string>
+    <string name="weather_dew_point">Temp. punktu rosy</string>
     <!--web search-->
-    <string name="web_search_tile_label">Web search</string>
+    <string name="web_search_tile_label">Wyszukaj</string>
     <!--reminder-->
     <string name="reminder_tile_label">Reminder</string>
     <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
@@ -224,10 +224,10 @@
     <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
     <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Alarm</string>
-    <string name="alarm_tile_no_alarm_set">No alarm set</string>
+    <string name="alarm_tile_label">Budzik</string>
+    <string name="alarm_tile_no_alarm_set">Nie ustawiono żadnych budzików</string>
     <!--storage-->
-    <string name="storage_tile_label">Storage</string>
+    <string name="storage_tile_label">Pamięć</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Settings shortcut</string>
     <string name="settings_shortcut_tile_action_accessibility">Accessibility</string>

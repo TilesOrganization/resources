@@ -53,13 +53,13 @@
     <string name="applications_list_tile_label">Applications</string>
     <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
     <!--application-->
-    <string name="application_a_tile_label">Application #1</string>
-    <string name="application_b_tile_label">Application #2</string>
-    <string name="application_c_tile_label">Application #3</string>
-    <string name="application_d_tile_label">Application #4</string>
-    <string name="application_e_tile_label">Application #5</string>
-    <string name="application_tile_label">Application</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="application_a_tile_label">Aplikacja #1</string>
+    <string name="application_b_tile_label">Aplikacja #2</string>
+    <string name="application_c_tile_label">Aplikacja #3</string>
+    <string name="application_d_tile_label">Aplikacja #4</string>
+    <string name="application_e_tile_label">Aplikacja #5</string>
+    <string name="application_tile_label">Aplikacja</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nie wybrano żadnej apliacji, wejdź w ustawienia i wybierz jedną.</string>
     <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Jasność</string>
@@ -91,9 +91,9 @@
     <string name="email_tile_formatted_label">Email %s</string>
     <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
     <!--lock-->
-    <string name="lock_tile_label">Lock</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
+    <string name="lock_tile_label">Zablokuj</string>
+    <string name="lock_tile_device_admin_description">Zezwól na blokowanie telefonu</string>
+    <string name="lock_tile_alert_dialog_message">Żeby kafelek mógł blokować, przyznaj mu pozwolenia administatora.</string>
     <!--map-->
     <string name="maps_tile_label">Mapy</string>
     <!--NFC-->
@@ -104,17 +104,17 @@
     <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
     <string name="power_tile_action_system_power_dialog">System power dialog</string>
     <string name="power_tile_action_power_dialog">Power dialog</string>
-    <string name="power_tile_label">Power</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
+    <string name="power_tile_label">Zasilanie</string>
+    <string name="power_tile_action_reboot">Uruchom ponownie</string>
+    <string name="power_tile_action_reboot_recovery">Uruchom w trybie recovery</string>
+    <string name="power_tile_action_reboot_bootloader">Uruchom bootloader</string>
     <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_power_off">Wyłącz</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Ringer mode</string>
-    <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
+    <string name="ringer_mode_tile_label">Tryb dzwonienia</string>
+    <string name="ringer_mode_tile_label_normal">Normalny</string>
+    <string name="ringer_mode_tile_label_silent">Cisza</string>
+    <string name="ringer_mode_tile_label_vibrate">Wibracje</string>
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofeina</string>
@@ -375,12 +375,12 @@
     <string name="media_volume_tile_label">Media volume</string>
     <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
+    <string name="shortcuts_tile_label">Skróty</string>
+    <string name="shortcut_a_tile_label">Skrót #1</string>
+    <string name="shortcut_b_tile_label">Skrót #2</string>
+    <string name="shortcut_c_tile_label">Skrót #3</string>
+    <string name="shortcut_d_tile_label">Skrót #4</string>
+    <string name="shortcut_e_tile_label">Skrót #5</string>
     <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
@@ -393,19 +393,19 @@
     <!-- input method -->
     <string name="input_method_tile_label">Input method</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contacts</string>
+    <string name="contacts_tile_label">Kontakty</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
-    <string name="contact_a_tile_label">Contact #1</string>
-    <string name="contact_b_tile_label">Contact #2</string>
-    <string name="contact_c_tile_label">Contact #3</string>
-    <string name="contact_d_tile_label">Contact #4</string>
-    <string name="contact_e_tile_label">Contact #5</string>
+    <string name="contact_a_tile_label">Kontakt #1</string>
+    <string name="contact_b_tile_label">Kontakt #2</string>
+    <string name="contact_c_tile_label">Kontakt #3</string>
+    <string name="contact_d_tile_label">Kontakt #4</string>
+    <string name="contact_e_tile_label">Kontakt #5</string>
     <!--invert colors-->
     <string name="invert_colors_tile_label">Invert colors</string>
     <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
     <!-- mono audio -->
-    <string name="mono_audio_tile_label">Mono audio</string>
+    <string name="mono_audio_tile_label">Dźwięk mono</string>
     <!-- notification light -->
     <string name="notification_light_tile_label">Notification light</string>
     <!--battery details-->
@@ -439,7 +439,7 @@
     <string name="activity_e_tile_label">Activity #5</string>
     <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">Stoper</string>
     <!--memory-->
     <string name="memory_tile_label">Memory</string>
     <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>

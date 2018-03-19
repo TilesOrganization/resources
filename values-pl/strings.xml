@@ -167,19 +167,19 @@
     <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
     <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
+    <string name="reminder_tile_remind_me">Przypominj mi</string>
     <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Sleep timeout</string>
     <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
     <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_value_15000">15 sekund</string>
+    <string name="sleep_timeout_tile_value_30000">30 sekund</string>
+    <string name="sleep_timeout_tile_value_60000">1 minuta</string>
+    <string name="sleep_timeout_tile_value_120000">2 minuty</string>
+    <string name="sleep_timeout_tile_value_300000">5 minut</string>
+    <string name="sleep_timeout_tile_value_600000">10 minut</string>
+    <string name="sleep_timeout_tile_value_1800000">30 minut</string>
     <!--location mode-->
     <string name="location_tile_label">Location</string>
     <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
@@ -191,25 +191,25 @@
     <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
     <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="permission_dialog_message_grant">Grant</string>
+    <string name="permission_dialog_message_grant">Przydziel</string>
     <string name="permission_dialog_message_revoke">Revoke</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Sleep</string>
+    <string name="sleep_tile_label">Śpij</string>
     <!--screenshot-->
-    <string name="screenshot_tile_label">Screenshot</string>
+    <string name="screenshot_tile_label">Zrzut ekranu</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
+    <string name="screenshot_tile_screenshot_captured">Zrobiono zrzut ekranu.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
     <!--immersive mode-->
-    <string name="immersive_mode_tile_label">Immersive mode</string>
-    <string name="immersive_mode_tile_off">Immersive mode off</string>
-    <string name="immersive_mode_tile_hide_system_bars">Hide system bars</string>
-    <string name="immersive_mode_tile_hide_navigation_bar">Hide navigation bar</string>
-    <string name="immersive_mode_tile_hide_status_bar">Hide status bar</string>
+    <string name="immersive_mode_tile_label">Tryb immersywny</string>
+    <string name="immersive_mode_tile_off">Tryb immersywny wył.</string>
+    <string name="immersive_mode_tile_hide_system_bars">Ukryj paski systemowe</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Ukryj pasek nawigacji</string>
+    <string name="immersive_mode_tile_hide_status_bar">Ukryj pasek stanu</string>
     <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
     <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
     <!--ambient display-->
@@ -431,24 +431,24 @@
     <string name="up_time_tile_label">Up time</string>
     <string name="up_time_tile_formatted_uptime">Up time: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
+    <string name="activities_tile_label">Aktywności</string>
+    <string name="activity_a_tile_label">Aktywność #1</string>
+    <string name="activity_b_tile_label">Aktywność #2</string>
+    <string name="activity_c_tile_label">Aktywność #3</string>
+    <string name="activity_d_tile_label">Aktywność #4</string>
+    <string name="activity_e_tile_label">Aktywność #5</string>
     <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
     <!--stopwatch-->
     <string name="stopwatch_tile_label">Stoper</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">Pamięć</string>
+    <string name="memory_tile_formatted_available_memory">Dostępne: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Razem: %s</string>
+    <string name="memory_tile_formatted_used_memory">Użyte: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Próg: %s</string>
+    <string name="memory_tile_low_memory">Mała ilość pamięci</string>
     <!--counter-->
-    <string name="counter_tile_label">Counter</string>
+    <string name="counter_tile_label">Licznik</string>
     <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
     <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
     <!--camera lock-->
@@ -462,9 +462,9 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Losuj</string>
     <!--notification log-->
-    <string name="notification_log_tile_label">Notification log</string>
+    <string name="notification_log_tile_label">Log powiadomień</string>
     <!--lift to check-->
     <string name="lift_to_check_tile_label">Lift to check</string>
     <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
@@ -472,6 +472,6 @@
     <string name="double_tap_to_check_tile_label">Double-tap to check</string>
     <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
     <!--always on-->
-    <string name="always_on_tile_label">Always on</string>
+    <string name="always_on_tile_label">Zawsze wł.</string>
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
 </resources>

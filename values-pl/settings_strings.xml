@@ -359,6 +359,8 @@
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
         <item quantity="one">%d activity found</item>
         <item quantity="other">%d activities found</item>
+        <item quantity="few">%d activities found</item>
+        <item quantity="many">%d activities found</item>
     </plurals>
     <!--memory-->
     <string name="settings_memory_tile_used">Used</string>

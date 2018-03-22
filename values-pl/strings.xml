@@ -131,7 +131,7 @@
     <!--weather-->
     <string name="weather_tile_label">Pogoda</string>
     <string name="weather_tile_location_permission_alert_dialog_message">Aby użytwać pogody, otwórz ustawienia i przydziel pozwolenie określania pozycji.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Pobieranie inforamcji o pogodzie...</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Pobieranie inforamcji o pogodzie…</string>
     <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
     <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
     <string name="weather_formatted_feels_like_celsius">Odczuwalna: &lt;b>%1$.1f&lt;/b> \u2103</string>

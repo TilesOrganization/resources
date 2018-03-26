@@ -70,7 +70,7 @@
     <string name="brightness_tile_formatted_label_one_param">Яркость: %1$d%%</string>
     <string name="brightness_tile_undefined_label">Яркость не задана</string>
     <string name="brightness_tile_alert_dialog_message">Чтобы позволить плитке менять уровень яркости, пожалуйста, откройте настройки и дайте приложению доступ к изменению системных настроек.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Адаптивная регулировка&lt;/b> is on</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Адаптивная регулировка&lt;/b> включена</string>
     <string name="brightness_tile_dialog_formatted_current_brightness">Текущая яркость экрана: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Калькулятор</string>
@@ -238,7 +238,7 @@
     <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
     <string name="settings_shortcut_tile_action_captions">Субтитры</string>
     <string name="settings_shortcut_tile_action_cast">Трансляция</string>
-    <string name="settings_shortcut_tile_action_data_roaming">Мобильные сети"</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Мобильные сети</string>
     <string name="settings_shortcut_tile_action_date">Дата и время</string>
     <string name="settings_shortcut_tile_action_device_info">Состояние телефона</string>
     <string name="settings_shortcut_tile_action_display">Экран</string>
@@ -386,7 +386,7 @@
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Чтобы позволить плитке создавать ярлыки для быстрого набора, пожалуйста, откройте настройки и дайте доступ к телефонным вызовам.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Действие недоступно. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Действие недоступно. Устройство не поддерживает Bluetooth</string>
     <!-- monochromacy -->
     <string name="monochromacy_tile_label">Монохромный режим</string>
     <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
@@ -460,7 +460,7 @@
     <string name="network_traffic_tile_formatted_total_transmitted">Всего отправлено: %s</string>
     <string name="network_traffic_tile_formatted_mobile_received">Получено по мобильной сети: %s</string>
     <string name="network_traffic_tile_formatted_mobile_transmitted">Отправлено по мобильной сети: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Загрузка: %1s/s - Отдача: %2s/s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Загрузка: %1s/с - Отдача: %2s/с</string>
     <!--dice-->
     <string name="dice_tile_label">Кубики</string>
     <!--notification log-->

@@ -90,6 +90,7 @@
     <string name="settings_translations_locale_tr">Turco</string>
     <string name="settings_translations_locale_zh_rCN">Cinese semplificato</string>
     <string name="settings_translations_locale_nb">Norvegese Bokmål</string>
+    <string name="settings_translations_locale_pl">Polacco</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilità funzione</string>
     <string name="settings_component_summary_off">Nascondi la funzione nel pannello delle impostazioni veloci</string>

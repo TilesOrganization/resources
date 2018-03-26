@@ -90,6 +90,7 @@
     <string name="settings_translations_locale_hr">Хорватский</string>
     <string name="settings_translations_locale_ja">Японский</string>
     <string name="settings_translations_locale_nb">Норвежский букмол</string>
+    <string name="settings_translations_locale_pl">полировать</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Видимость плитки</string>
     <string name="settings_component_summary_off">Скрыть плитку из панели быстрых настроек</string>

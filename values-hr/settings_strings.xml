@@ -90,6 +90,7 @@
     <string name="settings_translations_locale_tr">Turski</string>
     <string name="settings_translations_locale_zh_rCN">Pojednostavljeni kineski</string>
     <string name="settings_translations_locale_nb">Norveški Bokmål</string>
+    <string name="settings_translations_locale_pl">Polirati</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Vidljivost pločica</string>
     <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>

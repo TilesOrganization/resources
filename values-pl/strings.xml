@@ -60,7 +60,7 @@
     <string name="application_e_tile_label">Aplikacja #5</string>
     <string name="application_tile_label">Aplikacja</string>
     <string name="application_tile_no_app_selected_alert_dialog_message">Nie wybrano żadnej apliacji, wejdź w ustawienia i wybierz jedną.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_info_dialog_message">Wybierz aplikację do szybkiego uruchomienia.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Jasność</string>
     <string name="brightness_tile_label_formatted">Jasność %1$s</string>
@@ -68,10 +68,10 @@
     <string name="brightness_tile_label_formatted_medium">Normalnie: %1$d%%</string>
     <string name="brightness_tile_label_formatted_low">Ciemno: %1$d%%</string>
     <string name="brightness_tile_formatted_label_one_param">Jasność: %1$d%%</string>
-    <string name="brightness_tile_undefined_label">Brightness undefined</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_undefined_label">Jasność nie zdefiniowana</string>
+    <string name="brightness_tile_alert_dialog_message">Aby zmieniać jasność, przydziel aplikacji odpowiednie uprawnienia.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Automatyczna jasność&lt;/b> is wł.</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Obecna jasność: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Kalkulator</string>
     <!--calendar-->
@@ -230,18 +230,18 @@
     <string name="storage_tile_label">Pamięć</string>
     <!--settings shortcuts-->
     <string name="settings_shortcut_tile_label">Settings shortcut</string>
-    <string name="settings_shortcut_tile_action_accessibility">Accessibility</string>
+    <string name="settings_shortcut_tile_action_accessibility">Dostępność</string>
     <string name="settings_shortcut_tile_action_add_account">Add an account</string>
     <string name="settings_shortcut_tile_action_apn">APNs</string>
-    <string name="settings_shortcut_tile_action_application_settings">Apps</string>
+    <string name="settings_shortcut_tile_action_application_settings">Aplikacje</string>
     <string name="settings_shortcut_tile_action_battery_saver">Battery saver</string>
     <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
     <string name="settings_shortcut_tile_action_captions">Captions</string>
     <string name="settings_shortcut_tile_action_cast">Cast</string>
     <string name="settings_shortcut_tile_action_data_roaming">Cellular networks</string>
-    <string name="settings_shortcut_tile_action_date">Date &amp; time</string>
+    <string name="settings_shortcut_tile_action_date">Data i czas</string>
     <string name="settings_shortcut_tile_action_device_info">Phone status</string>
-    <string name="settings_shortcut_tile_action_display">Display</string>
+    <string name="settings_shortcut_tile_action_display">Wyświetlacz</string>
     <string name="settings_shortcut_tile_action_battery_optimization">Battery optimization</string>
     <string name="settings_shortcut_tile_action_location_sources">Location</string>
     <string name="settings_shortcut_tile_action_manage_overlay">Apps that can draw over other apps</string>
@@ -293,7 +293,7 @@
     <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
     <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
-    <string name="demo_mode_tile_label">Demo mode</string>
+    <string name="demo_mode_tile_label">Tryb demo</string>
     <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
     <string name="demo_mode_tile_system_bars">System bars</string>
     <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
@@ -301,25 +301,25 @@
     <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
     <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
     <string name="demo_mode_tile_system_bars_warning">Warning</string>
-    <string name="demo_mode_tile_battery">Battery</string>
+    <string name="demo_mode_tile_battery">Bateria</string>
     <string name="demo_mode_tile_state_plugged">Plugged</string>
     <string name="demo_mode_tile_state_unplugged">Unplugged</string>
     <string name="demo_mode_tile_level_formatted">Level %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
-    <string name="demo_mode_tile_state_disconnected">Disconnected</string>
-    <string name="demo_mode_tile_state_connected">Connected</string>
+    <string name="demo_mode_tile_state_disconnected">Rozłączono</string>
+    <string name="demo_mode_tile_state_connected">Połączono</string>
     <string name="demo_mode_tile_mobile">Cellular networks</string>
     <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
     <string name="demo_mode_tile_notifications">Notifications</string>
     <string name="demo_mode_tile_alarm">Alarm</string>
-    <string name="demo_mode_tile_location">Location</string>
-    <string name="demo_mode_tile_clock">Clock</string>
+    <string name="demo_mode_tile_location">Lokalizacja</string>
+    <string name="demo_mode_tile_clock">Zegar</string>
     <string name="demo_mode_tile_mute">Mute</string>
     <string name="demo_mode_tile_speakerphone">Phone speaker</string>
-    <string name="demo_mode_tile_vibrate">Vibrate</string>
+    <string name="demo_mode_tile_vibrate">Wibracje</string>
     <!--clipboard-->
-    <string name="clipboard_tile_label">Clipboard</string>
+    <string name="clipboard_tile_label">Schowek</string>
     <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
     <!--keep-->
     <string name="keep_tile_label">Keep</string>
@@ -363,12 +363,12 @@
     <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
     <string name="battery_saver_tile_device_charging_alert_dialog_message">Battery saver not available during charging.</string>
     <!--usb debugging-->
-    <string name="usb_debugging_tile_label">USB debugging</string>
+    <string name="usb_debugging_tile_label">Debugowanie USB</string>
     <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
     <!--cellular data-->
-    <string name="cellular_data_tile_label">Cellular data</string>
+    <string name="cellular_data_tile_label">Dane komórkowe</string>
     <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
-    <string name="cellular_data_tile_data_usage_label">Data usage</string>
+    <string name="cellular_data_tile_data_usage_label">Użycie danych</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
@@ -388,10 +388,10 @@
     <string name="bluetooth_tile_label">Bluetooth</string>
     <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochromacy</string>
+    <string name="monochromacy_tile_label">Monochormatyczność</string>
     <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Input method</string>
+    <string name="input_method_tile_label">Metoda wpisywania</string>
     <!--contacts-->
     <string name="contacts_tile_label">Kontakty</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
@@ -409,24 +409,24 @@
     <!-- notification light -->
     <string name="notification_light_tile_label">Notification light</string>
     <!--battery details-->
-    <string name="battery_details_tile_label">Battery details</string>
-    <string name="battery_details_tile_formatted_battery_level">Battery level: %1d%%</string>
-    <string name="battery_details_tile_discharging">Discharging</string>
-    <string name="battery_details_tile_formatted_charging">Charging: %s</string>
+    <string name="battery_details_tile_label">Informacje o baterii</string>
+    <string name="battery_details_tile_formatted_battery_level">Poziom naładowania: %1d%%</string>
+    <string name="battery_details_tile_discharging">Rozładowywanie</string>
+    <string name="battery_details_tile_formatted_charging">Ładowanie: %s</string>
     <string name="battery_details_tile_usb">USB</string>
     <string name="battery_details_tile_ac">AC</string>
-    <string name="battery_details_tile_wireless">Wireless</string>
+    <string name="battery_details_tile_wireless">Bezprzewodowa</string>
     <string name="battery_details_tile_formatted_health">Health: %s</string>
-    <string name="battery_details_tile_health_cold">Cold</string>
-    <string name="battery_details_tile_health_dead">Dead</string>
-    <string name="battery_details_tile_health_good">Good</string>
-    <string name="battery_details_tile_health_over_voltage">Over voltage</string>
-    <string name="battery_details_tile_health_overheat">Overheat</string>
+    <string name="battery_details_tile_health_cold">Zimna</string>
+    <string name="battery_details_tile_health_dead">Martwa</string>
+    <string name="battery_details_tile_health_good">Zdrowa</string>
+    <string name="battery_details_tile_health_over_voltage">Zbyt wysokie napięcie</string>
+    <string name="battery_details_tile_health_overheat">Przegrzna</string>
     <string name="battery_details_tile_unknown">Unknown</string>
     <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temperature: %1$.1f%2$s</string>
-    <string name="battery_details_tile_formatted_voltage">Voltage: %.5fV</string>
-    <string name="battery_details_tile_formatted_technology">Technology: %s</string>
+    <string name="battery_details_tile_formatted_temperature">Temepratura: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Napięcie: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Technologia: %s</string>
     <!--uptime-->
     <string name="up_time_tile_label">Up time</string>
     <string name="up_time_tile_formatted_uptime">Up time: %s</string>
@@ -455,12 +455,12 @@
     <string name="camera_lock_tile_label">Camera lock</string>
     <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
     <!--network traffic-->
-    <string name="network_traffic_tile_label">Network traffic</string>
-    <string name="network_traffic_tile_formatted_total_received">Total received: %s</string>
-    <string name="network_traffic_tile_formatted_total_transmitted">Total transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Mobile received: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
-    <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
+    <string name="network_traffic_tile_label">Ruch sieciowy</string>
+    <string name="network_traffic_tile_formatted_total_received">Całkowicie pobrano: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Całkowicie wysłano: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Dane kom. pobrane: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Dane kom. wysłane: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Pobieranie: %1s/s - Wysyłanie: %2s/s</string>
     <!--dice-->
     <string name="dice_tile_label">Losuj</string>
     <!--notification log-->

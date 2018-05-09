@@ -168,15 +168,15 @@
     <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
     <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Zmeiń stan synchronizacji</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Otwórz ustawnienia synchronizacji</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
+    <string name="settings_timer_tile_action_open_timer">Otwórz timer</string>
+    <string name="settings_timer_tile_action_start_timer">Uruchom timer</string>
+    <string name="settings_timer_tile_skip_ui_title">Pomiń UI</string>
     <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_default_duration">Domyślny czas trwania</string>
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
@@ -238,7 +238,7 @@
     <string name="settings_notification_share_action_title">Share action</string>
     <string name="settings_notification_settings_action_title">Settings action</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
+    <string name="settings_write_secure_settings_permission_title">Przydziel pozwolenia zmian ustawień systemowych</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
@@ -249,26 +249,26 @@
     <!--animations tile-->
     <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
     <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_show_milliseconds">Pokazuj milisekundy</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Dodaj alarm</string>
+    <string name="settings_alarm_tile_action_show_alarms">Pokaż alarmy</string>
+    <string name="settings_date_format">Format daty</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Format godziny</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_font_scale_small">Mała</string>
+    <string name="settings_font_size_tile_font_scale_default">Domyślna</string>
+    <string name="settings_font_size_tile_font_scale_large">Duża</string>
+    <string name="settings_font_size_tile_font_scale_largest">Wielka</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
     <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Zmień rozmiar czcionki</string>
     <!--nfc-->
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
     <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Wł./Wył. NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Otwórz ustawniana NFC</string>
     <!--data roaming-->
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
     <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>

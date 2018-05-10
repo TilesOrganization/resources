@@ -21,10 +21,10 @@
     <string name="description_cellular_data_tile">Open mobile network settings or data usage settings, if available. On devices with super user privileges turn cellular data on or off.</string>
     <string name="description_clipboard_tile">View the content of the latest clipping, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_contacts_tile">Quickly access the details of the selected contact to call, text, edit, …</string>
-    <string name="description_counter_tile">A simple counter.</string>
+    <string name="description_counter_tile">Prosty licznik.</string>
     <string name="description_data_roaming_tile">Turn data roaming on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission and dump permission are required to use this tile.</string>
-    <string name="description_density_tile">Change the density of the screen.</string>
+    <string name="description_density_tile">Zmienia zagęszczenie pixeli na ekarnie.</string>
     <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
     <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
     <string name="description_email_tile">Choose a contact to quickly email or launch the email app. The action is compatible with third-party apps that can receive the Android default broadcast to compose and send emails.</string>
@@ -56,7 +56,7 @@
     <string name="description_screenshot_tile">Take a screenshot of the device.\nWrite external storage permission is required to use this tile.</string>
     <string name="description_settings_shortcut_tile">Open Android\'s hidden or hard-to-find settings.</string>
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
-    <string name="description_sleep_tile">Put the device to sleep.</string>
+    <string name="description_sleep_tile">Ódłóż urządzenie do snu.</string>
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings is required to use this tile.</string>
     <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Open storage settings or launch Android\'s built-in file manager to explore the storage of the device.</string>

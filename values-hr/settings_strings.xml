@@ -16,12 +16,12 @@
     <string name="settings_theme_dark">Tamno</string>
     <string name="settings_theme_black">Crno</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <string name="settings_theme_deep_orange_light">Duboko narančasto - Svjetlo</string>
-    <string name="settings_theme_deep_orange_dark">Duboko narančasto - Tamno</string>
-    <string name="settings_theme_deep_orange_black">Duboko narančasto - Crno</string>
-    <string name="settings_theme_deep_purple_light">Duboko ljubičasto - Svjetlo</string>
-    <string name="settings_theme_deep_purple_dark">Duboko ljubičasto - Tamno</string>
-    <string name="settings_theme_deep_purple_black">Duboko ljubičasto - Crno</string>
+    <string name="settings_theme_deep_orange_light">Tamno narančasto - Svjetlo</string>
+    <string name="settings_theme_deep_orange_dark">Tamno narančasto - Tamno</string>
+    <string name="settings_theme_deep_orange_black">Tamno narančasto - Crno</string>
+    <string name="settings_theme_deep_purple_light">Tamno ljubičasto - Svjetlo</string>
+    <string name="settings_theme_deep_purple_dark">Tamno ljubičasto - Tamno</string>
+    <string name="settings_theme_deep_purple_black">Tamno ljubičasto - Crno</string>
     <string name="settings_theme_red_light">Crveno - Svjetlo</string>
     <string name="settings_theme_red_dark">Crveno - Tamno</string>
     <string name="settings_theme_red_black">Crveno - Crno</string>
@@ -102,10 +102,10 @@
     <string name="settings_stop_on_sleep_summary_off">Ostavi uslugu pokrenutu kada uređaj prijeđe u stanje mirovanja</string>
     <string name="settings_stay_awake">Ostani budan</string>
     <string name="settings_stay_awake_summary_on">Drži uređaj budnim</string>
-    <string name="settings_stay_awake_summary_off">Dozvoli da uređaj prijeđe u stanje mirovanja</string>
+    <string name="settings_stay_awake_summary_off">Dopusti da uređaj prijeđe u stanje mirovanja</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način svjetline</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način svjetline</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti način svjetline</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti način svjetline</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">Prikaži sve aplikacije</string>
     <string name="settings_application_tile_action_show_selected_apps">Prikaži odabrane aplikacije</string>
@@ -128,8 +128,8 @@
     <string name="settings_application_tile_application_list_launch_title">Aplikacije za pokretanje</string>
     <string name="settings_application_tile_loading_applications">Učitavanje aplikacija…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti razinu svjetline</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti razinu svjetline</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti razinu svjetline</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti razinu svjetline</string>
     <string name="settings_brightness_tile_action_change_brightness">Promijeni svjetlinu</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Razine svjetline</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Visoka: %1$d%%\nSrednja: %2$d%%\nNiska: %3$d%%</string>
@@ -137,8 +137,8 @@
     <string name="settings_call_tile_action_open_phone">Otvori aplikaciju telefon</string>
     <string name="settings_call_tile_action_make_call">Nazovi odabrani kontakt</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Dopuštenja za telefonski poziv</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno upućivati telefonske pozive</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dozvoljeno upućivati telefonske pozive</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dopušteno upućivati telefonske pozive</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dopušteno upućivati telefonske pozive</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Kontakt koji želite zvati</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Otvori aplikaciju e-pošte</string>
@@ -173,7 +173,7 @@
     <string name="settings_timer_tile_action_open_timer">Otvori mjerač vremena</string>
     <string name="settings_timer_tile_action_start_timer">Pokreni mjerač vremena</string>
     <string name="settings_timer_tile_skip_ui_title">Preskoči korisničko sučelje</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Zaobiđi bilo koju potvrdu korisničkog sučelja  i jednostavno pokreni mjerač vremena</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Zaobiđi bilo koju potvrdu korisničkog sučelja i jednostavno pokreni mjerač vremena</string>
     <string name="settings_timer_tile_skip_ui_summary_off">Pokažite korisničko sučelje za potvrdu prije pokretanja mjerača vremena</string>
     <string name="settings_timer_tile_default_duration">Zadano trajanje</string>
     <!--streetview-->
@@ -204,12 +204,12 @@
     <string name="settings_calendar_tile_action_view">Prikaz događaja</string>
     <string name="settings_calendar_tile_action_add">Dodavanje događaja</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način lokacije</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način lokacije</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti način lokacije</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti način lokacije</string>
     <string name="settings_location_tile_action_change_location_mode">Promijeni način lokacije</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti koliko je potrebno proći vremena da uređaj prijeđe u stanje mirovanja</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti koliko je potrebno vremena da uređaj prijeđe u stanje mirovanja</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti koliko je potrebno vremena da uređaj prijeđe u stanje mirovanja</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Promijeni vrijeme potrebno da uređaj prijeđe u stanje mirovanja</string>
     <!--screenshot-->
     <string name="settings_write_external_storage_permission_permissions_title">Dopuštenje za upotrebu pohrane</string>
@@ -238,16 +238,16 @@
     <string name="settings_notification_settings_action_title">Radnja "Postavke"</string>
     <!--immersive mode-->
     <string name="settings_write_secure_settings_permission_title">Dopuštenje za izmjenu sigurnosnih postavki</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti način prikaza sučelja</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti način prikaza sučelja</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti način prikaza sučelja</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti način prikaza sučelja</string>
     <string name="settings_immersive_mode_tile_action_change_immersive_mode">Promijeni način prikaza sučelja</string>
     <string name="settings_immersive_mode_tile_foreground_service_summary">Da biste izbjegli neočekivana ponašanja ili kašnjenja kod buđenja uređaja ili prilikom odgovaranja na poziv dok je uređaj bio u stanju mirovanja, držite ovu postavku aktivnom.</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti prikaz obavijesti na zaključanom zaslonu</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti animacije</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti animacije</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti animacije</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti animacije</string>
     <string name="settings_show_milliseconds">Prikaži milisekunde</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">Dodaj alarm</string>
@@ -260,66 +260,66 @@
     <string name="settings_font_size_tile_font_scale_default">Zadani</string>
     <string name="settings_font_size_tile_font_scale_large">Veliki</string>
     <string name="settings_font_size_tile_font_scale_largest">Najveći</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno mijenjanje veličine fonta</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno mijenjanje veličine fonta</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno mijenjanje veličine fonta</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno mijenjanje veličine fonta</string>
     <string name="settings_font_size_tile_action_change_font_size">Promijeni veličinu fonta</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti stanje NFC-a</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti stanje NFC-a</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti stanje NFC-a</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti stanje NFC-a</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Promijeni stanje NFC-a</string>
     <string name="settings_nfc_tile_open_nfc_settings">Otvori NFC postavke</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti podatkovni roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti podatkovni roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti podatkovni roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti podatkovni roaming</string>
     <!--density-->
     <string name="settings_density_tile_default_density_title">Zadana gustoća</string>
     <string name="settings_density_tile_current_density_title">Trenutna gustoća</string>
-    <string name="settings_density_tile_restore_default_density_title">Vrati zadane gustoće</string>
+    <string name="settings_density_tile_restore_default_density_title">Vrati zadanu gustoću</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno izmijeniti da li uređaj smije u stanje mirovanja sve dok je priključen u izvor napajanja</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Demo način rada</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Demo način rada</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti Demo način rada</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti Demo način rada</string>
     <string name="settings_dump_permission_title">Dopuštenje za dohvaćanje i pohranu podataka</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Odobreno. Pločici je dozvoljeno dohvaćanje podataka iz servisa sustava</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odbijeno. Pločici nije dozvoljeno dohvaćanje podataka iz servisa sustava</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Odobreno. Pločici je dopušteno dohvaćanje podataka iz servisa sustava</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odbijeno. Pločici nije dopušteno dohvaćanje podataka iz servisa sustava</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno izmjeniti plutajuće obavijesti</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno izmjeniti plutajuće obavijesti</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno izmjeniti plutajuće obavijesti</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno izmjeniti plutajuće obavijesti</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazivanje dijaloškog okvira napajanja sustava</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazivanje dijaloškog okvira napajanja sustava</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dopušteno prikazivanje dijaloškog okvira napajanja sustava</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Omogućeno. Pločici je dopušteno prikazivanje dijaloškog okvira napajanja sustava</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno uključiti/isključiti način podijeljenog zaslona</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dopušteno uključiti/isključiti način podijeljenog zaslona</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Omogućeno. Pločici je dopušteno uključiti/isključiti način podijeljenog zaslona</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dozvoljeno prikazati zaslon nedavno korištenih aplikacija</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Omogućeno. Pločici je dozvoljeno prikazati zaslon nedavno korištenih aplikacija</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Onemogućeno. Pločici nije dopušteno prikazati zaslon nedavno korištenih aplikacija</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Omogućeno. Pločici je dopušteno prikazati zaslon nedavno korištenih aplikacija</string>
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Pristup opciji "Ne Ometaj"</string>
     <string name="settings_volumes_tile_action_open_volume_panel">Otvori ploču glasnoće</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Dopušteno. Pločici je dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona.</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Dopušteno. Pločici je dopušteno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odbijeno. Pločici nije dopušteno uključiti/isključiti opciju "Ne Ometaj" i promijeniti glasnoću zvona</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibriranje na dodir.</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibriranje na dodir</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti vibriranje na dodir</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti vibriranje na dodir</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti zvuk dodirivanja</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti zvuk dodirivanja</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti zvuk dodirivanja</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti zvuk dodirivanja</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">Promijenite i zaključajte orijentaciju</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti i zaključati orijentaciju</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti i zaključati orijentaciju</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti i zaključati orijentaciju</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti i zaključati orijentaciju</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti vibraciju za pozive</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dozvoljeno promijeniti vibraciju za pozive</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odbijeno. Pločici nije dopušteno promijeniti vibraciju za pozive</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Odobreno. Pločici je dopušteno promijeniti vibraciju za pozive</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno uključiti/isključiti štednju baterije</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno uključiti/isključiti štednju baterije</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno uključiti/isključiti štednju baterije</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno uključiti/isključiti štednju baterije</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti USB ispravljanje pogrešaka</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti USB ispravljanje pogrešaka</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti USB ispravljanje pogrešaka</string>
     <!--cellular data-->
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Promijeni stanje mobilnih podataka</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Otvori postavke mobilne mreže</string>
@@ -327,14 +327,14 @@
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Odabrani prečac</string>
     <string name="settings_shortcuts_tile_summary_empty">Nije odabran prečac</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dozvoljeno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dozvoljeno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odbijeno. Pločici nije dopušteno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Odobreno. Pločici je dopušteno upućivanje poziva niti kreiranje prečaca za izravno biranje</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">Promijeni stanje Bluetootha</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Otvori postavke Bluetootha</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti monokromatske boje</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti monokromatske boje</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti monokromatske boje</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti monokromatske boje</string>
     <!--input method-->
     <string name="settings_input_method_tile_action_show_input_method_picker">Prikaži alat za odabir unosa</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Otvorite postavke za unos</string>
@@ -342,8 +342,8 @@
     <string name="settings_contacts_tile_selected_contact">Odabrani kontakt</string>
     <string name="settings_contacts_tile_summary_empty">Nije odabran nijedan kontakt</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti inverziju boja</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti inverziju boja</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti inverziju boja</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti inverziju boja</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Otvori postavke pohrane</string>
     <string name="settings_storage_tile_action_open_file_manager">Otvori upravitelj datoteka</string>
@@ -372,8 +372,8 @@
     <string name="settings_counter_tile_action_addition">Dodavanje</string>
     <string name="settings_counter_tile_action_subtraction">Oduzimanje</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Omogućeno. Pločici je dozvoljeno zaključati kameru</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Onemogućeno. Pločici nije dozvoljeno zaključati kameru</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Omogućeno. Pločici je dopušteno zaključati kameru</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Onemogućeno. Pločici nije dopušteno zaključati kameru</string>
     <!--network traffic-->
     <string name="settings_network_traffic_tile_total_received">Ukupno primljeno</string>
     <string name="settings_network_traffic_tile_total_transmitted">Ukupno poslano</string>
@@ -383,12 +383,12 @@
     <string name="settings_dice_tile_action_roll_one_die">Baci jednu kockicu</string>
     <string name="settings_dice_tile_action_roll_two_dice">Baci dvije kockice</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Podigni za provjeru</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Podigni za provjeru</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti Podigni za provjeru</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti Podigni za provjeru</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Dodirni dvaput provjeru</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dozvoljeno promijeniti Dodirni dvaput provjeru</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti Dodirni dvaput provjeru</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici nije dopušteno promijeniti Dodirni dvaput provjeru</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dozvoljeno promijeniti Uvijek uključeno</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici je dozvoljeno promijeniti Uvijek uključeno</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Odobreno. Pločici je dopušteno promijeniti Uvijek uključeno</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Odbijeno. Pločici je dopušteno promijeniti Uvijek uključeno</string>
 </resources>

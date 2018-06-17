@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
-    <string name="settings_action">Action</string>
-    <string name="settings_layout">Layout</string>
-    <string name="settings_notification">Notification</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
-    <string name="settings_theme_terminal">Terminal</string>
-    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
-    <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
-    <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
-    <string name="settings_theme_deep_purple_light">Deep purple - Light</string>
-    <string name="settings_theme_deep_purple_dark">Deep purple - Dark</string>
-    <string name="settings_theme_deep_purple_black">Deep purple - Black</string>
-    <string name="settings_theme_red_light">Red - Light</string>
-    <string name="settings_theme_red_dark">Red - Dark</string>
-    <string name="settings_theme_red_black">Red - Black</string>
-    <string name="settings_theme_teal_light">Teal - Light</string>
-    <string name="settings_theme_teal_dark">Teal - Dark</string>
-    <string name="settings_theme_teal_black">Teal - Black</string>
-    <string name="settings_description">Description</string>
-    <string name="settings_add_star">Add star</string>
-    <string name="settings_remove_star">Remove star</string>
+    <string name="settings">Nastavení</string>
+    <string name="settings_design">Vzhled</string>
+    <string name="settings_animations">Animace</string>
+    <string name="settings_animations_reveal_animation_title">Animace zobrazení</string>
+    <string name="settings_animations_drawable_animation_title">Animace vykreslení</string>
+    <string name="settings_enabled">Povoleno</string>
+    <string name="settings_disabled">Zakázáno</string>
+    <string name="settings_action">Akce</string>
+    <string name="settings_layout">Rozložení</string>
+    <string name="settings_notification">Oznámení</string>
+    <string name="settings_theme">Motiv</string>
+    <string name="settings_theme_light">Světlý</string>
+    <string name="settings_theme_dark">Tmavý</string>
+    <string name="settings_theme_black">Černý</string>
+    <string name="settings_theme_terminal">Terminál</string>
+    <string name="settings_theme_deep_orange_light">Tmavě oranžový - Světlý</string>
+    <string name="settings_theme_deep_orange_dark">Tmavě oranžový - Tmavý</string>
+    <string name="settings_theme_deep_orange_black">Tmavě oranžový - Černý</string>
+    <string name="settings_theme_deep_purple_light">Tmavě fialový - Světlý</string>
+    <string name="settings_theme_deep_purple_dark">Tmavě fialový - Tmavý</string>
+    <string name="settings_theme_deep_purple_black">Tmavě fialový - Černý</string>
+    <string name="settings_theme_red_light">Červený - Světlý</string>
+    <string name="settings_theme_red_dark">Červený - Tmavý</string>
+    <string name="settings_theme_red_black">Červený - Černý</string>
+    <string name="settings_theme_teal_light">Modro zelený - Světlý</string>
+    <string name="settings_theme_teal_dark">Modro zelený - Tmavý</string>
+    <string name="settings_theme_teal_black">Modro zelený - Černý</string>
+    <string name="settings_description">Popis</string>
+    <string name="settings_add_star">Označit</string>
+    <string name="settings_remove_star">Odznačit</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
-    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
-    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
-    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <string name="settings_design_navigation_bar_tint_title">Zbarvení navigačního panelu</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Bez zbarvení</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Primární barva tmavá</string>
+    <string name="settings_design_navigation_bar_tint_primary">Primární barva</string>
+    <string name="settings_design_navigation_bar_tint_accent">Barva zvýraznění</string>
     <!--design status bar tint-->
-    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
-    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
-    <string name="settings_design_status_bar_tint_primary">Color primary</string>
-    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <string name="settings_design_status_bar_tint_title">Zbarvení stavové lišty</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Primární barva tmavá</string>
+    <string name="settings_design_status_bar_tint_primary">Primární barva</string>
+    <string name="settings_design_status_bar_tint_accent">Barva zvýraznění</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
-    <string name="settings_design_status_bar_icons_light">Light icons</string>
-    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <string name="settings_design_status_bar_icons_title">Ikony stavové lišty</string>
+    <string name="settings_design_status_bar_icons_light">Světlé ikony</string>
+    <string name="settings_design_status_bar_icons_dark">Tmavé ikony</string>
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
-    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
-    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
-    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <string name="settings_restart_active_tiles_title">Restartovat aktivní dlaždice</string>
+    <string name="settings_restart_active_tiles_summary">Vynutit restartování aktivních dlaždic. Použijte tuto akci, pokud některé dlaždice neodpovídají po ukončení systémem</string>
+    <string name="settings_restart_active_tiles_summary_processing">Probíhá vynucené restartování aktivních dlaždic</string>
+    <string name="settings_scheduled_restart_tiles_title">Plánovaný restart</string>
     <!--UX-->
-    <string name="settings_permission">Permission</string>
-    <string name="settings_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_location_permissions_preference_title">Location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
-    <string name="settings_feedback">Feedback &amp; Support</string>
-    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_permission">Oprávnění</string>
+    <string name="settings_phone_call_permission_title">Oprávnění volání</string>
+    <string name="settings_location_permissions_preference_title">Oprávnění polohy</string>
+    <string name="settings_modify_system_settings_permissions_title">Oprávnění úprav nastavení systému</string>
+    <string name="settings_feedback">Zpětná vazba &amp; podpora</string>
+    <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_wiki_device_administrator">Device administrator</string>
-    <string name="settings_wiki_accessibility_service">Accessibility service</string>
-    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
-    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
-    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
-    <string name="settings_rate_or_review">Rate or review the app</string>
-    <string name="settings_support_title">Thank you for your support!</string>
-    <string name="settings_send_email">Send email</string>
-    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
-    <string name="settings_credit">Credit</string>
-    <string name="settings_credit_app_icon">Application\'s icon</string>
-    <string name="settings_translations">Translations</string>
-    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_wiki_device_administrator">Správce zařízení</string>
+    <string name="settings_wiki_accessibility_service">Služba přístupnosti</string>
+    <string name="settings_wiki_how_to_add_tiles">Jak přidat dlaždice</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">Jak povolit skryté dlaždice</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Jak použít ADB k udělení oprávnění</string>
+    <string name="settings_rate_or_review">Ohodnotit aplikaci</string>
+    <string name="settings_support_title">Děkujeme za Vaši podporu!</string>
+    <string name="settings_send_email">Poslat e-mail</string>
+    <string name="settings_support_summary">Vyvinuto pro Android Nougat &amp; Android Oreo</string>
+    <string name="settings_credit">Zásluhy</string>
+    <string name="settings_credit_app_icon">Ikona aplikace</string>
+    <string name="settings_translations">Překlady</string>
+    <string name="settings_translations_thanks">Pokud chcete pomoci při překládání aplikace do vašeho jazyka, neváhejte a kontaktujte mě: rascarlo@gmail.com.\nDěkuji Vám!</string>
     <string name="settings_translations_locale_de">German</string>
     <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
     <string name="settings_translations_locale_nl">Dutch</string>
@@ -92,303 +92,303 @@
     <string name="settings_translations_locale_nb">Norwegian Bokmål</string>
     <string name="settings_translations_locale_pl">Polish</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
-    <string name="settings_tile_action_start_service_and_collapse">Collapse Quick Settings panel and start service</string>
-    <string name="settings_tile_action_start_service_without_collapsing">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
-    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
-    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
-    <string name="settings_stay_awake">Stay awake</string>
-    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
-    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <string name="settings_component_summary_title">Viditelnost dlaždice</string>
+    <string name="settings_component_summary_off">Skrýt dlaždici v rychlých nastaveních</string>
+    <string name="settings_component_summary_on">Zobrazit dlaždici v rychlých nastaveních</string>
+    <string name="settings_tile_action_start_service_and_collapse">Zavřít panel rychlých nastavení a spustit službu</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Spustit službu bez zavření panelu rychlých nastavení</string>
+    <string name="settings_stop_on_sleep_title">Zastavit po uspání</string>
+    <string name="settings_stop_on_sleep_summary_on">Zastavit službu po uspání zařízení</string>
+    <string name="settings_stop_on_sleep_summary_off">Ponechat službu spuštěnou i po uspání zařízení</string>
+    <string name="settings_stay_awake">Udržet probuzené</string>
+    <string name="settings_stay_awake_summary_on">Udržet zařízení probuzené</string>
+    <string name="settings_stay_awake_summary_off">Nechat zařízení uspat</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže upravovat režim jasu</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může upravovat režim jasu</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">Zobrazit všechny aplikace</string>
+    <string name="settings_application_tile_action_show_selected_apps">Zobrazit vybrané aplikace</string>
+    <string name="settings_application_tile_single_app">Jedna aplikace</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
-        <item quantity="few">%d applications selected</item>
+        <item quantity="one">%d aplikace vybrána</item>
+        <item quantity="other">%d aplikace vybrány</item>
+        <item quantity="few">%d aplikací vybráno</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">Vybraná aplikace</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_view_mode">Režim zobrazení</string>
+    <string name="settings_application_tile_view_mode_list">Seznam</string>
+    <string name="settings_application_tile_view_mode_grid">Mřížka</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Mřížka bez popisu</string>
+    <string name="settings_application_tile_grid_columns">Sloupce mřížky</string>
+    <string name="settings_application_tile_application_list_show_title">Aplikace k zobrazení</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">Vybraných aplikací: %d</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Žádná aplikace nebyla vybrána</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplikace ke spuštění</string>
+    <string name="settings_application_tile_loading_applications">Načítání aplikací…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže upravovat úroveň jasu</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může upravovat úroveň jasu</string>
+    <string name="settings_brightness_tile_action_change_brightness">Upravit jas</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Úroveň jasu</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Vysoká: %1$d%%\nStřední: %2$d%%\nNízká: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
-    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <string name="settings_call_tile_action_open_phone">Otevřít aplikaci pro volání</string>
+    <string name="settings_call_tile_action_make_call">Vytočit vybraný kontakt</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Oprávnění volání</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Zakázáno. Dlaždice nemůže uskutečnit telefonní hovor</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Povoleno. Dlaždice může uskutečnit telefonní hovor</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Kontakt pro volání</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">Otevřít e-mailovou aplikaci</string>
+    <string name="settings_email_tile_action_send_email">Vytvořit e-mail s vybraným kontaktem jako příjemcem</string>
+    <string name="settings_email_tile_contact_preference_title">Kontakt pro e-mail</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Správce zařízení</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Povoleno. Dlaždice může uzamknout zařízení</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Zakázáno. Dlaždice nmůže uzamknout zařízení</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Přístup k režimu Nerušit</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Povoleno. Aplikace může přepínat režim Nerušit a provádět změny se souvisejícími nastaveními</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Zakázáné. Aplikace nemůže přepínat režim Nerušit a provádět změny se souvisejícími nastaveními</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Otevřít panel hlasitosti</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Změnit režim vyzvánení</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Přehrát zvuk</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Nepřehrávat žádný zvuk, když je vybrán normální režim</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Přehrát výchozí zvuk oznámení, když je vybrán normální režim</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobrazit akci pro otevření nastavení</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skrýt akci</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Přehrát zvuk</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Nepřehrávat žádný zvuk při spuštění služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Přehrát výchozí zvuk oznámení při spuštění služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrace</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Nevibrovat při spuštění služby</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrovat při spuštění služby</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Změnit stav synchronizace</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Otevřít nastavení synchronizace</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">Otevřít časovač</string>
+    <string name="settings_timer_tile_action_start_timer">Spustit časovač</string>
+    <string name="settings_timer_tile_skip_ui_title">Přeskočit UI</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Přeskočit jakékoli UI pro potvrzení a spustit časovač</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Před spuštěním časovače zobrazit UI pro potvrzení</string>
+    <string name="settings_timer_tile_default_duration">Výchozí doba trvání</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Zakázáno. Dlaždice nemá přístup k poloze zařízení</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Povoleno. Dlaždice má přístup k poloze zařízení</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Zakázáno. Dlaždice nemá přístup k poloze zařízení a získání informací o počasí</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Povoleno. Dlaždice má přístup k poloze zařízení a získání informací o počasí</string>
+    <string name="settings_units">Jednotky</string>
+    <string name="settings_summary_off_hidden">Skryté</string>
+    <string name="settings_summary_on_shown">Zobrazené</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Vymazat připomínku přejetím vlevo nebo vpravo</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Vymazat připomínku při klepnutí na tlačítko Vymazat</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Trvalá oznámení</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Přehrát zvuk</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Přehrát výchozí zvuk oznámení při vytvoření nové připomínky</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Nepřehrávat žádný zvuk při vytvoření nové připomínky</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrace</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrovat při přidání nové připomínky</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Nevibrovat při přidání nové připomínky</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Styl časového razítka</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normální</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopky</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Zobrazit akci pro otevření nastavení</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Skrýt akci</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Zobrazit události</string>
+    <string name="settings_calendar_tile_action_add">Přidat událost</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit režim polohy zařízení</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit režim polohy zařízení</string>
+    <string name="settings_location_tile_action_change_location_mode">Změnit režim polohy</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit časový limit spánku</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit časový limit spánku</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Změnit časový limit spánku</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Oprávnění pro zápis do ext. úložiště</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Povoleno. Dlaždice může zaznamenat a uložit snímek obrazovky</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Zakázáno. Dlaždice nemůže zaznamenat a uložit snímek obrazovky</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Přehrát zvuk</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Přehrát výchozí zvuk oznámení při zaznamenání nového snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Nepřehrávat žádný zvuk při zaznamenání nového snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrace</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrovat při zaznamenání nového snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Nevibrovat při zaznamenání nového snímku obrazovky</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Sbalit panel s rychlými nastaveními a zaznamenat snímek obrazovky</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Zaznamenat snímek obrazovky bez sbalení panelu s rychlými nastaveními</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Zobrazit akci pro sdílení snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Skrýt akci pro sdílení snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Zobrazit akci pro vymazání snímku obrazovky</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Skrýt akci pro vymazání snímku obrazovky</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Režim Nerušit</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Pouze budíky</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Absolutní ticho</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Pouze prioritní</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Zobrazit okno</string>
+    <string name="settings_notification_share_action_title">Sdílet</string>
+    <string name="settings_notification_settings_action_title">Nastavení</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_write_secure_settings_permission_title">Oprávnění pro zápis do bezpečnostních nastavení</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit režim přes celou obrazovku</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit režim přes celou obrazovku</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Změnit režim přes celou obrazovku</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Chcete-li zabránit neočekávanému chování, zpoždění probudit zařízení nebo přijetí hovoru během spánku, nechte toto nastavení aktivováno.</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit Ambientní displej</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit Ambientní displej</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
-    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit animace</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit animace</string>
+    <string name="settings_show_milliseconds">Zobrazit milisekundy</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Přidat budík</string>
+    <string name="settings_alarm_tile_action_show_alarms">Zobrazit budíky</string>
+    <string name="settings_date_format">Formát data</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Formát času</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Malé</string>
+    <string name="settings_font_size_tile_font_scale_default">Výchozí</string>
+    <string name="settings_font_size_tile_font_scale_large">Velké</string>
+    <string name="settings_font_size_tile_font_scale_largest">Největší</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit velikost písma</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit velikost písma</string>
+    <string name="settings_font_size_tile_action_change_font_size">Změnit velikost písma</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit stav NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit stav NFC</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Změnit stav NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Otevřít nastavení NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit datový roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit datový roaming</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Výchozí hustota</string>
+    <string name="settings_density_tile_current_density_title">Aktuální hustota</string>
+    <string name="settings_density_tile_restore_default_density_title">Obnovit výchozí hustotu</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit stav obrazovky při nabíjení</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit stav obrazovky při nabíjení</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit demo režim</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit demo režim</string>
+    <string name="settings_dump_permission_title">Výpis oprávnění</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Povoleno. Dlaždice může získat výpis informací o stavu ze systémových služeb</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Zakázáno. Povoleny. Dlaždice nemůže získat výpis informací o stavu ze systémových služeb</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit zobrazení plovoucích oznámení</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit zobrazení plovoucích oznámení</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Zakázáno. Dlaždice nemůže zobrazit systémovou nabídku napájení</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Povoleno. Dlaždice může zobrazit systémovou nabídku napájení</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Zakázáno. Dlaždice nemůže přepnout rozdělenou obrazovku</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Povoleno. Dlaždice může přepnout rozdělenou obrazovku</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Zakázáno. Dlaždice nemůže zobrazit nedávné aplikace</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Povoleno. Dlaždice může zobrazit nedávné aplikace</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Přístup k režimu Nerušit</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Otevřít panel hlasitosti</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Povoleno. Dlaždice může přepínat režim Nerušit a změnit hlasitost vyzvánění</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Zakázáno. Dlaždice nemůže přepínat režim Nerušit a změnit hlasitost vyzvánění</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit vibrace při klepnutí</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit vibrace při klepnutí</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit zvuky při dotyku</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit zvuky při dotyku</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Změnit a uzamknout otáčení</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit nebo uzamknout otáčení</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit nebo uzamknout otáčení</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemůže změnit vibrace při volání</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice může změnit vibrace při volání</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže zapnout/vypnout spořič baterie</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může zapnout/vypnout spořič baterie</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit USB ladění</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit USB ladění</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Změnit stav mobilních dat</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Otevřít nastavení mobilních dat</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Otevřít nastavení spotřeby dat</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Vybraní zástupci</string>
+    <string name="settings_shortcuts_tile_summary_empty">Nebyl vybrán žádný zástupce</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Zakázáno. Dlaždice nemůže uskutečnit hovor a provést přímé vytáčení pomocí zástupců</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Povoleno. Dlaždice může uskutečnit hovor a provést přímé vytáčení pomocí zástupců</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Změnit stav Bluetooth</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Otevřít nastavení Bluetooth</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit monochromatické zobrazení</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit monochromatické zobrazení</string>
     <!--input method-->
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Zobrazit volbu metody zadávání</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Otevřít nastavení metody zadávání</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Vybrané kontakty</string>
+    <string name="settings_contacts_tile_summary_empty">Nebyl vybrán žádný kontakt</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může převrátit barvy</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže převrátit barvy</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Otevřít nastavení úložiště</string>
+    <string name="settings_storage_tile_action_open_file_manager">Otevřít správce souborů</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">Zdraví</string>
+    <string name="settings_battery_details_tile_temperature">Teplota</string>
+    <string name="settings_battery_details_tile_temperature_units">Jednotky teploty</string>
+    <string name="settings_battery_details_tile_voltage">Napětí</string>
+    <string name="settings_battery_details_tile_technology">Technologie</string>
     <!--activities-->
-    <string name="settings_activities_tile_activity_label">Activity</string>
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_activities_tile_activity_label">Aktivity</string>
+    <string name="settings_no_activity_selected">Nebyla vybrána žádná aktivita</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
-        <item quantity="few">%d activities found</item>
+        <item quantity="one">Nalezeno aktivit: %d</item>
+        <item quantity="other">Nalezeno aktivit: %d</item>
+        <item quantity="few">Nalezeno aktivit: %d</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Použito</string>
+    <string name="settings_memory_tile_total">Celkem</string>
+    <string name="settings_memory_tile_threshold">Práh</string>
+    <string name="settings_memory_tile_low_memory">Nedostatek paměti</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">Obnovit hodnotu</string>
+    <string name="settings_counter_tile_current_value">Výchozí hodnota</string>
+    <string name="settings_counter_tile_action_addition">Sčítání</string>
+    <string name="settings_counter_tile_action_subtraction">Odčítání</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Povoleno. Dlaždice může uzamknout fotoaparát</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Zakázáno. Dlaždice nemůže uzamknout fotoaparát</string>
     <!--network traffic-->
-    <string name="settings_network_traffic_tile_total_received">Total received</string>
-    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
-    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
-    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <string name="settings_network_traffic_tile_total_received">Celkem přijato</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Celkem odesláno</string>
+    <string name="settings_network_traffic_tile_mobile_received">Přijato - mobilní síť</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Odesláno - mobilní síť</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">Otočit jednu kostku</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Otočit dvě kostky</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit kontrolu při zvednutí</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit kontrolu při zvednutí</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit kontrolu dvojím poklepáním</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit kontrolu dvojím poklepáním</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může změnit AOD</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže změnit AOD</string>
 </resources>

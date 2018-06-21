@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">Applikasjonens ikon</string>
     <string name="settings_translations">Oversettelser</string>
     <string name="settings_translations_thanks">Hvis du vil hjelpe til med å oversette appen til ditt språk, så er det bare til å kontakte meg: rascarlo@gmail.com.\nTusen takk!</string>
+    <string name="settings_translations_locale_cs">Czech</string>
     <string name="settings_translations_locale_de">Tysk</string>
     <string name="settings_translations_locale_pt_rBR">Portugisisk, Brasil</string>
     <string name="settings_translations_locale_nl">Nederlandsk</string>

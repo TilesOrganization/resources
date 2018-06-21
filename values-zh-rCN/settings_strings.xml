@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">应用程序的图标</string>
     <string name="settings_translations">翻译者</string>
     <string name="settings_translations_thanks">如果你想帮助翻译这个应用为你的语言，请随时联系我: rascarlo@gmail.com.\n谢谢!</string>
+    <string name="settings_translations_locale_cs">捷克</string>
     <string name="settings_translations_locale_de">德文</string>
     <string name="settings_translations_locale_pt_rBR">葡萄牙文(巴西)</string>
     <string name="settings_translations_locale_nl">荷兰文</string>

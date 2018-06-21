@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">Alkalmazás fejlesztője</string>
     <string name="settings_translations">Fordítások</string>
     <string name="settings_translations_thanks">Ha szeretnél segíteni a fordításban, vedd fel velem a kapcsolatot: rascarlo@gmail.com.\nKöszönöm!</string>
+    <string name="settings_translations_locale_cs">Cseh</string>
     <string name="settings_translations_locale_de">Német</string>
     <string name="settings_translations_locale_pt_rBR">Portugál, Brazília</string>
     <string name="settings_translations_locale_nl">Dán</string>

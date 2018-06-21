@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">Icono de la aplicación</string>
     <string name="settings_translations">Traducciones</string>
     <string name="settings_translations_thanks">Si quieres colaborar con el proyecto traduciendo esta aplicación a tu idioma, por favor, contacta conmigo: rascarlo@gmail.com.\n¡Gracias!</string>
+    <string name="settings_translations_locale_cs">Checo</string>
     <string name="settings_translations_locale_de">Alemán</string>
     <string name="settings_translations_locale_pt_rBR">Portugués de Brasil</string>
     <string name="settings_translations_locale_nl">Holandés</string>

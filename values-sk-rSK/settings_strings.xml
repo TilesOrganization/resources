@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">Ikona aplikácie</string>
     <string name="settings_translations">Preklady</string>
     <string name="settings_translations_thanks">Ak chcete pomôcť preložiť aplikáciu do vášho jazyka, prosím, kontaktujte ma: rascarlo@gmail.com.\nĎakujem!</string>
+    <string name="settings_translations_locale_cs">český</string>
     <string name="settings_translations_locale_de">German</string>
     <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
     <string name="settings_translations_locale_nl">Dutch</string>

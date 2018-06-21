@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">程式圖示</string>
     <string name="settings_translations">程式翻譯</string>
     <string name="settings_translations_thanks">歡迎為本程式進行翻譯，請寄送電子郵件至 rascarlo@gmail.com 與我聯絡\n謝謝!</string>
+    <string name="settings_translations_locale_cs">捷克</string>
     <string name="settings_translations_locale_de">德文</string>
     <string name="settings_translations_locale_pt_rBR">葡萄牙文</string>
     <string name="settings_translations_locale_nl">荷蘭文</string>

@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">Ikona aplikacije</string>
     <string name="settings_translations">Prijevodi</string>
     <string name="settings_translations_thanks">Ako želite pomoći pri prevođenju aplikacije na svoj jezik, slobodno me kontaktirajte: rascarlo@gmail.com.\nHvala!</string>
+    <string name="settings_translations_locale_cs">češki</string>
     <string name="settings_translations_locale_de">Njemački</string>
     <string name="settings_translations_locale_pt_rBR">Portugalski, Brazil</string>
     <string name="settings_translations_locale_nl">Nizozemski</string>

@@ -73,6 +73,7 @@
     <string name="settings_credit_app_icon">アプリのアイコン</string>
     <string name="settings_translations">翻訳</string>
     <string name="settings_translations_thanks">このアプリをあなたの言語に翻訳したい場合はご気軽に私まで連絡してください： rascarlo@gmail.com\nありがとうございます！</string>
+    <string name="settings_translations_locale_cs">チェコ語</string>
     <string name="settings_translations_locale_de">ドイツ語</string>
     <string name="settings_translations_locale_pt_rBR">ブラジルポルトガル語</string>
     <string name="settings_translations_locale_nl">オランダ語</string>

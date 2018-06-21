@@ -36,12 +36,12 @@
     <string name="settings_design_navigation_bar_tint_no_tint">Nema boje</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">Tamna primarna boja</string>
     <string name="settings_design_navigation_bar_tint_primary">Primarna boja</string>
-    <string name="settings_design_navigation_bar_tint_accent">Boja naglaska</string>
+    <string name="settings_design_navigation_bar_tint_accent">Sekundarna boja</string>
     <!--design status bar tint-->
     <string name="settings_design_status_bar_tint_title">Boja trake stanja</string>
     <string name="settings_design_status_bar_tint_primary_dark">Tamna primarna boja</string>
     <string name="settings_design_status_bar_tint_primary">Primarna boja</string>
-    <string name="settings_design_status_bar_tint_accent">Boja naglaska</string>
+    <string name="settings_design_status_bar_tint_accent">Sekundarna boja</string>
     <!--design status bar icons-->
     <string name="settings_design_status_bar_icons_title">Ikone trake stanja</string>
     <string name="settings_design_status_bar_icons_light">Svijetle ikone</string>
@@ -73,7 +73,7 @@
     <string name="settings_credit_app_icon">Ikona aplikacije</string>
     <string name="settings_translations">Prijevodi</string>
     <string name="settings_translations_thanks">Ako želite pomoći pri prevođenju aplikacije na svoj jezik, slobodno me kontaktirajte: rascarlo@gmail.com.\nHvala!</string>
-    <string name="settings_translations_locale_cs">češki</string>
+    <string name="settings_translations_locale_cs">Češki</string>
     <string name="settings_translations_locale_de">Njemački</string>
     <string name="settings_translations_locale_pt_rBR">Portugalski, Brazil</string>
     <string name="settings_translations_locale_nl">Nizozemski</string>
@@ -91,7 +91,7 @@
     <string name="settings_translations_locale_tr">Turski</string>
     <string name="settings_translations_locale_zh_rCN">Pojednostavljeni kineski</string>
     <string name="settings_translations_locale_nb">Norveški Bokmål</string>
-    <string name="settings_translations_locale_pl">Polirati</string>
+    <string name="settings_translations_locale_pl">Poljski</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Vidljivost pločica</string>
     <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>

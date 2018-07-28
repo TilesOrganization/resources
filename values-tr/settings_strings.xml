@@ -1,2 +1,393 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources><string name="settings">Ayarlar</string><string name="settings_design">Görünüm</string><string name="settings_animations">Animasyonlar</string><string name="settings_animations_reveal_animation_title">Animasyonu göster</string><string name="settings_animations_drawable_animation_title">Çizgi animasyonu</string><string name="settings_enabled">Açık</string><string name="settings_disabled">Kapalı</string><string name="settings_action">Aksiyon</string><string name="settings_layout">Düzen</string><string name="settings_notification">Bildirim</string><string name="settings_theme">Tema</string><string name="settings_theme_light">Açık</string><string name="settings_theme_dark">Koyu</string><string name="settings_theme_black">Siyah</string><string name="settings_theme_terminal">Terminal</string><string name="settings_theme_deep_orange_light">Turuncu - Açık</string><string name="settings_theme_deep_orange_dark">Turuncu - Koyu</string><string name="settings_theme_deep_orange_black">Turuncu - Siyah</string><string name="settings_theme_deep_purple_light">Mor - Açık</string><string name="settings_theme_deep_purple_dark">Mor - Koyu</string><string name="settings_theme_deep_purple_black">Mor - Siyah</string><string name="settings_theme_red_light">Kırmızı - Açık</string><string name="settings_theme_red_dark">Kırmızı - Koyu</string><string name="settings_theme_red_black">Kırmızı - Siyah</string><string name="settings_theme_teal_light">Turkuaz - Açık</string><string name="settings_theme_teal_dark">Turkuaz - Koyu</string><string name="settings_theme_teal_black">Turkuaz - Siyah</string><string name="settings_description">Tanımlama</string><string name="settings_add_star">Yıldız ekle</string><string name="settings_remove_star">Yıldızı kaldır</string><string name="settings_design_navigation_bar_tint_title">Dolaşım çubuğu tonu</string><string name="settings_design_navigation_bar_tint_no_tint">Ton yok</string><string name="settings_design_navigation_bar_tint_primary_dark">Ana renk - Koyu</string><string name="settings_design_navigation_bar_tint_primary">Ana renk</string><string name="settings_design_navigation_bar_tint_accent">Ara renk</string><string name="settings_design_status_bar_tint_title">Durum çubuğu tonu</string><string name="settings_design_status_bar_tint_primary_dark">Ana renk - Koyu</string><string name="settings_design_status_bar_tint_primary">Ana renk</string><string name="settings_design_status_bar_tint_accent">Ara renk</string><string name="settings_design_status_bar_icons_title">Durum çubuğu ikonları</string><string name="settings_design_status_bar_icons_light">Açık renk</string><string name="settings_design_status_bar_icons_dark">Koyu renk</string><string name="settings_advanced">Gelişmiş</string><string name="settings_restart_active_tiles_title">Aktif blokları yenile</string><string name="settings_restart_active_tiles_summary">Aktif blokları yeniden başlatmaya zorlar. Tepki vermeyen blok olduğunda kullanın.</string><string name="settings_restart_active_tiles_summary_processing">Aktif blokların yeniden başlatılması</string><string name="settings_scheduled_restart_tiles_title">Zamanlanmış yeniden başlatma</string><string name="settings_permission">İzinler</string><string name="settings_phone_call_permission_title">Çağrı yapma izni</string><string name="settings_location_permissions_preference_title">Konum izni</string><string name="settings_modify_system_settings_permissions_title">Sistem ayarlarını değiştirme izni</string><string name="settings_feedback">Geri Bildirim &amp; Destek</string><string name="settings_privacy_policy">Gizlilik Politikası</string><string name="settings_wiki">Wiki</string><string name="settings_wiki_device_administrator">Cihaz yöneticisi</string><string name="settings_wiki_accessibility_service">Erişilebilirlik servisi</string><string name="settings_wiki_how_to_add_tiles">Nasıl blok eklenir?</string><string name="settings_wiki_how_to_enable_hidden_tiles">Gizli bloklar nasıl etkinleştirilir?</string><string name="settings_wiki_how_to_use_adb_to_grant_permissions">İzin vermek için ADB nasıl kullanılır?</string><string name="settings_rate_or_review">Uygulamayı oyla veya geri bildirim yaz</string><string name="settings_support_title">Desteğin için teşekkürler!</string><string name="settings_send_email">Email gönder</string><string name="settings_support_summary">Android Nougat &amp; Oreo için geliştirildi</string><string name="settings_credit">Emeği Geçenler</string><string name="settings_credit_app_icon">Uygulama ikonu</string><string name="settings_translations">Çeviriler</string><string name="settings_translations_thanks">Uygulamanın tercümesine yardımcı olmak için iletişime geçebilirsiniz: rascarlo@gmail.com.\nTeşekkürler!</string><string name="settings_translations_locale_cs">Çek</string><string name="settings_translations_locale_de">Alman</string><string name="settings_translations_locale_pt_rBR">Portekizce, Brezilya</string><string name="settings_translations_locale_nl">Felemenkçe</string><string name="settings_translations_locale_pt_rPT">Portekizce, Portekiz</string><string name="settings_translations_locale_sk_rSK">Slovak, Slovakya</string><string name="settings_translations_locale_zh_rHK_rMO">Geleneksel Çince, Hong Kong &amp; Makao</string><string name="settings_translations_locale_zh_rTW">Geleneksel Çince, Tayvan</string><string name="settings_translations_locale_it">İtalyanca</string><string name="settings_translations_locale_hu">Bulgarca</string><string name="settings_translations_locale_es">İspanyolca</string><string name="settings_translations_locale_ru">Rusça</string><string name="settings_translations_locale_fr">Fransızca</string><string name="settings_translations_locale_hr">Hırvatça</string><string name="settings_translations_locale_ja">Japonca</string><string name="settings_translations_locale_tr">Türkçe</string><string name="settings_translations_locale_zh_rCN">Basitleştirilmiş Çince</string><string name="settings_translations_locale_nb">Norveççe, Bokmål</string><string name="settings_translations_locale_pl">Lehçe</string><string name="settings_component_summary_title">Blok görünürlüğü</string><string name="settings_component_summary_off">Hızlı Ayarlar panelinden bloğu gizle</string><string name="settings_component_summary_on">Hızlı Ayarlar panelinde bloğu göster</string><string name="settings_tile_action_start_service_and_collapse">Hızlı Ayarlar panelini durdur ve hizmeti başlat</string><string name="settings_tile_action_start_service_without_collapsing">Hızlı Ayarlar panelini durdurmadan hizmeti başlat</string><string name="settings_stop_on_sleep_title">Uykuda durdur</string><string name="settings_stop_on_sleep_summary_on">Cihaz uykuya geçtiğinde servisi durdur</string><string name="settings_stop_on_sleep_summary_off">Cihaz uykuya geçtiğinde hizmetten ayrıl</string><string name="settings_stay_awake">Uyanık kal</string><string name="settings_stay_awake_summary_on">Cihazı uyanık tut</string><string name="settings_stay_awake_summary_off">Cihazın uykuya geçmesine izin ver</string><string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Reddedildi. Parlaklık modunu değiştirmek için izin verilmedi</string><string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Onaylandı. Parlaklık modunu değiştirmek için izin verildi</string><string name="settings_application_tile_action_show_all_apps">Tüm uygulamaları göster</string><string name="settings_application_tile_action_show_selected_apps">Seçili uygulamaları göster</string><string name="settings_application_tile_single_app">Tek uygulama</string><plurals name="settings_applications_tile_applications_selected_formatted_plurals"><item quantity="one">%. uygulama seçildi</item><item quantity="other">%. applications selected</item></plurals><string name="settings_application_tile_selected_app">Seçili uygulama</string><string name="settings_application_tile_view_mode">Görünüm modu</string><string name="settings_application_tile_view_mode_list">Liste</string><string name="settings_application_tile_view_mode_grid">Izgara</string><string name="settings_application_tile_view_mode_grid_no_labels">Etiketsiz ızgara</string><string name="settings_application_tile_grid_columns">Izgara kolonları</string><string name="settings_application_tile_application_list_show_title">Gösterilecek uygulamalar</string><string name="settings_application_tile_application_list_show_formatted_summary" NS1:ignore="PluralsCandidate" xmlns:NS1="http://schemas.android.com/tools">%. uygulamalar seçildi</string><string name="settings_application_tile_application_list_show_summary_empty">Uygulama seçilmedi</string><string name="settings_application_tile_application_list_launch_title">Başlatılacak uygulama</string><string name="settings_application_tile_loading_applications">Uygulamalar yükleniyor…</string><string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Reddedildi. Parlaklık seviyesini değiştirmek için izin verilmedi</string><string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Onaylandı. Parlaklık seviyesini değiştirmek için izin verildi</string><string name="settings_brightness_tile_action_change_brightness">Parlaklığı değiştir</string><string name="settings_brightness_tile_brightness_levels_preference_title">Parlaklık seviyesi</string><string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Yüksek: %1$d%%\nOrta: %2$d%%\nDüşük: %3$d%%</string><string name="settings_call_tile_action_open_phone">Arama uygulamasını aç</string><string name="settings_call_tile_action_make_call">Seçili kişiyi ara</string><string name="settings_call_contact_tile_phone_call_permission_title">Çağrı yapma izni</string><string name="settings_call_contact_tile_phone_call_permissions_summary_off">Reddedildi. Telefon çağrıları yapmak için izin verilmedi</string><string name="settings_call_contact_tile_phone_call_permissions_summary_on">Onaylandı. Telefon çağrıları yapmak için izin verildi</string><string name="settings_call_contact_tile_contact_preference_screen_title">Aranacak kişi</string><string name="settings_email_tile_action_open_app">Email uygulamasını başlat</string><string name="settings_email_tile_action_send_email">Seçilen kişi için email oluştur</string><string name="settings_email_tile_contact_preference_title">Mail atılacak kişi</string><string name="settings_lock_tile_device_admin_title">Cihaz yöneticisi</string><string name="settings_lock_tile_device_admin_summary_on">Aktif. Cihazı kilitleme izni verildi</string><string name="settings_lock_tile_device_admin_summary_off">Aktif değil. Cihazı kilitleme izni verilmedi</string><string name="settings_ringer_mode_tile_do_not_disturb_access_title">Rahatsız Etmeyin erişimi</string><string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">İzin verildi.</string><string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">İzin verilmedi.</string><string name="settings_ringer_mode_tile_action_open_volume_panel">Ses panelini aç</string><string name="settings_ringer_mode_tile_action_change_ringer_mode">Zil sesi modunu değiştir</string><string name="settings_ringer_mode_tile_play_sound_title">Bildirim sesi</string><string name="settings_ringer_mode_tile_play_sound_summary_off">Zil sesi modu normal olarak seçildiğinde herhangi bir ses çalma</string><string name="settings_ringer_mode_tile_play_sound_summary_on">Zil sesi modu normal olarak seçildiğinde standart bildirim sesini çal</string><string name="settings_caffeine_tile_running_service_notification_action_summary_on">Ayarları açmak için eylem göster</string><string name="settings_caffeine_tile_running_service_notification_action_summary_off">Eylemi gizle</string><string name="settings_caffeine_tile_running_service_notification_play_sound_title">Ses çal</string><string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Hizmet başladığında hiçbir ses çalma</string><string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Hizmet başladığında standart bildirim sesini çal</string><string name="settings_caffeine_tile_running_service_notification_vibrate_title">Titreşim</string><string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Hizmet başladığında titreşim verme</string><string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Hizmet başladığında titreşim ver</string><string name="settings_sync_tile_action_change_sync">Senkronizasyon durumunu değiştir</string><string name="settings_sync_tile_action_open_sync_settings">Senkronizasyon ayarlarını aç</string><string name="settings_timer_tile_action_open_timer">Zamanlayıcıyı aç</string><string name="settings_timer_tile_action_start_timer">Zamanlayıcıyı başlat</string><string name="settings_timer_tile_skip_ui_title">Kullanıcı ara yüzünü geç</string><string name="settings_timer_tile_skip_ui_summary_on">Ayarları atla ve zamanlayıcıyı başlat</string><string name="settings_timer_tile_skip_ui_summary_off">Zamanlayıcıyı başlatmadan önce ayarları göster</string><string name="settings_timer_tile_default_duration">Varsayılan süre</string><string name="settings_streetview_map_tile_location_permissions_summary_off">Reddedildi. Konum izni verilmedi</string><string name="settings_streetview_map_tile_location_permissions_summary_on">Onaylandı. Konum izni verildi</string><string name="settings_weather_tile_location_permissions_summary_off">Reddedildi. Konuma ve anlık hava durumuna erişim izni verilmedi</string><string name="settings_weather_tile_location_permissions_summary_on">Onaylandı. Konuma ve anlık hava durumuna erişim izni verildi</string><string name="settings_units">Birimler</string><string name="settings_summary_off_hidden">Gizlenen</string><string name="settings_summary_on_shown">Gösterilen</string><string name="settings_reminder_tile_persistent_notification_summary_off">Sağa veya sola sürükleyince hatırlatıcıyı sil</string><string name="settings_reminder_tile_persistent_notification_summary_on">Sil butonuna tıklayarak hatırlatıcıyı sil</string><string name="settings_reminder_tile_persistent_notification_title">Kalıcı bildirim</string><string name="settings_reminder_tile_notification_play_sound_title">Ses çal</string><string name="settings_reminder_tile_notification_play_sound_summary_on">Yeni bir bildirim eklendiğinde standart bildirim sesini çal</string><string name="settings_reminder_tile_notification_play_sound_summary_off">Yeni bir bildirim eklendiğinde herhangi bir ses çalma</string><string name="settings_reminder_tile_notification_vibrate_title">Titreşim</string><string name="settings_reminder_tile_notification_vibrate_summary_on">Yeni bir bildirim eklendiğinde titreşim ver</string><string name="settings_reminder_tile_notification_vibrate_summary_off">Yeni bir bildirim eklendiğinde titreşim verme</string><string name="settings_reminder_tile_notification_timestamp_style">Zaman damgası stili</string><string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string><string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Kronometre</string><string name="settings_reminder_tile_notification_settings_action_summary_on">Ayarları açmak için hizmeti göster</string><string name="settings_reminder_tile_notification_settings_action_summary_off">Hizmeti gizle</string><string name="settings_calendar_tile_action_view">Durumları gör</string><string name="settings_calendar_tile_action_add">Durum ekle</string><string name="settings_location_tile_write_secure_settings_permission_summary_on">Onaylandı.</string><string name="settings_location_tile_write_secure_settings_permission_summary_off">Onaylanmadı</string><string name="settings_location_tile_action_change_location_mode">Konum modunu değiştir</string><string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Reddedildi. Uyku zamanlayıcıyı değiştirme yetkisi verilmedi</string><string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Onaylandı. Uyku zamanlayıcıyı değiştirme yetkisi verildi</string><string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Uyku zaman aşımını değiştir</string><string name="settings_write_external_storage_permission_permissions_title">Dahili depolamaya yazma izni</string><string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Onaylandı. Ekran görüntüsü alma ve depolama izni verildi</string><string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Onaylanmadı. Ekran görüntüsü alma ve depolama izni verilmedi</string><string name="settings_screenshot_tile_notification_play_sound_title">Ses</string><string name="settings_screenshot_tile_notification_play_sound_summary_on">Yeni bir ekran görüntüsü alındığında standart bildirim sesini çal</string><string name="settings_screenshot_tile_notification_play_sound_summary_off">Yeni bir ekran görüntüsü alındığında herhangi bir ses çalma</string><string name="settings_screenshot_tile_notification_vibrate_title">Titreşim</string><string name="settings_screenshot_tile_notification_vibrate_summary_on">Yeni bir ekran görüntüsü aldığında titreşim ver</string><string name="settings_screenshot_tile_notification_vibrate_summary_off">Yeni bir ekran görüntüsü aldığında titreşim verme</string><string name="settings_screenshot_tile_action_collapse_take_screenshot">Hızlı Ayarlar panelini durdur ve ekran görüntüsü al</string><string name="settings_screenshot_tile_action_take_screenshot">Hızlı Ayarlar panelini durdurmadan ekran görüntüsü al</string><string name="settings_screenshot_tile_notification_share_action_summary_on">Ekran görüntüsünü paylaşma seçeneği göster</string><string name="settings_screenshot_tile_notification_share_action_summary_off">Ekran görüntüsünü paylaşma seçeneğini gizle</string><string name="settings_screenshot_tile_notification_delete_action_summary_on">Ekran görüntüsünü silme seçeneği göster</string><string name="settings_screenshot_tile_notification_delete_action_summary_off">Ekran görüntüsünü silme seçeneğini gizle</string><string name="settings_ringer_mode_tile_dnd_mode_title">Rahatsız Etmeyin modu</string><string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Yalnızca alarmlar</string><string name="settings_ringer_mode_tile_dnd_mode_none">Sessiz</string><string name="settings_ringer_mode_tile_dnd_mode_priority_only">Sadece öncelikliler</string><string name="settings_show_dialog">Pencereyi göster</string><string name="settings_notification_share_action_title">Eylemi paylaş</string><string name="settings_notification_settings_action_title">Ayarlar</string><string name="settings_write_secure_settings_permission_title">Write secure settings permission</string><string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Onaylandı. Tam ekran moduna izin verildi</string><string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Reddedildi. Tam ekran moduna izin verilmedi</string><string name="settings_immersive_mode_tile_action_change_immersive_mode">Tam ekran modunu değiştir</string><string name="settings_immersive_mode_tile_foreground_service_summary">Telefonu uyandırdığınızda veya gelen aramaya cevap verirken beklenmeyen durumlardan veya ertelemelerden kaçınmak için lütfen ayarları aktif halde tutun.</string><string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Onaylandı. Ortam ekranı ayarlarını değiştirme izni verildi</string><string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Reddedildi. Ortam ekranı ayarlarını değiştirme izni verilmedi</string><string name="settings_animations_tile_write_secure_settings_permission_summary_on">Onaylandı. Animasyonları değiştirme izni verildi</string><string name="settings_animations_tile_write_secure_settings_permission_summary_off">Reddedildi. Animasyonları değiştirme izni verilmedi</string><string name="settings_show_milliseconds">Milisaniyeleri göster</string><string name="settings_alarm_tile_action_add_alarm">Alarm ekle</string><string name="settings_alarm_tile_action_show_alarms">Alarmları göster</string><string name="settings_date_format">Tarih formatı</string><string name="settings_time_format">Saat formatı</string><string name="settings_font_size_tile_font_scale_small">Küçük</string><string name="settings_font_size_tile_font_scale_default">Varsayılan</string><string name="settings_font_size_tile_font_scale_large">Büyük</string><string name="settings_font_size_tile_font_scale_largest">Daha büyük</string><string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Reddedildi. Yazı boyutunu değiştirme izni verilmedi</string><string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Onaylandı. Yazı boyutunu değiştirme izni verildi</string><string name="settings_font_size_tile_action_change_font_size">Yazı boyutunu değiştir</string><string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Onaylandı. NFC durumunu değiştirme izni verildi</string><string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Reddedildi. NFC durumunu değiştirme izni verilmedi</string><string name="settings_nfc_tile_action_change_nfc_state">NFC durumunu değiştir</string><string name="settings_nfc_tile_open_nfc_settings">NFC ayarlarını aç</string><string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Onaylandı. Veri dolaşımı izni verildi</string><string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Reddedildi. Veri dolaşımı izni verilmedi</string><string name="settings_density_tile_default_density_title">Varsayılan yoğunluk</string><string name="settings_density_tile_current_density_title">Geçerli yoğuınluk</string><string name="settings_density_tile_restore_default_density_title">Varsayılan yoğunluğu düzenle</string><string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Onaylandı. Fişe takılı olduğunda uyanık kalma izni verildi</string><string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Reddedildi. Fişe takılı olduğunda uyanık kalma izni verilmedi</string><string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Onaylandı. Demo modu izni verildi</string><string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Reddedildi. Demo modu izni verilmedi</string><string name="settings_dump_permission_title">Dump permission</string><string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string><string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string><string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string><string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string><string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string><string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string><string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string><string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string><string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string><string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string><string name="settings_volumes_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string><string name="settings_volumes_tile_action_open_volume_panel">Ses panelini aç</string><string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string><string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string><string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string><string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string><string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string><string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string><string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string><string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string><string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string><string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string><string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string><string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string><string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string><string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string><string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string><string name="settings_cellular_data_tile_action_change_cellular_data_state">Hücresel ağ durumunu değiştir</string><string name="settings_cellular_data_tile_open_cellular_network_settings">Hücresel ağ ayarlarını aç</string><string name="settings_cellular_data_tile_action_open_data_usage_settings">Data kullanım ayarlarını aç</string><string name="settings_shortcuts_tile_selected_shortcut">Seçili kısayollar</string><string name="settings_shortcuts_tile_summary_empty">Kısayol seçilmedi</string><string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Reddedildi. Çağrı yapma ve hızlı arama kısayollarını yönetme izni verilmedi</string><string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Onaylandı. Çağrı yapma ve hızlı arama kısayollarını yönetme izni verildi</string><string name="settings_bluetooth_tile_action_change_bluetooth_state">Bluetooth durumunu değiştir</string><string name="settings_bluetooth_tile_action_open_bluetooth_settings">Bluetooth ayarlarını aç</string><string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string><string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string><string name="settings_input_method_tile_action_show_input_method_picker">Giriş yöntemi seçiciyi göster</string><string name="settings_input_method_tile_action_open_input_method_settings">Giriş yöntemi ayarlarını aç</string><string name="settings_contacts_tile_selected_contact">Seçili kişi</string><string name="settings_contacts_tile_summary_empty">Kimse seçilmedi</string><string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string><string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string><string name="settings_storage_tile_action_open_storage_settings">Depolama ayarlarını aç</string><string name="settings_storage_tile_action_open_file_manager">Dosya yöneticisini aç</string><string name="settings_battery_details_tile_health">Sağlık</string><string name="settings_battery_details_tile_temperature">Sıcaklık</string><string name="settings_battery_details_tile_temperature_units">Sıcaklık birimleri</string><string name="settings_battery_details_tile_voltage">Voltaj</string><string name="settings_battery_details_tile_technology">Teknoloji</string><string name="settings_activities_tile_activity_label">Aktivite</string><string name="settings_no_activity_selected">Aktivite seçilmedi</string><plurals name="settings_activities_tile_activities_found_formatted_plurals"><item quantity="one">%d aktivite bulundu</item><item quantity="other">%d aktivite bulundu</item></plurals><string name="settings_memory_tile_used">Kullanılan</string><string name="settings_memory_tile_total">Toplam</string><string name="settings_memory_tile_threshold">Threshold</string><string name="settings_memory_tile_low_memory">Düşük hafıza</string><string name="settings_counter_tile_reset_value">Değeri sıfırla</string><string name="settings_counter_tile_current_value">Güncel değer</string><string name="settings_counter_tile_action_addition">Addition</string><string name="settings_counter_tile_action_subtraction">Subtraction</string><string name="settings_camera_lock_tile_device_admin_summary_on">Aktifleştirildi. Kamera kilitleme izni verildi</string><string name="settings_camera_lock_tile_device_admin_summary_off">Devre dışı. Kamera kilitleme izni verilmedi</string><string name="settings_network_traffic_tile_total_received">Total received</string><string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string><string name="settings_network_traffic_tile_mobile_received">Mobile received</string><string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string><string name="settings_dice_tile_action_roll_one_die">Tek zar at</string><string name="settings_dice_tile_action_roll_two_dice">Çift zar at</string><string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string><string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string><string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string><string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string><string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Onaylandı. Her zaman açık izni verildi</string><string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Reddedildi. Her zaman açık izni verilmedi</string></resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--settings-->
+    <string name="settings">Settings</string>
+    <string name="settings_design">Design</string>
+    <string name="settings_animations">Animations</string>
+    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
+    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
+    <string name="settings_enabled">Enabled</string>
+    <string name="settings_disabled">Disabled</string>
+    <string name="settings_action">Action</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_notification">Notification</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
+    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
+    <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
+    <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
+    <string name="settings_theme_deep_purple_light">Deep purple - Light</string>
+    <string name="settings_theme_deep_purple_dark">Deep purple - Dark</string>
+    <string name="settings_theme_deep_purple_black">Deep purple - Black</string>
+    <string name="settings_theme_red_light">Red - Light</string>
+    <string name="settings_theme_red_dark">Red - Dark</string>
+    <string name="settings_theme_red_black">Red - Black</string>
+    <string name="settings_theme_teal_light">Teal - Light</string>
+    <string name="settings_theme_teal_dark">Teal - Dark</string>
+    <string name="settings_theme_teal_black">Teal - Black</string>
+    <string name="settings_description">Description</string>
+    <string name="settings_add_star">Add star</string>
+    <string name="settings_remove_star">Remove star</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">Navigation bar tint</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">No tint</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Color primary dark</string>
+    <string name="settings_design_navigation_bar_tint_primary">Color primary</string>
+    <string name="settings_design_navigation_bar_tint_accent">Color accent</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">Status bar tint</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Color primary dark</string>
+    <string name="settings_design_status_bar_tint_primary">Color primary</string>
+    <string name="settings_design_status_bar_tint_accent">Color accent</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">Status bar icons</string>
+    <string name="settings_design_status_bar_icons_light">Light icons</string>
+    <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <!--advanced-->
+    <string name="settings_advanced">Advanced</string>
+    <string name="settings_restart_active_tiles_title">Restart active tiles</string>
+    <string name="settings_restart_active_tiles_summary">Force restart active tiles. Use this action if some tiles are not responding, after being killed by the system</string>
+    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
+    <string name="settings_scheduled_restart_tiles_title">Scheduled restart</string>
+    <!--UX-->
+    <string name="settings_permission">Permission</string>
+    <string name="settings_phone_call_permission_title">Phone call permission</string>
+    <string name="settings_location_permissions_preference_title">Location permission</string>
+    <string name="settings_modify_system_settings_permissions_title">Modify system settings permission</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_wiki">Wiki</string>
+    <string name="settings_wiki_device_administrator">Device administrator</string>
+    <string name="settings_wiki_accessibility_service">Accessibility service</string>
+    <string name="settings_wiki_how_to_add_tiles">How to add tiles</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">How to enable hidden tiles</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">How to use ADB to grant permissions</string>
+    <string name="settings_rate_or_review">Rate or review the app</string>
+    <string name="settings_support_title">Thank you for your support!</string>
+    <string name="settings_send_email">Send email</string>
+    <string name="settings_support_summary">Developed for Android Nougat &amp; Android Oreo</string>
+    <string name="settings_credit">Credit</string>
+    <string name="settings_credit_app_icon">Application\'s icon</string>
+    <string name="settings_translations">Translations</string>
+    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_locale_cs">Çek</string>
+    <string name="settings_translations_locale_de">German</string>
+    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
+    <string name="settings_translations_locale_nl">Dutch</string>
+    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
+    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
+    <string name="settings_translations_locale_it">Italian</string>
+    <string name="settings_translations_locale_hu">Hungarian</string>
+    <string name="settings_translations_locale_es">Spanish</string>
+    <string name="settings_translations_locale_ru">Russian</string>
+    <string name="settings_translations_locale_fr">French</string>
+    <string name="settings_translations_locale_hr">Croatian</string>
+    <string name="settings_translations_locale_ja">Japanese</string>
+    <string name="settings_translations_locale_tr">Turkish</string>
+    <string name="settings_translations_locale_zh_rCN">Simplified Chinese</string>
+    <string name="settings_translations_locale_nb">Norveççe Bokmål</string>
+    <string name="settings_translations_locale_pl">Polonya</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">Tile visibility</string>
+    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
+    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
+    <string name="settings_tile_action_start_service_and_collapse">Collapse Quick Settings panel and start service</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Start service without collapsing the Quick Settings panel</string>
+    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
+    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
+    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
+    <string name="settings_stay_awake">Stay awake</string>
+    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
+    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
+    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
+    <string name="settings_application_tile_single_app">Single application</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d application selected</item>
+        <item quantity="other">%d applications selected</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Selected application</string>
+    <!-- applications list-->
+    <string name="settings_application_tile_view_mode">View mode</string>
+    <string name="settings_application_tile_view_mode_list">List</string>
+    <string name="settings_application_tile_view_mode_grid">Grid</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
+    <string name="settings_application_tile_grid_columns">Grid columns</string>
+    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
+    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
+    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
+    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">Open phone app</string>
+    <string name="settings_call_tile_action_make_call">Call selected contact</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Contact to call</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">Open email app</string>
+    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
+    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Open timer</string>
+    <string name="settings_timer_tile_action_start_timer">Start timer</string>
+    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
+    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
+    <string name="settings_units">Units</string>
+    <string name="settings_summary_off_hidden">Hidden</string>
+    <string name="settings_summary_on_shown">Shown</string>
+    <!--reminder-->
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">View events</string>
+    <string name="settings_calendar_tile_action_add">Add event</string>
+    <!--location mode-->
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
+    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <!--screenshot-->
+    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <!--notification common strings-->
+    <string name="settings_show_dialog">Show dialog</string>
+    <string name="settings_notification_share_action_title">Share action</string>
+    <string name="settings_notification_settings_action_title">Settings action</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_show_milliseconds">Show milliseconds</string>
+    <!--alarm tile-->
+    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
+    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
+    <string name="settings_date_format">Date format</string>
+    <!--screen time tile-->
+    <string name="settings_time_format">Time format</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Small</string>
+    <string name="settings_font_size_tile_font_scale_default">Default</string>
+    <string name="settings_font_size_tile_font_scale_large">Large</string>
+    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">Default density</string>
+    <string name="settings_density_tile_current_density_title">Current density</string>
+    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <!--awake while plugged in-->
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
+    <string name="settings_dump_permission_title">Dump permission</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <!--power-->
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <!--multi-window-->
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <!--orientation lock-->
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <!--vibrate for calls-->
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <!--battery saver-->
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <!--cellular data-->
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <!--shortcuts-->
+    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
+    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <!--bluetooth-->
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <!--monochromacy-->
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <!--input method-->
+    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <!--contacts-->
+    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
+    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <!--invert colors-->
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <!--storage-->
+    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
+    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Health</string>
+    <string name="settings_battery_details_tile_temperature">Temperature</string>
+    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
+    <string name="settings_battery_details_tile_voltage">Voltage</string>
+    <string name="settings_battery_details_tile_technology">Technology</string>
+    <!--activities-->
+    <string name="settings_activities_tile_activity_label">Activity</string>
+    <string name="settings_no_activity_selected">No activity selected</string>
+    <plurals name="settings_activities_tile_activities_found_formatted_plurals">
+        <item quantity="one">%d activity found</item>
+        <item quantity="other">%d activities found</item>
+    </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">Used</string>
+    <string name="settings_memory_tile_total">Total</string>
+    <string name="settings_memory_tile_threshold">Threshold</string>
+    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Reset value</string>
+    <string name="settings_counter_tile_current_value">Current value</string>
+    <string name="settings_counter_tile_action_addition">Addition</string>
+    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <!--camera lock-->
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Total received</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
+    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <!--dice-->
+    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+</resources>

@@ -41,6 +41,9 @@
     <string name="all">全部</string>
     <string name="starred">星标</string>
     <string name="empty_starred_tiles_database_alert_message">未发现星标瓷贴。</string>
+    <string name="custom_label">Custom label</string>
+    <string name="enter_label">Enter label</string>
+    <string name="not_set">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">设备管理器已激活</string>
     <string name="device_admin_deactivated">设备管理器未激活</string>

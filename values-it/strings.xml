@@ -41,6 +41,9 @@
     <string name="all">Tutte</string>
     <string name="starred">Starred</string>
     <string name="empty_starred_tiles_database_alert_message">Nessuna funzione starred trovata.</string>
+    <string name="custom_label">Etichetta personalizzata</string>
+    <string name="enter_label">Immettere etichetta</string>
+    <string name="not_set">Non impostato</string>
     <!--device administrator-->
     <string name="device_admin_activated">Amministratore dispositivo attivato</string>
     <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>

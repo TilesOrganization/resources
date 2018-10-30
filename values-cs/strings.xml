@@ -41,6 +41,9 @@
     <string name="all">Vše</string>
     <string name="starred">Označeno</string>
     <string name="empty_starred_tiles_database_alert_message">Nebyly nalezeny žádné označené dlaždice.</string>
+    <string name="custom_label">Custom label</string>
+    <string name="enter_label">Enter label</string>
+    <string name="not_set">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
     <string name="device_admin_deactivated">Správce zařízení byl deaktivován</string>

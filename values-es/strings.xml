@@ -41,6 +41,9 @@
     <string name="all">Todo</string>
     <string name="starred">Favoritos</string>
     <string name="empty_starred_tiles_database_alert_message">No hay elementos Favoritos</string>
+    <string name="custom_label">Custom label</string>
+    <string name="enter_label">Enter label</string>
+    <string name="not_set">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">Administrador de dispositivos activado</string>
     <string name="device_admin_deactivated">Administrador de dispositivos desactivado</string>

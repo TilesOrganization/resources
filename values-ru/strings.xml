@@ -41,9 +41,9 @@
     <string name="all">Все</string>
     <string name="starred">Избранное</string>
     <string name="empty_starred_tiles_database_alert_message">Нет избранных плиток.</string>
-    <string name="custom_label">Custom label</string>
-    <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="custom_label">Свой текст</string>
+    <string name="enter_label">Введите текст</string>
+    <string name="not_set">Не задано</string>
     <!--device administrator-->
     <string name="device_admin_activated">Администратор устройства активирован</string>
     <string name="device_admin_deactivated">Администратор устройства деактивирован</string>

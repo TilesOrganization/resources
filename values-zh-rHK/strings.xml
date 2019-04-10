@@ -41,9 +41,9 @@
     <string name="all">全部</string>
     <string name="starred">已加上星號</string>
     <string name="empty_starred_tiles_database_alert_message">沒有找到已加上星號的設定磚</string>
-    <string name="custom_label">Custom label</string>
-    <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="custom_label">自定義設定磚名稱</string>
+    <string name="enter_label">輸入設定磚名稱</string>
+    <string name="not_set">沒有設定</string>
     <!--device administrator-->
     <string name="device_admin_activated">裝置管理員已啟用</string>
     <string name="device_admin_deactivated">裝置管理員已停用</string>

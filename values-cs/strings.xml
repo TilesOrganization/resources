@@ -395,6 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">Aby dlaždice mohla měnit monochromatické zobrazení, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Vstupní metoda</string>
+    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
     <string name="contacts_tile_label">Kontakty</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Není vybrán žádný kontakt, otevřete nastavení a zvolte kontakt.</string>

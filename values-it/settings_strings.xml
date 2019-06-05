@@ -336,6 +336,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare monocromia</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare monocromia</string>
     <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a visualizzare selezionatore metodo immissione quando l\'applicazione non è in primo piano</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a visualizzare selezionatore metodo immissione quando l\'applicazione non è in primo piano</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">Visualizza selezionatore metodo immissione</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Apri impostazioni metodo immissione</string>
     <!--contacts-->

@@ -336,6 +336,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Gewährt. Die Kachel darf das Einfarbesehen ändern</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Verweigert. Die Kachel darf das Einfarbesehen nicht ändern</string>
     <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">Zeige das Auswahlmenü für Eingabe-Methoden</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Öffne die Eingabe-Methoden-Einstellungen</string>
     <!--contacts-->

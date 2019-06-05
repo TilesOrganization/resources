@@ -395,6 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">Para permitir que o bloco altere o modo monocromático, abra as configurações e conceda a permissão para alterar as configurações de segurança.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Método de entrada</string>
+    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
     <string name="contacts_tile_label">Contatos</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nenhum contato selecionado, abra as configurações e escolha um contato.</string>

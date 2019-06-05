@@ -395,6 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">要允许瓷贴切换色盲模式，请打开设置并授予写入安全设置权限。</string>
     <!-- input method -->
     <string name="input_method_tile_label">输入法</string>
+    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
     <string name="contacts_tile_label">联系人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">未选择联系人，请打开设置并选择联系人。</string>

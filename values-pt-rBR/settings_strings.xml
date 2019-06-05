@@ -336,6 +336,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Concedido. O bloco está permitido alterar o modo monocromático</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Negado. O bloco não está permitido alterar o modo monocromático</string>
     <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">Mostrar selecionador de método de entrada</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Abrir configurações do método de entrada</string>
     <!--contacts-->

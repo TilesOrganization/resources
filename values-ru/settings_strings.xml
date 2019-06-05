@@ -338,6 +338,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать монохромный режим</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать монохромный режим</string>
     <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">Показать переключатель методов ввода</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Открыть настройки методов ввода</string>
     <!--contacts-->

@@ -336,6 +336,8 @@
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">許可済み。タイルはモノクロ表示を変更できます。</string>
     <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">未許可。タイルはモノクロ表示を変更できます。</string>
     <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">入力方法の切り替えメニュー</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">入力方法の設定を開く</string>
     <!--contacts-->

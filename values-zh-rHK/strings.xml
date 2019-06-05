@@ -395,6 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!-- input method -->
     <string name="input_method_tile_label">鍵盤及輸入法</string>
+    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
     <string name="contacts_tile_label">聯絡人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">沒有選取任何聯絡人，請前往設定及選取聯絡人。</string>

@@ -395,6 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">A monokromázia csempe általi megváltoztatásának engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a biztonsági beállítások átírásához.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Beviteli mód</string>
+    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
     <string name="contacts_tile_label">Kapcsolatok</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nincs kiválaszott kapcsolat, kérlek nyisd meg a beállításokat és válassz ki egy kapcsolatot.</string>

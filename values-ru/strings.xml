@@ -395,7 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">Чтобы позволить плитке переключать монохромный режим, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Методы ввода</string>
-    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
+    <string name="input_method_tile_alert_dialog_message">Чтобы позволить плитке показывать переключатель методов ввода, пока приложение работает в фоне, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--contacts-->
     <string name="contacts_tile_label">Контакты</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Нет выбранного контакта. Пожалуйста, откройте настройки и выберите контакт.</string>

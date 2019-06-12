@@ -395,7 +395,7 @@
     <string name="monochromacy_tile_alert_dialog_message">Damit die Kachel das Einfarbesehen ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!-- input method -->
     <string name="input_method_tile_label">Eingabe-Methode</string>
-    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
+    <string name="input_method_tile_alert_dialog_message">Damit die Kachel den Auswahl der Eingabemethoden anzeigen kann, während sich die App nicht im Vordergrund befindet, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--contacts-->
     <string name="contacts_tile_label">Kontakte</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Kein Kontakt ausgewählt, öffne bitte die Einstellungen und wähle einen Kontakt aus.</string>

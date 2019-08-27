@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">İiiiiistediğin uygulamaya ait gizli özellikler başlatan en fazla 5 blok.</string>
+    <string name="description_activities_tile">İstediğin uygulamaya ait gizli özellikler başlatan en fazla 5 blok.</string>
     <string name="description_adaptive_brightness_tile">Aktifleştirildiğinde parlaklığı dış ortama göre otomatik olarak ayarlar. Aktif olsa da istenirse parlaklık elle ayarlanabilir. Bu bloğu kullanmak için sistem ayarlarında değişiklik yapma izni gereklidir.</string>
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_alarm_tile">Geçerli alarmları gösterir veya yeni bir tane oluşturur. Kurulmuş bir alarm varsa sıradaki alarmı gösterir. Üçüncü parti uygulamalar ile uyumludur.</string>

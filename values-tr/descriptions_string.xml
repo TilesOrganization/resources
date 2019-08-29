@@ -2,7 +2,7 @@
 <resources>
     <string name="description_activities_tile">İstediğin uygulamaya ait gizli özellikler başlatan en fazla 5 blok.</string>
     <string name="description_adaptive_brightness_tile">Aktifleştirildiğinde parlaklığı dış ortama göre otomatik olarak ayarlar. Aktif olsa da istenirse parlaklık elle ayarlanabilir. Bu bloğu kullanmak için sistem ayarlarında değişiklik yapma izni gereklidir.</string>
-    <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
+    <string name="description_always_on_tile">Ekran kapalıyken zamanı, bildirim simgelerini ve diğer bilgileri gösterir.</string>
     <string name="description_alarm_tile">Geçerli alarmları gösterir veya yeni bir tane oluşturur. Kurulmuş bir alarm varsa sıradaki alarmı gösterir. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_ambient_display_tile">Cihazı bildirim geldiğinde kilit ekranı içeriğini göstermeye ayarlar. Bu bloğu kullanmak için izin gereklidir.</string>
     <string name="description_animations_tile">Pencere animasyonu, geçiş animasyonu ve animatör süre ölçeklerini ayarlar. Bu bloğu kullanmak izin gerektirir.</string>
@@ -11,7 +11,7 @@
     <string name="description_battery_details_tile">Cihazın bataryasının yüzdesi, şarj olma/boşalma durumu, sağlığı, sıcaklığı, voltajı ve teknolojisi hakkında bilgi veren kalıcı bir bildirim yaratır. Etiket ve simge bildirim aktifken pilin yüzdesini gösterir.</string>
     <string name="description_battery_saver_tile">Güç tasarrufunu açıp kapatır. Güç tasarrufu açıkken performans düşürülür ve konum servisi kapatılır. Bu bloğu kullanmak izin gerektirir.</string>
     <string name="description_bluetooth_tile">Bluetooth\'u açar kapatır veya Bluetooth ayarları sayfasını açar.</string>
-    <string name="description_brightness_tile">Üç adet parlaklık modu gösterir (Düşük, orta, yüksek). Bu bloğu kullanabilmek için izin gerekir.</string>
+    <string name="description_brightness_tile">Üç adet parlaklık modu gösterir (düşük, orta, yüksek). Bu bloğu kullanabilmek için izin gerekir.</string>
     <string name="description_caffeine_tile">Cihazı uyanık tut, zamanaşımını gözardı etmesini sağla. Cihazın yeniden uyku moduna geçebilmesi için servisi durdur veya ekranı kapat.</string>
     <string name="description_calculator_tile">Hesap makinesini açar (Eğer Google Calculator yüklü ise.).</string>
     <string name="description_calendar_tile">Takvim olaylarını gösterir veya yeni bir tane oluşturur. Android Takvim Olaylarına erişimi olan üçüncü parti yazılımları da destekler.</string>
@@ -25,8 +25,8 @@
     <string name="description_data_roaming_tile">Veri dolaşımını açar veya kapatır. İzin gerektirir.</string>
     <string name="description_demo_mode_tile">Android Demo Moduna giriş yapar. Demo Modu, daha güzel ekran görüntüleri almak için durum çubuğunda iyileştirmeler yapan moddur. Bloğu kullanmak için izin gerekir.</string>
     <string name="description_density_tile">Ekranın yoğunluğunu değiştirir</string>
-    <string name="description_dice_tile">Roll the dice, let the numbers decide.</string>
-    <string name="description_double_tap_to_check_tile">To quickly check time, notification icons and other info, double-tap the display.</string>
+    <string name="description_dice_tile">Zar salla, bırak sayılar karar versin.</string>
+    <string name="description_double_tap_to_check_tile">Hızlıca zamanı, bildirim simgelerini ve diğer bilgileri kontrol etmek için çift tıkla.</string>
     <string name="description_email_tile">Hızlıca e-mail yazmak veya e-mail uygulamasını açmak için bir kişi belirle. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_font_size_tile">Cihazın yazı boyutunu değiştirir. Bloğu kullanabilmek için izin gerekir.</string>
     <string name="description_heads_up_notifications_tile">Bazı bildirimler ekranın üst kısmında küçük bir pencere halinde gözükür. Bu blok bu pencerinin oluşturulmasını önler. Video izlerken veya oyun oynarken vazgeçilmezdir.</string>
@@ -34,19 +34,19 @@
     <string name="description_input_method_tile">Giriş metodu seçiciyi gösterir veya giriş metodu ayarlarını açar.</string>
     <string name="description_invert_colors_tile">Renkleri ters çevirir. Özel izin gerektirir.</string>
     <string name="description_keep_tile">Google Keep\'e (yüklüyse) not almak için bir pencere açar.</string>
-    <string name="description_lift_to_check_tile">To quickly check time, notification icons and other info, pick up the device.</string>
+    <string name="description_lift_to_check_tile">Hızlıca zamanı, bildirim simgelerini ve diğer bilgileri kontrol etmek için cihazı kaldır.</string>
     <string name="description_location_tile">Konum servisini açar, kapatır veya doğruluk modunu değiştirir. Yüksek doğruluk modu daha net konum bilgisi sunarken daha fazla pil harcar. Düşük doğruluk yaklaşık konum sağlar ve düşük pil kullanır. Güç tasarrufu modu açıksa konum modu otomatik olarak kapatılır veya en düşüğe alınır.</string>
     <string name="description_lock_tile">Cihazı güvenli bir şekilde kilitler. Ekran kilidi ayarlanmışsa ekranı açmak için bu kilidi geçmek gerekir. Cihaz yöneticisi izni gereklidir.</string>
     <string name="description_maps_tile">Yüklüyse cihazın güncel konumunu gösteren herhangi bir harita uygulamasını açar. Üçüncü parti uygulamalarla uyumludur ve kullanımı için izin gerekmektedir.</string>
     <string name="description_media_volume_tile">Medya sesinin düzeyini sıfıra indirir ya da normal düzeye çıkartır.</string>
-    <string name="description_memory_tile">Cihazın hafızası (RAM) hakkında bilgi veren kalıcı bir bildirim yaratır. Bloğun etiketi, bildirim aktifken cihazdaki serbest ram boyutunu gösterir.</string>
+    <string name="description_memory_tile">Cihazın RAM\'i hakkında bilgi veren kalıcı bir bildirim yaratır. Bloğun etiketi, bildirim aktifken cihazdaki serbest ram boyutunu gösterir.</string>
     <string name="description_mono_audio_tile">Ses çalarken kanalları birleştirir.</string>
     <string name="description_monochromacy_tile">Siyah ve Beyaz renk sistemini etkinleştirir. Bu bloğun kullanımı izin gerektirir.</string>
     <string name="description_multi_window_tile">Android Nougat aynı anda iki uygulama görüntüleme desteğine sahiptir:  iki uygulama yan yana ya da üst üste çalışır. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
-    <string name="description_network_traffic_tile">Show a persistent notification with details about network traffic: download and upload speed, total received and transmitted, mobile received and transmitted. The label of the tile displays download and upload speed when the notification is active.</string>
+    <string name="description_network_traffic_tile">Ağ trafiği hakkında kalıcı bir bildirim gösterir: Download ve upload hızını ve toplam alınan-verilen veriyi içerir. Bloğun etiketi bildirim aktifken download ve upload hızını gösterir.</string>
     <string name="description_nfc_tile">NFC\'yi aç, kapat ya da NFC ayarlarını göster. Özel izin gerektirir.</string>
     <string name="description_notification_light_tile">Bildirim ışığını açar ya da kapatır.</string>
-    <string name="description_notification_log_tile">Access Android built-in notification log.</string>
+    <string name="description_notification_log_tile">Android\'in gömülü bildirim günlüğüne erişmeyi sağlar.</string>
     <string name="description_orientation_lock_tile">Cihazın dönüşünü kilitler: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Dönüşü değiştirmek ya da kilitlemek için blok otomatik döndürmeyi kapatma ihtiyacı duyar. Bunun için izin gereklidir.</string>
     <string name="description_power_tile">Sistemi kapatma, Yeniden başlatma, kurtarma modunda veya bootloader\'dan reboot seçenekleri sunan bir güç menüsü gösterir. Bunun için erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
     <string name="description_power_dialog_accessibility_tile">Cihazı açmak ya da yeniden başlatmak için bir menü gösterir. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
@@ -58,9 +58,9 @@
     <string name="description_shortcuts_tile">Uygun özelliği taşıyan herhangi bir uygulamaya bir görev yükler. İzin gerektirir.</string>
     <string name="description_sleep_tile">Cihazı uyku moduna alır.</string>
     <string name="description_sleep_timeout_tile">Cihazın kullanılmazken ne kadar sürede uykuya geçeceğini değiştirir. Kullanmak için izin gerektirir.</string>
-    <string name="description_stopwatch_tile">Kronometre göster.</string>
+    <string name="description_stopwatch_tile">Kronometreyi açar.</string>
     <string name="description_storage_tile">Depolama ayarlarını ya da cihazın dosya yöneticisini açar.</string>
-    <string name="description_street_view_tile">Eğer yüklüyse Google Street View.</string>
+    <string name="description_street_view_tile">Eğer yüklüyse, cihazın mevcut konumunu gösterecek şekilde Google Street View uygulamasını açar. Bu blok, Google Awareness API\'ını kullanır.\Konum izni gerektirir.</string>
     <string name="description_sync_tile">Senkronizasyonu açar ve kapatır ya da senkronizasyon ayarlarını açar.</string>
     <string name="description_text_tile">Yazı yazabileceğiniz, kopyalayabileceğiniz, paylaşabileceğiniz ya da üçüncü parti uygulamalarla kaydedebileceğiniz bir pencere açar.</string>
     <string name="description_timer_tile">Geri sayım başlatır. Bu blok üçüncü parti zamanlayıcı uygulamalarıyla da çalışır.</string>

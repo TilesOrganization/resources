@@ -141,152 +141,152 @@
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">İzin Verildi. Blok çağrı yapabilir</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Aranacak kişi</string>
     <!--email-->
-    <string name="settings_email_tile_action_open_app">Open email app</string>
-    <string name="settings_email_tile_action_send_email">Compose email with selected contact recipient</string>
-    <string name="settings_email_tile_contact_preference_title">Contact to email</string>
+    <string name="settings_email_tile_action_open_app">Email uygulamasını aç</string>
+    <string name="settings_email_tile_action_send_email">Seçilen alıcıya email yaz</string>
+    <string name="settings_email_tile_contact_preference_title">Email yazılacak alıcı</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Device administrator</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the device</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the device</string>
+    <string name="settings_lock_tile_device_admin_title">Aygıt yöneticisi</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Etkin. Blok cihazı kilitleyebilir</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Devredışı. Blok cihazı kilitleyemez</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and make changes to related settings</string>
-    <string name="settings_ringer_mode_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Change ringer mode</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Play sound</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Play default notification sound when ringer mode normal is selected</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">İzin Verildi. Blok, Rahatsız Etme seçeneğini açıp kapatabilir ve ilişkili ayarlarda değişiklik yapabilir</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Reddedildi. Blok, Rahatsız Etme seçeneğini açıp kapatamaz ve ilişkili ayarlarda değişiklik yapamaz</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Ses düzeyi panelini aç</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Zil modunu değiştir</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Ses çal</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Normal zil modu seçiliyken ses çalma</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Normal zil modu seçiliyken varsayılan bildirim sesini çal</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Ayarları açma eylemini göster</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Eylemi gizle</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Ses çal</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Hizmet başladığında hiç ses çalma</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Hizmet başladığında varsayılan bildirim sesini çal</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Titret</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Hizmet başladığında titretme</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Hizmet başladığında titret</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Change sync state</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Open sync settings</string>
+    <string name="settings_sync_tile_action_change_sync">Senkronizasyon durumunu değiştir</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Senkronizasyon ayarlarını aç</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Open timer</string>
-    <string name="settings_timer_tile_action_start_timer">Start timer</string>
-    <string name="settings_timer_tile_skip_ui_title">Skip UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
-    <string name="settings_timer_tile_default_duration">Default duration</string>
+    <string name="settings_timer_tile_action_open_timer">Zamanlayıcıyı aç</string>
+    <string name="settings_timer_tile_action_start_timer">Zamanlayıcıyı başlat</string>
+    <string name="settings_timer_tile_skip_ui_title">Arayüzü atla</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Her türlü onay arayüzüzünü atla ve doğrudan zamanlayıcıyı başlat</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Zamanlayıcıyı başatmadan önce onay arayüzü göster</string>
+    <string name="settings_timer_tile_default_duration">Varsayılan süre</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Reddedildi. The tile is not allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">İzin Verildi. The tile is allowed to access device\'s location</string>
     <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location and get current weather conditions</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_weather_tile_location_permissions_summary_off">Reddedildi. Blok, aygıtın konumuna ve mevcut hava durumuna ulaşamaz</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">İzin Verildi. Blok, aygıtın konumuna ve mevcut hava durumuna ulaşabilir</string>
+    <string name="settings_units">Birimler</string>
+    <string name="settings_summary_off_hidden">Gizle</string>
+    <string name="settings_summary_on_shown">Göster</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Sağa veya sola kaydırarak hatırlatıcıyı sil</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Silme eylemi butonuna tıklayarak hatırlatıcıyı sil</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Kalıcı bildirim</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Ses çal</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Yeni bir hatırlatıcı oluşturunca varsayılan bildirim sesini çal</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Yeni bir hatırlatıcı oluşturunca ses çalma</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Titret</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Yeni bir hatırlatıcı oluşturunca titret</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Yeni bir hatırlatıcı oluşturunca titretme</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Zaman damgası türü</string>
     <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Kronometre</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Ayarlar butonunu göster</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Gösterme</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Olayları göster</string>
+    <string name="settings_calendar_tile_action_add">Olay ekle</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, konum ayarlarını değiştirebilir</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, konum ayarlarını değiştiremez</string>
+    <string name="settings_location_tile_action_change_location_mode">Konum ayarlarını değiştir</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok, uyku zamanlayıcısı ayarlarını değiştiremez</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok, uyku zamanlayıcısı ayarlarını değiştirebilir</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Uyku zamanlayıcısını ayarla</string>
     <!--screenshot-->
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Harici depolama izni</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">İzin Verildi. Blok, ekran görüntüsü alabilir ve kaydedebilir</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Reddedildi. Blok, ekran görüntüsü alamaz ve kaydedemez</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Ses çal</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Ekran görüntüsü alındığında varsayılan bildirim sesini çal</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Ekran görüntüsü alındığında ses çalma</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Titret</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Ekran görüntüsü alınca titret</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Ekran görüntüsü alınca titretme</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Hızlı Ayarlar panelini çökert ve ekran görüntüsü çek</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Hızlı Ayarlar panelini çökertmeden ekran görüntüsü çek</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Ekran görüntüsünü paylaşma butonu göster</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Paylaşma butonunu gizle</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Ekran görüntüsünü silme butonu göster</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Silme butonunu gizle</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Rahatsız Etme modu</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Yalnızca alarmlar</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Tam sessizlik</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Yalnızca öncelikliler</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Pencere göster</string>
+    <string name="settings_notification_share_action_title">Paylaş Butonu</string>
+    <string name="settings_notification_settings_action_title">Ayarlar Butonu</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Write secure settings permission</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_write_secure_settings_permission_title">Write Secure Settings izni</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, tam ekran ayarlarını değiştirebilir</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, tam ekran ayarlarını değiştiremez</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Tam ekran modunu değiştir</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Cihazın beklenmedik şekilde davranmasını, cihazı uyandırırken ve uykudayken gelen aramayı cevaplarken gecikme yaşanmasını engellemek için lütfen bu ayarı etkinleştirin.</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, ekran ambiyansı ayarlarını değiştirebilir</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, ekran ambiyansı ayarlarını değiştiremez</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, animasyon ayarlarını değiştirebilir</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, animasyon ayarlarını değiştiremez</string>
     <string name="settings_show_milliseconds">Show milliseconds</string>
     <!--alarm tile-->
-    <string name="settings_alarm_tile_action_add_alarm">Add alarm</string>
-    <string name="settings_alarm_tile_action_show_alarms">Show alarms</string>
-    <string name="settings_date_format">Date format</string>
+    <string name="settings_alarm_tile_action_add_alarm">Alarm ekle</string>
+    <string name="settings_alarm_tile_action_show_alarms">Alarmları göster</string>
+    <string name="settings_date_format">Tarih formatı</string>
     <!--screen time tile-->
-    <string name="settings_time_format">Time format</string>
+    <string name="settings_time_format">Zaman formatı</string>
     <!--font size tile-->
-    <string name="settings_font_size_tile_font_scale_small">Small</string>
-    <string name="settings_font_size_tile_font_scale_default">Default</string>
-    <string name="settings_font_size_tile_font_scale_large">Large</string>
-    <string name="settings_font_size_tile_font_scale_largest">Largest</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
-    <string name="settings_font_size_tile_action_change_font_size">Change font size</string>
+    <string name="settings_font_size_tile_font_scale_small">Küçük</string>
+    <string name="settings_font_size_tile_font_scale_default">Varsayılan</string>
+    <string name="settings_font_size_tile_font_scale_large">Geniş</string>
+    <string name="settings_font_size_tile_font_scale_largest">En Geniş</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok yazı boyutunu değiştiremez</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok yazı boyutunu değiştirebilir</string>
+    <string name="settings_font_size_tile_action_change_font_size">Yazı boyutunu değiştir</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, NFC state</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, NFC state</string>
     <string name="settings_nfc_tile_action_change_nfc_state">Change NFC state</string>
     <string name="settings_nfc_tile_open_nfc_settings">Open NFC settings</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, veri dolaşımı ayarlarını değiştirebilir</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, veri dolaşımı ayarlarını değiştiremez</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Varsayılan yoğunluk</string>
+    <string name="settings_density_tile_current_density_title">Şuanki yoğunluk</string>
+    <string name="settings_density_tile_restore_default_density_title">Varsayılan yoğunluğa dön</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, uyanık kalma ayarlarını değiştirebilir</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, uyanık kalma ayarlarını değiştiremez</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, demo modu ayarlarını değiştirebilir</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, demo modu ayarlarını değiştiremez</string>
+    <string name="settings_dump_permission_title">Dump izni</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">İzin Verildi. The tile is allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Reddedildi. The tile is not allowed to retrieve state dump information from system services</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, heads-up notifications</string>
     <!--power-->
     <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
     <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
@@ -299,27 +299,27 @@
     <!--volumes-->
     <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
     <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">İzin Verildi. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Reddedildi. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok, vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok, vibrate on tap</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok, touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok, touch sounds</string>
     <!--orientation lock-->
     <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok, and lock orientation</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok, and lock orientation</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Reddedildi. Blok, vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Blok, vibrate for calls</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Reddedildi. The tile is not allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">İzin Verildi. The tile is allowed to turn battery saver on and off</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, USB debugging</string>
     <!--cellular data-->
     <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
     <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
@@ -327,25 +327,25 @@
     <!--shortcuts-->
     <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
     <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Reddedildi. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">İzin Verildi. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
     <!--bluetooth-->
     <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
     <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, monochromacy</string>
     <!--input method-->
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">İzin Verildi. The tile is allowed to show input method picker while the app is not in the foreground</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Reddedildi. The tile is not allowed to show input method picker while the app is not in the foreground</string>
     <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
     <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
     <!--contacts-->
     <string name="settings_contacts_tile_selected_contact">Selected contact</string>
     <string name="settings_contacts_tile_summary_empty">No contact selected</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, invert colors</string>
     <!--storage-->
     <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
     <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
@@ -384,12 +384,12 @@
     <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
     <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, lift to check</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, double-tap to check</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">İzin Verildi. Blok, always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Reddedildi. Blok, always on</string>
 </resources>

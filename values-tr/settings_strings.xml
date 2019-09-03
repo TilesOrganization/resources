@@ -177,8 +177,8 @@
     <string name="settings_timer_tile_skip_ui_summary_off">Zamanlayıcıyı başatmadan önce onay arayüzü göster</string>
     <string name="settings_timer_tile_default_duration">Varsayılan süre</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Reddedildi. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">İzin Verildi. The tile is allowed to access device\'s location</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Reddedildi. Karo cihazın konumuna erişemez</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">İzin Verildi. Karo cihazın konumuna erişebilir</string>
     <!--weather-->
     <string name="settings_weather_tile_location_permissions_summary_off">Reddedildi. Karo, aygıtın konumuna ve mevcut hava durumuna ulaşamaz</string>
     <string name="settings_weather_tile_location_permissions_summary_on">İzin Verildi. Karo, aygıtın konumuna ve mevcut hava durumuna ulaşabilir</string>
@@ -282,114 +282,114 @@
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, demo modu ayarlarını değiştirebilir</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, demo modu ayarlarını değiştiremez</string>
     <string name="settings_dump_permission_title">Dump izni</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">İzin Verildi. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Reddedildi. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">İzin Verildi. Karo, sistem hizmetlerinden Dump izni durumunu öğrenebilir</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Reddedildi. Karo, sistem hizmetlerinden Dump izni durumunu öğreneme</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, Heads-Up bildirimleri ayarlarını değiştirebilir</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, Heads-Up bildirimleri ayarlarını değiştiremez</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Devredışı. Koru, sistem güç penceresini gösteremez</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Etkin. Karo, sistem güç penceresini gösterebilir</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Devredışı. Karo, çoklu pencere görünümünü açamaz</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Etkin. Karo, çoklu pencere görünümünü açabilir</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Devredışı. Karo, son uygulamalar ekranını açamaz</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Aktif. Karo, son uygulamalar ekranını açabilir</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">İzin Verildi. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Reddedildi. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Rahatsız Etme erişimi</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Ses düzeyi panelini aç</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">İzin Verildi. Karo, zil modunu ve Rahatsız Etme ayarlarını değiştirebilir</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Reddedildi. Karo, zil modunu ve Rahatsız Etme ayarlarını değiştiremez</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, dokunmalar titretme ayarını değiştiremez</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, dokunmalarda titretme ayarlarını değiştirebilir</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, dokunma sesi ayarlarını değiştiremez</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, dokunma sesi ayarlarını değiştirebilir</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Ekran döndürmeyi değiştir ve kilitle</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, ekran döndürme ayarlarını değiştiremez ve kilitleyemez</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, ekran döndürme ayarlarını değiştirebilir ve kilitleyebilir</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Reddedildi. Karo, gelen çağrılarda titretme ayarlarını değiştiremez</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">İzin Verildi. Karo, gelen çağrılarda titretme ayarlarını değiştirebilir</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Reddedildi. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">İzin Verildi. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, pil tasarrufu ayarlarını değiştiremez</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, pil tasarrufu ayarlarını değiştirebilir</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, USB hata ayıklama ayarlarını değiştiremez</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, USB hata ayıklama ayarlarını değiştirebilir</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Hücresel veri durumunu değiştir</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Hücresel ağ ayarlarını aç</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Veri kullanımı ayarlarını aç</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Selected shortcut</string>
-    <string name="settings_shortcuts_tile_summary_empty">No shortcut selected</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Reddedildi. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">İzin Verildi. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Seçili kısayol</string>
+    <string name="settings_shortcuts_tile_summary_empty">Kısayol seçilmedi</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Reddedildi. Karo aramaya yapamaz ve doğrudan arama kısayollarını kullanamaz</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">İzin Verildi. Karo aramaya yapabilir ve doğrudan arama kısayollarını kullanabilir</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Bluetooth durumunu değiştir</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Bluetooth ayarlarını aç</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, Tek Renk Görüntü ayarlarını değiştirebilir</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, Tek Renk Görüntü ayarlarını değiştiremez</string>
     <!--input method-->
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">İzin Verildi. The tile is allowed to show input method picker while the app is not in the foreground</string>
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Reddedildi. The tile is not allowed to show input method picker while the app is not in the foreground</string>
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, uygulama önplanda değilken giriş yöntemi seçim ekranını gösterebilir</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, uygulama önplanda değilken giriş yöntemi seçim ekranını gösteremez</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Giriş yöntemi seçim ekranını göster</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Giriş yöntemi ayarlarını aç</string>
     <!--contacts-->
-    <string name="settings_contacts_tile_selected_contact">Selected contact</string>
-    <string name="settings_contacts_tile_summary_empty">No contact selected</string>
+    <string name="settings_contacts_tile_selected_contact">Seçilen kişi</string>
+    <string name="settings_contacts_tile_summary_empty">Kişi seçilmedi</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, renkleri ters çevirme özelliğini değiştirebilir</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, renkleri ters çevirme özelliğini değiştiremez</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Depolama ayarlarını aç</string>
+    <string name="settings_storage_tile_action_open_file_manager">Dosya yöneticisini aç</string>
     <!--battery details-->
-    <string name="settings_battery_details_tile_health">Health</string>
-    <string name="settings_battery_details_tile_temperature">Temperature</string>
-    <string name="settings_battery_details_tile_temperature_units">Temperature units</string>
-    <string name="settings_battery_details_tile_voltage">Voltage</string>
-    <string name="settings_battery_details_tile_technology">Technology</string>
+    <string name="settings_battery_details_tile_health">Sağlık</string>
+    <string name="settings_battery_details_tile_temperature">Sıcaklık</string>
+    <string name="settings_battery_details_tile_temperature_units">Sıcaklık birimi</string>
+    <string name="settings_battery_details_tile_voltage">Voltaj</string>
+    <string name="settings_battery_details_tile_technology">Teknoloji</string>
     <!--activities-->
-    <string name="settings_activities_tile_activity_label">Activity</string>
-    <string name="settings_no_activity_selected">No activity selected</string>
+    <string name="settings_activities_tile_activity_label">Etkinlik</string>
+    <string name="settings_no_activity_selected">Etkinlik seçilmedi</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
-        <item quantity="one">%d activity found</item>
-        <item quantity="other">%d activities found</item>
+        <item quantity="one">%d etkinlik bulundu</item>
+        <item quantity="other">%d etkinlik bulundu</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Used</string>
-    <string name="settings_memory_tile_total">Total</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_used">Kullanılan</string>
+    <string name="settings_memory_tile_total">Toplam</string>
+    <string name="settings_memory_tile_threshold">Eşik</string>
+    <string name="settings_memory_tile_low_memory">Düşük hafıza</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">Değeri sıfırla</string>
+    <string name="settings_counter_tile_current_value">Şuanki değer</string>
+    <string name="settings_counter_tile_action_addition">Ekleme</string>
+    <string name="settings_counter_tile_action_subtraction">Eksiltme</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Etkin. Karo kamerayı kilitleyebilir</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Devredışı. Karo kamerayı kilitleyemez</string>
     <!--network traffic-->
-    <string name="settings_network_traffic_tile_total_received">Total received</string>
-    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
-    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
-    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <string name="settings_network_traffic_tile_total_received">Toplam alınan</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Toplam gönderilen</string>
+    <string name="settings_network_traffic_tile_mobile_received">Alınan mobil veri</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Gönderilen mobil veri</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">Tek zar at</string>
+    <string name="settings_dice_tile_action_roll_two_dice">İki zar at</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, kaldırarak gözatma ayarlarını değiştirebilir</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, kaldırarak gözatma ayarlarını değiştirebilir</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, çift dokunarak gözatma ayarlarını değiştirebilir</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, çift dokunarak gözatma ayarlarını değiştiremez</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">İzin Verildi. Karo, Always On ayarlarını değiştirebilir</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Reddedildi. Karo, Always On ayarlarını değiştiremez</string>
 </resources>

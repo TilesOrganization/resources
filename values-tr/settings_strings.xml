@@ -72,7 +72,7 @@
     <string name="settings_credit">Emeği geçenler</string>
     <string name="settings_credit_app_icon">Uygulamanın simgesi</string>
     <string name="settings_translations">Çeviriler</string>
-    <string name="settings_translations_thanks">Uygulamayı senin diline çevirmek istiyorsan iletişime geçmekten çekinme: rascarlo@gmail.com.\nTeşekkür ederiz!</string>
+    <string name="settings_translations_thanks">Uygulamayı kendi diline çevirmek istiyorsan iletişime geçmekten çekinme: rascarlo@gmail.com.\nTeşekkür ederiz!</string>
     <string name="settings_translations_locale_cs">Çekçe</string>
     <string name="settings_translations_locale_de">Almanca</string>
     <string name="settings_translations_locale_pt_rBR">Portekizce, Brezilya</string>

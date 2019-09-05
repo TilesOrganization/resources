@@ -45,44 +45,44 @@
     <string name="enter_label">Etiketi gir</string>
     <string name="not_set">Ayarlanmadı</string>
     <!--device administrator-->
-    <string name="device_admin_activated">Device administrator activated</string>
-    <string name="device_admin_deactivated">Device administrator deactivated</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_activated">Aygıt Yöneticiliği etkinleştirildi</string>
+    <string name="device_admin_deactivated">Aygıt Yöneticiliği etkin değil</string>
+    <string name="device_admin_description">Tiles\'ın cihazı veya kameraları kilitlemesine izin verir</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Etkin değilse; Tiles, cihazı veya kameraları kilitleyemez.</string>
     <!--adaptive brightness-->
     <string name="adaptive_brightness_tile_label">Adaptif Parlaklık</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Bu karonun parlaklık modunu değiştirmesine izin vermek için, lütfen ayarları açıp sistem ayarlarını değiştirme izni verin.</string>
     <!--applications list-->
     <string name="applications_list_tile_label">Uygulamalar</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Hiçbir uygulama seçilmedi, lütfen ayarları açıp uygulama seçin.</string>
     <!--application-->
-    <string name="application_a_tile_label">Application #1</string>
-    <string name="application_b_tile_label">Application #2</string>
-    <string name="application_c_tile_label">Application #3</string>
-    <string name="application_d_tile_label">Application #4</string>
-    <string name="application_e_tile_label">Application #5</string>
+    <string name="application_a_tile_label">Uygulama #1</string>
+    <string name="application_b_tile_label">Uygulama #2</string>
+    <string name="application_c_tile_label">Uygulama #3</string>
+    <string name="application_d_tile_label">Uygulama #4</string>
+    <string name="application_e_tile_label">Uygulama #5</string>
     <string name="application_tile_label">Uygulama</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
-    <string name="application_info_dialog_message">For quick launch, please select only one app.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Hiçbir uygulama seçilmedi, lütfen ayarları açıp uygulama seçin.</string>
+    <string name="application_info_dialog_message">Hızlı başlatma için sadece bir uygulama seçin.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Parlaklık</string>
-    <string name="brightness_tile_label_formatted">Brightness %1$s</string>
-    <string name="brightness_tile_label_formatted_high">High: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_medium">Medium: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_low">Low: %1$d%%</string>
-    <string name="brightness_tile_formatted_label_one_param">Brightness: %1$d%%</string>
-    <string name="brightness_tile_undefined_label">Brightness undefined</string>
-    <string name="brightness_tile_alert_dialog_message">To allow the tile to change brightness level, please open settings and grant modify system settings permission.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptive brightness&lt;/b> is on</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Current brightness: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_label_formatted">Parlaklık %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Yüksek: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Orta: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Düşük: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Parlaklık: %1$d%%</string>
+    <string name="brightness_tile_undefined_label">Parlaklık belirsiz</string>
+    <string name="brightness_tile_alert_dialog_message">Karonun parlaklık düzeyini değiştirmesine izin vermek için, lütfen ayarları açıp sistem ayarlarını değiştirme izni verin.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Adaptif Parlaklık&lt;/b> açık</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Mevcut parlaklık: &lt;b>%1$d%%&lt;/b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Hesap Makinesi</string>
     <!--calendar-->
     <string name="calendar_tile_label">Takvim</string>
     <!--call-->
     <string name="call_tile_label">Çağrı</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">To allow the tile to make a phone call, please open settings and grant phone call permission.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Bu karonun çağrı yapmasına izin vermek için lütfen ayarları açıp çağrı yapma izni verin.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Aranacak kimse seçilmedi, lütfen birini seçin. Ya da başka bir eylem atayın.</string>
     <string name="call_tile_formatted_label">Call %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
     <string name="choose_contact">Choose contact</string>

@@ -85,104 +85,104 @@
     <string name="call_tile_empty_contact_alert_dialog_message">Aranacak kimse seçilmedi, lütfen birini seçin. Ya da başka bir eylem atayın.</string>
     <string name="call_tile_formatted_label">Call %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
-    <string name="choose_contact">Choose contact</string>
+    <string name="choose_contact">Kişi seç</string>
     <!--camera-->
-    <string name="camera_tile_camera_label">Camera</string>
-    <string name="camera_tile_video_label">Video camera</string>
+    <string name="camera_tile_camera_label">Kamera</string>
+    <string name="camera_tile_video_label">Video kamera</string>
     <!--email -->
     <string name="email_tile_label">Eposta</string>
     <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Hiçbir Eposta seçilmedi, lütfen ayarları açın ve seçin. Ya da başka bir eylem ayarlayın.</string>
     <!--lock-->
     <string name="lock_tile_label">Kilit</string>
-    <string name="lock_tile_device_admin_description">Allow the lock tile to lock the device</string>
-    <string name="lock_tile_alert_dialog_message">To allow the tile to lock the device, please open settings and activate it as device administrator.</string>
+    <string name="lock_tile_device_admin_description">Kilit karosunun cihazı kilitlemesine izin ver</string>
+    <string name="lock_tile_alert_dialog_message">Karonun cihazı kilitlemesine izin vermek için, lütfen ayarları açın ve cihaz yöneticisi olarak ayarlayın.</string>
     <!--map-->
     <string name="maps_tile_label">Haritalar</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_service_description">NFC durumunu takip eder, Karo kaldırıldığında durur. Durdurmak, karonun hata vermesine sebep olabilir.</string>
+    <string name="nfc_tile_alert_dialog_message">Karonun NFC durumunu değiştirmesine izin vermek için, lütfen ayarları açın ve Write_Secure_Settings izni verin.</string>
     <!--power-->
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
-    <string name="power_tile_action_power_dialog">Power dialog</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Karonun sistem güç penceresine göstermesine izin vermek için, lütfen ayarları açın ve erişilebilirlik hizmetini etkinleştirin.</string>
+    <string name="power_tile_action_system_power_dialog">Sistem güç penceresine</string>
+    <string name="power_tile_action_power_dialog">>Güç penceresi</string>
     <string name="power_tile_label">Güç</string>
-    <string name="power_tile_action_reboot">Reboot</string>
-    <string name="power_tile_action_reboot_recovery">Reboot recovery</string>
-    <string name="power_tile_action_reboot_bootloader">Reboot bootloader</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
-    <string name="power_tile_action_power_off">Power off</string>
+    <string name="power_tile_action_reboot">Yeniden Başlat</string>
+    <string name="power_tile_action_reboot_recovery">Kurtarma Modundan Yeniden Başlat</string>
+    <string name="power_tile_action_reboot_bootloader">Önyükleyiciden Yeniden Başlat</string>
+    <string name="power_tile_action_restart_user_space_system">User-Space Sistemini Yeniden Başlat</string>
+    <string name="power_tile_action_power_off">Kapat</string>
     <!--ringer mode-->
     <string name="ringer_mode_tile_label">Zil Modu</string>
     <string name="ringer_mode_tile_label_normal">Normal</string>
-    <string name="ringer_mode_tile_label_silent">Silent</string>
-    <string name="ringer_mode_tile_label_vibrate">Vibrate</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_label_silent">Sessiz</string>
+    <string name="ringer_mode_tile_label_vibrate">Titreşim</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Karonun zil sesi modunu değiştirmesine izin vermek için, lütfen ayarları açın ve Rahatsız Etme erişimine izin verin.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Kafein</string>
-    <string name="caffeine_tile_service_notification_title">Service is running</string>
-    <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
+    <string name="caffeine_tile_service_notification_title">Hizmet çalışıyor</string>
+    <string name="caffeine_tile_service_notification_content_text">Cihaz uyku moduna geçmeyecek. Hizmeti durdurmak için tıklayın.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Sokak Görünümü</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Karonun güncel konum bilginize erişmesine izin vermek için, lütfen ayarları açın ve konum izni verin.</string>
     <!--sync-->
     <string name="sync_tile_label">Eşzamanlama</string>
     <!--timer-->
     <string name="timer_tile_label">Zamanlayıcı</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_formatted_label">Zamanlayıcı\n%s</string>
     <!--weather-->
     <string name="weather_tile_label">Hava</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Karonun hava durumu verilerine ulaşabilmesi için, lütfen ayarları açın ve konum izni verin.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Hava durumu  verileri alınıyor. lütfen bekleyin.</string>
+    <string name="weather_formatted_temperature_celsius">Sıcaklık: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Sıcaklık: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Hissedilen: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Hissedilen: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Çiy noktası: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Çiy noktası: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Nem: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Santigrat</string>
+    <string name="weather_fahrenheit">Fahrenhayt</string>
+    <string name="weather_clear">Açık</string>
+    <string name="weather_cloudy">Bulutlu</string>
+    <string name="weather_foggy">Sisli</string>
+    <string name="weather_hazy">Puslu</string>
+    <string name="weather_icy">Buz gibi</string>
+    <string name="weather_rainy">Yağmurlu</string>
+    <string name="weather_snowy">Karlı</string>
+    <string name="weather_stormy">Fırtınalı</string>
+    <string name="weather_windy">Rüzgarlı</string>
+    <string name="weather_conditions">Hava Şartları</string>
+    <string name="weather_temperature">Sıcaklık</string>
+    <string name="weather_feels_like">Hissedilen</string>
+    <string name="weather_humidity">Nem</string>
+    <string name="weather_dew_point">Çiy noktası</string>
     <!--web search-->
     <string name="web_search_tile_label">Web Araması</string>
     <!--reminder-->
     <string name="reminder_tile_label">Hatırlatıcı</string>
-    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_content_hint">Content</string>
-    <string name="reminder_tile_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Remind me</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Başlık (%d karakter kullanılabilir)</string>
+    <string name="reminder_tile_content_hint">İçerik</string>
+    <string name="reminder_tile_persistent_checkbox">Kalıcı</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Sil</string>
+    <string name="reminder_tile_empty_notification_text_fields">Hatırlatıcı yok. Geçerli bir hatırlatıcı eklemek için lütfen başlık ve içerik giriniz.</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Hatırlatıcı silinsin mi?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Hatırlatıcı geri alınsın mı?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Düzenlemeler iptal edilsin mi?</string>
+    <string name="reminder_tile_remind_me">Bana hatırlat</string>
+    <string name="retrieving_location_dialog_message">Konum bilgileri alınıyor. Lütfen bekleyin.</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">Uyku Zamanlayıcısı</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
-    <string name="sleep_timeout_tile_value_15000">15 seconds</string>
-    <string name="sleep_timeout_tile_value_30000">30 seconds</string>
-    <string name="sleep_timeout_tile_value_60000">1 minute</string>
-    <string name="sleep_timeout_tile_value_120000">2 minutes</string>
-    <string name="sleep_timeout_tile_value_300000">5 minutes</string>
-    <string name="sleep_timeout_tile_value_600000">10 minutes</string>
-    <string name="sleep_timeout_tile_value_1800000">30 minutes</string>
+    <string name="sleep_timeout_tile_formatted_label">Uyu\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Karonun uyku zamanlayıcısını değiştirmesini izin vermek için, lütfen ayarları açıp sistem ayarlarını değiştirme izni verin.</string>
+    <string name="sleep_timeout_tile_value_15000">15 saniye</string>
+    <string name="sleep_timeout_tile_value_30000">30 saniye</string>
+    <string name="sleep_timeout_tile_value_60000">1 dakika</string>
+    <string name="sleep_timeout_tile_value_120000">2 dakika</string>
+    <string name="sleep_timeout_tile_value_300000">5 dakika</string>
+    <string name="sleep_timeout_tile_value_600000">10 dakika</string>
+    <string name="sleep_timeout_tile_value_1800000">30 dakika</string>
     <!--location mode-->
     <string name="location_tile_label">Konum</string>
     <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
@@ -197,9 +197,9 @@
     <string name="permission_dialog_message_grant">Grant</string>
     <string name="permission_dialog_message_revoke">Revoke</string>
     <!--timer H M S symbols -->
-    <string name="hour_symbol">H</string>
-    <string name="minute_symbol">M</string>
-    <string name="second_symbol">S</string>
+    <string name="hour_symbol">S</string>
+    <string name="minute_symbol">Dk</string>
+    <string name="second_symbol">Sn</string>
     <!--sleep-->
     <string name="sleep_tile_label">Uyku</string>
     <!--screenshot-->

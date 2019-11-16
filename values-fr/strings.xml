@@ -378,13 +378,13 @@
     <string name="media_volume_tile_label">Volume des contenus multimédias</string>
     <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Shortcuts</string>
-    <string name="shortcut_a_tile_label">Shortcut #1</string>
-    <string name="shortcut_b_tile_label">Shortcut #2</string>
-    <string name="shortcut_c_tile_label">Shortcut #3</string>
-    <string name="shortcut_d_tile_label">Shortcut #4</string>
-    <string name="shortcut_e_tile_label">Shortcut #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
+    <string name="shortcuts_tile_label">Raccourcis</string>
+    <string name="shortcut_a_tile_label">Raccourci #1</string>
+    <string name="shortcut_b_tile_label">Raccourci #2</string>
+    <string name="shortcut_c_tile_label">Raccourci #3</string>
+    <string name="shortcut_d_tile_label">Raccourci #4</string>
+    <string name="shortcut_e_tile_label">Raccourci #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Aucun raccourci sélectionné, veuillez ouvrir les réglages et sélectionner un raccourci.</string>
     <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
     <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
     <!--bluetooth-->
@@ -435,22 +435,22 @@
     <string name="up_time_tile_label">Durée d\'activité</string>
     <string name="up_time_tile_formatted_uptime">Durée d\'activité: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Activities</string>
-    <string name="activity_a_tile_label">Activity #1</string>
-    <string name="activity_b_tile_label">Activity #2</string>
-    <string name="activity_c_tile_label">Activity #3</string>
-    <string name="activity_d_tile_label">Activity #4</string>
-    <string name="activity_e_tile_label">Activity #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activities_tile_label">Activités</string>
+    <string name="activity_a_tile_label">Activité #1</string>
+    <string name="activity_b_tile_label">Activité #2</string>
+    <string name="activity_c_tile_label">Activité #3</string>
+    <string name="activity_d_tile_label">Activité #4</string>
+    <string name="activity_e_tile_label">Activité #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Aucune activité sélectionnée, veuillez ouvrir les réglages et sélectionner une activité.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">Stopwatch</string>
+    <string name="stopwatch_tile_label">Chronomètre</string>
     <!--memory-->
-    <string name="memory_tile_label">Memory</string>
-    <string name="memory_tile_formatted_available_memory">Available: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_total_memory">Total: %s</string>
-    <string name="memory_tile_formatted_used_memory">Used: %1$s (%2$.1f%%)</string>
-    <string name="memory_tile_formatted_threshold">Threshold: %s</string>
-    <string name="memory_tile_low_memory">Low memory</string>
+    <string name="memory_tile_label">Mémoire</string>
+    <string name="memory_tile_formatted_available_memory">Disponible: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Totale: %s</string>
+    <string name="memory_tile_formatted_used_memory">Utilisée: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Seuil: %s</string>
+    <string name="memory_tile_low_memory">Mémoire faible</string>
     <!--counter-->
     <string name="counter_tile_label">Counter</string>
     <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
@@ -466,7 +466,7 @@
     <string name="network_traffic_tile_formatted_mobile_transmitted">Mobile transmitted: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Download: %1s/s - Upload: %2s/s</string>
     <!--dice-->
-    <string name="dice_tile_label">Dice</string>
+    <string name="dice_tile_label">Dé</string>
     <!--notification log-->
     <string name="notification_log_tile_label">Journal des notifications</string>
     <!--lift to check-->

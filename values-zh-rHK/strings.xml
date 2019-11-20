@@ -22,8 +22,8 @@
     <string name="save_and_close">儲存及關閉</string>
     <string name="warning">警告</string>
     <string name="accessibility_service_label">無障礙設定</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
-    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
+    <string name="accessibility_service_description">無障礙設定允許Tiles執行一些系統功能及操作，例如顯示電源選單、顯示最近程式畫面、開／關多視窗，及在 Android Pie (API 28) 或以上支援將裝置休眠、進行屏幕截圖。</string>
+    <string name="accessibility_service_api_p_required_message">此類操作的無障礙設定需要Android Pie (API 28) 或以上的支援。</string>
     <string name="fifteen_minutes">15 分鐘</string>
     <string name="thirty_minutes">30 分鐘</string>
     <string name="forty_two_minutes">42 分鐘</string>
@@ -203,13 +203,13 @@
     <string name="second_symbol">秒</string>
     <!--sleep-->
     <string name="sleep_tile_label">休眠</string>
-    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">要允許快速設定磚將裝置休眠，請前往設定並允許Tiles的無障礙設定服務。</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">屏幕截圖</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定磚進行屏幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
     <string name="screenshot_tile_screenshot_captured">已擷取屏幕畫面</string>
     <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看屏幕截圖</string>
-    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">要允許快速設定磚進行屏幕截圖，請前往設定並允許Tiles的無障礙設定服務。</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">全屏模式</string>
     <string name="immersive_mode_tile_off">全屏模式關閉</string>
@@ -398,7 +398,7 @@
     <string name="monochromacy_tile_alert_dialog_message">要允許快速設定磚變更模擬色彩空間至閱讀模式(黑白)的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!-- input method -->
     <string name="input_method_tile_label">鍵盤及輸入法</string>
-    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
+    <string name="input_method_tile_alert_dialog_message">要允許快速設定磚在背景運行時仍能顯示鍵盤及輸入法，請前往設定並允許可寫入安全設定的權限。</string>
     <!--contacts-->
     <string name="contacts_tile_label">聯絡人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">沒有選取任何聯絡人，請前往設定及選取聯絡人。</string>
@@ -482,5 +482,5 @@
     <string name="always_on_tile_label">Always on</string>
     <string name="always_on_tile_alert_dialog_message">要允許快速設定磚變更「Always on」的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--battery settings-->
-    <string name="battery_settings_tile_label">Battery settings</string>
+    <string name="battery_settings_tile_label">電池設定</string>
 </resources>

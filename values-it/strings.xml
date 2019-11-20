@@ -22,7 +22,8 @@
     <string name="save_and_close">Salva &amp; Chiudi</string>
     <string name="warning">Avvertimento</string>
     <string name="accessibility_service_label">Servizio accessibilità</string>
-    <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare finestra di dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window.</string>
+    <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare finestra di dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window, e su Android Pie (API 28) e superiore mettere il dispositivo in sospensione, acquisire screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) e superiore è richiesto per il servizio accessibilità per compiere tale azione.</string>
     <string name="fifteen_minutes">15 minuti</string>
     <string name="thirty_minutes">30 minuti</string>
     <string name="forty_two_minutes">42 minuti</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">Nessuna funzione starred trovata.</string>
     <string name="custom_label">Etichetta personalizzata</string>
     <string name="enter_label">Immettere etichetta</string>
-    <string name="not_set">Non impostato</string>
+    <string name="not_set_message">Non impostato</string>
     <!--device administrator-->
     <string name="device_admin_activated">Amministratore dispositivo attivato</string>
     <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Sospensione</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di mettere il dispositivo in sospensione, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Screenshot</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Per permettere alla funzione di acquisire e archiviare screenshot, per favore aprire le impostazioni e concedere l\'autorizzazione archiviazione.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot acquisito.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tocca per vedere il tuo screenshot.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">Per permettere alla funzione di acquisire screenshot, per favore aprire le impostazioni e attivare servizio accessibilità.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modalità immersiva</string>
     <string name="immersive_mode_tile_off">Modalità immersiva disattivata</string>
@@ -478,4 +481,6 @@
     <!--always on-->
     <string name="always_on_tile_label">Sempre attivo</string>
     <string name="always_on_tile_alert_dialog_message">Per permettere alla funzione di cambiare sempre attivo, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

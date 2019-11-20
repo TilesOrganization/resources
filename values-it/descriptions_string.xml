@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Il dispositivo non entra mai in sospensione quando è collegato a una sorgente di energia.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_battery_details_tile">Mostare una notifica persistente con i dettagli della batteria del dispositivo: percentuale, stato in carica e non in carica, salute, temperatura, voltaggio e tecnologia. L\'etichetta e l\'icona dell\'impostazione rapida mostrano la percentuale della batteria quando la notifica è attiva.</string>
     <string name="description_battery_saver_tile">Attivare e disattivare risparmio energetico. Quando risparmio energetico è attivo, le prestazioni sono ridotte e i servizi di geolocalizzazione e dati in background disattivati.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
+    <string name="description_battery_settings_tile">Visualizzare il riepilogo del consumo energetico di Android.</string>
     <string name="description_bluetooth_tile">Abilitare e disabilitare bluetooth, o visualizzare le impostazioni bluetooth.</string>
     <string name="description_brightness_tile">Impostare tre differenti livelli (alto, medio &amp; basso) di luminosità tra cui passare.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_caffeine_tile">Lasciare attivo lo schermo ignorando l\'impostazione del timeout sospensione. Per permettere al dispositivo di poter tornare in sospensione, arrestare il servizio o spegnere lo schermo.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Visualizzare lo schermo recenti, interfaccia di sistema che visualizza attività e processi recentemente eseguiti. Il servizio accessibilità è richiesto abilitato.</string>
     <string name="description_reminder_tile">Aggiungere velocemente un promemoria da visualizzare come una notifica persistente. Modificare o eliminare il promemoria facendo tap sulla notifica.</string>
     <string name="description_ringer_mode_tile">Impostare la modalità squillo del telefono: normale, vibrazione o non disturbare. Accesso non disturbare è necessario per utilizzare questa funzione.</string>
-    <string name="description_screenshot_tile">Acquisire uno screenshot del dispositivo.\nAutorizzazione archiviazione è necessaria per utilizzare questa funzione.</string>
+    <string name="description_screenshot_tile">Acquisire uno screenshot del dispositivo.\nAutorizzazione archiviazione è necessaria per utilizzare questa funzione. Il servizio accessibilità è richiesto abilitato su dispositivi con Android Pie (API 28) o superiore senza  priviliegi di super user.</string>
     <string name="description_settings_shortcut_tile">Visualizzare le impostazioni di Android nascoste o difficili da trovare.</string>
     <string name="description_shortcuts_tile">Scegliere e impostare scorciatoie per eseguire azioni specifiche attraverso qualsiasi applicazione che implementa tale funzione.\nAutorizzazione telefono è necessaria per eseguire scorciatoie per chiamata diretta.</string>
-    <string name="description_sleep_tile">Mettere il dispositivo in sospensione.</string>
+    <string name="description_sleep_tile">Mettere il dispositivo in sospensione. Il servizio accessibilità è richiesto abilitato su dispositivi con Android Pie (API 28) o superiore senza  priviliegi di super user.</string>
     <string name="description_sleep_timeout_tile">Modificare quanto tempo trascorre prima che il dispositivo entri in sospensione quando non utilizzato.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_stopwatch_tile">Mostare un dialogo con cronometro.</string>
     <string name="description_storage_tile">Visualizzare le impostazioni spazio di archiviazione o lanciare il file manager nativo di Android per esplorare lo spazio di archiviazione del dispositivo.</string>

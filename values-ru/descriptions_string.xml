@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Устройство не будет уходить в спящий режим, пока оно подключено к питанию.\nДля использования этой плитки необходимо предоставить доступ к записи настроек безопасности.</string>
     <string name="description_battery_details_tile">Показывает постоянное уведомление с детализацией состояния батареи устройства: процент заряда, состояние зарядки, физическое состояние батареи, температура, напряжение и тип материала батареи. При активации уведомления, текст и иконка плитки отображают состояние батареи в процентах.</string>
     <string name="description_battery_saver_tile">Включает/выключает режим энергосбережения. Пока работает экономия батареи, производительность устройства снижена, а сервис определения местоположения и обмен данными в фоне выключены.\nДля использования этой плитки необходимо предоставить доступ к записи настроек безопасности.</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Включает/выключает или открывает настройки Bluetooth.</string>
     <string name="description_brightness_tile">Позволяет выбрать один из трех различных режимов яркости (высокая, средняя и низкая).\nДля использования этой плитки необходимо предоставить доступ к изменению системных настроек.</string>
     <string name="description_caffeine_tile">Заставлет устройство не засыпать, игнорируя время ухода устройства в спящий режим. Чтобы снова позволить устройству засыпать, остановите сервис или выключите экран вручную.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Показывает недавние приложения - системный интерфейс для отображения недавно открытых приложений, задач и активностей. Для работы плитки необходимо включить службу спец. возможностей приложения.</string>
     <string name="description_reminder_tile">Позволяет быстро добавить напоминание, отображающееся как постоянное уведомление. При нажатии на уведомление можно изменить или удалить это напоминание.</string>
     <string name="description_ringer_mode_tile">Меняет режим громкости устройства: обычный, вибрация или режим Не беспокоить. Для работы плитки необходим доступ к режиму Не беспокоить.</string>
-    <string name="description_screenshot_tile">Снимает скриншот экрана.\nДля использования этой плитки необходимо предоставить доступ к записи во внешнее хранилище устройства.</string>
+    <string name="description_screenshot_tile">Снимает скриншот экрана.\nДля использования этой плитки необходимо предоставить доступ к записи во внешнее хранилище устройства. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Открывает скрытые или труднодоступные настройки Android.</string>
     <string name="description_shortcuts_tile">Позволяет выбрать и настроить ярлыки к действиям различных приложений, в которых реализована подобная возможность.\nДля использования ярлыков для быстрого набора номера необходимо предоставить доступ к телефонным вызовам.</string>
-    <string name="description_sleep_tile">Выключает экран устройства, отправляя его в сон.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Изменяет время ухода устройства в спящий режим.\nДля использования этой плитки необходимо предоставить доступ к изменению системных настроек.</string>
     <string name="description_stopwatch_tile">Показывает диалоговое окно с секундомером.</string>
     <string name="description_storage_tile">Открывает настройки хранилища данных или запускает встроенный в Android файловый менеджер для просмотра файлов на устройстве.</string>

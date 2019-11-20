@@ -22,7 +22,8 @@
     <string name="save_and_close">Kaydet ve Kapat</string>
     <string name="warning">Uyarı</string>
     <string name="accessibility_service_label">Erişilebilirlik Hizmeti</string>
-    <string name="accessibility_service_description">Erişilebilirlik hizmetleri, karoların sistem güç panelini ve son uygulamalar ekranını gösterebilmesini, çoklu pencere görünümünü etkinleştirebilmesini sağlar.</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
     <string name="fifteen_minutes">15 dakika</string>
     <string name="thirty_minutes">30 dakika</string>
     <string name="forty_two_minutes">42 dakika</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">Yıldızlı karo bulunamadı.</string>
     <string name="custom_label">Özel etiket</string>
     <string name="enter_label">Etiketi gir</string>
-    <string name="not_set">Ayarlanmadı</string>
+    <string name="not_set_message">Ayarlanmadı</string>
     <!--device administrator-->
     <string name="device_admin_activated">Aygıt Yöneticiliği etkinleştirildi</string>
     <string name="device_admin_deactivated">Aygıt Yöneticiliği etkin değil</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">Sn</string>
     <!--sleep-->
     <string name="sleep_tile_label">Uyku</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Ekran Görüntüsü</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
     <string name="screenshot_tile_screenshot_captured">Screenshot captured.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Tam Ekran Modu</string>
     <string name="immersive_mode_tile_off">Immersive mode off</string>
@@ -478,4 +481,6 @@
     <!--always on-->
     <string name="always_on_tile_label">Always On</string>
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

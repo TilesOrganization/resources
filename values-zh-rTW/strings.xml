@@ -22,7 +22,8 @@
     <string name="save_and_close">儲存並關閉</string>
     <string name="warning">警告</string>
     <string name="accessibility_service_label">協助工具</string>
-    <string name="accessibility_service_description">透過協助工具可讓Tiles執行開啟電源選單、顯示最近使用的應用程式及開啟多重視窗模式等動作。</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
     <string name="fifteen_minutes">15 minutes</string>
     <string name="thirty_minutes">30 minutes</string>
     <string name="forty_two_minutes">42 minutes</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set_message">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">裝置管理員已啟用</string>
     <string name="device_admin_deactivated">裝置管理員已停用</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">秒</string>
     <!--sleep-->
     <string name="sleep_tile_label">休眠</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">螢幕截圖</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">要允許快速設定動態磚進行螢幕截圖，請前往設定並允許可寫入外部儲存空間的權限。</string>
     <string name="screenshot_tile_screenshot_captured">已擷取螢幕畫面</string>
     <string name="screenshot_tile_tap_to_view_screenshot">輕按即可查看螢幕截圖</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">全螢幕模式</string>
     <string name="immersive_mode_tile_off">全螢幕模式關閉</string>
@@ -478,4 +481,6 @@
     <!--always on-->
     <string name="always_on_tile_label">Always on</string>
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

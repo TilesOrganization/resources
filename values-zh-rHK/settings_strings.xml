@@ -9,6 +9,9 @@
     <string name="settings_enabled">啟用</string>
     <string name="settings_disabled">禁用</string>
     <string name="settings_action">動作</string>
+    <string name="settings_method">Method</string>
+    <string name="settings_use_accessibility_service">Accessibility service</string>
+    <string name="settings_use_su">Super user privileges</string>
     <string name="settings_layout">佈局</string>
     <string name="settings_notification">通知</string>
     <string name="settings_theme">主題顏色</string>
@@ -68,7 +71,7 @@
     <string name="settings_rate_or_review">為程式評分評價</string>
     <string name="settings_support_title">謝謝您的支持！</string>
     <string name="settings_send_email">發送電郵</string>
-    <string name="settings_support_summary">專為 Android Nougat 及 Android Oreo 而設</string>
+    <string name="settings_support_summary">Developed for Android 7.0 (API level 24) &amp; up</string>
     <string name="settings_credit">嗚謝</string>
     <string name="settings_credit_app_icon">程式圖示</string>
     <string name="settings_translations">程式翻譯</string>
@@ -212,6 +215,8 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授權。此快速設定磚允許變更屏幕休眠時限。</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">變更休眠時限</string>
     <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to take screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Enabled. The tile is allowed to take screenshot</string>
     <string name="settings_write_external_storage_permission_permissions_title">寫入外部儲存空間權限</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授權。此快速設定磚允許進行屏幕截圖及儲存。</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已禁止。此快速設定磚禁止進行屏幕截圖及儲存。</string>
@@ -392,4 +397,7 @@
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">已授權。此快速設定磚允許變更「Always On」的使用狀態。</string>
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">已禁止。 此快速設定磚禁止變更「Always On」的使用狀態。</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to put the device to sleep</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Enabled. The tile is allowed to put the device to sleep</string>
 </resources>

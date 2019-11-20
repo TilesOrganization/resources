@@ -9,6 +9,9 @@
     <string name="settings_enabled">已启用</string>
     <string name="settings_disabled">已停用</string>
     <string name="settings_action">操作</string>
+    <string name="settings_method">Method</string>
+    <string name="settings_use_accessibility_service">Accessibility service</string>
+    <string name="settings_use_su">Super user privileges</string>
     <string name="settings_layout">布局</string>
     <string name="settings_notification">通知</string>
     <string name="settings_theme">主题</string>
@@ -68,7 +71,7 @@
     <string name="settings_rate_or_review">评价或评论应用</string>
     <string name="settings_support_title">谢谢你的支持!</string>
     <string name="settings_send_email">发送邮件</string>
-    <string name="settings_support_summary">专为 Android Nougat &amp; Android Oreo 开发</string>
+    <string name="settings_support_summary">Developed for Android 7.0 (API level 24) &amp; up</string>
     <string name="settings_credit">致谢名单</string>
     <string name="settings_credit_app_icon">应用程序的图标</string>
     <string name="settings_translations">翻译者</string>
@@ -212,6 +215,8 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">已授予。瓷贴允许变更休眠超时</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">变更休眠超时</string>
     <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to take screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Enabled. The tile is allowed to take screenshot</string>
     <string name="settings_write_external_storage_permission_permissions_title">写入外部存储权限</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">已授予。瓷贴允许进行和保存截图</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">已拒绝。瓷贴不允许进行和保存截图</string>
@@ -392,4 +397,7 @@
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">已授予。允许瓷贴切换「永远开启」</string>
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">已拒绝。不允许瓷贴切换「永远开启」</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to put the device to sleep</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Enabled. The tile is allowed to put the device to sleep</string>
 </resources>

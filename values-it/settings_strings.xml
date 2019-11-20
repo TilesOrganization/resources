@@ -9,6 +9,9 @@
     <string name="settings_enabled">Abilitato</string>
     <string name="settings_disabled">Disabilitato</string>
     <string name="settings_action">Azione</string>
+    <string name="settings_method">Metodo</string>
+    <string name="settings_use_accessibility_service">Servizio accessibilità</string>
+    <string name="settings_use_su">Privilegi super user</string>
     <string name="settings_layout">Layout</string>
     <string name="settings_notification">Notifica</string>
     <string name="settings_theme">Tema</string>
@@ -68,7 +71,7 @@
     <string name="settings_rate_or_review">Valuta o scrivi una recensione</string>
     <string name="settings_support_title">Grazie per il tuo supporto!</string>
     <string name="settings_send_email">Spedisci e-mail</string>
-    <string name="settings_support_summary">Sviluppata per Android Nougat &amp; Android Oreo</string>
+    <string name="settings_support_summary">Sviluppata per Android 7.0 (API livello 24) &amp; superiore</string>
     <string name="settings_credit">Credit</string>
     <string name="settings_credit_app_icon">Icona dell\'applicazione</string>
     <string name="settings_translations">Traduzioni</string>
@@ -212,6 +215,8 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare timeout sospensione</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Cambia timeout sospensione</string>
     <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione ad acquisire screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione ad acquisire screenshot</string>
     <string name="settings_write_external_storage_permission_permissions_title">Autorizzazione archiviazione</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione ad acquisire e archiviare screenshot</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione ad acquisire e archiviare screenshot</string>
@@ -392,4 +397,7 @@
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare sempre attivo</string>
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare sempre attivo</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Negata. La funzione non ha l\'autorizzazione a mettere il dispositivo in sospensione</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Concessa. La funzione ha l\'autorizzazione a mettere il dispositivo in sospensione</string>
 </resources>

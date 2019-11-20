@@ -9,6 +9,9 @@
     <string name="settings_enabled">Povolené</string>
     <string name="settings_disabled">Zakázané</string>
     <string name="settings_action">Akcia</string>
+    <string name="settings_method">Method</string>
+    <string name="settings_use_accessibility_service">Accessibility service</string>
+    <string name="settings_use_su">Super user privileges</string>
     <string name="settings_layout">Rozloženie</string>
     <string name="settings_notification">Upozornenie</string>
     <string name="settings_theme">Téma</string>
@@ -68,7 +71,7 @@
     <string name="settings_rate_or_review">Ohodnoťte alebo napíšte komentár k aplikácii</string>
     <string name="settings_support_title">Ďakujeme za vašu podporu!</string>
     <string name="settings_send_email">Poslať e-mail</string>
-    <string name="settings_support_summary">Vyvinuté pre Android Nougat a Android Oreo</string>
+    <string name="settings_support_summary">Developed for Android 7.0 (API level 24) &amp; up</string>
     <string name="settings_credit">Zásluhy</string>
     <string name="settings_credit_app_icon">Ikona aplikácie</string>
     <string name="settings_translations">Preklady</string>
@@ -213,6 +216,8 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Povolené. Dlaždica môže zmeniť časovač spánku</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Zmeniť časovač spánku</string>
     <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to take screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Enabled. The tile is allowed to take screenshot</string>
     <string name="settings_write_external_storage_permission_permissions_title">Povolenie pre zápis do úložiska</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Povolené. Dlaždica môže zaznamenať a uložiť snímku obrazovky</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Zakázané. Dlaždica nemôže zaznamenať a uložiť snímku obrazovky</string>
@@ -394,4 +399,7 @@
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to put the device to sleep</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Enabled. The tile is allowed to put the device to sleep</string>
 </resources>

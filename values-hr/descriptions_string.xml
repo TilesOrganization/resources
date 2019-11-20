@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Uređaj nikad neće biti u stanju mirovanja sve dok je priključen u izvor napajanja.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_battery_details_tile">Prikazuje trajnu obavijest s pojedinostima o bateriji uređaja: postotak, napunjenost i stanje pražnjenja, zdravlje, temperaturu, napon i tehnologiju. Oznaka i ikona pločice prikazuju postotak baterije kada je obavijest aktivna.</string>
     <string name="description_battery_saver_tile">Uključite i isključite štednju baterije. Dok je štednja baterije uključena, perfomanse uređaja se smanjuju, a lokacijske usluge i pozadinski podaci su isključeni.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Uključite/isključite Bluetooth ili otvorite Bluetooth postavke.</string>
     <string name="description_brightness_tile">Postavite tri različite razine (visoka, srednja i niska) osvjetljenja za odabir.\nPotrebno je dopustiti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_caffeine_tile">Držite uređaj budnim, nadjačavanjem trenutnih postavki za mirovanje. Da biste uređaj vratili nazad u stanje mirovanja, zaustavite uslugu ili isključite zaslon.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Prikaži zaslon nedavno korištenih aplikacija, korisničko sučelje na razini sustava koje prikazuje nedavno korištene aktivnosti i zadatke. Usluga pristupačnosti mora biti omogućena.</string>
     <string name="description_reminder_tile">Brzo dodajte podsjetnik da bude prikazan kao stalna obavijest. Uredite ili obrišite podsjetnik dodirom obavijesti.</string>
     <string name="description_ringer_mode_tile">Postavite način zvonjenja uređaja: normalan, vibriranje ili "Ne ometaj". Da biste koristili ovu pločicu, potreban je pristup "Ne ometaj" opciji.</string>
-    <string name="description_screenshot_tile">Uslikajte zaslon uređaja.\nPotrebno je dopustiti upotrebu pohrane kako bi mogli koristiti ovu pločicu.</string>
+    <string name="description_screenshot_tile">Uslikajte zaslon uređaja.\nPotrebno je dopustiti upotrebu pohrane kako bi mogli koristiti ovu pločicu. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Otvorite skrivene ili teško dostupne postavke Androida.</string>
     <string name="description_shortcuts_tile">Odaberite i postavite prečace za izvođenje određenih radnji u bilo kojoj aplikaciji koja implementira takvu značajku.\nPotrebno je dopuštenje za pristup telefonu kako bi bilo moguće kreiranje prečaca za izravno biranje.</string>
-    <string name="description_sleep_tile">Stavite uređaj u stanje mirovanja.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Izmijenite koliko je potrebno vremena da uređaj prijeđe u stanje mirovanja ukoliko je inaktivan.\nPotrebno je dopustiti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_stopwatch_tile">Prikaži dijalog sa štopericom.</string>
     <string name="description_storage_tile">Otvorite postavke pohrane ili pokrenite ugrađeni upravitelj datoteka Androida kako biste istražili pohranu uređaja.</string>

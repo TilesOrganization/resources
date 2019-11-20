@@ -9,6 +9,9 @@
     <string name="settings_enabled">Включено</string>
     <string name="settings_disabled">Выключено</string>
     <string name="settings_action">Действие</string>
+    <string name="settings_method">Method</string>
+    <string name="settings_use_accessibility_service">Accessibility service</string>
+    <string name="settings_use_su">Super user privileges</string>
     <string name="settings_layout">Разметка</string>
     <string name="settings_notification">Уведомление</string>
     <string name="settings_theme">Тема</string>
@@ -68,7 +71,7 @@
     <string name="settings_rate_or_review">Оценить или оставить отзыв</string>
     <string name="settings_support_title">Спасибо Вам за поддержку!</string>
     <string name="settings_send_email">Отправить письмо</string>
-    <string name="settings_support_summary">Разработано для Android Nougat и Android Oreo</string>
+    <string name="settings_support_summary">Developed for Android 7.0 (API level 24) &amp; up</string>
     <string name="settings_credit">Благодарности</string>
     <string name="settings_credit_app_icon">Иконка приложения</string>
     <string name="settings_translations">Переводы</string>
@@ -214,6 +217,8 @@
     <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Разрешено. Плитка может менять время ухода в спящий режим</string>
     <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Изменить время ухода в спящий режим</string>
     <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to take screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Enabled. The tile is allowed to take screenshot</string>
     <string name="settings_write_external_storage_permission_permissions_title">Разрешение на доступ к хранилищу устройства</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Разрешено. Плитка может сделать и сохранить скриншот</string>
     <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Запрещено. Плитка не может сделать и сохранить скриншот</string>
@@ -396,4 +401,7 @@
     <!--always on-->
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать режим активного экрана</string>
     <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать режим активного экрана</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to put the device to sleep</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Enabled. The tile is allowed to put the device to sleep</string>
 </resources>

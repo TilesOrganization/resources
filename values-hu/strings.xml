@@ -22,7 +22,8 @@
     <string name="save_and_close">Mentés &amp; bezárás</string>
     <string name="warning">Figyelmeztetés</string>
     <string name="accessibility_service_label">Hozzáférhetőségi szolgáltatás</string>
-    <string name="accessibility_service_description">Hozzáférhetőségi szolgáltatás a Tiles számára globális műveletek végrehajtásához: kikapcsoló menü megjelenítése, előzmények megjelenítése, többablakos üzemmód bekapcsolása.</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
     <string name="fifteen_minutes">15 minutes</string>
     <string name="thirty_minutes">30 minutes</string>
     <string name="forty_two_minutes">42 minutes</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">No starred tiles found.</string>
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set_message">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">Eszközadminisztrátor engedélyezve</string>
     <string name="device_admin_deactivated">Eszközadminisztrátor letiltva</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">M</string>
     <!--sleep-->
     <string name="sleep_tile_label">Alvás</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Képernyőkép</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">A képernyőkép csempe általi készítésének és mentésének engedélyezéséhez kérlek nyisd meg a beállításokat és biztosíts hozzáférést a (külső) tárhelyre való íráshoz.</string>
     <string name="screenshot_tile_screenshot_captured">Képernyőkép elkészült.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Nyomj ide a megtekintéshez.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Kiterjesztett képernyő mód</string>
     <string name="immersive_mode_tile_off">Kiterjesztett képernyő mód kikapcsolva</string>
@@ -478,4 +481,6 @@
     <!--always on-->
     <string name="always_on_tile_label">Always on</string>
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

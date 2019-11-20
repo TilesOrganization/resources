@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Zařízení nebude nikdy uspáno, pokud je zapojeno do zdroje napájení.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>
     <string name="description_battery_details_tile">Zobrazit trvalé oznámení s podrobnostmi o baterii zařízení: procenta, nabíjení a vybíjení, zdraví, teplota, napětí and technologie. Popis a ikona dlaždice zobrazují procento baterie, když je oznámení aktivní.</string>
     <string name="description_battery_saver_tile">Zapnout a vypnout spořič baterie. Když je spořič zapnutý, výkon je snížen a služby polohy a data pozadí jsou vypnuty.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Zapnout a vypnout Bluetooth, nebo otevřít nastavení Bluetooth.</string>
     <string name="description_brightness_tile">Nastavit tři různé úrovně (vysoká, střední &amp; nízká) jasu pro cyklus.\nPro použití této dlaždice je zapotřebí změnit oprávnění systému.</string>
     <string name="description_caffeine_tile">Udržet přístroj probuzený přepsáním nastaveného časového limitu spánku. Chcete-li zařízení ponechat v režimu spánku, zastavte službu nebo vypněte obrazovku.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Zobrazit obrazovku nedávných, uživatelské rozhraní na úrovni systému, které uvádí nedávno přístupné aktivity a úkoly. Musí být povolena služba přístupnosti.</string>
     <string name="description_reminder_tile">Rychle přidat připomínku, která se zobrazí jako trvalé oznámení. Upravit nebo vymazat připomínku klepnutím na oznámení.</string>
     <string name="description_ringer_mode_tile">Nastavit režim vyzvánění zařízení: normální, vibrace nebo režim Nerušit. Pro použití této dlaždice je zapotřebí oprávnění k režimu Nerušit.</string>
-    <string name="description_screenshot_tile">Pořídit snímek obrazovky.\nPro použití této dlaždice je zapotřebí oprávnění k zápisu do ext. úložiště.</string>
+    <string name="description_screenshot_tile">Pořídit snímek obrazovky.\nPro použití této dlaždice je zapotřebí oprávnění k zápisu do ext. úložiště. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Otevřít skrytá nebo těžko dostupná nastavení Androidu.</string>
     <string name="description_shortcuts_tile">Zvolit a nastavit zkratky pro provádění konkrétních akcí v každé aplikaci, které tuto funkci implementují.\nOprávnění telefonického hovoru je vyžadováno k provedení zkratky pro přímou volbu.</string>
-    <string name="description_sleep_tile">Uvést zařízení do režimu spánku.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Změnit, jak dlouho po neaktivitě dojde k uspání zařízení.\nPro použití této dlaždice je zapotřebí změnit oprávnění systému.</string>
     <string name="description_stopwatch_tile">Zobrazit dialogové okno se stopkami.</string>
     <string name="description_storage_tile">Otevřít nastavení úložiště nebo spustit správce souborů systému Android pro prozkoumání úložiště zařízení.</string>

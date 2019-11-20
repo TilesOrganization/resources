@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">「充電時保持亮屏」開啟時會令裝置在充電時一直保持亮屏狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_battery_details_tile">「電源詳情」，顯示一個包含電量百分比、充電時、放電時的電壓、溫度、健康狀態的固定通知。此快速設定磚的圖標及名稱會在固定通知生效時顯示電量百分比。</string>
     <string name="description_battery_saver_tile">「省電模式」允許快速開啟或關閉省電模式。節約電池用量模式開啟後有助於延長電池壽命，但會降低裝置的效能。並限制震動、定位服務和大部分的背景資料。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">「藍芽」允許快速開啟或關閉藍芽及開啟藍芽設定。</string>
     <string name="description_brightness_tile">「亮度」允許快速設定亮度程度(高、中、低）\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_caffeine_tile">「保持屏幕開啟」，讓裝置略過當前的休眠時限並保持屏幕開啟，輕按通知欄的服務開啟通知以停止「保持屏幕開啟」的使用狀態。</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">「最近使用的應用程式」，顯示最近使用的應用程式，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_reminder_tile">「備忘提醒」，快速新增備忘提醒並在通知欄顯示，輕按通知以修改或刪除備忘提醒。</string>
     <string name="description_ringer_mode_tile">「音效模式」，變更裝置音效模式至「正常」、「震動」或「請勿打擾」。使用此快速設定磚需要授予「請勿打擾」模式的權限</string>
-    <string name="description_screenshot_tile">「屏幕截圖」，進行快速屏幕截圖。\n使用快速設定磚需要允許可寫入外部儲存空間的權限。</string>
+    <string name="description_screenshot_tile">「屏幕截圖」，進行快速屏幕截圖。\n使用快速設定磚需要允許可寫入外部儲存空間的權限。The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">「設定捷徑」開啟Android的設定捷徑。</string>
     <string name="description_shortcuts_tile">「捷徑」，選取及設定程式捷徑以進行快捷操作。\n撥號捷徑需要獲取電話通話及撥號的權限才能使用。</string>
-    <string name="description_sleep_tile">「休眠」，讓裝置休眠。</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">「休眠時限」，變更裝置屏幕的休眠時限。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_stopwatch_tile">「計時器」，顯示一個計時器的視窗。</string>
     <string name="description_storage_tile">「檔案管理器」，允許快速開啟Android系統內置的檔案管理器或儲存空間設定。</string>

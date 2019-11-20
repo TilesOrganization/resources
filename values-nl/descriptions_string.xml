@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Toestel zal nooit in slaapmodus gaan zolang het wordt opgeladen.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Schakel accubesparing in of uit. Wanneer accubesparing aan staat, prestaties zijn gereduceerd en locatieservices  en achtergrond data zijn uitgeschakeld.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Turn bluetooth on or off, or open bluetooth settings.</string>
     <string name="description_brightness_tile">Stel drie verschillende helderheidsniveaus (hoog, mediu &amp; laag) in om doorheen te bladeren.\nToestemming om systeeminstellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_caffeine_tile">Houdt het toestel wakker door de slaap time-out instelling te overschrijven. Om het toestel te laten slapen, stop de service of zet het scherm uit.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Laat het recents scherm zien, een systeem gebruikersinterface dat recente activiteiten en taken laat zien. De toegankelijkheid service moet zijn ingeschakeld.</string>
     <string name="description_reminder_tile">Snel een herinnering toevoegen als een blijvende notificatie. Om de herinnering te bewerken of te verwijderen, klik op de notificatie.</string>
     <string name="description_ringer_mode_tile">Stel de beltoon modus van het toestel in: normaal, trillen of Niet Storen. Niet Storen toegang is nodig om de tegel te kunnen gebruiken.</string>
-    <string name="description_screenshot_tile">Neem een schermafbeelding van het toestel.\nToestemming om op externe opslag te schrijven is nodig om deze tegel te kunnen gebruiken.</string>
+    <string name="description_screenshot_tile">Neem een schermafbeelding van het toestel.\nToestemming om op externe opslag te schrijven is nodig om deze tegel te kunnen gebruiken. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Open de verborgen of lastig om te vinden instellingen van Android.</string>
     <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
-    <string name="description_sleep_tile">Zet het toestel in slaapstand.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Verander de duur voordat het toestel in slaapstand gaat wanneer deze inactief is.\nToestemming om systeem instellingen te wijzigen is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>
     <string name="description_storage_tile">Open storage settings or Op Android’\s ingebouwde bestandsbeheer om de opslagruimte van het toestel te verkennen.</string>

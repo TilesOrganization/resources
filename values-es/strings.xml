@@ -22,7 +22,8 @@
     <string name="save_and_close">Guardar &amp; Cerrar</string>
     <string name="warning">Precaución</string>
     <string name="accessibility_service_label">Servicio de accesibilidad</string>
-    <string name="accessibility_service_description">El servicio de accesibilidad permite a Tiles realizar ciertas acciones como: mostrar el diálogo de apagado, mostrar las aplicaciones recientes o modificar la multi-ventana.</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
     <string name="fifteen_minutes">15 minutos</string>
     <string name="thirty_minutes">30 minut0s</string>
     <string name="forty_two_minutes">42 minut0s</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">No hay elementos Favoritos</string>
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set_message">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">Administrador de dispositivos activado</string>
     <string name="device_admin_deactivated">Administrador de dispositivos desactivado</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Dormir</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Captura de pantalla</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Para permitir a Tiles tomar y almacenar la captura de pantalla, por favor accede a los ajustes y concede permiso para escribir en el almacenamiento externo.</string>
     <string name="screenshot_tile_screenshot_captured">Captura de pantalla realizada.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Toca para ver tu captura de pantalla.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Modo inmersivo</string>
     <string name="immersive_mode_tile_off">Modo inmersivo off</string>
@@ -477,5 +480,7 @@
     <string name="double_tap_to_check_tile_alert_dialog_message">Para permitir a Tiles cambiar coble toque para revisar, por favor accede a los ajustes y concede permiso para escribir ajustes de seguridad de sistema.</string>
     <!--always on-->
     <string name="always_on_tile_label">Siempre encendido</string>
-    <string name="always_on_tile_alert_dialog_message">Para permitir a Tiles cambiar cambiar siempre encendido, por favor accede a los ajustes y concede permiso para escribir ajustes de seguridad de sistema.</string>
+    <string name="always_on_tile_alert_dialog_message">Para permitir a Tiles cambiar siempre encendido, por favor accede a los ajustes y concede permiso para escribir ajustes de seguridad de sistema.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

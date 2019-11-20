@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Cihaz güç kaynağına takılı olduğu süre boyunca uyku moduna geçmez. Bu karoyu kullanmak izin gerektirir.</string>
     <string name="description_battery_details_tile">Cihazın bataryasının yüzdesi, şarj olma/boşalma durumu, sağlığı, sıcaklığı, voltajı ve teknolojisi hakkında bilgi veren kalıcı bir bildirim yaratır. Etiket ve simge bildirim aktifken pilin yüzdesini gösterir.</string>
     <string name="description_battery_saver_tile">Güç tasarrufunu açıp kapatır. Güç tasarrufu açıkken performans düşürülür ve konum servisi kapatılır. Bu karoyu kullanmak izin gerektirir.</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Bluetooth\'u açar kapatır veya Bluetooth ayarları sayfasını açar.</string>
     <string name="description_brightness_tile">Üç adet parlaklık modu gösterir (düşük, orta, yüksek). Bu karoyu kullanabilmek için izin gerekir.</string>
     <string name="description_caffeine_tile">Cihazı uyanık tut, zamanaşımını gözardı etmesini sağla. Cihazın yeniden uyku moduna geçebilmesi için servisi durdur veya ekranı kapat.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">En son uygulamaları gösterir. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
     <string name="description_reminder_tile">Hızlıca kalıcı bir notifikasyon şeklinde bir hatırlatıcı yaratır. Bildirime tıklayarak hatırlatıcıyı düzenleyebilir veya silebilirsiniz.</string>
     <string name="description_ringer_mode_tile">Cihazın ses modunu normal, titreşim veya rahatsız etme modlarına getirir. Bu karoyu kullanmak için Rahatsız Etme erişimi gerekmekedir.</string>
-    <string name="description_screenshot_tile">Cihazın ekran görüntüsünü çeker. Depolama izni gerektirir.</string>
+    <string name="description_screenshot_tile">Cihazın ekran görüntüsünü çeker. Depolama izni gerektirir. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Android\'in gizli ya da zor bulunan özelliklerini açar.</string>
     <string name="description_shortcuts_tile">Uygun özelliği taşıyan herhangi bir uygulamaya bir görev yükler. İzin gerektirir.</string>
-    <string name="description_sleep_tile">Cihazı uyku moduna alır.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Cihazın kullanılmazken ne kadar sürede uykuya geçeceğini değiştirir. Kullanmak için izin gerektirir.</string>
     <string name="description_stopwatch_tile">Kronometreyi açar.</string>
     <string name="description_storage_tile">Depolama ayarlarını ya da cihazın dosya yöneticisini açar.</string>

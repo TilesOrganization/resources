@@ -10,6 +10,7 @@
     <string name="description_awake_while_plugged_in_tile">Enheten vil aldri gå i dvalemodus så lenge den er koblet til en strømkilde.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_battery_details_tile">Vis en vedvarende varsel med detaljer om batteriet til enheten: prosent, lading og utladingstilstand, helse, temperatur, spenning og teknologi. Etiketten og ikonet av knappen viser prosenten til batteriet når varselen er aktiv.</string>
     <string name="description_battery_saver_tile">Slå strømsparing på og av. Når strømsparing er på, er ytelsen redusert og stedtjenester og bakgrunnsdata er slått av.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
+    <string name="description_battery_settings_tile">Open Android power usage summary.</string>
     <string name="description_bluetooth_tile">Slå bluetooth på eller av, eller åpne bluetooth innstillinger.</string>
     <string name="description_brightness_tile">Angi tre forskjellige level (høy, medium &amp; lav) av lysstyrke å veksle gjennom.\nModifisere systeminnstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_caffeine_tile">Hold enheten våken overskriver tidsavbrudd for skjerm innstillingen. For å la enheten gå tilbake i dvale, stopp tjenesten og skru av skjermen.</string>
@@ -53,10 +54,10 @@
     <string name="description_recents_screen_tile">Vis nylige skjermen, et system-level UI som lister nylig viste aktiviteter og oppgaver. Må tilgjengelighetstjenester vere aktivert.</string>
     <string name="description_reminder_tile">Raskt legg til en påminnelse å vise som en vedvarende varsel. Rediger eller slett påminnelsen ved å trykke på varselet.</string>
     <string name="description_ringer_mode_tile">Angi ringemoduset til enheten: normal, vibrer eller ikke forstyrr. Ikke forstyrr tilgang er krevet for å bruke denne knappen.</string>
-    <string name="description_screenshot_tile">Ta et skjermbilde av enheten.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
+    <string name="description_screenshot_tile">Ta et skjermbilde av enheten.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Åpne Androids skjulte eller «vanskeleg å finne» innstillinger.</string>
     <string name="description_shortcuts_tile">Velg og sett snarveier til å utføre spesifikke handlinger innenfor hvilken som helst applikasjon som implementerer en slik egenskap.\nTelefonsamtale tillatelse er krevet for å utføre direkte ringe snarveier.</string>
-    <string name="description_sleep_tile">Sett enheten i dvalemodus.</string>
+    <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Endre hvor lenge det tar for enheten å gå i dvalemodus når inaktiv.\nModifisere systeminnstillinger er krevet for å bruke denne knappen.</string>
     <string name="description_stopwatch_tile">Vis en dialog med en stoppeklokke.</string>
     <string name="description_storage_tile">Åpne lagringsinnstillinger eller start Androids innebygde fil utforsker for å utforske lagringen til enheten.</string>

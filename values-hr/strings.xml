@@ -22,7 +22,8 @@
     <string name="save_and_close">Spremi &amp; Izađi</string>
     <string name="warning">Upozorenje</string>
     <string name="accessibility_service_label">Usluga pristupačnosti</string>
-    <string name="accessibility_service_description">Usluga pristupačnosti kako bi Tiles aplikaciji omogućila globalne radnje: prikaz dijaloškog okvira napajanja sustava, prikazivanje zaslona nedavno korištenih aplikacija, uključivanje/isključivanje načina podijeljenog zaslona.</string>
+    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
+    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
     <string name="fifteen_minutes">15 minuta</string>
     <string name="thirty_minutes">30 minuta</string>
     <string name="forty_two_minutes">42 minute</string>
@@ -43,7 +44,7 @@
     <string name="empty_starred_tiles_database_alert_message">Nisu pronađene omiljene pločice.</string>
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set_message">Not set</string>
     <!--device administrator-->
     <string name="device_admin_activated">Administrator uređaja aktiviran</string>
     <string name="device_admin_deactivated">Administrator uređaja deaktiviran</string>
@@ -202,11 +203,13 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Stanje mirovanja</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Slikanje zaslona</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Da biste pločici omogućili spremanje slike zaslona i spremanje, otvorite postavke i dopustite upotrebu pohrane.</string>
     <string name="screenshot_tile_screenshot_captured">Snimka zaslona spremljena.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Dodirni za prikaz snimke zaslona.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Prikaz sučelja preko cijelog zaslona</string>
     <string name="immersive_mode_tile_off">Prikaz sučelja preko cijelog zaslona isključen</string>
@@ -478,4 +481,6 @@
     <!--always on-->
     <string name="always_on_tile_label">Uvijek uključeno</string>
     <string name="always_on_tile_alert_dialog_message">Da biste pločici omogućili promjenu Uvijek uključeno, otvorite postavke i dopustite izmjenu sigurnosnih postavki.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Battery settings</string>
 </resources>

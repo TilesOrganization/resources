@@ -22,8 +22,8 @@
     <string name="save_and_close">Uložit &amp; Zavřít</string>
     <string name="warning">Varování</string>
     <string name="accessibility_service_label">Služba přístupnosti</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
-    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
+    <string name="accessibility_service_description">Služba přístupnosti umožňuje dlaždicím provádět globální akce: zobrazovat dialogové okno menu napájení, zobrazovat obrazovku Nedávných, přepínat více oken, v Android Pie (API 28) a vyšším uvést zařízení do režimu spánku, pořídit snímek obrazovky.</string>
+    <string name="accessibility_service_api_p_required_message">K provedení takových akcí je vyžadován Android Pie (API 28) a vyšší.</string>
     <string name="fifteen_minutes">15 minut</string>
     <string name="thirty_minutes">30 minut</string>
     <string name="forty_two_minutes">42 minut</string>
@@ -42,9 +42,9 @@
     <string name="all">Vše</string>
     <string name="starred">Označeno</string>
     <string name="empty_starred_tiles_database_alert_message">Nebyly nalezeny žádné označené dlaždice.</string>
-    <string name="custom_label">Custom label</string>
-    <string name="enter_label">Enter label</string>
-    <string name="not_set_message">Not set</string>
+    <string name="custom_label">Vlastní popisek</string>
+    <string name="enter_label">Zadejte popisek</string>
+    <string name="not_set_message">Nenastaveno</string>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
     <string name="device_admin_deactivated">Správce zařízení byl deaktivován</string>
@@ -203,13 +203,13 @@
     <string name="second_symbol">S</string>
     <!--sleep-->
     <string name="sleep_tile_label">Uspat</string>
-    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">Aby dlaždice uvedla zařízení do režimu spánku, otevřete nastavení a povolte službu přístupnosti.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Snímek obrazovky</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Aby dlaždice mohla zaznamenat snímek obrazovky, otevřete nastavení a povolte zápis do úložiště.</string>
     <string name="screenshot_tile_screenshot_captured">Snímek obrazovky byl zaznamenán.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Klepnutím zobrazíte snímek obrazovky.</string>
-    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">Aby dlaždice mohla zachytit snímek obrazovky, otevřete nastavení a povolte službu přístupnosti.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Režim přes celou obrazovku</string>
     <string name="immersive_mode_tile_off">Režim přes celou obrazovku je vypnutý</string>
@@ -482,5 +482,5 @@
     <string name="always_on_tile_label">AOD</string>
     <string name="always_on_tile_alert_dialog_message">Aby dlaždice mohla měnit AOD, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
     <!--battery settings-->
-    <string name="battery_settings_tile_label">Battery settings</string>
+    <string name="battery_settings_tile_label">Nastavení baterie</string>
 </resources>

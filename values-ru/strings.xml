@@ -22,8 +22,8 @@
     <string name="save_and_close">Сохранить и закрыть</string>
     <string name="warning">Предупреждение</string>
     <string name="accessibility_service_label">Сервис спец. возможностей</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
-    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
+    <string name="accessibility_service_description">Сервис спец. возможностей Tiles позволяет выполнять глобальные команды вида: отображение статистики использования батареи, показ окна недавних приложений, переключение мультиоконного режима, а на Android Pie (API 28) и выше - переводить устройство в спящий режим и делать скриншоты.</string>
+    <string name="accessibility_service_api_p_required_message">Для выполнения этого действия с использованием сервиса спец. возможностей требуется Android Pie (API 28) и выше.</string>
     <string name="fifteen_minutes">15 минут</string>
     <string name="thirty_minutes">30 минут</string>
     <string name="forty_two_minutes">42 минуты</string>
@@ -203,13 +203,13 @@
     <string name="second_symbol">С</string>
     <!--sleep-->
     <string name="sleep_tile_label">Сон</string>
-    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">Чтобы позволить плитке переводить устройство в спящий режим, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Скриншот</string>
     <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Чтобы позволить плитке сделать и сохранить скриншот, пожалуйста, откройте настройки и дайте доступ к записи в хранилище устройства.</string>
     <string name="screenshot_tile_screenshot_captured">Скриншот сделан.</string>
     <string name="screenshot_tile_tap_to_view_screenshot">Нажмите, чтобы посмотреть скриншот.</string>
-    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">Чтобы позволить плитке сделать скриншот, пожалуйста, откройте настройки и включите сервис спец. возможностей.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Полноэкранный режим</string>
     <string name="immersive_mode_tile_off">Полноэкранный режим выключен</string>
@@ -482,5 +482,5 @@
     <string name="always_on_tile_label">Активный экран</string>
     <string name="always_on_tile_alert_dialog_message">Чтобы позволить плитке переключать режим активного экрана, пожалуйста, откройте настройки и дайте доступ к записи настроек безопасности.</string>
     <!--battery settings-->
-    <string name="battery_settings_tile_label">Battery settings</string>
+    <string name="battery_settings_tile_label">Настройки батареи</string>
 </resources>

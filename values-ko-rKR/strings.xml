@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="something_went_wrong">문제가 발생했습니다. 다시 시도하십시오</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">문제가 발생했습니다. 기기에 네트워크 연결이 활성화되어 있는지 확인하십시오.</string>
+    <string name="location_off_alert_dialog_message">위치가 꺼져 있습니다. 위치 활성화가 필요합니다.</string>
+    <string name="location_device_only_alert_dialog_message">위치 모드가 기기 전용입니다. 더 정확한 결과를 얻으려면 높은 정확성을 활성화하십시오.</string>
+    <string name="resolve_activity_alert_dialog_message">작업을 수행할 응용 프로그램이 없습니다.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">활성화를 시작할 수 없습니다.</string>
+    <string name="su_alert_dialog_message">이러한 작업을 수행하려면 셸에 대한 관리자 권한을 부여하십시오.</string>
+    <string name="play_services_alert_dialog_message">이러한 작업을 수행하려면 Google Play 서비스가 필요합니다. 설치 후 다시 시도하십시오.</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="checking_features_progress_dialog_message">활성화할 장치 기능 확인</string>
+    <string name="not_available">사용 불가</string>
+    <string name="cancel">취소</string>
+    <string name="revert">되돌리기</string>
+    <string name="discard">취소</string>
+    <string name="share">공유</string>
+    <string name="delete">삭제</string>
+    <string name="save">저장</string>
+    <string name="save_and_close">저장 &amp; 닫기</string>
+    <string name="warning">경고</string>
+    <string name="accessibility_service_label">접근성 서비스</string>
+    <string name="accessibility_service_description">타일이 다중 작업을 수행할 수 있도록 접근성 서비스 허용 : 시스템 전원 대화 상자를 표시, 최근 화면, 멀티윈도우 전환, 안드로이드 파이 (API 28) 절전상태에서 화면캡처.</string>
+    <string name="accessibility_service_api_p_required_message">이러한 접근성 서비스들을 수행하려면 안드로이드 파이(API 28) 이상이 요구 됩니다.</string>
+    <string name="fifteen_minutes">15분</string>
+    <string name="thirty_minutes">30분</string>
+    <string name="forty_two_minutes">42분</string>
+    <string name="forty_five_minutes">45분</string>
+    <string name="one_hour">1시간</string>
+    <string name="two_hours">2시간</string>
+    <string name="three_hours">3시간</string>
+    <string name="six_hours">6시간</string>
+    <string name="twelve_hours">12시간</string>
+    <string name="start">시작</string>
+    <string name="stop">중지</string>
+    <string name="fahrenheit">화씨</string>
+    <string name="celsius">섭씨</string>
+    <string name="filter">필터</string>
+    <string name="description">설명</string>
+    <string name="all">모두</string>
+    <string name="starred">즐겨찾기</string>
+    <string name="empty_starred_tiles_database_alert_message">별 표시된 타일이 없습니다.</string>
+    <string name="custom_label">맞춤 라벨</string>
+    <string name="enter_label">라벨 입력</string>
+    <string name="not_set_message">미 설정</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">기기 관리자 활성화</string>
+    <string name="device_admin_deactivated">기기 관리자 비활성화</string>
+    <string name="device_admin_description">타일이 기기 또는 카메라를 잠그도록 허용</string>
+    <string name="device_admin_receiver_status_deactivated_warning">비활성화하면 타일이 기기 또는 카메라를 잠글 수 없습니다.</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">자동 밝기</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">타일이 밝기 모드를 변경하게 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">애플리케이션</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">선택된 앱이 없습니다. 설정을 열고 앱을 선택하십시오.</string>
+    <!--application-->
+    <string name="application_a_tile_label">앱 #1</string>
+    <string name="application_b_tile_label">앱 #2</string>
+    <string name="application_c_tile_label">앱 #3</string>
+    <string name="application_d_tile_label">앱 #4</string>
+    <string name="application_e_tile_label">앱 #5</string>
+    <string name="application_tile_label">애플리케이션</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">선택된 앱이 없습니다. 설정을 열고 앱을 선택하십시오.</string>
+    <string name="application_info_dialog_message">빠른 실행을 위해 한개 앱만 선택하십시오.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">밝기</string>
+    <string name="brightness_tile_label_formatted">밝기 %1$s</string>
+    <string name="brightness_tile_label_formatted_high">High: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Medium: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Low: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">밝기: %1$d%%</string>
+    <string name="brightness_tile_undefined_label">밝기 정의되지 않음</string>
+    <string name="brightness_tile_alert_dialog_message">타일이 밝기 모드를 변경하게 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>자동 밝기&lt;/b> 켜짐</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">현재 밝기: &lt;b>%1$d%%&lt;/b></string>
+    <!--calculator-->
+    <string name="calculator_tile_label">계산기</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">달력</string>
+    <!--call-->
+    <string name="call_tile_label">통화</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">타일이 전화에 접근하려면 전화 권한이 필요합니다.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">연락처를 선택하지 않았습니다. 설정에서 연락처를 선택하거나 다른 작업을 선택하십시오.</string>
+    <string name="call_tile_formatted_label">통화 %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">연락처 선택</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">카메라</string>
+    <string name="camera_tile_video_label">동영상 카메라</string>
+    <!--email -->
+    <string name="email_tile_label">이메일</string>
+    <string name="email_tile_formatted_label">이메일 %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">이메일을 선택하지 않았습니다. 설정에서 연락처를 선택하거나 다른 작업을 선택하십시오.</string>
+    <!--lock-->
+    <string name="lock_tile_label">잠금</string>
+    <string name="lock_tile_device_admin_description">타일이 기기를 잠그도록 허용</string>
+    <string name="lock_tile_alert_dialog_message">타일이 기기를 잠그려면 기기 관리자에서 타일을 활성화하십시오.</string>
+    <!--map-->
+    <string name="maps_tile_label">지도</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_service_description">NFC 서비스는 타일을 제거하면 중지됩니다. 중지 시 타일이 강제종료될 수 있습니다.</string>
+    <string name="nfc_tile_alert_dialog_message">타일이 NFC에 접근하게 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--power-->
+    <string name="power_tile_accessibility_service_alert_dialog_message">타일이 시스템전원을 표시하도록하려면 접근성 서비스를 활성화하십시오.</string>
+    <string name="power_tile_action_system_power_dialog">시스템 전원 대화상자</string>
+    <string name="power_tile_action_power_dialog">전원 대화상자</string>
+    <string name="power_tile_label">전원</string>
+    <string name="power_tile_action_reboot">다시 시작</string>
+    <string name="power_tile_action_reboot_recovery">복구모드</string>
+    <string name="power_tile_action_reboot_bootloader">부트로더</string>
+    <string name="power_tile_action_restart_user_space_system">빠른 다시 시작</string>
+    <string name="power_tile_action_power_off">시스템 종료</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">벨소리 모드</string>
+    <string name="ringer_mode_tile_label_normal">표준</string>
+    <string name="ringer_mode_tile_label_silent">무음</string>
+    <string name="ringer_mode_tile_label_vibrate">진동</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">타일이 벨소리 모드를 변경하게하려면 알림 일시중지 액세스를 허용하십시오.</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">카페인</string>
+    <string name="caffeine_tile_service_notification_title">서비스 동작중</string>
+    <string name="caffeine_tile_service_notification_content_text">카페인타임을 가집니다. 자동으로 절전모드에 진입할 수 없으므로 이 서비스를 중지하려면 탭 하십시오.</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">스트릿 뷰</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">타일이 현재 위치를 가져 오려면 위치 권한을 부여하십시오.</string>
+    <!--sync-->
+    <string name="sync_tile_label">동기화</string>
+    <!--timer-->
+    <string name="timer_tile_label">타이머</string>
+    <string name="timer_formatted_label">타이머\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">날씨</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">타일이 기상 조건을 갖추려면 위치 권한을 부여하십시오.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">기상 조건 확보 중. 잠시 기다려주세요.</string>
+    <string name="weather_formatted_temperature_celsius">온도: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">온도: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">느낌: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">느낌: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">이슬점: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">이슬점: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">습기: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">섭씨</string>
+    <string name="weather_fahrenheit">화씨</string>
+    <string name="weather_clear">맑음</string>
+    <string name="weather_cloudy">흐림</string>
+    <string name="weather_foggy">안개</string>
+    <string name="weather_hazy">흐릿함</string>
+    <string name="weather_icy">쌀쌀한</string>
+    <string name="weather_rainy">비</string>
+    <string name="weather_snowy">눈</string>
+    <string name="weather_stormy">태풍</string>
+    <string name="weather_windy">바람</string>
+    <string name="weather_conditions">기상</string>
+    <string name="weather_temperature">온도</string>
+    <string name="weather_feels_like">느낌</string>
+    <string name="weather_humidity">습기</string>
+    <string name="weather_dew_point">이슬점</string>
+    <!--web search-->
+    <string name="web_search_tile_label">웹 검색</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">리마인더</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">제목 (%d 문자 제한)</string>
+    <string name="reminder_tile_content_hint">내용</string>
+    <string name="reminder_tile_persistent_checkbox">고정</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">삭제</string>
+    <string name="reminder_tile_empty_notification_text_fields">알림이 추가되지 않았습니다. 알림을 추가하려면 제목 또는 내용을 입력하십시오.</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">삭제하시겠습니까?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">복원하시겠습니까?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">변경사항을 취소?</string>
+    <string name="reminder_tile_remind_me">나에게 알림</string>
+    <string name="retrieving_location_dialog_message">위치를 검색 중...</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">절전 모드</string>
+    <string name="sleep_timeout_tile_formatted_label">절전\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">타일이 절전 시간을 변경하도록 하려면 시스템 설정 수정 허용을 하십시오.</string>
+    <string name="sleep_timeout_tile_value_15000">15 초</string>
+    <string name="sleep_timeout_tile_value_30000">30 초</string>
+    <string name="sleep_timeout_tile_value_60000">1 분</string>
+    <string name="sleep_timeout_tile_value_120000">2 분</string>
+    <string name="sleep_timeout_tile_value_300000">5 분</string>
+    <string name="sleep_timeout_tile_value_600000">10 분</string>
+    <string name="sleep_timeout_tile_value_1800000">30 분</string>
+    <!--location mode-->
+    <string name="location_tile_label">위치</string>
+    <string name="location_tile_alert_dialog_message">타일이 위치 모드를 변경하도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <string name="location_tile_label_off">사용 안함</string>
+    <string name="location_tile_label_battery_saving">배터리 절약</string>
+    <string name="location_tile_label_sensors_only">기기 전용</string>
+    <string name="location_tile_label_high_accuracy">높은 정확성</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">안드로이드 보안설정은 애플리케이션을 읽을 수 있지만 쓸 수 없는 시스템 환경설정이 포함되어 있습니다. 이 보호수준의 권한은 시스템 앱에만 부여됩니다. 앱이 일반적인 NON-SYSTEM 앱인 경우 이러한 권한을 접근할 수 없습니다.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">타일에는 쉘에 대한 상호 관리자권한이 동작합니다. 프로그래밍 방식으로 %s 쓰기 보안 설정 권한을 사용하시겠습니까?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">수동으로 %1$s 권한을 부여하려면 기기를 컴퓨터에 연결한 다음 ADB 환경을 구축하여 다음 명령을 실행하십시오: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="permission_dialog_message_grant">권한</string>
+    <string name="permission_dialog_message_revoke">취소</string>
+    <!--timer H M S symbols -->
+    <string name="hour_symbol">시</string>
+    <string name="minute_symbol">분</string>
+    <string name="second_symbol">초</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">절전</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">타일이 기기를 절전모드로 전환하려면 접근성 서비스를 활성화하십시오.</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">스크린샷</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">타일이 스크린 샷을 찍고 저장하려면 외부저장소 쓰기 권한을 부여하십시오.</string>
+    <string name="screenshot_tile_screenshot_captured">스크린샷 캡처됨.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">탭하여 스크린샷 보기.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">타일이 스크린 샷을 찍도록하려면 접근성 서비스를 활성화하십시오.</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">전체화면 모드</string>
+    <string name="immersive_mode_tile_off">전체화면 끄기</string>
+    <string name="immersive_mode_tile_hide_system_bars">시스템 바 숨기기</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">네비게이션 바 숨기기</string>
+    <string name="immersive_mode_tile_hide_status_bar">상태 바 숨기기</string>
+    <string name="immersive_mode_tile_alert_dialog_message">타일이 전체화면 모드 로 변경하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <string name="immersive_mode_tile_foreground_service_message">전체화면 모드는 활성화되어 있으며 기기가 절전 모드로 전환되면 비활성화됩니다.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Ambient display</string>
+    <string name="ambient_display_tile_alert_dialog_message">타일이 Ambient display를 변경하도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--animations-->
+    <string name="animations_tile_label">애니메이션</string>
+    <string name="animations_tile_label_animator">Animator</string>
+    <string name="animations_tile_label_transition">Transition</string>
+    <string name="animations_tile_label_window">Window</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">애니메이션 끄기</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">스케일 간격 %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">타일이 애니메이션을 변경할 수 있게하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">알람</string>
+    <string name="alarm_tile_no_alarm_set">알람 설정되지 않음</string>
+    <!--storage-->
+    <string name="storage_tile_label">저장소</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">설정 바로가기</string>
+    <string name="settings_shortcut_tile_action_accessibility">접근성</string>
+    <string name="settings_shortcut_tile_action_add_account">계정 추가</string>
+    <string name="settings_shortcut_tile_action_apn">APN</string>
+    <string name="settings_shortcut_tile_action_application_settings">애플리케이션</string>
+    <string name="settings_shortcut_tile_action_battery_saver">배터리 절약</string>
+    <string name="settings_shortcut_tile_action_bluetooth">블루투스</string>
+    <string name="settings_shortcut_tile_action_captions">자막</string>
+    <string name="settings_shortcut_tile_action_cast">캐스트</string>
+    <string name="settings_shortcut_tile_action_data_roaming">통신사 네트워크</string>
+    <string name="settings_shortcut_tile_action_date">날짜 &amp; 시간</string>
+    <string name="settings_shortcut_tile_action_device_info">기기 상태</string>
+    <string name="settings_shortcut_tile_action_display">화면</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">배터리 최적화</string>
+    <string name="settings_shortcut_tile_action_location_sources">위치</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">다른 앱 위에 그리기</string>
+    <string name="settings_shortcut_tile_action_manage_write">시스템 설정 수정</string>
+    <string name="settings_shortcut_tile_action_network_operators">네트워크 사업자</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">알림 액세스</string>
+    <string name="settings_shortcut_tile_action_printing">인쇄</string>
+    <string name="settings_shortcut_tile_action_search">검색</string>
+    <string name="settings_shortcut_tile_action_security">보안</string>
+    <string name="settings_shortcut_tile_action_sound">소리</string>
+    <string name="settings_shortcut_tile_action_sync">동기화</string>
+    <string name="settings_shortcut_tile_action_usage_access">사용 액세스 권한을 보유한 앱</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">개인 사전</string>
+    <string name="settings_shortcut_tile_action_voice_input">어시스트 &amp; 음성 입력</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">VR 도우미 서비스</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">무선 &amp; 네트워크</string>
+    <!--font size-->
+    <string name="font_size_tile_label">폰트 크기</string>
+    <string name="font_size_tile_alert_dialog_message">타일이 글꼴 크기를 변경하도록 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <!--voice-->
+    <string name="voice_tile_label">음성</string>
+    <!--text-->
+    <string name="text_tile_label">텍스트</string>
+    <string name="text_tile_empty_chat_text_field">텍스트를 추가하지 않았습니다. 내용을 입력하십시오.</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">데이터 로밍</string>
+    <string name="data_roaming_tile_alert_dialog_message">타일이 데이터 로밍을 변경할 수있게 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--density-->
+    <string name="density_tile_label">화면밀도</string>
+    <string name="density_tile_label_formatted">밀도: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">최소 폭: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">화면 크기: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">기본값: %ddp</string>
+    <string name="density_tile_density_low">Low (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Medium (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">High (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">XHigh (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">XXHigh (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">XXXHigh (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">사용자 밀도</string>
+    <!--awake while plugged in-->
+    <string name="awake_while_plugged_on_tile_label">충전 시 켜짐</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">충전시 타일이 깨어날 수 있도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">애플리케이션이 시스템 상태 덤프 정보를 확인하도록 허용합니다. 이 보호 수준의 권한은 시스템 앱에만 부여됩니다. 앱이 일반 NON-SYSTEM 앱인 경우 이러한 권한을 사용할 수 없습니다.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">타일에는 쉘에 대한 상호 관리자권한이 동작합니다. 프로그래밍 방식으로 %s 쓰기 보안 설정 권한을 사용하시겠습니까?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">수동으로 %1$s 권한을 부여하려면 기기를 컴퓨터에 연결한 다음 adb 환경을 구축하여 다음 명령을 실행하십시오: adb shell pm %2$s %3$s android.permission.DUMP</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">데모 모드</string>
+    <string name="demo_mode_tile_alert_dialog_message">타일이 데모 모드를 변경하게 하려면 쓰기 보안 설정 권한과 덤프 권한을 부여하십시오.</string>
+    <string name="demo_mode_tile_system_bars">시스템 바</string>
+    <string name="demo_mode_tile_system_bars_transparent">투명</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">흐리게</string>
+    <string name="demo_mode_tile_system_bars_translucent">반투명</string>
+    <string name="demo_mode_tile_system_bars_opaque">불투명</string>
+    <string name="demo_mode_tile_system_bars_warning">긴급 또는 경고</string>
+    <string name="demo_mode_tile_battery">배터리</string>
+    <string name="demo_mode_tile_state_plugged">연결상태</string>
+    <string name="demo_mode_tile_state_unplugged">해제상태</string>
+    <string name="demo_mode_tile_level_formatted">%1d 단계</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">블루투스</string>
+    <string name="demo_mode_tile_state_disconnected">연결해제됨</string>
+    <string name="demo_mode_tile_state_connected">연결됨</string>
+    <string name="demo_mode_tile_mobile">통신사 네트워크</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">로밍</string>
+    <string name="demo_mode_tile_notifications">알림</string>
+    <string name="demo_mode_tile_alarm">알람</string>
+    <string name="demo_mode_tile_location">위치</string>
+    <string name="demo_mode_tile_clock">시계</string>
+    <string name="demo_mode_tile_mute">무음</string>
+    <string name="demo_mode_tile_speakerphone">스피커</string>
+    <string name="demo_mode_tile_vibrate">진동</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">클립보드</string>
+    <string name="clipboard_tile_empty_clip">클립보드가 비어있습니다.</string>
+    <!--keep-->
+    <string name="keep_tile_label">Keep</string>
+    <!--heads up notification-->
+    <string name="heads_up_notifications_tile_label">상단 헤드업 알림</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">타일이 헤드 업 알림을 변경하도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <string name="heads_up_notifications_tile_alert_summary">안드로이드 프레임워크는 헤드업 알림 표시를 변경하는 설정을 제공하지 않습니다. 원래 동작을 복구하시려면 앱을 제거하기 전에 헤드업 알림을 다시 한번 켜십시오.</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">멀티윈도우</string>
+    <string name="multi_window_tile_alert_dialog_message">타일이 멀티윈도우를 전환하도록 하려면 접근성 서비스를 활성화하십시오.</string>
+    <!--recents screen-->
+    <string name="recents_screen_tile_label">최근 화면</string>
+    <string name="recents_screens_tile_alert_dialog_message">타일에 최근 화면 기능이 표시되도록 하려면 접근성 서비스를 활성화하십시오.</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">볼륨</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">타일의 벨소리 볼륨을 변경하려면 방해 금지 액세스를 허용하십시오.</string>
+    <string name="volumes_tile_volume_keys_disabled">볼륨 키 임시 해제됨</string>
+    <string name="volumes_tile_volume_alarm">알람</string>
+    <string name="volumes_tile_volume_media">미디어</string>
+    <string name="volumes_tile_volume_ring">벨소리</string>
+    <string name="volumes_tile_volume_call">통화</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">탭하면 진동</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">타일이 탭 진동을 변경하게 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">터치음</string>
+    <string name="touch_sounds_tile_alert_dialog_message">타일이 터치 음을 변경할 수 있게 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <!--orientation lock-->
+    <string name="orientation_lock_tile_label">회전 잠금</string>
+    <string name="orientation_lock_tile_alert_dialog_message">타일이 화면 방향을 변경 또는 잠그려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <string name="orientation_lock_tile_label_rotation_0">0\u00B0 회전</string>
+    <string name="orientation_lock_tile_label_rotation_90">90\u00B0 회전</string>
+    <string name="orientation_lock_tile_label_rotation_180">180\u00B0 회전</string>
+    <string name="orientation_lock_tile_label_rotation_270">270\u00B0 회전</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">자동 회전</string>
+    <!--vibrate for calls-->
+    <string name="vibrate_for_calls_tile_label">통화 진동</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">타일이 통화 진동을 변경하도록 하려면 시스템 설정 수정 권한을 부여하십시오.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">배터리 절약</string>
+    <string name="battery_saver_tile_alert_dialog_message">타일이 배터리 절약 기능을 켜고 끄려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">충전 중에는 배터리 절약을 사용할 수 없습니다.</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">USB 디버깅</string>
+    <string name="usb_debugging_tile_alert_dialog_message">타일이 USB 디버깅을 변경하도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--cellular data-->
+    <string name="cellular_data_tile_label">통신사 데이터</string>
+    <string name="cellular_data_tile_mobile_network_label">모바일 네트워크</string>
+    <string name="cellular_data_tile_data_usage_label">데이터 사용량</string>
+    <!--vpn-->
+    <string name="vpn_tile_label">VPN</string>
+    <!-- media volume -->
+    <string name="media_volume_tile_label">미디어 볼륨</string>
+    <string name="media_volume_tile_formatted_label">미디어 볼륨: %1$d%%</string>
+    <!-- shortcuts -->
+    <string name="shortcuts_tile_label">바로가기</string>
+    <string name="shortcut_a_tile_label">바로가기 #1</string>
+    <string name="shortcut_b_tile_label">바로가기 #2</string>
+    <string name="shortcut_c_tile_label">바로가기 #3</string>
+    <string name="shortcut_d_tile_label">바로가기 #4</string>
+    <string name="shortcut_e_tile_label">바로가기 #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">바로 가기가 선택되지 않았습니다. 설정을 열고 원하는 바로 가기를 선택하십시오.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">문제가 발생했습니다. 설정을 열고 선택한 바로 가기를 검토하십시오.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">타일이 다이얼 바로 가기를 수행할 수 있도록 전화 권한을 부여하십시오.</string>
+    <!--bluetooth-->
+    <string name="bluetooth_tile_label">블루투스</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">동작이 불가능합니다. 기기가 블루투스를 지원하지 않습니다.</string>
+    <!-- monochromacy -->
+    <string name="monochromacy_tile_label">단색</string>
+    <string name="monochromacy_tile_alert_dialog_message">타일이 단색을 변경하도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!-- input method -->
+    <string name="input_method_tile_label">입력 방식</string>
+    <string name="input_method_tile_alert_dialog_message">앱이 포그라운드에 없는 동안 입력 방법 선택기를 표시하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--contacts-->
+    <string name="contacts_tile_label">연락처</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">연락처를 선택하지 않았습니다. 설정을 열고 연락처를 선택하십시오.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">문제가 발생했습니다. 설정을 열고 선택한 연락처를 검토하십시오.</string>
+    <string name="contact_a_tile_label">연락처 #1</string>
+    <string name="contact_b_tile_label">연락처 #2</string>
+    <string name="contact_c_tile_label">연락처 #3</string>
+    <string name="contact_d_tile_label">연락처 #4</string>
+    <string name="contact_e_tile_label">연락처 #5</string>
+    <!--invert colors-->
+    <string name="invert_colors_tile_label">색상 반전</string>
+    <string name="invert_colors_tile_alert_dialog_message">타일이 색상 반전을 변경하게 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!-- mono audio -->
+    <string name="mono_audio_tile_label">모노 오디오</string>
+    <!-- notification light -->
+    <string name="notification_light_tile_label">LED알림</string>
+    <!--battery details-->
+    <string name="battery_details_tile_label">배터리 상세</string>
+    <string name="battery_details_tile_formatted_battery_level">배터리: %1d%%</string>
+    <string name="battery_details_tile_discharging">해제됨</string>
+    <string name="battery_details_tile_formatted_charging">충전중: %s</string>
+    <string name="battery_details_tile_usb">USB</string>
+    <string name="battery_details_tile_ac">AC전원</string>
+    <string name="battery_details_tile_wireless">무선</string>
+    <string name="battery_details_tile_formatted_health">상태: %s</string>
+    <string name="battery_details_tile_health_cold">추움</string>
+    <string name="battery_details_tile_health_dead">방전</string>
+    <string name="battery_details_tile_health_good">좋음</string>
+    <string name="battery_details_tile_health_over_voltage">과전압</string>
+    <string name="battery_details_tile_health_overheat">과열</string>
+    <string name="battery_details_tile_unknown">알수없음</string>
+    <string name="battery_details_tile_unspecified_failure">측정실패</string>
+    <string name="battery_details_tile_formatted_temperature">온도: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">전압: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">종류: %s</string>
+    <!--uptime-->
+    <string name="up_time_tile_label">가동시간</string>
+    <string name="up_time_tile_formatted_uptime">가동시간: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">액티비티</string>
+    <string name="activity_a_tile_label">액티비티 #1</string>
+    <string name="activity_b_tile_label">액티비티 #2</string>
+    <string name="activity_c_tile_label">액티비티 #3</string>
+    <string name="activity_d_tile_label">액티비티 #4</string>
+    <string name="activity_e_tile_label">액티비티 #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">선택된 앱이 없습니다. 설정을 열고 원하는 활성화 화면을 선택하십시오.</string>
+    <!--stopwatch-->
+    <string name="stopwatch_tile_label">스톱워치</string>
+    <!--memory-->
+    <string name="memory_tile_label">메모리</string>
+    <string name="memory_tile_formatted_available_memory">가용: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">총: %s</string>
+    <string name="memory_tile_formatted_used_memory">사용중: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">임계값: %s</string>
+    <string name="memory_tile_low_memory">메모리 부족</string>
+    <!--counter-->
+    <string name="counter_tile_label">스톱워치</string>
+    <string name="counter_tile_max_int_alert_dialog_message">값을 추가할 수 없습니다: 최대 정수 값에 도달했습니다.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">값을 뺄 수 없습니다: 최소 정수 값에 도달했습니다.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">카메라 잠금</string>
+    <string name="camera_lock_tile_alert_dialog_message">타일이 카메라를 잠그려면 기기 관리자를 활성화하십시오.</string>
+    <!--network traffic-->
+    <string name="network_traffic_tile_label">네트워크 트래픽</string>
+    <string name="network_traffic_tile_formatted_total_received">받은 합계: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">전송 합계: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">받은 데이터: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">전송된 데이터: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">다운로드: %1s/s - 업로드: %2s/s</string>
+    <!--dice-->
+    <string name="dice_tile_label">주사위 굴리기</string>
+    <!--notification log-->
+    <string name="notification_log_tile_label">알림 로그</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">들어서 확인</string>
+    <string name="lift_to_check_tile_alert_dialog_message"> 기능을 활성화하기 위해 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">두 번 탭 확인</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">두 번 탭하여 확인하도록 변경하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">항상표시</string>
+    <string name="always_on_tile_alert_dialog_message">화면이 꺼져있어도 표시되도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">배터리 설정</string>
+</resources>

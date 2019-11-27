@@ -22,7 +22,7 @@
     <string name="save_and_close">Enregistrer &amp; Fermer</string>
     <string name="warning">Avertissement</string>
     <string name="accessibility_service_label">Service d\'accessibilité</string>
-    <string name="accessibility_service_description">Service d\'accessibilité pour permettre à Tiles d\'effectuer les actions globales : afficher le menu d'alimentation, afficher les activités récentes, basculer le mode multifenêtre, et sur Android Pie (API 28) et ultérieure mettre l\'appareil en veille, prendre des captures d\'écran.</string>
+    <string name="accessibility_service_description">Service d\'accessibilité pour permettre à Tiles d\'effectuer les actions globales : afficher le menu d\'alimentation, afficher les activités récentes, basculer le mode multifenêtre, et sur Android Pie (API 28) et ultérieure mettre l\'appareil en veille, prendre des captures d\'écran.</string>
     <string name="accessibility_service_api_p_required_message">Android Pie (API 28) et ultérieure requis pour effectuer ces actions via le service d\'accessibilité.</string>
     <string name="fifteen_minutes">15 minutes</string>
     <string name="thirty_minutes">30 minutes</string>

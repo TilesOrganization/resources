@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--settings-->
+    <string name="settings">설정</string>
+    <string name="settings_design">디자인</string>
+    <string name="settings_animations">애니메이션</string>
+    <string name="settings_animations_reveal_animation_title">애니메이션 보이기</string>
+    <string name="settings_animations_drawable_animation_title">애니메이션 그리기</string>
+    <string name="settings_enabled">활성화</string>
+    <string name="settings_disabled">비활성화</string>
+    <string name="settings_action">수행</string>
+    <string name="settings_method">방법</string>
+    <string name="settings_use_accessibility_service">접근성 서비스</string>
+    <string name="settings_use_su">관리자 권한</string>
+    <string name="settings_layout">레이아웃</string>
+    <string name="settings_notification">알림</string>
+    <string name="settings_theme">테마</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_black">Black</string>
+    <string name="settings_theme_terminal">Terminal</string>
+    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
+    <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
+    <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
+    <string name="settings_theme_deep_purple_light">Deep purple - Light</string>
+    <string name="settings_theme_deep_purple_dark">Deep purple - Dark</string>
+    <string name="settings_theme_deep_purple_black">Deep purple - Black</string>
+    <string name="settings_theme_red_light">Red - Light</string>
+    <string name="settings_theme_red_dark">Red - Dark</string>
+    <string name="settings_theme_red_black">Red - Black</string>
+    <string name="settings_theme_teal_light">Teal - Light</string>
+    <string name="settings_theme_teal_dark">Teal - Dark</string>
+    <string name="settings_theme_teal_black">Teal - Black</string>
+    <string name="settings_description">설명</string>
+    <string name="settings_add_star">즐겨찾기 추가</string>
+    <string name="settings_remove_star">제거</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">네비게이션 색상</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">색상 없음</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">어두운 색상</string>
+    <string name="settings_design_navigation_bar_tint_primary">기본 색상</string>
+    <string name="settings_design_navigation_bar_tint_accent">색상 강조</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">상태표시줄</string>
+    <string name="settings_design_status_bar_tint_primary_dark">어두운 색상</string>
+    <string name="settings_design_status_bar_tint_primary">기본 색상</string>
+    <string name="settings_design_status_bar_tint_accent">색상 강조</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">상태표시줄 아이콘</string>
+    <string name="settings_design_status_bar_icons_light">밝게</string>
+    <string name="settings_design_status_bar_icons_dark">어둡게</string>
+    <!--advanced-->
+    <string name="settings_advanced">고급</string>
+    <string name="settings_restart_active_tiles_title">타일 재 시작</string>
+    <string name="settings_restart_active_tiles_summary">타일을 강제로 재시작합니다. 시스템 문제로 타일이 반응이 없을경우 이 방법으로 조치를 취하십시오.</string>
+    <string name="settings_restart_active_tiles_summary_processing">강제 재시작 처리중</string>
+    <string name="settings_scheduled_restart_tiles_title">재시작 예약</string>
+    <!--UX-->
+    <string name="settings_permission">권한</string>
+    <string name="settings_phone_call_permission_title">전화 권한</string>
+    <string name="settings_location_permissions_preference_title">위치 권한</string>
+    <string name="settings_modify_system_settings_permissions_title">시스템 설정 수정 권한</string>
+    <string name="settings_feedback">Feedback &amp; Support</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_wiki">위키</string>
+    <string name="settings_wiki_device_administrator">기기 관리자</string>
+    <string name="settings_wiki_accessibility_service">접근성 서비스</string>
+    <string name="settings_wiki_how_to_add_tiles">타일 추가 방법</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">숨겨진 타일 활성화 방법</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">ADB를 이용한 권한 획득방법</string>
+    <string name="settings_rate_or_review">별점 리뷰 남기기</string>
+    <string name="settings_support_title">지원해 주셔서 감사합니다!</string>
+    <string name="settings_send_email">이메일 보내기</string>
+    <string name="settings_support_summary">안드로이드 7.0 (API 24) 이상으로 개발되었습니다.</string>
+    <string name="settings_credit">Credit</string>
+    <string name="settings_credit_app_icon">Application\'s icon</string>
+    <string name="settings_translations">Translations</string>
+    <string name="settings_translations_thanks">If you want to help in translating the app into your language, please feel free to contact me: rascarlo@gmail.com.\nThank you!</string>
+    <string name="settings_translations_locale_cs">Czech</string>
+    <string name="settings_translations_locale_de">German</string>
+    <string name="settings_translations_locale_pt_rBR">Portuguese, Brazil</string>
+    <string name="settings_translations_locale_nl">Dutch</string>
+    <string name="settings_translations_locale_pt_rPT">Portuguese, Portugal</string>
+    <string name="settings_translations_locale_sk_rSK">Slovak, Slovakia</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Traditional Chinese, Hong Kong &amp; Macao</string>
+    <string name="settings_translations_locale_zh_rTW">Traditional Chinese, Taiwan</string>
+    <string name="settings_translations_locale_it">Italian</string>
+    <string name="settings_translations_locale_hu">Hungarian</string>
+    <string name="settings_translations_locale_es">Spanish</string>
+    <string name="settings_translations_locale_ru">Russian</string>
+    <string name="settings_translations_locale_fr">French</string>
+    <string name="settings_translations_locale_hr">Croatian</string>
+    <string name="settings_translations_locale_ja">Japanese</string>
+    <string name="settings_translations_locale_tr">Turkish</string>
+    <string name="settings_translations_locale_zh_rCN">Simplified Chinese</string>
+    <string name="settings_translations_locale_nb">Norwegian Bokmål</string>
+    <string name="settings_translations_locale_pl">Polish</string>
+    <string name="settings_translations_locale_ko_rKR">한국어, 대한민국</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">타일 적용하기</string>
+    <string name="settings_component_summary_off">빠른 설정 레이아웃에서 타일 숨기기 </string>
+    <string name="settings_component_summary_on">빠른 설정 레이아웃에 타일 표시</string>
+    <string name="settings_tile_action_start_service_and_collapse">빠른 설정 패널 축소 및 서비스 시작</string>
+    <string name="settings_tile_action_start_service_without_collapsing">빠른 설정 패널을 축소하지 않고 서비스 시작</string>
+    <string name="settings_stop_on_sleep_title">절전 중지</string>
+    <string name="settings_stop_on_sleep_summary_on">기기가 절전 모드로 전환 될 때 서비스 중지</string>
+    <string name="settings_stop_on_sleep_summary_off">기기가 절전 모드로 전환 될 때 서비스를 계속 실행</string>
+    <string name="settings_stay_awake">꺠우기 유지</string>
+    <string name="settings_stay_awake_summary_on">기기를 깨운 상태로 유지</string>
+    <string name="settings_stay_awake_summary_off">기기를 절전 모드로 전환</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">거부됨. 밝기 모드를 변경할 수 없습니다</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">허용됨. 밝기 모드를 변경할 수 있습니다</string>
+    <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">앱 모두 보이기</string>
+    <string name="settings_application_tile_action_show_selected_apps">선택된 앱 보이기</string>
+    <string name="settings_application_tile_single_app">단일 앱</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">선택된 앱 %d </item>
+        <item quantity="other">선택된 앱 %d</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">선택된 애플리케이션</string>
+    <!-- applications list-->
+    <string name="settings_application_tile_view_mode">보기 모드</string>
+    <string name="settings_application_tile_view_mode_list">열</string>
+    <string name="settings_application_tile_view_mode_grid">바둑판</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">레이블 없이 바둑판</string>
+    <string name="settings_application_tile_grid_columns">바둑판 열</string>
+    <string name="settings_application_tile_application_list_show_title">보여질 앱</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">선택된 앱 %d</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">선택된 앱 없음</string>
+    <string name="settings_application_tile_application_list_launch_title">앱 실행</string>
+    <string name="settings_application_tile_loading_applications">앱 실행중…</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">거부됨. 밝기 모드를 변경할 수 없습니다</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">허용됨. 밝기 모드를 변경할 수 있습니다</string>
+    <string name="settings_brightness_tile_action_change_brightness">밝기 변경</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">밝기 단계</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">전화 앱 열기</string>
+    <string name="settings_call_tile_action_make_call">선택한 연락처로 통화</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">통화 권한</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">거부됨. 전화를 걸 수 없습니다</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">허용됨. 전화를 걸 수 있습니다</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">연락하기</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">이메일 앱 열기</string>
+    <string name="settings_email_tile_action_send_email">선택한 연락처 수신자로 이메일 작성</string>
+    <string name="settings_email_tile_contact_preference_title">이메일로 연락</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">기기 관리자</string>
+    <string name="settings_lock_tile_device_admin_summary_on">활성화됨. 기기를 잠글 수 있습니다</string>
+    <string name="settings_lock_tile_device_admin_summary_off">비활성화됨. 기기를 잠글 수 없습니다 </string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">방해 금지 액세스</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">허용됨. 방해 금지 모드를 켜거나 끄고 관련 설정을 변경할 수 있습니다</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">거부됨. 방해 금지 모드를 켜거나 끌 수 없으며고 관련 설정을 변경할 수 없습니다</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">볼륨 창 열기</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">벨소리 모드 변경</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">소리 재생</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">벨소리 모드 노말 선택한 경우 소리를 재생하지 않습니다</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">벨소리 모드 기본값이 선택된 경우 노말 알림 소리 재생</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">설정 여는 동작 표시</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">동작 숨기기</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">소리 재생</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">서비스가 시작될 때 소리가 나지 않습니다</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">서비스가 시작될 때 기본 알림 소리 재생</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">서비스 시작시 비 진동</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">서비스 시작시 진동</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">동기화 상태 변경</string>
+    <string name="settings_sync_tile_action_open_sync_settings">동기화 설정 열기</string>
+    <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">타이머 열기</string>
+    <string name="settings_timer_tile_action_start_timer">타이머 시작</string>
+    <string name="settings_timer_tile_skip_ui_title">UI 건너뛰기</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">UI를 무시하고 타이머를 시작</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">타이머를 시작하기 전에 UI 표시</string>
+    <string name="settings_timer_tile_default_duration">기본 지속간격</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">거부됨. 기기의 위치에 액세스 할 수 없습니다</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">허용됨. 기기의 위치에 액세스 할 수 있습니다</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">거부됨. 기기의 현재 위치 기상 조건을 얻을 수 없습니다</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">허용됨. 기기의 현재 위치 기상 조건을 얻을 수 있습니다</string>
+    <string name="settings_units">단위</string>
+    <string name="settings_summary_off_hidden">숨기기</string>
+    <string name="settings_summary_on_shown">보이기</string>
+    <!--reminder-->
+    <string name="settings_reminder_tile_persistent_notification_summary_off">왼쪽 또는 오른쪽으로 스와이프하여 리마인더 삭제</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">삭제 버튼을 탭 하여 리마인더 삭제</string>
+    <string name="settings_reminder_tile_persistent_notification_title">고정 알림</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">소리 재생</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">새 리마인더 추가 할 때 시스템 기본 알림 소리 재생</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">새 리마인더 추가 할 때 소리 없음</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">진동</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">새 리마인더 추가 할 때 진동</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">새 리마인더 추가 할 때 진동없음</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">시간 표시 스타일</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">보통</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">스톱워치</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">설정 열기 동작 표시</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">동작 숨기기</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">이벤트보기</string>
+    <string name="settings_calendar_tile_action_add">이벤트추가</string>
+    <!--location mode-->
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">허용됨. 위치 모드를 변경할 수 있습니다</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">거부됨. 위치 모드를 변경할 수 없습니다</string>
+    <string name="settings_location_tile_action_change_location_mode">위치 모드 변경</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">거부됨. 절전 시간 초과를 변경할 수 없습니다</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">허용됨. 절전 시간 제한을 변경할 수 있습니다</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">절전 시간 제한 변경</string>
+    <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">비활성화됨. 스크린 샷을 찍을 수 없습니다</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">활성화됨. 스크린 샷을 찍을 수 있습니다</string>
+    <string name="settings_write_external_storage_permission_permissions_title">외부 저장소 쓰기 권한</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">허용됨. 스크린 샷을 찍을 수 있습니다</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">거부됨. 스크린 샷을 찍을 수 없습니다</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">소리 재생</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">새 스크린 샷을 찍을 때 기본 알림 소리 재생</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">새 스크린 샷을 찍을 때 소리 없음</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">새 스크린 샷을 찍을 때 진동</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">새 스크린 샷을 찍을 때 진동없음</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">빠른 설정 패널 및 스크린 샷 찍기</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">빠른 설정 패널을 없애지 않고 그대로 스크린 샷 찍기</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">스크린 샷 공유 작업 표시</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">스크린 샷 공유 작업 숨기기</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">스크린 샷 삭제 작업 표시</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">스크린 샷 삭제 작업 숨기기</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_mode_title">방해 금지 액세스 모드</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">알람 만</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">전체 무음</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">우선 순위 만</string>
+    <!--notification common strings-->
+    <string name="settings_show_dialog">대화 상자 표시</string>
+    <string name="settings_notification_share_action_title">공유 동작</string>
+    <string name="settings_notification_settings_action_title">설정 동작</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">쓰기 보안 설정 권한</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">허용됨. 전체화면 모드를 변경할 수 있습니다</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">거부됨. 전체화면 모드를 변경할 수 없습니다</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">전체화면 모드 변경</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">예기치 않은 동작을 피하거나 기기 깨울때 지연 또는 절전 모드 인 상태에서 전화를 받을 때 이 설정을 활성화 하십시오.</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">허용됨. Ambient display를 변경할 수 있습니다</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">거부됨. Ambient display를 변경할 수 없습니다</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">허용됨. 애니메이션을 변경할 수 있습니다</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">거부됨. 애니메이션을 변경할 수 없습니다</string>
+    <string name="settings_show_milliseconds">밀리 초 표시</string>
+    <!--alarm tile-->
+    <string name="settings_alarm_tile_action_add_alarm">알람 추가</string>
+    <string name="settings_alarm_tile_action_show_alarms">알람 표시</string>
+    <string name="settings_date_format">날짜 형식</string>
+    <!--screen time tile-->
+    <string name="settings_time_format">시간 형식</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">작게</string>
+    <string name="settings_font_size_tile_font_scale_default">보통</string>
+    <string name="settings_font_size_tile_font_scale_large">크게</string>
+    <string name="settings_font_size_tile_font_scale_largest">아주 크게</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">거부됨. 글꼴 크기를 변경할 수 없습니다</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">허용됨. 글꼴 크기를 변경할 수 있습니다</string>
+    <string name="settings_font_size_tile_action_change_font_size">폰트 크기 변경</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">허용됨. NFC 상태를 변경할 수 있습니다</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">거부됨. NFC 상태를 변경할 수 없습니다</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">NFC 상태 변경</string>
+    <string name="settings_nfc_tile_open_nfc_settings">NFC 설정 열기</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">허용됨. 데이터 로밍을 변경할 수 있습니다</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">거부됨. 데이터 로밍을 변경할 수 없습니다</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">기본값 밀도</string>
+    <string name="settings_density_tile_current_density_title">현재 밀도</string>
+    <string name="settings_density_tile_restore_default_density_title">기본값 밀도 복원</string>
+    <!--awake while plugged in-->
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">허용됨. 연결 한 상태에서 깨우기 변경 가능</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">거부됨. 연결 한 상태에서 깨우기 변경 불가</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">허용됨. 데모 모드를 변경할 수 있습니다</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">거부됨. 데모 모드를 변경할 수 없습니다</string>
+    <string name="settings_dump_permission_title">덤프 권한</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">허용됨. 시스템 서비스에서 상태 덤프 정보를 검색 할 수 있습니다</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">거부됨. 시스템 서비스에서 상태 덤프 정보를 검색 할 수 없습니다</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">허용됨. 헤드 업 알림을 변경할 수 있습니다</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">거부됨. 헤드 업 알림을 변경할 수 없습니다</string>
+    <!--power-->
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">비활성화됨. 시스템 전원 대화 상자를 표시 할 수 없습니다</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">활성화됨. 시스템 전원 대화 상자를 표시 할 수 있습니다</string>
+    <!--multi-window-->
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">비활성화됨. 멀티윈도우를 제어 할 수 없습니다</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">활성화됨. 멀티윈도우를 제어 할 수 있습니다</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">비활성화됨. 최근 화면이 표시되지 않습니다</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">활성화됨. 최근 화면을 표시할 수 있습니다</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">방해 금지 액세스</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">볼륨 패널 열기</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">허용됨. 방해 금지 모드를 켜거나 끄고 벨소리 볼륨을 변경할 수 있습니다</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">거부됨. 방해 금지 모드를 켜거나 끌 수없고 벨소리 볼륨을 변경할 수 없습니다</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">거부됨. 탭 으로 진동을 변경할 수 없습니다</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">허용됨. 탭 으로 진동을 변경할 수 있습니다</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">거부됨. 터치 음 변경할 수 없습니다</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">허용됨. 터치 음 변경할 수 있습니다</string>
+    <!--orientation lock-->
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">화면 방향 잠금 변경</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">거부됨. 잠글 수 없습니다</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">허용됨. 잠글 수 있습니다</string>
+    <!--vibrate for calls-->
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">거부됨. 통화 진동을 변경할 수 없습니다</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">허용됨. 통화 진동을 변경할 수 있습니다</string>
+    <!--battery saver-->
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">거부됨. 배터리 절약 켜고 끌 수 없습니다</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">허용됨. 배터리 절약 켜고 끌 수 있습니다</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">거부됨. USB 디버깅을 변경할 수 없습니다</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">허용됨. USB 디버깅을 변경할 수 있습니다</string>
+    <!--cellular data-->
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">통신사 데이터 상태 변경</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">통신사 네트워크 설정 열기</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">데이터 사용량 설정 열기</string>
+    <!--shortcuts-->
+    <string name="settings_shortcuts_tile_selected_shortcut">선택된 바로 가기</string>
+    <string name="settings_shortcuts_tile_summary_empty">바로 가기 선택되지 않음</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">거부됨. 전화를 걸거나 다이얼 바로 가기를 수행 할 수 없습니다.</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">허용됨. 전화를 걸고 다이얼 바로 가기를 수행 할 수 있습니다.</string>
+    <!--bluetooth-->
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">블루투스 상태 변경</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">블루투스 설정 열기</string>
+    <!--monochromacy-->
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">허용됨. 단색을 변경할 수 있습니다</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">거부됨. 단색을 변경할 수 없습니다</string>
+    <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">허용됨. 앱이 포 그라운드에 있지 않은 동안 입력 선택기를 표시 할 수 있습니다.</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">거부됨.</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">입력기 선택기 표시</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">입력 방법 설정 열기</string>
+    <!--contacts-->
+    <string name="settings_contacts_tile_selected_contact">선택된 연락처</string>
+    <string name="settings_contacts_tile_summary_empty">선택된 연락처 없음</string>
+    <!--invert colors-->
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">허용됨. 반전 색상을 변경할 수 있습니다</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">거부됨. 반전 색상을 변경할 수 없습니다</string>
+    <!--storage-->
+    <string name="settings_storage_tile_action_open_storage_settings">저장 용량 설정 열기</string>
+    <string name="settings_storage_tile_action_open_file_manager">파일 관리자 열기</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">기기상태</string>
+    <string name="settings_battery_details_tile_temperature">온도</string>
+    <string name="settings_battery_details_tile_temperature_units">온도 단위</string>
+    <string name="settings_battery_details_tile_voltage">전압</string>
+    <string name="settings_battery_details_tile_technology">종류</string>
+    <!--activities-->
+    <string name="settings_activities_tile_activity_label">액티비티</string>
+    <string name="settings_no_activity_selected">선택된 액티비티 없음</string>
+    <plurals name="settings_activities_tile_activities_found_formatted_plurals">
+        <item quantity="one">%d 찾음</item>
+        <item quantity="other">%d 찾음</item>
+    </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">사용중</string>
+    <string name="settings_memory_tile_total">총</string>
+    <string name="settings_memory_tile_threshold">임계값</string>
+    <string name="settings_memory_tile_low_memory">메모리 부족</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">초기화</string>
+    <string name="settings_counter_tile_current_value">현재 수</string>
+    <string name="settings_counter_tile_action_addition">추가</string>
+    <string name="settings_counter_tile_action_subtraction">빼기</string>
+    <!--camera lock-->
+    <string name="settings_camera_lock_tile_device_admin_summary_on">활성화됨. 카메라를 잠글 수 있습니다</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">비활성화됨. 카메라를 잠글 수 없습니다</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">받은 합계</string>
+    <string name="settings_network_traffic_tile_total_transmitted">전송 합계</string>
+    <string name="settings_network_traffic_tile_mobile_received">받은 데이터</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">전송된 데이터</string>
+    <!--dice-->
+    <string name="settings_dice_tile_action_roll_one_die">주사위 1 굴리기</string>
+    <string name="settings_dice_tile_action_roll_two_dice">주사위 2 굴리기</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">허용됨. 들어서 확인 모드 가능</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">거부됨. 들어서 확인 모드 불가</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">허용됨. 두 번 탭 확인 모드 가능</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">거부됨. 두 번 탭 확인 모드 가능 </string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">허용됨. 항상표시 모드 가능</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">거부됨. 항상표시 모드 불가</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">비활성화됨. 기기를 절전모드 할 수 없습니다</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">활성화됨. 기기를 절전모드 할 수 있습니다</string>
+</resources>

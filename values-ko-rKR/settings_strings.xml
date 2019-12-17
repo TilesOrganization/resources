@@ -105,7 +105,7 @@
     <string name="settings_stop_on_sleep_title">절전 중지</string>
     <string name="settings_stop_on_sleep_summary_on">기기가 절전 모드로 전환 될 때 서비스 중지</string>
     <string name="settings_stop_on_sleep_summary_off">기기가 절전 모드로 전환 될 때 서비스를 계속 실행</string>
-    <string name="settings_stay_awake">꺠우기 유지</string>
+    <string name="settings_stay_awake">깨우기 유지</string>
     <string name="settings_stay_awake_summary_on">기기를 깨운 상태로 유지</string>
     <string name="settings_stay_awake_summary_off">기기를 절전 모드로 전환</string>
     <!--adaptive brightness-->

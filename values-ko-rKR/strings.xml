@@ -446,7 +446,7 @@
     <string name="activity_e_tile_label">액티비티 #5</string>
     <string name="activity_tile_no_activity_selected_alert_dialog_message">선택된 앱이 없습니다. 설정을 열고 원하는 활성화 화면을 선택하십시오.</string>
     <!--stopwatch-->
-    <string name="stopwatch_tile_label">스톱워치</string>
+    <string name="stopwatch_tile_label">초시계</string>
     <!--memory-->
     <string name="memory_tile_label">메모리</string>
     <string name="memory_tile_formatted_available_memory">가용: %1$s (%2$.1f%%)</string>
@@ -455,7 +455,7 @@
     <string name="memory_tile_formatted_threshold">임계값: %s</string>
     <string name="memory_tile_low_memory">메모리 부족</string>
     <!--counter-->
-    <string name="counter_tile_label">스톱워치</string>
+    <string name="counter_tile_label">개수 세기</string>
     <string name="counter_tile_max_int_alert_dialog_message">값을 추가할 수 없습니다: 최대 정수 값에 도달했습니다.</string>
     <string name="counter_tile_min_int_alert_dialog_message">값을 뺄 수 없습니다: 최소 정수 값에 도달했습니다.</string>
     <!--camera lock-->

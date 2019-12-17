@@ -8,7 +8,7 @@
     <string name="settings_animations_drawable_animation_title">애니메이션 그리기</string>
     <string name="settings_enabled">활성화</string>
     <string name="settings_disabled">비활성화</string>
-    <string name="settings_action">수행</string>
+    <string name="settings_action">수행방식</string>
     <string name="settings_method">방법</string>
     <string name="settings_use_accessibility_service">접근성 서비스</string>
     <string name="settings_use_su">관리자 권한</string>

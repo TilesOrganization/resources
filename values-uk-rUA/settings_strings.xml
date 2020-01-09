@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--settings-->
+    <string name="settings">Налаштування</string>
+    <string name="settings_design">Оформлення</string>
+    <string name="settings_animations">Анімації</string>
+    <string name="settings_animations_reveal_animation_title">Показати анімацію</string>
+    <string name="settings_animations_drawable_animation_title">Кадрова анімація</string>
+    <string name="settings_enabled">Увімкнено</string>
+    <string name="settings_disabled">Вимкнено</string>
+    <string name="settings_action">Дія</string>
+    <string name="settings_method">Метод</string>
+    <string name="settings_use_accessibility_service">Сервіс спеціальних можливостей</string>
+    <string name="settings_use_su">Права суперкористувача</string>
+    <string name="settings_layout">Розмітка</string>
+    <string name="settings_notification">Сповіщення</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_theme_light">Світла</string>
+    <string name="settings_theme_dark">Темна</string>
+    <string name="settings_theme_black">Чорна</string>
+    <string name="settings_theme_terminal">Термінал</string>
+    <string name="settings_theme_deep_orange_light">Світло-помаранчева</string>
+    <string name="settings_theme_deep_orange_dark">Темно-помаранчева</string>
+    <string name="settings_theme_deep_orange_black">Чорно-помаранчева</string>
+    <string name="settings_theme_deep_purple_light">Світло-фіолетова</string>
+    <string name="settings_theme_deep_purple_dark">Темно-фіолетова</string>
+    <string name="settings_theme_deep_purple_black">Чорно-фіолетова</string>
+    <string name="settings_theme_red_light">Світло-червона</string>
+    <string name="settings_theme_red_dark">Темно-червона</string>
+    <string name="settings_theme_red_black">Чорно-червона</string>
+    <string name="settings_theme_teal_light">Світло-смарагдова</string>
+    <string name="settings_theme_teal_dark">Темно-смарагдова</string>
+    <string name="settings_theme_teal_black">Чорно-смарагдова</string>
+    <string name="settings_description">Опис</string>
+    <string name="settings_add_star">Додати в обране</string>
+    <string name="settings_remove_star">Прибрати з обраного</string>
+    <!--navigation status bar tint-->
+    <string name="settings_design_navigation_bar_tint_title">Відтінок панелі навігації</string>
+    <string name="settings_design_navigation_bar_tint_no_tint">Без відтінку</string>
+    <string name="settings_design_navigation_bar_tint_primary_dark">Основний темний колір</string>
+    <string name="settings_design_navigation_bar_tint_primary">Основний колір</string>
+    <string name="settings_design_navigation_bar_tint_accent">Акцент відтінку</string>
+    <!--design status bar tint-->
+    <string name="settings_design_status_bar_tint_title">Відтінок рядку стану</string>
+    <string name="settings_design_status_bar_tint_primary_dark">Основний темний колір</string>
+    <string name="settings_design_status_bar_tint_primary">Основний колір</string>
+    <string name="settings_design_status_bar_tint_accent">Акцент відтінку</string>
+    <!--design status bar icons-->
+    <string name="settings_design_status_bar_icons_title">Іконки рядку стану</string>
+    <string name="settings_design_status_bar_icons_light">Світлі іконки</string>
+    <string name="settings_design_status_bar_icons_dark">Темні іконки</string>
+    <!--advanced-->
+    <string name="settings_advanced">Додатково</string>
+    <string name="settings_restart_active_tiles_title">Перезапустити активні плитки</string>
+    <string name="settings_restart_active_tiles_summary">Примусово перезапустити активні плитки. Використовуйте цю опцію, якщо деякі плитики припинили відповідати після їх вимкнення системою.</string>
+    <string name="settings_restart_active_tiles_summary_processing">Виконується перезапуск активних плиток.</string>
+    <string name="settings_scheduled_restart_tiles_title">Запланований перезапуск</string>
+    <!--UX-->
+    <string name="settings_permission">Дозвіл</string>
+    <string name="settings_phone_call_permission_title">Дозвіл на здійснення телефонних викликів</string>
+    <string name="settings_location_permissions_preference_title">Дозвіл на визначення місцезнаходження</string>
+    <string name="settings_modify_system_settings_permissions_title">Дозвіл на зміну системних налаштувань</string>
+    <string name="settings_feedback">Відгуки та підтримка</string>
+    <string name="settings_privacy_policy">Політика конфіденційності</string>
+    <string name="settings_wiki">Довідка</string>
+    <string name="settings_wiki_device_administrator">Адміністратор пристрою</string>
+    <string name="settings_wiki_accessibility_service">Сервіс спеціальних можливостей</string>
+    <string name="settings_wiki_how_to_add_tiles">Як додавати плитки</string>
+    <string name="settings_wiki_how_to_enable_hidden_tiles">Як увімкнути приховані плитки</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Як використовувати ADB для надання дозволів</string>
+    <string name="settings_rate_or_review">Оцінити або залишити відгук</string>
+    <string name="settings_support_title">Дякуємо за підтримку!</string>
+    <string name="settings_send_email">Надіслати лист</string>
+    <string name="settings_support_summary">Розроблено для Android версії 7.0 (API рів. 24) і вище</string>
+    <string name="settings_credit">Подяки</string>
+    <string name="settings_credit_app_icon">Іконка додатку</string>
+    <string name="settings_translations">Переклади</string>
+    <string name="settings_translations_thanks">Якщо ви бажаєте допомогти з перекладом додатка вашою мовою, будь ласка, зв\'яжіться зі мною поштою: rascarlo@gmail.com.\nДякую!</string>
+    <string name="settings_translations_locale_pt_rBR">Бразильська португальська</string>
+    <string name="settings_translations_locale_nl">Голландська</string>
+    <string name="settings_translations_locale_es">Іспанська</string>
+    <string name="settings_translations_locale_it">Італійська</string>
+    <string name="settings_translations_locale_de">Німецька</string>
+    <string name="settings_translations_locale_nb">Норвезька букмол</string>
+    <string name="settings_translations_locale_pl">Польська</string>
+    <string name="settings_translations_locale_pt_rPT">Португальська</string>
+    <string name="settings_translations_locale_ru">Російська</string>
+    <string name="settings_translations_locale_sk_rSK">Словацька</string>
+    <string name="settings_translations_locale_zh_rCN">Спрощена китайська</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Традиційна китайська, Гонконг і Макао</string>
+    <string name="settings_translations_locale_zh_rTW">Традиційна китайська, Тайвань</string>
+    <string name="settings_translations_locale_tr">Турецька</string>
+    <string name="settings_translations_locale_hu">Угорська</string>
+    <string name="settings_translations_locale_fr">Французька</string>
+    <string name="settings_translations_locale_hr">Хорватська</string>
+    <string name="settings_translations_locale_cs">Чеська</string>
+    <string name="settings_translations_locale_ja">Японська</string>
+    <string name="settings_translations_locale_ko_rKR">Корейська, Південна Корея</string>
+    <string name="settings_translations_locale_uk_rUA">Українська</string>
+    <!--tile component-->
+    <string name="settings_component_summary_title">Видимість плитки</string>
+    <string name="settings_component_summary_off">Приховати плитку з панелі швидких налаштувань</string>
+    <string name="settings_component_summary_on">Показати плитку в панелі швидких налаштувань</string>
+    <string name="settings_tile_action_start_service_and_collapse">Згорнути панель швидких налаштувань і запустити сервіс</string>
+    <string name="settings_tile_action_start_service_without_collapsing">Запустити сервіс, не згортаючи панель швидких налаштувань</string>
+    <string name="settings_stop_on_sleep_title">Зупинити під час переходу в режим сну</string>
+    <string name="settings_stop_on_sleep_summary_on">Зупинити сервіс під час переходу пристрою в режим сну</string>
+    <string name="settings_stop_on_sleep_summary_off">Дозволити роботу сервісу під час переходу пристрою в режим сну</string>
+    <string name="settings_stay_awake">Активний режим</string>
+    <string name="settings_stay_awake_summary_on">Не дозволяти пристрою переходити в режим сну</string>
+    <string name="settings_stay_awake_summary_off">Дозволити пристрою переходити в режим сну</string>
+    <!--adaptive brightness-->
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати режим адаптивної яскравості.</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати режим адаптивної яскравості.</string>
+    <!-- application-->
+    <string name="settings_application_tile_action_show_all_apps">Показати всі додатки</string>
+    <string name="settings_application_tile_action_show_selected_apps">Показати вибрані додатки</string>
+    <string name="settings_application_tile_single_app">Один додаток</string>
+    <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
+        <item quantity="one">%d додаток вибрано</item>
+        <item quantity="other">%d додатки вибрано</item>
+        <item quantity="few">%d додатків вибрано</item>
+        <item quantity="many">%d додатків вибрано</item>
+    </plurals>
+    <string name="settings_application_tile_selected_app">Вибраний додаток</string>
+    <!-- applications list-->
+    <string name="settings_application_tile_view_mode">Режим відображення</string>
+    <string name="settings_application_tile_view_mode_list">Список</string>
+    <string name="settings_application_tile_view_mode_grid">Сітка</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">Сітка без назв</string>
+    <string name="settings_application_tile_grid_columns">Стовпчики сітки</string>
+    <string name="settings_application_tile_application_list_show_title">Додатки що відображаються</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d вибрано</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Відсутні вибрані додатки</string>
+    <string name="settings_application_tile_application_list_launch_title">Додаток для запуску</string>
+    <string name="settings_application_tile_loading_applications">Запуск додатків…</string>
+    <!--brightness-->
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати рівень яскравості.</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати рівень яскравості.</string>
+    <string name="settings_brightness_tile_action_change_brightness">Змінити яскравість</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">Рівні яскравості</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Високий: %1$d%%\nСередній: %2$d%%\nНизький: %3$d%%</string>
+    <!--call-->
+    <string name="settings_call_tile_action_open_phone">Відкрити додаток телефону</string>
+    <string name="settings_call_tile_action_make_call">Зателефонувати вказаному контакту</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Дозвіл на телефонні виклики</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Заборонено. Плитка не може ініціювати телефонний виклик.</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Дозволено. Плитка може ініціювати телефонний виклик.</string>
+    <string name="settings_call_contact_tile_contact_preference_screen_title">Вибрати контакт для телефонного виклику</string>
+    <!--email-->
+    <string name="settings_email_tile_action_open_app">Відкрити додаток пошти</string>
+    <string name="settings_email_tile_action_send_email">Написати листа зазначеному адресату</string>
+    <string name="settings_email_tile_contact_preference_title">Вибрати адресата</string>
+    <!--lock-->
+    <string name="settings_lock_tile_device_admin_title">Адміністратор пристрою</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Дозволено. Плитка може блокувати пристрій.</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Заборонено. Плитка не може блокувати пристрій.</string>
+    <!--ringer mode-->
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Доступ до режиму Не турбувати</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Дозволено. Плитка може перемикати режим Не турбувати і вносити зміни у відповідні налаштування.</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Заборонено. Плитка не може перемикати режим Не турбувати і вносити зміни у відповідні налаштування.</string>
+    <string name="settings_ringer_mode_tile_action_open_volume_panel">Відкрити налаштування звуку</string>
+    <string name="settings_ringer_mode_tile_action_change_ringer_mode">Змінити режим дзвінка</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Відтворити звук</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Не відтворювати звук при виборі нормального режиму дзвінка</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Відтворювати звук при виборі нормального режиму дзвінка</string>
+    <!--caffeine-->
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показати дію відкриття налаштувань</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Приховати дію відкриття налаштувань</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Відтворити звук під час запуску сервісу</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Не відтворювати звук сповіщення під час запуску сервісу</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Відтворити звичайний звук сповіщення при запуску сервісу</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Вібрація</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Не вібрувати під час запуску сервісу</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Вібрувати під час запуску сервісу</string>
+    <!--sync-->
+    <string name="settings_sync_tile_action_change_sync">Змінити стан синхронізації</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Відкрити налаштування синхронізації</string>
+    <!--timer -->
+    <string name="settings_timer_tile_action_open_timer">Відкрити таймер</string>
+    <string name="settings_timer_tile_action_start_timer">Запустити таймер</string>
+    <string name="settings_timer_tile_skip_ui_title">Пропустити діалог</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Оминати будь-які діалоги підтвердження і відразу запускати таймер</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Показувати діалог підтвердження перед запуском таймера</string>
+    <string name="settings_timer_tile_default_duration">Тривалість за замовчуванням</string>
+    <!--streetview-->
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Заборонено. Плитка не має доступу до місцезнаходження пристрою.</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Дозволено. Плитка має доступ до місцезнаходження пристрою.</string>
+    <!--weather-->
+    <string name="settings_weather_tile_location_permissions_summary_off">Заборонено. Плитка не має доступу до місцезнаходження пристрою і не може отримати інформацію про погоду.</string>
+    <string name="settings_weather_tile_location_permissions_summary_on">Дозволено. Плитка має доступ до місцезнаходження пристрою і може отримати інформацію про погоду.</string>
+    <string name="settings_units">Міра вимірювання</string>
+    <string name="settings_summary_off_hidden">Приховати</string>
+    <string name="settings_summary_on_shown">Показати</string>
+    <!--reminder-->
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Видаляти нагадування, змахнувши його вліво/вправо</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Видаляти нагадування після натискання дії видалення</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Постійне нагадування</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Відтворити звук</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Відтворити звичайний звук сповіщення при додаванні нового нагадування</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Не відтворювати звук сповіщення при додаванні нового нагадування</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Вібрація</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Вібрувати при додаванні нового нагадування</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Не вібрувати при додаванні нового нагадування</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Вигляд мітки часу</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Звичайний</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Секундомір</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Показати дію відкриття налаштувань</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Приховати дію відкриття налаштувань</string>
+    <!--calendar-->
+    <string name="settings_calendar_tile_action_view">Показати події</string>
+    <string name="settings_calendar_tile_action_add">Додати подію</string>
+    <!--location mode-->
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати спосіб визначення місцезнаходження пристрою.</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати спосіб визначення місцезнаходження пристрою.</string>
+    <string name="settings_location_tile_action_change_location_mode">Змінити спосіб визначення місцезнаходження</string>
+    <!--sleep timeout-->
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати час переходу в режим сну.</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати час переходу в режим сну.</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Змінити час переходу в режим сну</string>
+    <!--screenshot-->
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Заборонено. Плитка не може зробити знімок екрана.</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Дозволено. Плитка може зробити знімок екрана.</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Дозвіл на доступ до сховища пристрою</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Дозволено. Плитка може зробити і зберегти знімок екрана.</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Заборонено. Плитка не може зробити і зберегти знімок екрана.</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Відтворити звук</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Відтворити звичайний звук сповіщення при створенні знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Чи не відтворювати звук сповіщення при створенні знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Вібрація</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Вібрувати при створенні знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Не вібрувати при створенні знімка екрана</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Згорнути панель швидких налаштувань і зробити знімок екрана</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Зробити знімок екрана, не приховуючи панель швидких налаштувань</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Показати дію надсилання знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Приховати дію надсилання знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Показати дію видалення знімка екрана</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Приховати дію видалення знімка екрана</string>
+    <!--ringer mode dnd mode-->
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Режим Не турбувати</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Тільки будильник</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Повна тиша</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Тільки пріоритетні</string>
+    <!--notification common strings-->
+    <string name="settings_show_dialog">Показати дію</string>
+    <string name="settings_notification_share_action_title">Дія надсилання</string>
+    <string name="settings_notification_settings_action_title">Дія налаштувань</string>
+    <!--immersive mode-->
+    <string name="settings_write_secure_settings_permission_title">Дозвіл на зміну налаштувань безпеки</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати повноекранний режим.</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати повноекранний режим.</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Повноекранний режим</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Щоб уникнути некоректної поведінки або затримки під час пробудження пристрою або під час отримання телефонного виклику у режимі сну, будь ласка, залиште цю опцію ввімкненою.</string>
+    <!--ambient display-->
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати режим пробудження екрану.</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати режим пробудження екрану.</string>
+    <!--animations tile-->
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати анімації.</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати анімації.</string>
+    <string name="settings_show_milliseconds">Показати мілісекунди</string>
+    <!--alarm tile-->
+    <string name="settings_alarm_tile_action_add_alarm">Додати будильник</string>
+    <string name="settings_alarm_tile_action_show_alarms">Показати будильники</string>
+    <string name="settings_date_format">Формат дати</string>
+    <!--screen time tile-->
+    <string name="settings_time_format">Формат часу</string>
+    <!--font size tile-->
+    <string name="settings_font_size_tile_font_scale_small">Малий</string>
+    <string name="settings_font_size_tile_font_scale_default">За замовчуванням</string>
+    <string name="settings_font_size_tile_font_scale_large">Великий</string>
+    <string name="settings_font_size_tile_font_scale_largest">Найбільший</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати розмір шрифту.</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати розмір шрифту.</string>
+    <string name="settings_font_size_tile_action_change_font_size">Змінити розмір шрифту</string>
+    <!--nfc-->
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може вмикати NFC.</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може вмикати NFC.</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Змінити стан NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Відкрити налаштування NFC</string>
+    <!--data roaming-->
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може вмикати режим роумінгу.</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може вмикати режим роумінгу.</string>
+    <!--density-->
+    <string name="settings_density_tile_default_density_title">Масштаб за замовчуванням</string>
+    <string name="settings_density_tile_current_density_title">Поточний масштаб</string>
+    <string name="settings_density_tile_restore_default_density_title">Повернути масштаб за замовчуванням</string>
+    <!--awake while plugged in-->
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може пробуджувати телефон при підключенні живлення.</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може пробуджувати телефон при підключенні живлення.</string>
+    <!--demo mode-->
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати стан демонстраційного режиму.</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати стан демонстраційного режиму.</string>
+    <string name="settings_dump_permission_title">Дозвіл на вивантаження даних</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Дозволено. Плитка може отримувати вивантажену інформацію з системних сервісів.</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Заборонено. Плитка не може отримувати вивантажену інформацію з системних сервісів</string>
+    <!--heads up notifications-->
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати стан спливаючих сповіщень.</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати стан спливаючих сповіщень.</string>
+    <!--power-->
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Заборонено. Плитка не може показувати системний діалог вимкнення.</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Дозволено. Плитка може показувати системний діалог вимкнення.</string>
+    <!--multi-window-->
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Заборонено. Плитка не може змінювати мультивіконний режим.</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Дозволено. Плитка може змінювати мультивіконний режим.</string>
+    <!--recents screen-->
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Заборонено. Плитка не може показувати недавні додатки.</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Дозволено. Плитка може показувати недавні додатки.</string>
+    <!--volumes-->
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Доступ до режиму Не турбувати</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Відкрити панель гучності</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Дозволено. Плитка може змінювати стан режиму Не турбувати і гучність дзвінка.</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Заборонено. Плитка не може змінювати стан режиму Не турбувати і гучність дзвінка.</string>
+    <!--vibrate on tap-->
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати режим вібрації під час дотику.</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати режим вібрації під час дотику.</string>
+    <!--touch sounds-->
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати стан звуку під час дотику.</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати стан звуку під час дотику.</string>
+    <!--orientation lock-->
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Зміна орієнтації екрана</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати і фіксувати положення екрана.</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати і фіксувати положення екрана.</string>
+    <!--vibrate for calls-->
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Заборонено. Плитка не може змінювати режим вібрації під час дзвінка.</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Дозволено. Плитка може змінювати режим вібрації під час дзвінка.</string>
+    <!--battery saver-->
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати режим енергозбереження.</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати режим енергозбереження.</string>
+    <!--usb debugging-->
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може перемикати режим налагодження USB.</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може перемикати режим налагодження USB.</string>
+    <!--cellular data-->
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Змінити стан мобільних даних</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Відкрити налаштування мобільної мережі</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Відкрити налаштування використання даних</string>
+    <!--shortcuts-->
+    <string name="settings_shortcuts_tile_selected_shortcut">Вибраний ярлик</string>
+    <string name="settings_shortcuts_tile_summary_empty">Немає вибраних ярликів</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Заборонено. Плитка не може ініціювати телефонні виклики і створювати ярлики для швидкого набору номера.</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Дозволено. Плитка може ініціювати телефонні виклики і створювати ярлики для швидкого набору номера.</string>
+    <!--bluetooth-->
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Змінити стан Bluetooth</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Відкрити налаштування Bluetooth</string>
+    <!--monochromacy-->
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може перемикати режим Відтінки сірого.</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може перемикати режим Відтінки сірого.</string>
+    <!--input method-->
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може показувати перемикач методів введення, поки додаток працює у фоновому режимі.</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може показувати перемикач методів введення, поки додаток працює у фоновому режимі.</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Показати перемикач методів введення</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Відкрити налаштування перемикача методів введення</string>
+    <!--contacts-->
+    <string name="settings_contacts_tile_selected_contact">Вибраний контакт</string>
+    <string name="settings_contacts_tile_summary_empty">Немає вибраного контакту</string>
+    <!--invert colors-->
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати режим інверсії кольору.</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати режим інверсії кольору.</string>
+    <!--storage-->
+    <string name="settings_storage_tile_action_open_storage_settings">Відкрити налаштування сховища</string>
+    <string name="settings_storage_tile_action_open_file_manager">Відкрити файловий менеджер</string>
+    <!--battery details-->
+    <string name="settings_battery_details_tile_health">Фізичний стан</string>
+    <string name="settings_battery_details_tile_temperature">Температура</string>
+    <string name="settings_battery_details_tile_temperature_units">Одиниці вимірювання температури</string>
+    <string name="settings_battery_details_tile_voltage">Напруга</string>
+    <string name="settings_battery_details_tile_technology">Тип акумулятора</string>
+    <!--activities-->
+    <string name="settings_activities_tile_activity_label">Активність</string>
+    <string name="settings_no_activity_selected">Немає вибраних активностей</string>
+    <plurals name="settings_activities_tile_activities_found_formatted_plurals">
+        <item quantity="one">%d активність знайдена</item>
+        <item quantity="other">%d активності знайдено</item>
+        <item quantity="few">%d активностей знайдено</item>
+        <item quantity="many">%d активностей знайдено</item>
+    </plurals>
+    <!--memory-->
+    <string name="settings_memory_tile_used">Використане значення</string>
+    <string name="settings_memory_tile_total">Загальне значення</string>
+    <string name="settings_memory_tile_threshold">Граничне значення</string>
+    <string name="settings_memory_tile_low_memory">Попередження про нестачу пам\'яті</string>
+    <!--counter-->
+    <string name="settings_counter_tile_reset_value">Скинути значення</string>
+    <string name="settings_counter_tile_current_value">Поточне значення</string>
+    <string name="settings_counter_tile_action_addition">Додати</string>
+    <string name="settings_counter_tile_action_subtraction">Відняти</string>
+    <!--camera lock-->
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Дозволено. Плитка може блокувати камеру.</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Заборонено. Плитка не може блокувати камеру.</string>
+    <!--network traffic-->
+    <string name="settings_network_traffic_tile_total_received">Загалом отримано</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Загалом відправлено</string>
+    <string name="settings_network_traffic_tile_mobile_received">Отримано по мобільній мережі</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Відправлено по мобільній мережі</string>
+    <!--dice-->
+    <string name="settings_dice_tile_action_roll_one_die">Кинути один кубик</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Кинути два кубика</string>
+    <!--lift to check-->
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може перемикати режим пробудження при піднятті.</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може перемикати режим пробудження при піднятті.</string>
+    <!--double-tap to check-->
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може перемикати режим пробудження подвійним тапом.</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може перемикати режим пробудження подвійним тапом.</string>
+    <!--always on-->
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може перемикати режим активного екрана.</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може перемикати режим активного екрана.</string>
+    <!--sleep-->
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Заборонено. Плитка не може переводити пристрій в режим сну.</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Дозволено. Плитка може переводити пристрій в режим сну.</string>
+</resources>

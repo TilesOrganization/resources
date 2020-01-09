@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="something_went_wrong">Щось пішло не так. Будь ласка, спробуйте ще раз.</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Щось пішло не так. Будь ласка, перевірте наявність підключення до мережі Інтернет.</string>
+    <string name="location_off_alert_dialog_message">Визначення місцезнаходження вимкнено. Щоб надати плитці доступ до отримання поточного місцезнаходження, будь ласка, відкрийте налаштування і дайте додатку відповідний дозвіл.</string>
+    <string name="location_device_only_alert_dialog_message">Низька точність визначення місцезнаходження. Щоб підвищити точність і швидкість визначення місцезнаходження, будь ласка, відкрийте налаштування і оберіть інший спосіб.</string>
+    <string name="resolve_activity_alert_dialog_message">Відсутні додатки, які могли б виконати цю дію.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Активність не може бути запущена.</string>
+    <string name="su_alert_dialog_message">Для виконання цієї дії, будь ласка, надайте додатку права суперкористувача для інтерактивного доступу через термінал.</string>
+    <string name="play_services_alert_dialog_message">Сервіси Google Play повинні бути встановлені для виконання цієї дії. Будь ласка, встановіть їх та спробуйте ще раз.</string>
+    <string name="high">Високий</string>
+    <string name="medium">Середній</string>
+    <string name="low">Низький</string>
+    <string name="checking_features_progress_dialog_message">Пошук додаткових можливостей пристрою.</string>
+    <string name="not_available">Немає доступу</string>
+    <string name="cancel">Скасувати</string>
+    <string name="revert">Повернути</string>
+    <string name="discard">Скинути</string>
+    <string name="share">Поширити</string>
+    <string name="delete">Видалити</string>
+    <string name="save">Зберегти</string>
+    <string name="save_and_close">Зберегти і закрити</string>
+    <string name="warning">Попередження</string>
+    <string name="accessibility_service_label">Сервіс спеціальних можливостей</string>
+    <string name="accessibility_service_description">Сервіс спеціальних можливостей дозволяє Tiles виконувати наступні глобальні команди: показ статистики використання акумулятора, показ вікна недавніх додатків, перемикання мультивіконного режиму, а на Android Pie (API 28) і вище - переводити пристрій в режим сну і робити знімки екрана.</string>
+    <string name="accessibility_service_api_p_required_message">Для виконання цієї дії з використанням сервісу спеціальних можливостей потрібен Android Pie (API 28) і вище.</string>
+    <string name="fifteen_minutes">15 хвилин</string>
+    <string name="thirty_minutes">30 хвилин</string>
+    <string name="forty_two_minutes">42 хвилини</string>
+    <string name="forty_five_minutes">45 хвилин</string>
+    <string name="one_hour">1 година</string>
+    <string name="two_hours">2 години</string>
+    <string name="three_hours">3 години</string>
+    <string name="six_hours">6 годин</string>
+    <string name="twelve_hours">12 годин</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="fahrenheit">Фаренгейт</string>
+    <string name="celsius">Цельсій</string>
+    <string name="filter">Фільтр</string>
+    <string name="description">Опис</string>
+    <string name="all">Всі</string>
+    <string name="starred">Обране</string>
+    <string name="empty_starred_tiles_database_alert_message">Немає обраних плиток.</string>
+    <string name="custom_label">Свій текст</string>
+    <string name="enter_label">Введіть текст</string>
+    <string name="not_set_message">Не зазначено</string>
+    <!--device administrator-->
+    <string name="device_admin_activated">Адміністратора пристрою активовано</string>
+    <string name="device_admin_deactivated">Адміністратора пристрою деактивовано</string>
+    <string name="device_admin_description">Дозволяє Tiles блокувати пристрій або доступ до камер.</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Якщо деактивовано, Tiles не зможе блокувати пристрій або доступ до камер.</string>
+    <!--adaptive brightness-->
+    <string name="adaptive_brightness_tile_label">Адаптивна яскравість</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим адаптивної яскравості, будь ласка, відкрийте налаштування і дайте додатку доступ до зміни системних налаштувань.</string>
+    <!--applications list-->
+    <string name="applications_list_tile_label">Додатки</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Немає вибраних додатків, будь ласка, відкрийте налаштування і виберіть хоча б один.</string>
+    <!--application-->
+    <string name="application_a_tile_label">Додаток #1</string>
+    <string name="application_b_tile_label">Додаток #2</string>
+    <string name="application_c_tile_label">Додаток #3</string>
+    <string name="application_d_tile_label">Додаток #4</string>
+    <string name="application_e_tile_label">Додаток #5</string>
+    <string name="application_tile_label">Додаток</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Додаток не вибрано, будь ласка, відкрийте налаштування і виберіть додаток.</string>
+    <string name="application_info_dialog_message">Для швидкого запуску, будь ласка, виберіть тільки один додаток.</string>
+    <!--brightness-->
+    <string name="brightness_tile_label">Яскравість</string>
+    <string name="brightness_tile_label_formatted">Яскравість %1$s</string>
+    <string name="brightness_tile_label_formatted_high">Висока: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Середня: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Низька: %1$d%%</string>
+    <string name="brightness_tile_formatted_label_one_param">Яскравість: %1$d%%</string>
+    <string name="brightness_tile_undefined_label">Яскравість не встановлена</string>
+    <string name="brightness_tile_alert_dialog_message">Щоб дозволити плитці змінювати рівень яскравості, будь ласка, відкрийте налаштування і дайте додатку доступ до зміни системних налаштувань.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Адаптивне регулювання&lt;/b> увімкнено</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Поточна яскравість екрана: &lt;b>%1$d%%&lt;/b></string>
+    <!--calculator-->
+    <string name="calculator_tile_label">Калькулятор</string>
+    <!--calendar-->
+    <string name="calendar_tile_label">Календар</string>
+    <!--call-->
+    <string name="call_tile_label">Телефонний виклик</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Щоб дозволити плитці ініціювати телефонний виклик, будь ласка, відкрийте налаштування і дайте додатку доступ до телефонних дзвінків.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Не вказано контакт для телефонного виклику, будь ласка, відкрийте налаштування і виберіть контакт. Або виберіть іншу дію.</string>
+    <string name="call_tile_formatted_label">Телефонний виклик %s</string>
+    <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
+    <string name="choose_contact">Виберіть контакт</string>
+    <!--camera-->
+    <string name="camera_tile_camera_label">Зробити фото</string>
+    <string name="camera_tile_video_label">Записати відео</string>
+    <!--email -->
+    <string name="email_tile_label">Пошта</string>
+    <string name="email_tile_formatted_label">Написати %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Не вказано поштового адресата, будь ласка, відкрийте настройки і виберіть адресата. Або виберіть іншу дію.</string>
+    <!--lock-->
+    <string name="lock_tile_label">Блокування</string>
+    <string name="lock_tile_device_admin_description">Дозволити плитці блокувати пристрій</string>
+    <string name="lock_tile_alert_dialog_message">Щоб дозволити плитці блокувати пристрій, будь ласка, відкрийте налаштування та активуйте спеціальний доступ в додатках адміністратора пристрою.</string>
+    <!--map-->
+    <string name="maps_tile_label">Карти</string>
+    <!--NFC-->
+    <string name="nfc_tile_label">NFC</string>
+    <string name="nfc_tile_service_description">Сервіс для спостереження за станом NFC буде зупинено якщо видалити плитку. Зупинка сервісу без видалення плитки може зробити її непрацездатною.</string>
+    <string name="nfc_tile_alert_dialog_message">Щоб дозволити плитці перемикати NFC, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <!--power-->
+    <string name="power_tile_accessibility_service_alert_dialog_message">Щоб дозволити плитці показувати системний діалог вимкнення, будь ласка, відкрийте налаштування і увімкніть сервіс спеціальних можливостей.</string>
+    <string name="power_tile_action_system_power_dialog">Системний діалог вимкнення</string>
+    <string name="power_tile_action_power_dialog">Діалог вимкнення</string>
+    <string name="power_tile_label">Вимкнення</string>
+    <string name="power_tile_action_reboot">Перезапуск</string>
+    <string name="power_tile_action_reboot_recovery">Перезапуск в режим відновлення</string>
+    <string name="power_tile_action_reboot_bootloader">Перезапуск у завантажувач</string>
+    <string name="power_tile_action_restart_user_space_system">Перезапуск інтерфейсу користувача</string>
+    <string name="power_tile_action_power_off">Вимкнути</string>
+    <!--ringer mode-->
+    <string name="ringer_mode_tile_label">Режим дзвінка</string>
+    <string name="ringer_mode_tile_label_normal">Звичайний</string>
+    <string name="ringer_mode_tile_label_silent">Без звуку</string>
+    <string name="ringer_mode_tile_label_vibrate">Вібрація</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Щоб дозволити плитці змінювати режим дзвінка, будь ласка, відкрийте налаштування і дайте додатку доступ до режиму Не турбувати.</string>
+    <!--caffeine-->
+    <string name="caffeine_tile_label">Залишати активним</string>
+    <string name="caffeine_tile_service_notification_title">Сервіс запущено</string>
+    <string name="caffeine_tile_service_notification_content_text">Пристрій не засне. Натисніть, щоб зупинити сервіс.</string>
+    <!--streetview-->
+    <string name="streetview_tile_label">Перегляд вулиць</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Щоб дозволити плитці отримувати інформацію про поточне місцезнаходження, будь ласка, відкрийте налаштування і дайте додатку доступ до визначення місцезнаходження.</string>
+    <!--sync-->
+    <string name="sync_tile_label">Синхронізація</string>
+    <!--timer-->
+    <string name="timer_tile_label">Таймер</string>
+    <string name="timer_formatted_label">Таймер\n%s</string>
+    <!--weather-->
+    <string name="weather_tile_label">Погода</string>
+    <string name="weather_tile_location_permission_alert_dialog_message">Щоб дозволити плитці отримувати інформацію про погоду, будь ласка, відкрийте налаштування і дайте додатку доступ до визначення місцезнаходження.</string>
+    <string name="weather_tile_getting_weather_conditions_dialog_message">Отримання інформації про погодні умови. Будь ласка зачекайте.</string>
+    <string name="weather_formatted_temperature_celsius">Температура: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_temperature_fahrenheit">Температура: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_feels_like_celsius">Відчувається як: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_feels_like_fahrenheit">Відчувається як: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_dew_point_celsius">Точка роси: &lt;b>%1$.1f&lt;/b> \u2103</string>
+    <string name="weather_formatted_dew_point_fahrenheit">Точка роси: &lt;b>%1$.1f&lt;/b> \u2109</string>
+    <string name="weather_formatted_humidity">Вологість: &lt;b>%d&lt;/b>%%</string>
+    <string name="weather_celsius">Цельсій</string>
+    <string name="weather_fahrenheit">Фаренгейт</string>
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_cloudy">Хмарно</string>
+    <string name="weather_foggy">Туман</string>
+    <string name="weather_hazy">Серпанок</string>
+    <string name="weather_icy">Ожеледь</string>
+    <string name="weather_rainy">Дощ</string>
+    <string name="weather_snowy">Сніг</string>
+    <string name="weather_stormy">Гроза</string>
+    <string name="weather_windy">Вітряно</string>
+    <string name="weather_conditions">Умови</string>
+    <string name="weather_temperature">Температура</string>
+    <string name="weather_feels_like">Відчувається як</string>
+    <string name="weather_humidity">Вологість</string>
+    <string name="weather_dew_point">Точка роси</string>
+    <!--web search-->
+    <string name="web_search_tile_label">Пошук в мережі Інтернет</string>
+    <!--reminder-->
+    <string name="reminder_tile_label">Нагадування</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Заголовок (максимум %d символів)</string>
+    <string name="reminder_tile_content_hint">Текст</string>
+    <string name="reminder_tile_persistent_checkbox">Постійне</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Видалити</string>
+    <string name="reminder_tile_empty_notification_text_fields">Немає активних нагадувань. Щоб додати нагадування, будь ласка, введіть заголовок або текст.</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Видалити нагадування?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Відновити нагадування?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Відмінити зміни?</string>
+    <string name="reminder_tile_remind_me">Нагадай мені</string>
+    <string name="retrieving_location_dialog_message">Отримання поточного місцезнаходження. Будь ласка, зачекайте.</string>
+    <!--sleep timeout-->
+    <string name="sleep_timeout_tile_label">Тайм-аут сну</string>
+    <string name="sleep_timeout_tile_formatted_label">Сон через\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Щоб дозволити плитці змінювати тайм-аут сну, будь ласка, відкрийте налаштування і дайте додатку доступ до зміни системних налаштувань.</string>
+    <string name="sleep_timeout_tile_value_15000">15 секунд</string>
+    <string name="sleep_timeout_tile_value_30000">30 секунд</string>
+    <string name="sleep_timeout_tile_value_60000">1 хвилина</string>
+    <string name="sleep_timeout_tile_value_120000">2 хвилини</string>
+    <string name="sleep_timeout_tile_value_300000">5 хвилин</string>
+    <string name="sleep_timeout_tile_value_600000">10 хвилин</string>
+    <string name="sleep_timeout_tile_value_1800000">30 хвилин</string>
+    <!--location mode-->
+    <string name="location_tile_label">Місцезнаходження</string>
+    <string name="location_tile_alert_dialog_message">Щоб дозволити плитці змінювати спосіб визначення місцезнаходження, будь ласка, відкрийте налаштування і дайте додатку доступ до запису налаштувань безпеки.</string>
+    <string name="location_tile_label_off">Місцезнаходження вимкнено</string>
+    <string name="location_tile_label_battery_saving">За координатами мережі</string>
+    <string name="location_tile_label_sensors_only">За супутниками GPS</string>
+    <string name="location_tile_label_high_accuracy">З усіх джерел</string>
+    <!--write secure settings permission dialog-->
+    <string name="write_secure_settings_permission_dialog_message_about">Системні налаштування безпеки містять значення, які, за замовчуванням, додатки можуть зчитувати, але не можуть змінювати. Такі привілеї мають тільки системні додатки. Додатки користувача ніколи не матимуть подібні привілеї.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Додаток отримав права суперкористувача до інтерактивного доступу через термінал. Бажаєте програмно %s змінювати системні налаштування безпеки через термінальний режим суперкористувача?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Щоб %1$s доступ вручну, під\'єднайте пристрій до комп\'ютера, запустіть консоль з adb і введіть команду: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">Дозволити</string>
+    <string name="permission_dialog_message_revoke">Заборонити</string>
+    <!--timer H M S symbols -->
+    <string name="hour_symbol">Г</string>
+    <string name="minute_symbol">Х</string>
+    <string name="second_symbol">С</string>
+    <!--sleep-->
+    <string name="sleep_tile_label">Сон</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">Щоб дозволити плитці переводити пристрій в режим сну, будь ласка, відкрийте налаштування і увімкніть сервіс спеціальних можливостей.</string>
+    <!--screenshot-->
+    <string name="screenshot_tile_label">Знімок екрана</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Щоб дозволити плитці зробити і зберегти знімок екрана, будь ласка, відкрийте налаштування і дайте додатку дозвіл на зберігання.</string>
+    <string name="screenshot_tile_screenshot_captured">Знімок екрана зроблено.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Натисніть, щоб подивитися знімок екрана.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">Щоб дозволити плитці зробити знімок екрана, будь ласка, відкрийте налаштування і увімкніть сервіс спеціальних можливостей.</string>
+    <!--immersive mode-->
+    <string name="immersive_mode_tile_label">Повноекранний режим</string>
+    <string name="immersive_mode_tile_off">Повноекранний режим вимкнено</string>
+    <string name="immersive_mode_tile_hide_system_bars">Сховати системні панелі</string>
+    <string name="immersive_mode_tile_hide_navigation_bar">Сховати панель навігації</string>
+    <string name="immersive_mode_tile_hide_status_bar">Сховати рядок стану</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Щоб дозволити плитці перемикати повноекранний режим, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Повноекранний режим активовано, його буде вимкнено коли пристрій перейде в режим сну.</string>
+    <!--ambient display-->
+    <string name="ambient_display_tile_label">Пробудження екрана</string>
+    <string name="ambient_display_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим пробудження екрана, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <!--animations-->
+    <string name="animations_tile_label">Анімації</string>
+    <string name="animations_tile_label_animator">Аніматор</string>
+    <string name="animations_tile_label_transition">Перехід</string>
+    <string name="animations_tile_label_window">Вікно</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Анімацію вимкнено</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Тривалість анімації %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Щоб дозволити плитці змінювати анімації, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <!--alarm-->
+    <string name="alarm_tile_label">Будильник</string>
+    <string name="alarm_tile_no_alarm_set">Будильник не встановлено</string>
+    <!--storage-->
+    <string name="storage_tile_label">Сховище</string>
+    <!--settings shortcuts-->
+    <string name="settings_shortcut_tile_label">Налаштування</string>
+    <string name="settings_shortcut_tile_action_accessibility">Спеціальні можливості</string>
+    <string name="settings_shortcut_tile_action_add_account">Додати обліковий запис</string>
+    <string name="settings_shortcut_tile_action_apn">Точки доступу</string>
+    <string name="settings_shortcut_tile_action_application_settings">Додатки</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Режим економії заряду акумулятора</string>
+    <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
+    <string name="settings_shortcut_tile_action_captions">Субтитри</string>
+    <string name="settings_shortcut_tile_action_cast">Трансляція</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Мобільна мережа</string>
+    <string name="settings_shortcut_tile_action_date">Дата й час</string>
+    <string name="settings_shortcut_tile_action_device_info">Про телефон</string>
+    <string name="settings_shortcut_tile_action_display">Екран</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Оптимізація акумулятора</string>
+    <string name="settings_shortcut_tile_action_location_sources">Місцезнаходження</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Показувати поверх інших додатків</string>
+    <string name="settings_shortcut_tile_action_manage_write">Змінювати налаштування системи</string>
+    <string name="settings_shortcut_tile_action_network_operators">Налаштування мережі</string>
+    <string name="settings_shortcut_tile_action_nfc">NFC</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Доступ до сповіщень</string>
+    <string name="settings_shortcut_tile_action_printing">Друк</string>
+    <string name="settings_shortcut_tile_action_search">Параметри пошуку</string>
+    <string name="settings_shortcut_tile_action_security">Безпека та місцезнаходження</string>
+    <string name="settings_shortcut_tile_action_sound">Звук</string>
+    <string name="settings_shortcut_tile_action_sync">Облікові записи</string>
+    <string name="settings_shortcut_tile_action_usage_access">Доступ до історії використання</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Особистий словник</string>
+    <string name="settings_shortcut_tile_action_voice_input">Помічник і голосовий ввід</string>
+    <string name="settings_shortcut_tile_action_vpn">VPN</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Допоміжні VR-сервіси</string>
+    <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
+    <string name="settings_shortcut_tile_action_wireless">Мережа й Інтернет</string>
+    <!--font size-->
+    <string name="font_size_tile_label">Розмір шрифту</string>
+    <string name="font_size_tile_alert_dialog_message">Щоб дозволити плитці змінювати розмір шрифту, будь ласка, відкрийте налаштування і дайте додатку доступ до системних налаштувань.</string>
+    <!--voice-->
+    <string name="voice_tile_label">Голосова команда</string>
+    <!--text-->
+    <string name="text_tile_label">Текст</string>
+    <string name="text_tile_empty_chat_text_field">Текст не додано, будь ласка, введіть текст.</string>
+    <!--data roaming-->
+    <string name="data_roaming_tile_label">Роумінг</string>
+    <string name="data_roaming_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим роумінгу, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <!--density-->
+    <string name="density_tile_label">Масштаб</string>
+    <string name="density_tile_label_formatted">Масштаб: %ddp</string>
+    <string name="density_tile_smallest_width_formatted">Найменша ширина: &lt;b>%d&lt;/b>dp</string>
+    <string name="density_tile_screen_size_formatted">Розмір екрана: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_density_default_formatted">За замовчуванням: %ddp</string>
+    <string name="density_tile_density_low">Низький (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Середній (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">Високий (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">XВисокий (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">XXВисокий (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_xxxhigh">XXXВисокий (xxxhdpi): ~640dpi</string>
+    <string name="density_tile_density_custom">Вибір щільності вручну</string>
+    <!--awake while plugged in-->
+    <string name="awake_while_plugged_on_tile_label">Прокидатися при підключенні живлення</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Щоб дозволити плитці пробуджувати телефон при підключенні живлення, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!--dump permission dialog-->
+    <string name="dump_permission_dialog_message_about">Дозволяє додатку отримувати вивантажену інформацію з системних сервісів. Такі привілеї мають тільки системні додатки. Додатки користувача ніколи не матимуть подібні привілеї.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Додаток отримав права суперкористувача до інтерактивного доступу через термінал. Чи хочете ви програмно %s вивантажувати системну інформацію через термінальний режим суперкористувача?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Щоб %1$s доступ вручну, під\'єднайте пристрій до комп\'ютера, запустіть консоль з adb і введіть команду: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <!--demo mode-->
+    <string name="demo_mode_tile_label">Демо-режим інтерфейсу системи</string>
+    <string name="demo_mode_tile_alert_dialog_message">Щоб дозволити плитці змінювати стан демонстраційного режиму, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки і вивантаження даних.</string>
+    <string name="demo_mode_tile_system_bars">Системні панелі</string>
+    <string name="demo_mode_tile_system_bars_transparent">Прозорі</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Напівпрозорі</string>
+    <string name="demo_mode_tile_system_bars_translucent">Злегка прозорі</string>
+    <string name="demo_mode_tile_system_bars_opaque">Непрозорі</string>
+    <string name="demo_mode_tile_system_bars_warning">Попередження</string>
+    <string name="demo_mode_tile_battery">Акумулятор</string>
+    <string name="demo_mode_tile_state_plugged">Під\'єднано до мережі</string>
+    <string name="demo_mode_tile_state_unplugged">Від\'єднано від мережі</string>
+    <string name="demo_mode_tile_level_formatted">Рівень %1d</string>
+    <string name="demo_mode_tile_wifi">Wi-Fi</string>
+    <string name="demo_mode_tile_bluetooth">Bluetooth</string>
+    <string name="demo_mode_tile_state_disconnected">Від\'єднано</string>
+    <string name="demo_mode_tile_state_connected">Під\'єднано</string>
+    <string name="demo_mode_tile_mobile">Мобільні мережі</string>
+    <string name="demo_mode_tile_mobile_datatype_roaming">Роумінг</string>
+    <string name="demo_mode_tile_notifications">Сповіщення</string>
+    <string name="demo_mode_tile_alarm">Будильник</string>
+    <string name="demo_mode_tile_location">Місцезнаходження</string>
+    <string name="demo_mode_tile_clock">Годинник</string>
+    <string name="demo_mode_tile_mute">Без звуку</string>
+    <string name="demo_mode_tile_speakerphone">Динамік телефону</string>
+    <string name="demo_mode_tile_vibrate">Вібрація</string>
+    <!--clipboard-->
+    <string name="clipboard_tile_label">Буфер обміну</string>
+    <string name="clipboard_tile_empty_clip">Буфер обміну порожній</string>
+    <!--keep-->
+    <string name="keep_tile_label">Нотатки</string>
+    <!--heads up notification-->
+    <string name="heads_up_notifications_tile_label">Спливаючі сповіщення</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Щоб дозволити плитці змінювати стан спливаючих сповіщень, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <string name="heads_up_notifications_tile_alert_summary">Платформа Android не містить видимої опції для зміни стану спливаючих сповіщень. У зв\'язку з цим, будь ласка, переконайтеся, що спливаючі сповіщення увімкнено перед видаленням додатку, щоб відновити поведінку системи за замовчуванням.</string>
+    <!--multi window-->
+    <string name="multi_window_tile_label">Мультивіконний режим</string>
+    <string name="multi_window_tile_alert_dialog_message">Щоб дозволити плитці змінювати мультивіконний режим, будь ласка, відкрийте налаштування і увімкніть сервіс спеціальних можливостей.</string>
+    <!--recents screen-->
+    <string name="recents_screen_tile_label">Нещодавно відкриті додатки</string>
+    <string name="recents_screens_tile_alert_dialog_message">Щоб дозволити плитці показувати нещодавно відкриті додатки, будь ласка, відкрийте налаштування і увімкніть сервіс спеціальних можливостей.</string>
+    <!--volumes-->
+    <string name="volumes_tile_label">Гучність</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Щоб дозволити плитці змінювати гучність дзвінка, будь ласка, відкрийте налаштування і дозвольте додатку доступ до режиму Не турбувати.</string>
+    <string name="volumes_tile_volume_keys_disabled">Кнопки гучності тимчасово вимкнено</string>
+    <string name="volumes_tile_volume_alarm">Гучність будильника</string>
+    <string name="volumes_tile_volume_media">Гучність медіа</string>
+    <string name="volumes_tile_volume_ring">Гучність дзвінка (рингтон)</string>
+    <string name="volumes_tile_volume_call">Гучність дзвінка (виклик)</string>
+    <!--vibrate on tap-->
+    <string name="vibrate_on_tap_tile_label">Вібровідгук</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим вібрації під час дотику, будь ласка, відкрийте налаштування і дозвольте доступ додатку до системних налаштувань.</string>
+    <!--touch sounds-->
+    <string name="touch_sounds_tile_label">Звуки під час дотику</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Щоб дозволити плитці змінювати звуки під час дотику, будь ласка, відкрийте налаштування і дозвольте додатку доступ до системних налаштувань.</string>
+    <!--orientation lock-->
+    <string name="orientation_lock_tile_label">Орієнтація екрана</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Щоб дозволити плитці змінювати і фіксувати положення екрана, будь ласка, відкрийте налаштування і дозвольте доступ додатку до системних налаштувань.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Стан 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Стан 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Стан 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Стан 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Автоматичне обертання екрана</string>
+    <!--vibrate for calls-->
+    <string name="vibrate_for_calls_tile_label">Вібрація під час дзвінка</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим вібрації під час дзвінка, будь ласка, відкрийте налаштування і дозвольте доступ додатку до системних налаштувань.</string>
+    <!--battery saver-->
+    <string name="battery_saver_tile_label">Режим енергозбереження</string>
+    <string name="battery_saver_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим енергозбереження, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Режим енергозбереження не можна увімкнути під час заряджання.</string>
+    <!--usb debugging-->
+    <string name="usb_debugging_tile_label">Налагодження USB</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим налагодження USB, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!--cellular data-->
+    <string name="cellular_data_tile_label">Мобільні дані</string>
+    <string name="cellular_data_tile_mobile_network_label">Мобільні мережі</string>
+    <string name="cellular_data_tile_data_usage_label">Використання даних</string>
+    <!--vpn-->
+    <string name="vpn_tile_label">VPN</string>
+    <!-- media volume -->
+    <string name="media_volume_tile_label">Гучність медіа</string>
+    <string name="media_volume_tile_formatted_label">Гучність медіа: %1$d%%</string>
+    <!-- shortcuts -->
+    <string name="shortcuts_tile_label">Ярлики</string>
+    <string name="shortcut_a_tile_label">Ярлик #1</string>
+    <string name="shortcut_b_tile_label">Ярлик #2</string>
+    <string name="shortcut_c_tile_label">Ярлик #3</string>
+    <string name="shortcut_d_tile_label">Ярлик #4</string>
+    <string name="shortcut_e_tile_label">Ярлик #5</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Немає вибраних ярликів. Будь ласка, відкрийте налаштування і виберіть ярлик.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Щось пішло не так. Будь ласка, відкрийте налаштування і перевірте увімкнений ярлик.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Щоб дозволити плитці створювати ярлики для швидкого набору, будь ласка, відкрийте налаштування і дайте доступ додатку до телефонних викликів.</string>
+    <!--bluetooth-->
+    <string name="bluetooth_tile_label">Bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Дія недоступна. Пристрій не підтримує Bluetooth.</string>
+    <!-- monochromacy -->
+    <string name="monochromacy_tile_label">Відтінки сірого</string>
+    <string name="monochromacy_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим Відтінки сірого, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!-- input method -->
+    <string name="input_method_tile_label">Методи введення</string>
+    <string name="input_method_tile_alert_dialog_message">Щоб дозволити плитці показувати перемикач методів введення, поки додаток працює у фоновому режимі, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
+    <!--contacts-->
+    <string name="contacts_tile_label">Контакти</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Немає вибраного контакту. Будь ласка, відкрийте налаштування і виберіть контакт.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Щось пішло не так. Будь ласка, відкрийте налаштування і перевірте увімкнений контакт.</string>
+    <string name="contact_a_tile_label">Контакт #1</string>
+    <string name="contact_b_tile_label">Контакт #2</string>
+    <string name="contact_c_tile_label">Контакт #3</string>
+    <string name="contact_d_tile_label">Контакт #4</string>
+    <string name="contact_e_tile_label">Контакт #5</string>
+    <!--invert colors-->
+    <string name="invert_colors_tile_label">Інвертувати кольори</string>
+    <string name="invert_colors_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим інверсії кольору, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!-- mono audio -->
+    <string name="mono_audio_tile_label">Монофонічне аудіо</string>
+    <!-- notification light -->
+    <string name="notification_light_tile_label">Світловий сигнал сповіщень</string>
+    <!--battery details-->
+    <string name="battery_details_tile_label">Інформація про акумулятор</string>
+    <string name="battery_details_tile_formatted_battery_level">Рівень заряду: %1d%%</string>
+    <string name="battery_details_tile_discharging">Розряджається</string>
+    <string name="battery_details_tile_formatted_charging">Заряджається: %s</string>
+    <string name="battery_details_tile_usb">Через USB</string>
+    <string name="battery_details_tile_ac">Через кабель</string>
+    <string name="battery_details_tile_wireless">Бездротова зарядка</string>
+    <string name="battery_details_tile_formatted_health">Стан акумулятора: %s</string>
+    <string name="battery_details_tile_health_cold">Холодний</string>
+    <string name="battery_details_tile_health_dead">Мертвий</string>
+    <string name="battery_details_tile_health_good">Добрий</string>
+    <string name="battery_details_tile_health_over_voltage">Висока напруга</string>
+    <string name="battery_details_tile_health_overheat">Перегрів</string>
+    <string name="battery_details_tile_unknown">Невідомий</string>
+    <string name="battery_details_tile_unspecified_failure">Невідома помилка</string>
+    <string name="battery_details_tile_formatted_temperature">Температура: %1$.1f%2$s</string>
+    <string name="battery_details_tile_formatted_voltage">Напруга: %.5fV</string>
+    <string name="battery_details_tile_formatted_technology">Тип акумулятора: %s</string>
+    <!--uptime-->
+    <string name="up_time_tile_label">Час з моменту ввімкнення</string>
+    <string name="up_time_tile_formatted_uptime">Час з моменту ввімкнення: %s</string>
+    <!--activities-->
+    <string name="activities_tile_label">Активності</string>
+    <string name="activity_a_tile_label">Активність #1</string>
+    <string name="activity_b_tile_label">Активність #2</string>
+    <string name="activity_c_tile_label">Активність #3</string>
+    <string name="activity_d_tile_label">Активність #4</string>
+    <string name="activity_e_tile_label">Активність #5</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Немає вибраних активностей, будь ласка, відкрийте налаштування і виберіть активність.</string>
+    <!--stopwatch-->
+    <string name="stopwatch_tile_label">Секундомір</string>
+    <!--memory-->
+    <string name="memory_tile_label">Пам\'ять</string>
+    <string name="memory_tile_formatted_available_memory">Доступно: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_total_memory">Загалом: %s</string>
+    <string name="memory_tile_formatted_used_memory">Використовується: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_threshold">Обмеження: %s</string>
+    <string name="memory_tile_low_memory">Замало пам\'яті</string>
+    <!--counter-->
+    <string name="counter_tile_label">Лічильник</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Значення не може бути додано: досягнуто максимального порогу для цілого числа.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Значення не може бути віднято: досягнуто мінімального порогу для цілого числа.</string>
+    <!--camera lock-->
+    <string name="camera_lock_tile_label">Блокування камери</string>
+    <string name="camera_lock_tile_alert_dialog_message">Щоб дозволити плитці блокувати камеру, будь ласка, відкрийте налаштування та активуйте спеціальний доступ в додатках адміністратора пристрою.</string>
+    <!--network traffic-->
+    <string name="network_traffic_tile_label">Мережевий трафік</string>
+    <string name="network_traffic_tile_formatted_total_received">Загалом отримано: %s</string>
+    <string name="network_traffic_tile_formatted_total_transmitted">Загалом відправлено: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Отримано по мобільній мережі: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Відправлено по мобільній мережі: %s</string>
+    <string name="network_traffic_tile_formatted_down_up_label">Завантаження: %1s/с - Віддача: %2s/с</string>
+    <!--dice-->
+    <string name="dice_tile_label">Кубики</string>
+    <!--notification log-->
+    <string name="notification_log_tile_label">Журнал сповіщень</string>
+    <!--lift to check-->
+    <string name="lift_to_check_tile_label">Пробудження при піднятті</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим пробудження при піднятті пристрою, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!--double-tap to check-->
+    <string name="double_tap_to_check_tile_label">Пробудження подвійним тапом</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим пробудження подвійним тапом, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!--always on-->
+    <string name="always_on_tile_label">Активний екран</string>
+    <string name="always_on_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим активного екрана, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <!--battery settings-->
+    <string name="battery_settings_tile_label">Налаштування акумулятора</string>
+</resources>

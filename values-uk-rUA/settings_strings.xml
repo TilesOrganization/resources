@@ -12,7 +12,7 @@
     <string name="settings_method">Метод</string>
     <string name="settings_use_accessibility_service">Сервіс спеціальних можливостей</string>
     <string name="settings_use_su">Права суперкористувача</string>
-    <string name="settings_layout">Розмітка</string>
+    <string name="settings_layout">Параметри відображення</string>
     <string name="settings_notification">Сповіщення</string>
     <string name="settings_theme">Тема</string>
     <string name="settings_theme_light">Світла</string>
@@ -71,7 +71,7 @@
     <string name="settings_rate_or_review">Оцінити або залишити відгук</string>
     <string name="settings_support_title">Дякуємо за підтримку!</string>
     <string name="settings_send_email">Надіслати лист</string>
-    <string name="settings_support_summary">Розроблено для Android версії 7.0 (API рів. 24) і вище</string>
+    <string name="settings_support_summary">Розроблено для Android версії 7.0 (API 24) і вище</string>
     <string name="settings_credit">Подяки</string>
     <string name="settings_credit_app_icon">Іконка додатку</string>
     <string name="settings_translations">Переклади</string>
@@ -285,8 +285,8 @@
     <string name="settings_density_tile_current_density_title">Поточний масштаб</string>
     <string name="settings_density_tile_restore_default_density_title">Повернути масштаб за замовчуванням</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може пробуджувати телефон при підключенні живлення.</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може пробуджувати телефон при підключенні живлення.</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може пробуджувати пристрій при підключенні живлення.</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може пробуджувати пристрій при підключенні живлення.</string>
     <!--demo mode-->
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати стан демонстраційного режиму.</string>
     <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати стан демонстраційного режиму.</string>

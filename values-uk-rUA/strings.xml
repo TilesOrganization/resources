@@ -292,8 +292,8 @@
     <string name="density_tile_density_xxxhigh">XXXВисокий (xxxhdpi): ~640dpi</string>
     <string name="density_tile_density_custom">Вибір щільності вручну</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Прокидатися при підключенні живлення</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">Щоб дозволити плитці пробуджувати телефон при підключенні живлення, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <string name="awake_while_plugged_on_tile_label">Пробуджувати під час живлення</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Щоб дозволити плитці пробуджувати пристрій при підключенні живлення, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
     <!--dump permission dialog-->
     <string name="dump_permission_dialog_message_about">Дозволяє додатку отримувати вивантажену інформацію з системних сервісів. Такі привілеї мають тільки системні додатки. Додатки користувача ніколи не матимуть подібні привілеї.</string>
     <string name="dump_permission_dialog_message_action_su_formatted">Додаток отримав права суперкористувача до інтерактивного доступу через термінал. Чи хочете ви програмно %s вивантажувати системну інформацію через термінальний режим суперкористувача?</string>

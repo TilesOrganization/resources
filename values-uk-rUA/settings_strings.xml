@@ -59,6 +59,7 @@
     <string name="settings_permission">Дозвіл</string>
     <string name="settings_phone_call_permission_title">Дозвіл на здійснення телефонних викликів</string>
     <string name="settings_location_permissions_preference_title">Дозвіл на визначення місцезнаходження</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Дозвіл на зміну системних налаштувань</string>
     <string name="settings_feedback">Відгуки та підтримка</string>
     <string name="settings_privacy_policy">Політика конфіденційності</string>

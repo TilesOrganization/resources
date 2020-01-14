@@ -127,6 +127,7 @@
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Da biste dopustili da pločica dobije trenutačnu lokaciju, otvorite postavke i dopustite pristup lokaciji.</string>
+    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant background location permission.</string>
     <!--sync-->
     <string name="sync_tile_label">Sinkronizacija</string>
     <!--timer-->

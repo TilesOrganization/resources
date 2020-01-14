@@ -59,6 +59,7 @@
     <string name="settings_permission">Engedély</string>
     <string name="settings_phone_call_permission_title">Telefon(hívás) engedély</string>
     <string name="settings_location_permissions_preference_title">Engedély helyadatokhoz</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Rendszerbeállítások módosításának engedélyezése</string>
     <string name="settings_feedback">Visszajelzés &amp; Támogatás</string>
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>

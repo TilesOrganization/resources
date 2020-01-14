@@ -59,6 +59,7 @@
     <string name="settings_permission">權限</string>
     <string name="settings_phone_call_permission_title">通話權限</string>
     <string name="settings_location_permissions_preference_title">位置權限</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
     <string name="settings_feedback">意見及援助</string>
     <string name="settings_privacy_policy">私隱政策</string>

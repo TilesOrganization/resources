@@ -59,6 +59,7 @@
     <string name="settings_permission">Разрешение</string>
     <string name="settings_phone_call_permission_title">Разрешение на осуществление телефонных вызовов</string>
     <string name="settings_location_permissions_preference_title">Разрешение на определение местоположения</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>

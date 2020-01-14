@@ -59,6 +59,7 @@
     <string name="settings_permission">Povolenie</string>
     <string name="settings_phone_call_permission_title">Povolenie Hovor</string>
     <string name="settings_location_permissions_preference_title">Povolenie Poloha</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Povolenie Úpravy nastavení systému</string>
     <string name="settings_feedback">Spätná väzba a podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobných údajov</string>

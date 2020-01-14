@@ -127,6 +127,7 @@
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Per permettere alla funzione di stabilire la geolocalizzazione corrente, per favore aprire le impostazioni e concedere l\'autorizzazione posizione.</string>
+    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">Per permettere alla funzione di stabilire la geolocalizzazione corrente, per favore aprire le impostazioni e concedere l\'autorizzazione posizione in background.</string>
     <!--sync-->
     <string name="sync_tile_label">Sincronizzazione</string>
     <!--timer-->

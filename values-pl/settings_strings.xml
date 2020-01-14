@@ -59,6 +59,7 @@
     <string name="settings_permission">Pozwolenia</string>
     <string name="settings_phone_call_permission_title">Pozwolenie na zarządzanie połączeniami telefonicznymi</string>
     <string name="settings_location_permissions_preference_title">Pozwolenie na określenie lokalizacji</string>
+    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Pozwolenie na modyfkowanie ustawień systemowych</string>
     <string name="settings_feedback">Opinia &amp; Wsparcie</string>
     <string name="settings_privacy_policy">Politya prywatności</string>

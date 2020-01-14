@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">计时器</string>
     <string name="timer_formatted_label">计时器\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">天气</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">要允许瓷贴获取天气情况，请打开设置并授予位置权限。</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">正在获取天气情况，请稍等</string>
-    <string name="weather_formatted_temperature_celsius">温度: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">温度: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">体感温度: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">体感温度: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">露点: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">露点: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">湿度: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">摄氏度</string>
-    <string name="weather_fahrenheit">华氏度</string>
-    <string name="weather_clear">晴朗</string>
-    <string name="weather_cloudy">多云</string>
-    <string name="weather_foggy">雾</string>
-    <string name="weather_hazy">薄雾</string>
-    <string name="weather_icy">冰冷</string>
-    <string name="weather_rainy">雨</string>
-    <string name="weather_snowy">雪</string>
-    <string name="weather_stormy">暴风雨</string>
-    <string name="weather_windy">多风</string>
-    <string name="weather_conditions">天气情况</string>
-    <string name="weather_temperature">温度</string>
-    <string name="weather_feels_like">体感温度</string>
-    <string name="weather_humidity">湿度</string>
-    <string name="weather_dew_point">露点</string>
     <!--web search-->
     <string name="web_search_tile_label">在线搜索</string>
     <!--reminder-->

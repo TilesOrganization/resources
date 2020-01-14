@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Mjerač vremena</string>
     <string name="timer_formatted_label">Mjerač vremena\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Vrijeme</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Da biste dopustili da pločica dobije vremensku prognozu, otvorite postavke i dopustite pristup lokaciji.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Dobivanje vremenske prognoze. Molimo pričekajte.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Čini se kao: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Čini se kao: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Temperatura rosišta: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Temperatura rosišta: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Vlažnost: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celzijus</string>
-    <string name="weather_fahrenheit">Farenhajt</string>
-    <string name="weather_clear">Vedro</string>
-    <string name="weather_cloudy">Oblačno</string>
-    <string name="weather_foggy">Maglovito</string>
-    <string name="weather_hazy">Maglovito</string>
-    <string name="weather_icy">Ledeno</string>
-    <string name="weather_rainy">Kišovito</string>
-    <string name="weather_snowy">Snježno</string>
-    <string name="weather_stormy">Olujno</string>
-    <string name="weather_windy">Vjetrovito</string>
-    <string name="weather_conditions">Uvjeti</string>
-    <string name="weather_temperature">Temperatura</string>
-    <string name="weather_feels_like">Čini se kao</string>
-    <string name="weather_humidity">Vlažnost</string>
-    <string name="weather_dew_point">Temperatura rosišta</string>
     <!--web search-->
     <string name="web_search_tile_label">Pretraživanje weba</string>
     <!--reminder-->

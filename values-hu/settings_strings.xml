@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Norvég bokmål</string>
     <string name="settings_translations_locale_pl">Lengyel</string>
     <string name="settings_translations_locale_ko_rKR">Koreai, Dél-Korea</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrán</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Csempe láthatósága</string>
     <string name="settings_component_summary_off">Csempe elrejtve a Gyorsbeállítások felületen</string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Megtagadva. A csempe nem férhet hozzá az eszköz helyzetéhez.</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Engedélyezve. A csempe hozzáférhet az eszköz helyzetéhez.</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Megtagadva. A csempe nem férhet hozzá az eszköz helyzetéhez és nem kérheti le az aktuális időjárási körülményeket.</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Engedélyezve. A csempe hozzáférhet az eszköz helyzetéhez és lekérheti az aktuális időjárási körülményeket.</string>
     <string name="settings_units">Mértékegységek</string>
     <string name="settings_summary_off_hidden">Elrejtve</string>
     <string name="settings_summary_on_shown">Megjelenítve</string>

@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Wetter</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Damit die Kachel auf das Wetter zugreifen kann, öffne die System-Einstellungen und erteile Standort-Rechte.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Erfasse Wetter-Daten. Bitte warte.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatur: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatur: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Gefühlt: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Gefühlt: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Taupunkt: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Taupunkt: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Feuchte: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Klar</string>
-    <string name="weather_cloudy">Bewölkt</string>
-    <string name="weather_foggy">Neblig</string>
-    <string name="weather_hazy">Dunstig</string>
-    <string name="weather_icy">Eisig</string>
-    <string name="weather_rainy">Verregnet</string>
-    <string name="weather_snowy">Verschneit</string>
-    <string name="weather_stormy">Stürmisch</string>
-    <string name="weather_windy">Windig</string>
-    <string name="weather_conditions">Bedingungen</string>
-    <string name="weather_temperature">Temperatur</string>
-    <string name="weather_feels_like">Gefühlt</string>
-    <string name="weather_humidity">Feuchtigkeit</string>
-    <string name="weather_dew_point">Taupunkt</string>
     <!--web search-->
     <string name="web_search_tile_label">Web-Suche</string>
     <!--reminder-->

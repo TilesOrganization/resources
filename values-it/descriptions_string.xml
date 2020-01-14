@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Utilizzare azioni vocali per controllare il dispositivo o eseguire azioni supportate.</string>
     <string name="description_volumes_tile">Controllare i volumi del dispositivo: sveglia, contenuti multimediali, suoneria e chiamata (su dispositivi abilitati a chiamare). Accesso non disturbare è necessario per utilizzare questa funzione.</string>
     <string name="description_vpn_tile">Visualizzare le impostazioni per la configurazione di VPN.</string>
-    <string name="description_weather_tile">Visualizzare un dialogo con le correnti condizioni meteo, temperatura, temperatura percepita, umidità e punto di rugiada. Questa funzione usa l\'API Google Awareness.\nAutorizzazione posizione è necessaria per utilizzare questa funzione.</string>
     <string name="description_web_search_tile">Iniziare una ricerca web. L\'azione è compatibile con applicazioni di terze parti che possono ricevere il broadcast di default di Android per iniziare una ricerca web.</string>
 </resources>

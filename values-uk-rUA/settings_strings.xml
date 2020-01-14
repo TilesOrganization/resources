@@ -186,9 +186,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Заборонено. Плитка не має доступу до місцезнаходження пристрою.</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Дозволено. Плитка має доступ до місцезнаходження пристрою.</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Заборонено. Плитка не має доступу до місцезнаходження пристрою і не може отримати інформацію про погоду.</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Дозволено. Плитка має доступ до місцезнаходження пристрою і може отримати інформацію про погоду.</string>
     <string name="settings_units">Міра вимірювання</string>
     <string name="settings_summary_off_hidden">Приховати</string>
     <string name="settings_summary_on_shown">Показати</string>

@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">타이머</string>
     <string name="timer_formatted_label">타이머\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">날씨</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">타일이 기상 조건을 갖추려면 위치 권한을 부여하십시오.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">기상 조건 확보 중. 잠시 기다려주세요.</string>
-    <string name="weather_formatted_temperature_celsius">온도: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">온도: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">느낌: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">느낌: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">이슬점: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">이슬점: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">습기: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">섭씨</string>
-    <string name="weather_fahrenheit">화씨</string>
-    <string name="weather_clear">맑음</string>
-    <string name="weather_cloudy">흐림</string>
-    <string name="weather_foggy">안개</string>
-    <string name="weather_hazy">흐릿함</string>
-    <string name="weather_icy">쌀쌀한</string>
-    <string name="weather_rainy">비</string>
-    <string name="weather_snowy">눈</string>
-    <string name="weather_stormy">태풍</string>
-    <string name="weather_windy">바람</string>
-    <string name="weather_conditions">기상</string>
-    <string name="weather_temperature">온도</string>
-    <string name="weather_feels_like">느낌</string>
-    <string name="weather_humidity">습기</string>
-    <string name="weather_dew_point">이슬점</string>
     <!--web search-->
     <string name="web_search_tile_label">웹 검색</string>
     <!--reminder-->

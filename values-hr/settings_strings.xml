@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Norveški Bokmål</string>
     <string name="settings_translations_locale_pl">Poljski</string>
     <string name="settings_translations_locale_ko_rKR">Korejski, Južna Korea</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrajinski</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Vidljivost pločica</string>
     <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>
@@ -184,9 +185,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Odbijeno. Pločica ne smije pristupiti lokaciji uređaja</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Odobreno. Pločica smije pristupiti lokaciji uređaja</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Odbijeno. Pločica ne smije pristupiti lokaciji uređaja i dobiti trenutnu vremensku prognozu</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Odobreno. Pločica smije pristupiti lokaciji uređaja i dobiti trenutnu vremensku prognozu</string>
     <string name="settings_units">Jedinice</string>
     <string name="settings_summary_off_hidden">Skriveno</string>
     <string name="settings_summary_on_shown">Prikazano</string>

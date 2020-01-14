@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Nutzt die Spracherkennung um das Smartphone zu steuern oder unterstützte Aktionen durchzuführen.</string>
     <string name="description_volumes_tile">Ändert die Lautstärke der verschiedenen Kanäle des Smartphones: Alarm, Medien, Klingeln und Anruf (auf Smartphones mit Sprachunterstützung). Das Recht zum Zugriff auf den "Bitte nicht stören"-Modus wird für diese Kachel benötigt.</string>
     <string name="description_vpn_tile">Öffnet die Einstellungen um die Konfiguration von VPN\'s zu erlauben.</string>
-    <string name="description_weather_tile">Öffnet einen Dialog mit den aktuellen Wetterbedingungen, (gefühlte) Temperaturen, Feuchtigkeit und Taupunkt. Diese Kachel verwendet hierfür die Google Awareness API.\nDas Standort-Recht wird für diese Kachel benötigt.</string>
     <string name="description_web_search_tile">Startet eine Websuche. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche den Start einer Websuche entgegen nehmen können.</string>
 </resources>

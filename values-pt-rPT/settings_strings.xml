@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Bokmål norueguês</string>
     <string name="settings_translations_locale_pl">Polonês</string>
     <string name="settings_translations_locale_ko_rKR">Coreano, Coreia do Sul</string>
+    <string name="settings_translations_locale_uk_rUA">Ucraniano</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilidade do mosaico</string>
     <string name="settings_component_summary_off">Esconder o mosaico nas Definições Rápidas</string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Negada. O mosaico não tem acesso à localização do dispositivo</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Permitida. O mosaico tem acesso à localização do dispositivo</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Negada. O mosaico não tem acesso à localização do dispositivo para mostrar as condições meteorológicas</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Permitida. O mosaico tem acesso à localização do dispositivo para mostrar as condições meteorológicas</string>
     <string name="settings_units">Unidades</string>
     <string name="settings_summary_off_hidden">Ocultar</string>
     <string name="settings_summary_on_shown">Mostrar</string>

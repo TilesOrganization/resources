@@ -73,6 +73,5 @@
     <string name="description_voice_tile">使用语音操作以控制设备或者执行受支持的操作。</string>
     <string name="description_volumes_tile">控制设备的音量流: （在支持语音的设备上的)闹钟·媒体·铃声和通话音量。\n需要勿扰模式才能使用这个瓷贴。</string>
     <string name="description_vpn_tile">显示允许 VPN 配置的设置</string>
-    <string name="description_weather_tile">打开当前天气情况、温度、体感温度、湿度和露点的对话框。这个瓷贴使用的是 Google 的 Awareness API。\n需要位置权限才能使用这个瓷贴。</string>
     <string name="description_web_search_tile">启动在线搜索。此操作兼容于可接收 Android 默认广播的第三方应用以发起在线搜索。</string>
 </resources>

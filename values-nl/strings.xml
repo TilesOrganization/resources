@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Weer</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Om de tegel de huidige weersomstandigheden te laten verkrijgen, open instellingen en verleen locatie toestemming</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatuur: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Voelt als: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Voelt als: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dauwpunt: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dauwpunt: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Vochtigheid: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Zonnig</string>
-    <string name="weather_cloudy">Bewolkt</string>
-    <string name="weather_foggy">Mistig</string>
-    <string name="weather_hazy">Nevelig</string>
-    <string name="weather_icy">IJzig</string>
-    <string name="weather_rainy">Regenachtig</string>
-    <string name="weather_snowy">Sneeuw</string>
-    <string name="weather_stormy">Stormachtig</string>
-    <string name="weather_windy">Winderig</string>
-    <string name="weather_conditions">Condities</string>
-    <string name="weather_temperature">Temperatuur</string>
-    <string name="weather_feels_like">Voelt als</string>
-    <string name="weather_humidity">Vochtigheid</string>
-    <string name="weather_dew_point">Dauwpunt</string>
     <!--web search-->
     <string name="web_search_tile_label">Op het web zoeken</string>
     <!--reminder-->

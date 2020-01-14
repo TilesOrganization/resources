@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Temporizador</string>
     <string name="timer_formatted_label">Temporizador\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Tiempo</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Para permitir a Tiles conseguir los datos del tiempo, por favor accede a los ajustes y concede permiso para modificar los ajustes de ubicación.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Obteniendo condiciones de clima. Por favor espera.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Sensación térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Sensación térmica: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Punto de rocío: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Punto de rocío: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humedad: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Despejado</string>
-    <string name="weather_cloudy">Nublado</string>
-    <string name="weather_foggy">Neblinoso</string>
-    <string name="weather_hazy">Brumoso</string>
-    <string name="weather_icy">Helado</string>
-    <string name="weather_rainy">Lluvioso</string>
-    <string name="weather_snowy">Nevoso</string>
-    <string name="weather_stormy">Tormentoso</string>
-    <string name="weather_windy">Ventoso</string>
-    <string name="weather_conditions">Condiciones</string>
-    <string name="weather_temperature">Temperatura</string>
-    <string name="weather_feels_like">Sensación térmica</string>
-    <string name="weather_humidity">Humedad</string>
-    <string name="weather_dew_point">Punto de rocío</string>
     <!--web search-->
     <string name="web_search_tile_label">Búsqueda Web</string>
     <!--reminder-->

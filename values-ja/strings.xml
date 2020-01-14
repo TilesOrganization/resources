@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">タイマー</string>
     <string name="timer_formatted_label">タイマー\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">天気</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">タイルから気象情報を取得するには、設定から位置情報の権限を許可してください。</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">気象情報を取得しています。お待ちください。</string>
-    <string name="weather_formatted_temperature_celsius">気温： &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">気温： &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">体感温度： &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">体感温度： &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">露点： &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">露点： &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">湿度： &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">摂氏</string>
-    <string name="weather_fahrenheit">華氏</string>
-    <string name="weather_clear">快晴</string>
-    <string name="weather_cloudy">曇り</string>
-    <string name="weather_foggy">霧</string>
-    <string name="weather_hazy">靄</string>
-    <string name="weather_icy">冷たい</string>
-    <string name="weather_rainy">雨</string>
-    <string name="weather_snowy">雪</string>
-    <string name="weather_stormy">嵐</string>
-    <string name="weather_windy">強風</string>
-    <string name="weather_conditions">状態</string>
-    <string name="weather_temperature">気温</string>
-    <string name="weather_feels_like">体感温度</string>
-    <string name="weather_humidity">湿度</string>
-    <string name="weather_dew_point">露点</string>
     <!--web search-->
     <string name="web_search_tile_label">ウェブ検索</string>
     <!--reminder-->

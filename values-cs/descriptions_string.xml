@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Použít hlasové akce k ovládání zařízení nebo pro podporované akce.</string>
     <string name="description_volumes_tile">Ovládání zvukových proudů zařízení: budík, média, vyzvánění a volání. Pro použití této dlaždice je zapotřebí oprávnění k režimu Nerušit.</string>
     <string name="description_vpn_tile">Zobrazit nastavení umožňující konfiguraci VPN.</string>
-    <string name="description_weather_tile">Otevřít dialogové okno s aktuálními klimatickými podmínkami, teplotou, vlhkostí a rosným bodem. Tato dlaždice využívá rozhranní Google Awareness API.\nPro použití této dlaždice je vyžadován přístup k poloze.</string>
     <string name="description_web_search_tile">Spustit vyhledávání na webu. Akce je kompatibilní s aplikacemi třetích stran, které mohou přijímat výchozí požadavky Androidu pro spuštění vyhledávání na webu.</string>
 </resources>

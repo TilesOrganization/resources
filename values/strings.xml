@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Weather</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">To allow the tile to get weather conditions, please open settings and grant location permission.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperature: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperature: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Feels like: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Feels like: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Dew point: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Dew point: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidity: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Temperature</string>
-    <string name="weather_feels_like">Feels like</string>
-    <string name="weather_humidity">Humidity</string>
-    <string name="weather_dew_point">Dew point</string>
     <!--web search-->
     <string name="web_search_tile_label">Web search</string>
     <!--reminder-->

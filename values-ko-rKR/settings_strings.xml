@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Norwegian Bokmål</string>
     <string name="settings_translations_locale_pl">Polish</string>
     <string name="settings_translations_locale_ko_rKR">한국어, 대한민국</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrainian</string>
     <!--tile component-->
     <string name="settings_component_summary_title">타일 적용하기</string>
     <string name="settings_component_summary_off">빠른 설정 레이아웃에서 타일 숨기기 </string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">거부됨. 기기의 위치에 액세스 할 수 없습니다</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">허용됨. 기기의 위치에 액세스 할 수 있습니다</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">거부됨. 기기의 현재 위치 기상 조건을 얻을 수 없습니다</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">허용됨. 기기의 현재 위치 기상 조건을 얻을 수 있습니다</string>
     <string name="settings_units">단위</string>
     <string name="settings_summary_off_hidden">숨기기</string>
     <string name="settings_summary_on_shown">보이기</string>

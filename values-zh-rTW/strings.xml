@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">倒數計時器</string>
     <string name="timer_formatted_label">倒數計時\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">天氣</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">要允許快速設定動態磚取得天氣狀況，請前往設定並允許位置權限。</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">請稍候，正在取得天氣狀況。</string>
-    <string name="weather_formatted_temperature_celsius">溫度: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">溫度: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">體感: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">體感: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">露點: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">露點: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">濕度: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">攝氏</string>
-    <string name="weather_fahrenheit">華氏</string>
-    <string name="weather_clear">晴朗</string>
-    <string name="weather_cloudy">多雲</string>
-    <string name="weather_foggy">有霧</string>
-    <string name="weather_hazy">朦朧</string>
-    <string name="weather_icy">冰冷</string>
-    <string name="weather_rainy">多雨</string>
-    <string name="weather_snowy">落雪</string>
-    <string name="weather_stormy">狂風暴雨</string>
-    <string name="weather_windy">刮風</string>
-    <string name="weather_conditions">天氣狀況</string>
-    <string name="weather_temperature">溫度</string>
-    <string name="weather_feels_like">體感</string>
-    <string name="weather_humidity">濕度</string>
-    <string name="weather_dew_point">露點</string>
     <!--web search-->
     <string name="web_search_tile_label">網路搜尋</string>
     <!--reminder-->

@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Nedtelling</string>
     <string name="timer_formatted_label">Nedtelling\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Vær</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">For å gi knappen tilgang til å få værforhold, vennligst åpne innstillinger og gi posisjon-tillatelser.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Får værforhold. Vennligst vent.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatur: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatur: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Føles som: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Føles som: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Duggpunkt: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Duggpunkt: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Luftfuktighet: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Klart</string>
-    <string name="weather_cloudy">Skyete</string>
-    <string name="weather_foggy">Tåkete</string>
-    <string name="weather_hazy">Disig</string>
-    <string name="weather_icy">Isete</string>
-    <string name="weather_rainy">Regn</string>
-    <string name="weather_snowy">Snø</string>
-    <string name="weather_stormy">Storm</string>
-    <string name="weather_windy">Vind</string>
-    <string name="weather_conditions">Forhold</string>
-    <string name="weather_temperature">Temperatur</string>
-    <string name="weather_feels_like">Føles som</string>
-    <string name="weather_humidity">Luftfuktighet</string>
-    <string name="weather_dew_point">Duggpunkt</string>
     <!--web search-->
     <string name="web_search_tile_label">Nettsøk</string>
     <!--reminder-->

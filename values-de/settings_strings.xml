@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Norwegischer Bokmål</string>
     <string name="settings_translations_locale_pl">Polnisch</string>
     <string name="settings_translations_locale_ko_rKR">Koreanisch, Südkorea</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrainisch</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Kachel Sichtbarkeit</string>
     <string name="settings_component_summary_off">Verstecke die Kachel in den Schnelleinstellungen</string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standort zugreifen</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standort zugreifen</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Verweigert. Die Kachel darf nicht auf den Standort zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Gewährt. Die Kachel darf auf den Standort zugreifen und kann aus diesem Grund nicht das Wetter ermitteln</string>
     <string name="settings_units">Einheit</string>
     <string name="settings_summary_off_hidden">Verborgen</string>
     <string name="settings_summary_on_shown">Anzeigen</string>

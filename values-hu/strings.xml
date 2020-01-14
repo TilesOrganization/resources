@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Időzítő</string>
     <string name="timer_formatted_label">Időzítő\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Időjárás</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">A csempe időjárási körülményekhez való hozzáféréséhez kérlek nyisd meg a beállításokat és engedélyezd a helyhez való hozzáférést.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Időjárási körülmények lekérdezése. Kérlek várj.</string>
-    <string name="weather_formatted_temperature_celsius">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Hőmérséklet: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Érzet: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Érzet: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Harmatpont: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Harmatpont: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Páratartalom: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius fok</string>
-    <string name="weather_fahrenheit">Fahrenheit fok</string>
-    <string name="weather_clear">Tiszta</string>
-    <string name="weather_cloudy">Felhős</string>
-    <string name="weather_foggy">Ködös</string>
-    <string name="weather_hazy">Homályos</string>
-    <string name="weather_icy">Jeges</string>
-    <string name="weather_rainy">Esős</string>
-    <string name="weather_snowy">Havas</string>
-    <string name="weather_stormy">Viharos</string>
-    <string name="weather_windy">Szeles</string>
-    <string name="weather_conditions">Körülmények</string>
-    <string name="weather_temperature">Hőmérséklet</string>
-    <string name="weather_feels_like">Érzet</string>
-    <string name="weather_humidity">Páratartalom</string>
-    <string name="weather_dew_point">Harmatpont</string>
     <!--web search-->
     <string name="web_search_tile_label">Webes keresés</string>
     <!--reminder-->

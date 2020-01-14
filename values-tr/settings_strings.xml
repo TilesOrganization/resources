@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Norveççe Bokmål</string>
     <string name="settings_translations_locale_pl">Lehçe</string>
     <string name="settings_translations_locale_ko_rKR">Korece, Güney Kore</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrayna</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Karo görünürlüğü</string>
     <string name="settings_component_summary_off">Karoyu, Hızlı Ayarlar yerleşiminden gizle</string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Reddedildi. Karo cihazın konumuna erişemez</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">İzin Verildi. Karo cihazın konumuna erişebilir</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Reddedildi. Karo, aygıtın konumuna ve mevcut hava durumuna ulaşamaz</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">İzin Verildi. Karo, aygıtın konumuna ve mevcut hava durumuna ulaşabilir</string>
     <string name="settings_units">Birimler</string>
     <string name="settings_summary_off_hidden">Gizle</string>
     <string name="settings_summary_on_shown">Göster</string>

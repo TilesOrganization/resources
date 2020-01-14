@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Upotrijebite glasovne radnje za upravljanje uređajem ili izvršavanjem podržanih radnji.</string>
     <string name="description_volumes_tile">Kontrolirajte glasnoće uređaja: alarm, medij, zvono i poziv (na uređajima koji podržavaju glasovne naredbe). Da biste koristili ovu pločicu, potreban je pristup "Ne ometaj" opciji.</string>
     <string name="description_vpn_tile">Prikaži postavke konfiguraciju VPN-a.</string>
-    <string name="description_weather_tile">Otvorite dijalog s trenutnim vremenskim uvjetima, temperaturom, "Čini se kao", vlažnosti i rosištem. Ova pločica upotrebljava Google Awareness API.\nZa upotrebu ove pločice potrebna su dopuštenja lokacije.</string>
     <string name="description_web_search_tile">Pokrenite pretraživanje weba. Radnja je kompatibilna s aplikacijama treće strane koje mogu zaprimiti Androidov zadani prijenos radi pokretanja pretraživanja weba.</string>
 </resources>

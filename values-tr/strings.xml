@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Zamanlayıcı</string>
     <string name="timer_formatted_label">Zamanlayıcı\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Hava</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Karonun hava durumu verilerine ulaşabilmesi için, lütfen ayarları açın ve konum izni verin.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Hava durumu  verileri alınıyor. lütfen bekleyin.</string>
-    <string name="weather_formatted_temperature_celsius">Sıcaklık: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Sıcaklık: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Hissedilen: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Hissedilen: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Çiy noktası: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Çiy noktası: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Nem: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Santigrat</string>
-    <string name="weather_fahrenheit">Fahrenhayt</string>
-    <string name="weather_clear">Açık</string>
-    <string name="weather_cloudy">Bulutlu</string>
-    <string name="weather_foggy">Sisli</string>
-    <string name="weather_hazy">Puslu</string>
-    <string name="weather_icy">Buz gibi</string>
-    <string name="weather_rainy">Yağmurlu</string>
-    <string name="weather_snowy">Karlı</string>
-    <string name="weather_stormy">Fırtınalı</string>
-    <string name="weather_windy">Rüzgarlı</string>
-    <string name="weather_conditions">Hava Şartları</string>
-    <string name="weather_temperature">Sıcaklık</string>
-    <string name="weather_feels_like">Hissedilen</string>
-    <string name="weather_humidity">Nem</string>
-    <string name="weather_dew_point">Çiy noktası</string>
     <!--web search-->
     <string name="web_search_tile_label">Web Araması</string>
     <!--reminder-->

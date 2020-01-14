@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Pogoda</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Aby użytwać pogody, otwórz ustawienia i przydziel pozwolenie określania pozycji.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Pobieranie inforamcji o pogodzie…</string>
-    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Odczuwalna: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Odczuwalna: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Temp. punktu rosy: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Temp. punktu rosy: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Wilgotność: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsjusze</string>
-    <string name="weather_fahrenheit">Farenhaity</string>
-    <string name="weather_clear">Czysto</string>
-    <string name="weather_cloudy">Chmury</string>
-    <string name="weather_foggy">Mgła</string>
-    <string name="weather_hazy">Mgła</string>
-    <string name="weather_icy">Zimne powietrze</string>
-    <string name="weather_rainy">Deszcz</string>
-    <string name="weather_snowy">Śnieg</string>
-    <string name="weather_stormy">Burze</string>
-    <string name="weather_windy">Wiatr</string>
-    <string name="weather_conditions">Warunki</string>
-    <string name="weather_temperature">Temperatura</string>
-    <string name="weather_feels_like">Odczuwalna</string>
-    <string name="weather_humidity">Wilgotność</string>
-    <string name="weather_dew_point">Temp. punktu rosy</string>
     <!--web search-->
     <string name="web_search_tile_label">Wyszukaj</string>
     <!--reminder-->

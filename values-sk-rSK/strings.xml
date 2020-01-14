@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Časovač</string>
     <string name="timer_formatted_label">Časovač\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Počasie</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Aby dlaždica mohla získať poveternostné podmienky, prosím, otvorte nastavenia a povoľte Polohu.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Získavanie poveternostných podmienok. Prosím, čakajte.</string>
-    <string name="weather_formatted_temperature_celsius">Teplota: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Teplota: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Pocitová teplota: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Pocitová teplota: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Rosný bod: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Rosný bod: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Vlhkosť: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celzia</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Jasno</string>
-    <string name="weather_cloudy">Zamračené</string>
-    <string name="weather_foggy">Hmla</string>
-    <string name="weather_hazy">Hmlisto</string>
-    <string name="weather_icy">Chladno</string>
-    <string name="weather_rainy">Dážď</string>
-    <string name="weather_snowy">Sneh</string>
-    <string name="weather_stormy">Búrky</string>
-    <string name="weather_windy">Veterno</string>
-    <string name="weather_conditions">Podmienky</string>
-    <string name="weather_temperature">Teplota</string>
-    <string name="weather_feels_like">Pocitová teplota</string>
-    <string name="weather_humidity">Vlhkosť</string>
-    <string name="weather_dew_point">Rosný bod</string>
     <!--web search-->
     <string name="web_search_tile_label">Vyhľadávanie na webe</string>
     <!--reminder-->

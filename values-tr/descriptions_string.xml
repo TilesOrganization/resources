@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Desteklenen etkinlikleri yapmak ve cihazı kontrol etmek için sesinizi kullanmanızı sağlar.</string>
     <string name="description_volumes_tile">Cihazın alarm, medya, zil sesi veya çağrı (desteklenen cihazlarda) seslerini kontrol etmenizi sağlar. İzin gerektirir.</string>
     <string name="description_vpn_tile">VPN ayarlamayı sağlayan ayarlar gösterir.</string>
-    <string name="description_weather_tile">Geçerli hava durumunu gösteren bir pencere açar. İzin gerektirir.</string>
     <string name="description_web_search_tile">Bir ağ araması başlatır. Üçüncü parti uygulamalarla da çalışır.</string>
 </resources>

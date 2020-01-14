@@ -73,6 +73,5 @@
     <string name="description_voice_tile">Bruk stemmehandlinger for å kontrollere enheten eller utføre støttede handlinger.</string>
     <string name="description_volumes_tile">Kontroller volumstrømmene til enheten: alarm, medier, ringe og anrop (på enheter i stand til stemme). Ikke forstyrr tilgang er krevet for å bruke denne knappen.</string>
     <string name="description_vpn_tile">Vis innstillinger for å gi tilgang til å konfigurere VPN.</string>
-    <string name="description_weather_tile">Åpne en dialog med de nåværende værforholdene, temperatur, føles som, luftfuktighet og duggpungt. Denne knappen bruker «Google Awareness API».\nPosisjontillatelser er krevet for å bruke denne knappen.</string>
     <string name="description_web_search_tile">Start et nettsøk. Handlingen er kompitabel med tredjepartsapper som kan motta Androids originale kringkasting for å starte et nettsøk.</string>
 </resources>

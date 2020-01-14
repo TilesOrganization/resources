@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Temporizador</string>
     <string name="timer_formatted_label">Temporizador\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Meteorologia</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Para permitir que o mosaico tenha acesso à meteorologia, abra as definiçoes e conceda a permissão de localização.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Getting weather conditions. Please wait.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Sensação térmica: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Condensação: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Condensação: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidade: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Limpo</string>
-    <string name="weather_cloudy">Nublado</string>
-    <string name="weather_foggy">Nevoeiro</string>
-    <string name="weather_hazy">Nevoeiro</string>
-    <string name="weather_icy">Gelado</string>
-    <string name="weather_rainy">Chuvoso</string>
-    <string name="weather_snowy">Nevado</string>
-    <string name="weather_stormy">Tempestoso</string>
-    <string name="weather_windy">Ventoso</string>
-    <string name="weather_conditions">Condições</string>
-    <string name="weather_temperature">Temperatura</string>
-    <string name="weather_feels_like">Sensação térmica</string>
-    <string name="weather_humidity">Humidade</string>
-    <string name="weather_dew_point">Condensação</string>
     <!--web search-->
     <string name="web_search_tile_label">Pesquisar</string>
     <!--reminder-->

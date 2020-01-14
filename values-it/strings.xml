@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Timer</string>
     <string name="timer_formatted_label">Timer\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Meteo</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Per permettere alla funzione di visualizzare le condizioni meteo, per favore aprire le impostazioni e concedere l\'autorizzazione posizione.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Ottendendo meteo. Per favore attendere.</string>
-    <string name="weather_formatted_temperature_celsius">Temperatura: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Temperatura: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Percepita: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Percepita: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Punto di rugiada: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Punto di rugiada: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Umidità: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Sereno</string>
-    <string name="weather_cloudy">Nuvoloso</string>
-    <string name="weather_foggy">Nebbia</string>
-    <string name="weather_hazy">Coperto</string>
-    <string name="weather_icy">Ghiaccio</string>
-    <string name="weather_rainy">Pioggia</string>
-    <string name="weather_snowy">Neve</string>
-    <string name="weather_stormy">Temporale</string>
-    <string name="weather_windy">Vento</string>
-    <string name="weather_conditions">Condizioni</string>
-    <string name="weather_temperature">Temperatura</string>
-    <string name="weather_feels_like">Percepita</string>
-    <string name="weather_humidity">Umidità</string>
-    <string name="weather_dew_point">Punto di rugiada</string>
     <!--web search-->
     <string name="web_search_tile_label">Ricerca web</string>
     <!--reminder-->

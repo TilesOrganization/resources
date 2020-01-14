@@ -96,6 +96,7 @@
     <string name="settings_translations_locale_nb">Bokmål norvégien</string>
     <string name="settings_translations_locale_pl">Polonais</string>
     <string name="settings_translations_locale_ko_rKR">Coréen, Corée du Sud</string>
+    <string name="settings_translations_locale_uk_rUA">Ukrainien</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Visibilité de la tuile</string>
     <string name="settings_component_summary_off">Cacher la tuile dans la disposition des réglages rapides</string>
@@ -183,9 +184,6 @@
     <!--streetview-->
     <string name="settings_streetview_map_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à accéder à la position de l\'appareil.</string>
     <string name="settings_streetview_map_tile_location_permissions_summary_on">Accordée. La tuile est autorisée à accéder à la position de l\'appareil.</string>
-    <!--weather-->
-    <string name="settings_weather_tile_location_permissions_summary_off">Refusée. La tuile n\'est pas autorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
-    <string name="settings_weather_tile_location_permissions_summary_on">Accordée. La tuile est autorisée à accéder à la position de l\'appareil et obtenir les conditions météo actuelles</string>
     <string name="settings_units">Unités</string>
     <string name="settings_summary_off_hidden">Cachées</string>
     <string name="settings_summary_on_shown">Montrées</string>

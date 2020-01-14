@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Minuteur</string>
     <string name="timer_formatted_label">Minuteur\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Météo</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Pour permettre à la tuile d\'obtenir les conditions météo, veuillez ouvrir les paramètres et accordez la permission de localisation.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Obtention des conditions météo. Veuillez attendre.</string>
-    <string name="weather_formatted_temperature_celsius">Température: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Température: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Ressentie: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Ressentie: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Point de rosée: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Point de rosée: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Humidité: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Celsius</string>
-    <string name="weather_fahrenheit">Fahrenheit</string>
-    <string name="weather_clear">Clair</string>
-    <string name="weather_cloudy">Nuageux</string>
-    <string name="weather_foggy">Brouillard</string>
-    <string name="weather_hazy">Brumeux</string>
-    <string name="weather_icy">Verglacé</string>
-    <string name="weather_rainy">Pluvieux</string>
-    <string name="weather_snowy">Neigeux</string>
-    <string name="weather_stormy">Orageux</string>
-    <string name="weather_windy">Venteux</string>
-    <string name="weather_conditions">Conditions</string>
-    <string name="weather_temperature">Température</string>
-    <string name="weather_feels_like">Ressentie</string>
-    <string name="weather_humidity">Humidité</string>
-    <string name="weather_dew_point">Point de rosée</string>
     <!--web search-->
     <string name="web_search_tile_label">Recherche web</string>
     <!--reminder-->

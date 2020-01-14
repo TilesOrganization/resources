@@ -132,33 +132,6 @@
     <!--timer-->
     <string name="timer_tile_label">Таймер</string>
     <string name="timer_formatted_label">Таймер\n%s</string>
-    <!--weather-->
-    <string name="weather_tile_label">Погода</string>
-    <string name="weather_tile_location_permission_alert_dialog_message">Щоб дозволити плитці отримувати інформацію про погоду, будь ласка, відкрийте налаштування і дайте додатку доступ до визначення місцезнаходження.</string>
-    <string name="weather_tile_getting_weather_conditions_dialog_message">Отримання інформації про погодні умови. Будь ласка зачекайте.</string>
-    <string name="weather_formatted_temperature_celsius">Температура: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_temperature_fahrenheit">Температура: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_feels_like_celsius">Відчувається як: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_feels_like_fahrenheit">Відчувається як: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_dew_point_celsius">Точка роси: &lt;b>%1$.1f&lt;/b> \u2103</string>
-    <string name="weather_formatted_dew_point_fahrenheit">Точка роси: &lt;b>%1$.1f&lt;/b> \u2109</string>
-    <string name="weather_formatted_humidity">Вологість: &lt;b>%d&lt;/b>%%</string>
-    <string name="weather_celsius">Цельсій</string>
-    <string name="weather_fahrenheit">Фаренгейт</string>
-    <string name="weather_clear">Ясно</string>
-    <string name="weather_cloudy">Хмарно</string>
-    <string name="weather_foggy">Туман</string>
-    <string name="weather_hazy">Серпанок</string>
-    <string name="weather_icy">Ожеледь</string>
-    <string name="weather_rainy">Дощ</string>
-    <string name="weather_snowy">Сніг</string>
-    <string name="weather_stormy">Гроза</string>
-    <string name="weather_windy">Вітряно</string>
-    <string name="weather_conditions">Умови</string>
-    <string name="weather_temperature">Температура</string>
-    <string name="weather_feels_like">Відчувається як</string>
-    <string name="weather_humidity">Вологість</string>
-    <string name="weather_dew_point">Точка роси</string>
     <!--web search-->
     <string name="web_search_tile_label">Пошук в мережі Інтернет</string>
     <!--reminder-->

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--settings-->
-    <string name="settings">Settings</string>
-    <string name="settings_design">Design</string>
-    <string name="settings_animations">Animations</string>
+    <string name="settings">সেটিংস</string>
+    <string name="settings_design">ডিজাইন</string>
+    <string name="settings_animations">অ্যানিমেশন</string>
     <string name="settings_animations_reveal_animation_title">Reveal animation</string>
     <string name="settings_animations_drawable_animation_title">Drawable animation</string>
-    <string name="settings_enabled">Enabled</string>
-    <string name="settings_disabled">Disabled</string>
+    <string name="settings_enabled">সক্রিয়</string>
+    <string name="settings_disabled">বন্ধ</string>
     <string name="settings_action">Action</string>
     <string name="settings_method">Method</string>
     <string name="settings_use_accessibility_service">Accessibility service</string>
     <string name="settings_use_su">Super user privileges</string>
     <string name="settings_layout">Layout</string>
-    <string name="settings_notification">Notification</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Light</string>
-    <string name="settings_theme_dark">Dark</string>
-    <string name="settings_theme_black">Black</string>
+    <string name="settings_notification">নোটিফিকেশন</string>
+    <string name="settings_theme">থিম</string>
+    <string name="settings_theme_light">উজ্জ্বল</string>
+    <string name="settings_theme_dark">গাঢ়</string>
+    <string name="settings_theme_black">কালো</string>
     <string name="settings_theme_terminal">Terminal</string>
-    <string name="settings_theme_deep_orange_light">Deep orange - Light</string>
+    <string name="settings_theme_deep_orange_light">গাঢ় কমলা - উজ্জ্বল</string>
     <string name="settings_theme_deep_orange_dark">Deep orange - Dark</string>
     <string name="settings_theme_deep_orange_black">Deep orange - Black</string>
     <string name="settings_theme_deep_purple_light">Deep purple - Light</string>

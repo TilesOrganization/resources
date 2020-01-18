@@ -99,29 +99,29 @@
     <string name="settings_translations_locale_ko_rKR">কোরিয়ান, দক্ষিণ কোরিয়া</string>
     <string name="settings_translations_locale_uk_rUA">ইউক্রেনিয়ান</string>
     <!--tile component-->
-    <string name="settings_component_summary_title">Tile visibility</string>
-    <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>
-    <string name="settings_component_summary_on">Show the tile in the Quick Settings layout</string>
-    <string name="settings_tile_action_start_service_and_collapse">Collapse Quick Settings panel and start service</string>
-    <string name="settings_tile_action_start_service_without_collapsing">Start service without collapsing the Quick Settings panel</string>
-    <string name="settings_stop_on_sleep_title">Stop on sleep</string>
-    <string name="settings_stop_on_sleep_summary_on">Stop service when the device goes to sleep</string>
-    <string name="settings_stop_on_sleep_summary_off">Leave service running when the device goes to sleep</string>
-    <string name="settings_stay_awake">Stay awake</string>
-    <string name="settings_stay_awake_summary_on">Keep the device awake</string>
-    <string name="settings_stay_awake_summary_off">Let the device go to sleep</string>
+    <string name="settings_component_summary_title">টাইলসের দৃশ্যমানতা</string>
+    <string name="settings_component_summary_off">কুইক সেটিংসে টাইলস লুকিয়ে রাখুন</string>
+    <string name="settings_component_summary_on">কুইক সেটিংসে টাইলস দেখান</string>
+    <string name="settings_tile_action_start_service_and_collapse">কুইক সেটিংস বন্ধ করার পর কার্য সম্পাদন</string>
+    <string name="settings_tile_action_start_service_without_collapsing">কুইক সেটিংস বন্ধ না করেই কার্য সম্পাদন</string>
+    <string name="settings_stop_on_sleep_title">স্লিপ অবস্থায় বন্ধ করুন</string>
+    <string name="settings_stop_on_sleep_summary_on">ডিভাইস স্লিপ মুডে থাকা অবস্থায় কার্য বন্ধ করুন</string>
+    <string name="settings_stop_on_sleep_summary_off">ডিভাইস স্লিপ মুডে থাকলেও কার্য চলতে দিন</string>
+    <string name="settings_stay_awake">জেগে থাকুক</string>
+    <string name="settings_stay_awake_summary_on">ডিভাইস জেগে থাকুক</string>
+    <string name="settings_stay_awake_summary_off">ডিভাইস স্লিপ মুডে যেতে দিন</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness mode</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness mode</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">অনুমোদিত নয়। টাইলসটির উজ্জ্বলতা পরিবর্তন করার অনুমতি নেই</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">অনুমোদিত। টাইলসটি উজ্জ্বলতা পরিবর্তন করতে পারবে</string>
     <!-- application-->
-    <string name="settings_application_tile_action_show_all_apps">Show all applications</string>
-    <string name="settings_application_tile_action_show_selected_apps">Show selected applications</string>
-    <string name="settings_application_tile_single_app">Single application</string>
+    <string name="settings_application_tile_action_show_all_apps">সবগুলো অ্যাপ্লিকেশন দেখান</string>
+    <string name="settings_application_tile_action_show_selected_apps">নির্বাচিত অ্যাপ্লিকেশন গুলো দেখান</string>
+    <string name="settings_application_tile_single_app">একক অ্যাপ্লিকেশন</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d application selected</item>
-        <item quantity="other">%d applications selected</item>
+        <item quantity="one">%dটি অ্যাপ নির্বাচিত</item>
+        <item quantity="other">%dটি অ্যাপ নির্বাচিত</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Selected application</string>
+    <string name="settings_application_tile_selected_app">নির্বাচিত অ্যাপ্লিকেশন</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">View mode</string>
     <string name="settings_application_tile_view_mode_list">List</string>

@@ -76,7 +76,7 @@
     <string name="settings_credit">কৃতিত্ব</string>
     <string name="settings_credit_app_icon">অ্যাপ্লিকেশনের আইকন</string>
     <string name="settings_translations">ভাষান্তর</string>
-    <string name="settings_translations_thanks">আপনি যদি আপনার ভাষায় অনুবাদ করে সাহায্য করতে চান, তবে অনুগ্রহ করে যোগাযোগ করুন: rascarlo@gmail.com.\nধন্যবাদ!</string>
+    <string name="settings_translations_thanks">অ্যাপটিকে আপনার ভাষায় অনুবাদ করে সাহায্য করতে চাইলে অনুগ্রহ করে যোগাযোগ করুন: rascarlo@gmail.com.\nধন্যবাদ!</string>
     <string name="settings_translations_locale_cs">চেক</string>
     <string name="settings_translations_locale_de">জার্মান</string>
     <string name="settings_translations_locale_pt_rBR">পর্তুগিজ, ব্রাজিল</string>
@@ -123,14 +123,14 @@
     </plurals>
     <string name="settings_application_tile_selected_app">নির্বাচিত অ্যাপ্লিকেশন</string>
     <!-- applications list-->
-    <string name="settings_application_tile_view_mode">View mode</string>
-    <string name="settings_application_tile_view_mode_list">List</string>
-    <string name="settings_application_tile_view_mode_grid">Grid</string>
-    <string name="settings_application_tile_view_mode_grid_no_labels">Grid without label</string>
-    <string name="settings_application_tile_grid_columns">Grid columns</string>
-    <string name="settings_application_tile_application_list_show_title">Applications to show</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d applications selected</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">No application selected</string>
+    <string name="settings_application_tile_view_mode">ভিউ মুড</string>
+    <string name="settings_application_tile_view_mode_list">তালিকা</string>
+    <string name="settings_application_tile_view_mode_grid">গ্রিড</string>
+    <string name="settings_application_tile_view_mode_grid_no_labels">লেবেল ছাড়া গ্রিড</string>
+    <string name="settings_application_tile_grid_columns">গ্রিডের কলাম</string>
+    <string name="settings_application_tile_application_list_show_title">দেখানো অ্যাপগুলো</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d টি নির্বাচিত অ্যাপ</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">কোনো অ্যাপ নির্বাচিত হয়নি</string>
     <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
     <string name="settings_application_tile_loading_applications">Loading applications…</string>
     <!--brightness-->

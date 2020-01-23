@@ -59,7 +59,7 @@
     <string name="settings_permission">Oprávnění</string>
     <string name="settings_phone_call_permission_title">Oprávnění volání</string>
     <string name="settings_location_permissions_preference_title">Oprávnění polohy</string>
-    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
+    <string name="settings_background_location_permissions_preference_title">Oprávnění k přístupu k poloze na pozadí</string>
     <string name="settings_modify_system_settings_permissions_title">Oprávnění úprav nastavení systému</string>
     <string name="settings_feedback">Zpětná vazba &amp; podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>

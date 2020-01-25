@@ -59,7 +59,7 @@
     <string name="settings_permission">Дозвіл</string>
     <string name="settings_phone_call_permission_title">Дозвіл на здійснення телефонних викликів</string>
     <string name="settings_location_permissions_preference_title">Дозвіл на визначення місцезнаходження</string>
-    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
+    <string name="settings_background_location_permissions_preference_title">Дозвіл на визначення місцезнаходження у фоновому режимі</string>
     <string name="settings_modify_system_settings_permissions_title">Дозвіл на зміну системних налаштувань</string>
     <string name="settings_feedback">Відгуки та підтримка</string>
     <string name="settings_privacy_policy">Політика конфіденційності</string>
@@ -72,7 +72,7 @@
     <string name="settings_rate_or_review">Оцінити або залишити відгук</string>
     <string name="settings_support_title">Дякуємо за підтримку!</string>
     <string name="settings_send_email">Надіслати лист</string>
-    <string name="settings_support_summary">Розроблено для Android версії 7.0 (API 24) і вище</string>
+    <string name="settings_support_summary">Розроблено для Android версії 7.0 (API 24) і вище.</string>
     <string name="settings_credit">Подяки</string>
     <string name="settings_credit_app_icon">Іконка додатку</string>
     <string name="settings_translations">Переклади</string>

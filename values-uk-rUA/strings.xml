@@ -127,7 +127,7 @@
     <!--streetview-->
     <string name="streetview_tile_label">Перегляд вулиць</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">Щоб дозволити плитці отримувати інформацію про поточне місцезнаходження, будь ласка, відкрийте налаштування і дайте додатку доступ до визначення місцезнаходження.</string>
-    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant background location permission.</string>
+    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">Щоб дозволити плитці отримувати інформацію про поточне місцезнаходження, будь ласка, відкрийте налаштування і дайте додатку доступ до визначення місцезнаходження у фоновому режимі.</string>
     <!--sync-->
     <string name="sync_tile_label">Синхронізація</string>
     <!--timer-->

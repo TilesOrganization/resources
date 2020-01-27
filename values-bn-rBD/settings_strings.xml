@@ -131,11 +131,11 @@
     <string name="settings_application_tile_application_list_show_title">দেখানো অ্যাপগুলো</string>
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d টি নির্বাচিত অ্যাপ</string>
     <string name="settings_application_tile_application_list_show_summary_empty">কোনো অ্যাপ নির্বাচিত হয়নি</string>
-    <string name="settings_application_tile_application_list_launch_title">Application to launch</string>
-    <string name="settings_application_tile_loading_applications">Loading applications…</string>
+    <string name="settings_application_tile_application_list_launch_title">লঞ্চ করা হবে যে অ্যাপ</string>
+    <string name="settings_application_tile_loading_applications">অ্যাপ লোড হচ্ছে...</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change brightness level</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change brightness level</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">অননুমোদিত। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির নেই</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">অনুমোদিত। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির আছে</string>
     <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
     <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>

@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Értesítési sáv ikonjai</string>
     <string name="settings_design_status_bar_icons_light">Világos ikonok</string>
     <string name="settings_design_status_bar_icons_dark">Sötét ikonok</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Haladó</string>
     <string name="settings_restart_active_tiles_title">Aktív csempék újraindítása</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Lengyel</string>
     <string name="settings_translations_locale_ko_rKR">Koreai, Dél-Korea</string>
     <string name="settings_translations_locale_uk_rUA">Ukrán</string>
+    <string name="settings_translations_locale_bn_rBD">Bengáli, Banglades</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Csempe láthatósága</string>
     <string name="settings_component_summary_off">Csempe elrejtve a Gyorsbeállítások felületen</string>

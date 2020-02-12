@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">ステータスバーのアイコン</string>
     <string name="settings_design_status_bar_icons_light">ライトアイコン</string>
     <string name="settings_design_status_bar_icons_dark">ダークアイコン</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">高度な設定</string>
     <string name="settings_restart_active_tiles_title">アクティブなタイルを再起動</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">研磨</string>
     <string name="settings_translations_locale_ko_rKR">韓国語、韓国</string>
     <string name="settings_translations_locale_uk_rUA">ウクライナ人</string>
+    <string name="settings_translations_locale_bn_rBD">ベンガル、バングラデシュ</string>
     <!--tile component-->
     <string name="settings_component_summary_title">タイルを表示・非表示</string>
     <string name="settings_component_summary_off">クイック設定でタイルを非表示</string>

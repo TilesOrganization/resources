@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">通知欄</string>
     <string name="settings_design_status_bar_icons_light">亮色圖示</string>
     <string name="settings_design_status_bar_icons_dark">暗色圖示</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">進階</string>
     <string name="settings_restart_active_tiles_title">重啟已加入的快速設定動態磚</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">拋光</string>
     <string name="settings_translations_locale_ko_rKR">Korean, South Korea</string>
     <string name="settings_translations_locale_uk_rUA">Ukrainian</string>
+    <string name="settings_translations_locale_bn_rBD">Bengali, Bangladesh</string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定動態磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>

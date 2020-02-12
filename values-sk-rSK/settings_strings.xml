@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Ikony stavovej lišty</string>
     <string name="settings_design_status_bar_icons_light">Svetlé ikony</string>
     <string name="settings_design_status_bar_icons_dark">Tmavé ikony</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Pokročilé</string>
     <string name="settings_restart_active_tiles_title">Reštartovať aktívne dlaždice</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Poľský</string>
     <string name="settings_translations_locale_ko_rKR">Kórea, Južná Kórea</string>
     <string name="settings_translations_locale_uk_rUA">Ukrajinský</string>
+    <string name="settings_translations_locale_bn_rBD">Bengálsko, Bangladéš</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Viditeľnosť dlaždice</string>
     <string name="settings_component_summary_off">Skryť dlaždicu v rýchlych nastaveniach</string>

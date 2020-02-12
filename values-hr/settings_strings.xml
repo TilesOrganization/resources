@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Ikone trake stanja</string>
     <string name="settings_design_status_bar_icons_light">Svijetle ikone</string>
     <string name="settings_design_status_bar_icons_dark">Tamne ikone</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Napredno</string>
     <string name="settings_restart_active_tiles_title">Ponovo pokreni aktivne pločice</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Poljski</string>
     <string name="settings_translations_locale_ko_rKR">Korejski, Južna Korea</string>
     <string name="settings_translations_locale_uk_rUA">Ukrajinski</string>
+    <string name="settings_translations_locale_bn_rBD">Bengali, Bangladeš</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Vidljivost pločica</string>
     <string name="settings_component_summary_off">Sakrij pločicu u prikazu brzih postavki</string>

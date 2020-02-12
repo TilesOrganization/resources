@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Status bar icons</string>
     <string name="settings_design_status_bar_icons_light">Light icons</string>
     <string name="settings_design_status_bar_icons_dark">Dark icons</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
     <string name="settings_restart_active_tiles_title">Restart active tiles</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Polish</string>
     <string name="settings_translations_locale_ko_rKR">Korean, South Korea</string>
     <string name="settings_translations_locale_uk_rUA">Ukrainian</string>
+    <string name="settings_translations_locale_bn_rBD">Bengali, Bangladesh</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Tile visibility</string>
     <string name="settings_component_summary_off">Hide the tile in the Quick Settings layout</string>

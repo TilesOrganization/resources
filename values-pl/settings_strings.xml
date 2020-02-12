@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Ikony pasku stanu</string>
     <string name="settings_design_status_bar_icons_light">Jasne ikony</string>
     <string name="settings_design_status_bar_icons_dark">Ciemne ikony</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Zaawansowane</string>
     <string name="settings_restart_active_tiles_title">Zrestaruj aktywne kafelki</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Polskie</string>
     <string name="settings_translations_locale_ko_rKR">Koreański, Korea Południowa</string>
     <string name="settings_translations_locale_uk_rUA">Ukraiński</string>
+    <string name="settings_translations_locale_bn_rBD">Bengalski, Bangladesz</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Widoczność kafelka</string>
     <string name="settings_component_summary_off">Ukryj kafelek z Szybkich Ustawień</string>

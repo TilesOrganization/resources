@@ -49,6 +49,10 @@
     <string name="settings_design_status_bar_icons_title">Durum çubuğu simgeleri</string>
     <string name="settings_design_status_bar_icons_light">Aydınlık simgeler</string>
     <string name="settings_design_status_bar_icons_dark">Karanlık simgeler</string>
+    <!--design tiles icons style-->
+    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
     <!--advanced-->
     <string name="settings_advanced">Gelişmiş</string>
     <string name="settings_restart_active_tiles_title">Etkin karoları yeniden başlat</string>
@@ -98,6 +102,7 @@
     <string name="settings_translations_locale_pl">Lehçe</string>
     <string name="settings_translations_locale_ko_rKR">Korece, Güney Kore</string>
     <string name="settings_translations_locale_uk_rUA">Ukrayna</string>
+    <string name="settings_translations_locale_bn_rBD">Bengalce, Bangladeş</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Karo görünürlüğü</string>
     <string name="settings_component_summary_off">Karoyu, Hızlı Ayarlar yerleşiminden gizle</string>

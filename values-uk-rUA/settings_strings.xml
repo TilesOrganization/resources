@@ -410,6 +410,6 @@
     <string name="settings_sleep_tile_accessibility_service_summary_off">Заборонено. Плитка не може переводити пристрій в режим сну.</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">Дозволено. Плитка може переводити пристрій в режим сну.</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати темну тему</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати темну тему</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати темну тему.</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати темну тему.</string>
 </resources>

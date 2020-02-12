@@ -460,6 +460,6 @@
     <string name="battery_settings_tile_label">Налаштування акумулятора</string>
     <!--dark theme-->
     <string name="dark_theme_tile_label">Темна тема</string>
-    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
-    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
+    <string name="dark_theme_tile_alert_dialog_message">Щоб дозволити плитці змінювати темну тему, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <string name="dark_theme_tile_tip_summary">Будь ласка, не забудьте активувати вбудовану темну тему Android хоча б один раз, перш ніж використовувати цю плитку, інакше спроба зазнає невдачі. \nЯкщо плитка не працює або якщо це повідомлення все ще видно - пристрій не підтримує темну тему Android за замовчуванням.</string>
 </resources>

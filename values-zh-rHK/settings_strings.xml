@@ -59,7 +59,7 @@
     <string name="settings_permission">權限</string>
     <string name="settings_phone_call_permission_title">撥號權限</string>
     <string name="settings_location_permissions_preference_title">位置權限</string>
-    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
+    <string name="settings_background_location_permissions_preference_title">背景位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
     <string name="settings_feedback">意見及援助</string>
     <string name="settings_privacy_policy">私隱政策</string>
@@ -94,10 +94,10 @@
     <string name="settings_translations_locale_ja">日文</string>
     <string name="settings_translations_locale_tr">土耳其文</string>
     <string name="settings_translations_locale_zh_rCN">簡體中文</string>
-    <string name="settings_translations_locale_nb">挪威Bokmål</string>
-    <string name="settings_translations_locale_pl">拋光</string>
-    <string name="settings_translations_locale_ko_rKR">Korean, South Korea</string>
-    <string name="settings_translations_locale_uk_rUA">Ukrainian</string>
+    <string name="settings_translations_locale_nb">挪威文</string>
+    <string name="settings_translations_locale_pl">波蘭文</string>
+    <string name="settings_translations_locale_ko_rKR">韓文, 南韓</string>
+    <string name="settings_translations_locale_uk_rUA">烏克蘭文</string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>

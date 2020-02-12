@@ -50,9 +50,9 @@
     <string name="settings_design_status_bar_icons_light">Світлі іконки</string>
     <string name="settings_design_status_bar_icons_dark">Темні іконки</string>
     <!--design tiles icons style-->
-    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
-    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
-    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
+    <string name="settings_design_tiles_icons_style">Стиль іконок плиток</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Використовувати звичайні іконки плиток для увімкненого/активного стану, а перекреслені іконки плиток - для вимкненого/неактивного стану</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Використовувати звичайні іконки плиток для увімкненого/активного та вимкненого/неактивного стану</string>
     <!--advanced-->
     <string name="settings_advanced">Додатково</string>
     <string name="settings_restart_active_tiles_title">Перезапустити активні плитки</string>
@@ -81,10 +81,12 @@
     <string name="settings_credit_app_icon">Іконка додатку</string>
     <string name="settings_translations">Переклади</string>
     <string name="settings_translations_thanks">Якщо ви бажаєте допомогти з перекладом додатка вашою мовою, будь ласка, зв\'яжіться зі мною поштою: rascarlo@gmail.com.\nДякую!</string>
+    <string name="settings_translations_locale_bn_rBD">Бенгальська, Бангладеш</string>
     <string name="settings_translations_locale_pt_rBR">Бразильська португальська</string>
     <string name="settings_translations_locale_nl">Голландська</string>
     <string name="settings_translations_locale_es">Іспанська</string>
     <string name="settings_translations_locale_it">Італійська</string>
+    <string name="settings_translations_locale_ko_rKR">Корейська, Південна Корея</string>
     <string name="settings_translations_locale_de">Німецька</string>
     <string name="settings_translations_locale_nb">Норвезька букмол</string>
     <string name="settings_translations_locale_pl">Польська</string>
@@ -96,13 +98,11 @@
     <string name="settings_translations_locale_zh_rTW">Традиційна китайська, Тайвань</string>
     <string name="settings_translations_locale_tr">Турецька</string>
     <string name="settings_translations_locale_hu">Угорська</string>
+    <string name="settings_translations_locale_uk_rUA">Українська</string>
     <string name="settings_translations_locale_fr">Французька</string>
     <string name="settings_translations_locale_hr">Хорватська</string>
     <string name="settings_translations_locale_cs">Чеська</string>
     <string name="settings_translations_locale_ja">Японська</string>
-    <string name="settings_translations_locale_ko_rKR">Корейська, Південна Корея</string>
-    <string name="settings_translations_locale_uk_rUA">Українська</string>
-    <string name="settings_translations_locale_bn_rBD">Бенгалі, Бангладеш</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Видимість плитки</string>
     <string name="settings_component_summary_off">Приховати плитку з панелі швидких налаштувань</string>
@@ -410,6 +410,6 @@
     <string name="settings_sleep_tile_accessibility_service_summary_off">Заборонено. Плитка не може переводити пристрій в режим сну.</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">Дозволено. Плитка може переводити пристрій в режим сну.</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати темну тему</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати темну тему</string>
 </resources>

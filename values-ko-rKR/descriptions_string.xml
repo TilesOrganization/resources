@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">텍스트를 공유하기 위해 안드로이드 기본 브로드 캐스트를 수신할 수 있는 복사 및 공유 또는 저장이 가능한 서드파티 앱과 호환됩니다.</string>
     <string name="description_contacts_tile">선택한 연락처의 상세정보에 빠르게 접근하여 전화, 문자, 편집 등을 수행합니다.</string>
     <string name="description_counter_tile">간단한 개수 세기.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">데이터 로밍을 켜거나 끕니다.</string>
     <string name="description_demo_mode_tile">데모 모드로 들어갑니다. \n이 타일을 사용하려면 보안 설정 권한 및 덤프 권한이 필요합니다.</string>
     <string name="description_density_tile">화면 밀도를 조정.</string>

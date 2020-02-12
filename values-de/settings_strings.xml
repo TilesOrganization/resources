@@ -405,4 +405,7 @@
     <!--sleep-->
     <string name="settings_sleep_tile_accessibility_service_summary_off">Gewährt. Die Kachel darf das Gerät nicht in den Ruhezustand versetzen</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">Verweigert. Die Kachel darf das Gerät in den Ruhezustand versetzen.</string>
+    <!--dark theme-->
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
 </resources>

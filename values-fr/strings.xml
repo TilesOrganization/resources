@@ -21,6 +21,7 @@
     <string name="save">Enregistrer</string>
     <string name="save_and_close">Enregistrer &amp; Fermer</string>
     <string name="warning">Avertissement</string>
+    <string name="tip">Recommandations</string>
     <string name="accessibility_service_label">Service d\'accessibilité</string>
     <string name="accessibility_service_description">Service d\'accessibilité pour permettre à Tiles d\'effectuer les actions globales : afficher le menu d\'alimentation, afficher les activités récentes, basculer le mode multifenêtre, et sur Android Pie (API 28) et ultérieure mettre l\'appareil en veille, prendre des captures d\'écran.</string>
     <string name="accessibility_service_api_p_required_message">Android Pie (API 28) et ultérieure requis pour effectuer ces actions via le service d\'accessibilité.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Battery settings</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Thème foncé</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">Pregledajte sadržaj najnovijih isječaka, kopirajte ih, dijelite ili spremite s aplikacijama trećih strana koje mogu zaprimiti Androidov zadani prijenos radi dijeljenja teksta.</string>
     <string name="description_contacts_tile">Brzo pristupite detaljima odabranog kontakta za pozivanje, slanje SMS-a, uređivanje, …</string>
     <string name="description_counter_tile">Jednostavan brojač.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Uključivanje ili isključivanje roaminga podataka.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_demo_mode_tile">Uključite Android Demo način rada. Demo način rada dopušta da uređaj prisili statusnu traku u fiksno stanje, korisno za spremanje snimaka zaslona sa konzistentnim stanjem statusne trake ili testiranje različitih permutacija ikona statusne trake.\nPotrebno je dopustiti izmjenu sigurnosnih postavki te upotrebu pohrane kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_density_tile">Promijenite gustoću zaslona.</string>

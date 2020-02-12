@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">Показывает буфер обмена для копирования или сохранения содержимого, или для того, чтобы поделиться им через сторонние приложения, которые используют основной системный канал передачи Android, чтобы делиться текстом.</string>
     <string name="description_contacts_tile">Дает быстрый доступ к содержимому контакта для его изменения, совершения звонка, отправки СМС и т.п.</string>
     <string name="description_counter_tile">Простой счетчик.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Включает/выключает режим роуминга.\nДля использования этой плитки необходимо предоставить доступ к записи настроек безопасности.</string>
     <string name="description_demo_mode_tile">Запускает демонстрационный режим Android. Демонстрационный режим позволяет зафиксировать строку состояния, что может быть полезно для снятия скриншотов с одинаковым содержимым строки состояния, или для тестирования различных состояний иконок строки состояния.\nДля использования этой плитки необходимо предоставить доступ к записи настроек безопасности и для выгрузки данных.</string>
     <string name="description_density_tile">Позволяет менять плотность экрана.</string>

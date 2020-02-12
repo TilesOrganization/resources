@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">Відображає буфер обміну для копіювання або збереження вмісту, або для того, щоб поділитися ним через сторонні додатки, які використовують основний системний канал передачі Android, щоб ділитися текстом.</string>
     <string name="description_contacts_tile">Дає швидкий доступ до вмісту контакту для його редагування, здійснення дзвінка, відправки СМС тощо.</string>
     <string name="description_counter_tile">Простий лічильник.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Вмикає/вимикає режим роумінгу.\nЩоб використовувати цю плитку, необхідно надати додатку доступ до налаштувань безпеки.</string>
     <string name="description_demo_mode_tile">Запускає демо-режим Android. Демонстраційний режим дозволяє зафіксувати рядок стану, що може бути корисно, коли потрібно зробити знімки екрана з однаковим вмістом рядка стану або для тестування різних станів іконок рядка стану.\nЩоб використовувати цю плитку, необхідно надати додатку доступ до налаштувань безпеки і вивантаження даних.</string>
     <string name="description_density_tile">Дозволяє змінювати щільність екрана.</string>

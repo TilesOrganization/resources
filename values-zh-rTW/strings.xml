@@ -21,6 +21,7 @@
     <string name="save">儲存</string>
     <string name="save_and_close">儲存並關閉</string>
     <string name="warning">警告</string>
+    <string name="tip">建議</string>
     <string name="accessibility_service_label">協助工具</string>
     <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
     <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Battery settings</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">深色主題</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

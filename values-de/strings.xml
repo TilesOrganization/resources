@@ -21,6 +21,7 @@
     <string name="save">Sichern</string>
     <string name="save_and_close">Sichern &amp; Schliessen</string>
     <string name="warning">Warnung</string>
+    <string name="tip">Empfehlungen</string>
     <string name="accessibility_service_label">Erreichbarkeitsdienst</string>
     <string name="accessibility_service_description">Erreichbarkeitsdienst um Tiles die Ausführung globaler Aktionen zu erlauben: Zeige den System Power-Menü, zeige letzte Apps, umschalten des Mehrfenster-Modus und ab Android Pie (API 28) das Gerät in den Ruhezustand versetzen und Screenshot machen.</string>
     <string name="accessibility_service_api_p_required_message">Android Pie (API 28) und höher ist erforderlich, damit der Erreichbarkeitsdienst solche Aktionen durchführen kann.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">Damit die Kachel die Einstellung "Immer aktiv" ändern kann, öffne bitte die Einstellungen und erteile Schreibrechte für abgesicherte Einstellungen.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Akkueinstellungen</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Dunkles Design</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

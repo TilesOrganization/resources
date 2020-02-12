@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">View the content of the latest clipping, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
     <string name="description_contacts_tile">Quickly access the details of the selected contact to call, text, edit, …</string>
     <string name="description_counter_tile">Prosty licznik.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Turn data roaming on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_demo_mode_tile">Enter Android Demo mode. Demo mode allows the device to force the status bar into a fixed state, useful for taking screenshots with a consistent status bar state, or with testing different status icon permutations.\nWrite secure settings permission and dump permission are required to use this tile.</string>
     <string name="description_density_tile">Zmienia zagęszczenie pixeli na ekarnie.</string>

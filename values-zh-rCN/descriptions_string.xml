@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">查看剪贴板的最新内容，进行复制、分享或者保存到可接收 Android 默认广播的第三方应用以分享文本。</string>
     <string name="description_contacts_tile">快速访问所选联系人的详情以呼叫、发短信、编辑 …</string>
     <string name="description_counter_tile">一个简单的计数器</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">打开或关闭数据漫游。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_demo_mode_tile">进入 Android 演示模式。 演示模式允许设备强制状态栏保持固定状态，对进行状态栏的动态变化截图或者测试不同的状态图标排列时很有用。\n需要写入安全设置权限和转储权限才能使用这个瓷贴。</string>
     <string name="description_density_tile">更改屏幕密度</string>

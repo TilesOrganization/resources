@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">可查看剪貼簿最新的內容，並可以進行複製、分享或儲存至其他應用程式。</string>
     <string name="description_contacts_tile">快速聯繫所選取的聯絡人進行撥號、發送簡訊或編輯聯絡人等…</string>
     <string name="description_counter_tile">簡易的計數器。</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">允許快速開啟或關閉數據漫遊。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
     <string name="description_demo_mode_tile">允許快速開啟及進入Android內建的示範模式，並允許使用者對示範模式進行設定，例如狀態列等。用戶可利用「示範模式」配合一些螢幕截圖或演示需要。\n使用此快速設定動態磚需要授予可寫入安全設定的權限及檢測系統資訊的權限。</string>
     <string name="description_density_tile">允許快速變更裝置螢幕的顯示大小。</string>

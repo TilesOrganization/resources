@@ -21,6 +21,7 @@
     <string name="save">Kaydet</string>
     <string name="save_and_close">Kaydet ve Kapat</string>
     <string name="warning">Uyarı</string>
+    <string name="tip">Öneriler</string>
     <string name="accessibility_service_label">Erişilebilirlik Hizmeti</string>
     <string name="accessibility_service_description">Şunlar gibi küresel eylemleri gerçekleştirmek için erişilebilirlik hizmeti gerekir: sistem güç penceresini açmak, son uygulamalar ekranını görüntülemek, çoklu pencereyi aktifleştirmek, ve işletim sistemi Android Pie (API 28) ve üstüyse cihazı uyku moduna almak, ekran görüntüsü çekmek.</string>
     <string name="accessibility_service_api_p_required_message">Erişilebilirlik hizmetinin bu gibi eylemleri gerçekleştirebilmesi için Android Pie (API 28) ve üstü gereklidir.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Battery settings</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Koyu tema</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

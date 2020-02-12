@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">Vis innholdet av den nyeste utklippingen, for å kopiere, for å dele, eller for å lagre med tredjepartsapper som kan motta Androids originale kringkasting for å dele tekst.</string>
     <string name="description_contacts_tile">Få rask tilgang til detaljene til den valgte kontakten for å ringe, tekste, redigere, …</string>
     <string name="description_counter_tile">En enkel teller.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Slå data roaming på eller av.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_demo_mode_tile">Gå inn i Android Demo modus. Demo modus tillater enheten til å tvinge statuslinjen inn i en fast tilstand, nyttig for å ta skjermbilder med en konsistent statuslinje status, eller med testing av forskjellige status ikon kombinasjonsmuligheter.\nSkrive sikre innstillinger tillatelse og dump-tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_density_tile">Endre tettheten av skjermen.</string>

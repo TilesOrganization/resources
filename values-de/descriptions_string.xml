@@ -23,6 +23,7 @@
     <string name="description_clipboard_tile">Zeigt den Inhalt der Zwischenablage an um ihn zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern, welche einen geteilten Text entgegen nehmen können.</string>
     <string name="description_contacts_tile">Schneller Zugriff auf die Details von ausgewählten Kontakten um diese anzurufen, anzuschreiben, zu bearbeiten, …</string>
     <string name="description_counter_tile">Ein einfacher Zähler.</string>
+    <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">De- oder aktiviert das Daten-Roaming.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
     <string name="description_demo_mode_tile">Startet den Android Demo-Modus. Der Demo-Modus erlaubt dem Smartphone die Status-Bar in einen fixen Zustand zu versetzen, sinnvoll zum Erstellen von Screenshot\'s mit einer konsistenten Status-Bar oder zum Testen verschiedenster Status-Icon Permutationen.\nDas Schreibrecht für abgesicherte Einstellungen und das Recht für einen Speicherauszug werden für diese Kachel benötigt.</string>
     <string name="description_density_tile">Ändert die Anzeigegröße des Bildschirms.</string>

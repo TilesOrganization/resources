@@ -21,6 +21,7 @@
     <string name="save">Зберегти</string>
     <string name="save_and_close">Зберегти і закрити</string>
     <string name="warning">Попередження</string>
+    <string name="tip">Рекомендації</string>
     <string name="accessibility_service_label">Сервіс спеціальних можливостей</string>
     <string name="accessibility_service_description">Сервіс спеціальних можливостей дозволяє Tiles виконувати наступні глобальні команди: показ статистики використання акумулятора, показ вікна недавніх додатків, перемикання мультивіконного режиму, а на Android Pie (API 28) і вище - переводити пристрій в режим сну і робити знімки екрана.</string>
     <string name="accessibility_service_api_p_required_message">Для виконання цієї дії з використанням сервісу спеціальних можливостей потрібен Android Pie (API 28) і вище.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">Щоб дозволити плитці перемикати режим активного екрана, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Налаштування акумулятора</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Темна тема</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

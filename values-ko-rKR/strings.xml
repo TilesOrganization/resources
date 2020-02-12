@@ -21,6 +21,7 @@
     <string name="save">저장</string>
     <string name="save_and_close">저장 &amp; 닫기</string>
     <string name="warning">경고</string>
+    <string name="tip">권장 사항</string>
     <string name="accessibility_service_label">접근성 서비스</string>
     <string name="accessibility_service_description">타일이 다중 작업을 수행할 수 있도록 접근성 서비스 허용 : 시스템 전원 대화 상자를 표시, 최근 화면, 멀티윈도우 전환, 안드로이드 파이 (API 28) 절전상태에서 화면캡처.</string>
     <string name="accessibility_service_api_p_required_message">이러한 접근성 서비스들을 수행하려면 안드로이드 파이(API 28) 이상이 요구 됩니다.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">화면이 꺼져있어도 표시되도록 하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">배터리 설정</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">어두운 테마</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

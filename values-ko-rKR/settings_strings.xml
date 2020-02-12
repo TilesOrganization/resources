@@ -405,4 +405,7 @@
     <!--sleep-->
     <string name="settings_sleep_tile_accessibility_service_summary_off">비활성화됨. 기기를 절전모드 할 수 없습니다</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">활성화됨. 기기를 절전모드 할 수 있습니다</string>
+    <!--dark theme-->
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
 </resources>

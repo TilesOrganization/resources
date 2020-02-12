@@ -21,6 +21,7 @@
     <string name="save">Uložit</string>
     <string name="save_and_close">Uložit &amp; Zavřít</string>
     <string name="warning">Varování</string>
+    <string name="tip">Doporučení</string>
     <string name="accessibility_service_label">Služba přístupnosti</string>
     <string name="accessibility_service_description">Služba přístupnosti umožňuje dlaždicím provádět globální akce: zobrazovat dialogové okno menu napájení, zobrazovat obrazovku Nedávných, přepínat více oken, v Android Pie (API 28) a vyšším uvést zařízení do režimu spánku, pořídit snímek obrazovky.</string>
     <string name="accessibility_service_api_p_required_message">K provedení takových akcí je vyžadován Android Pie (API 28) a vyšší.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">Aby dlaždice mohla měnit AOD, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Nastavení baterie</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Tmavý motiv</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

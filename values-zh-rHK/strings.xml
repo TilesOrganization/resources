@@ -21,6 +21,7 @@
     <string name="save">儲存</string>
     <string name="save_and_close">儲存及關閉</string>
     <string name="warning">警告</string>
+    <string name="tip">建議</string>
     <string name="accessibility_service_label">無障礙設定</string>
     <string name="accessibility_service_description">無障礙設定允許Tiles執行一些系統功能及操作，例如顯示電源選單、顯示最近程式畫面、開／關多視窗，及在 Android Pie (API 28) 或以上支援將裝置休眠、進行屏幕截圖。</string>
     <string name="accessibility_service_api_p_required_message">此類操作的無障礙設定需要Android Pie (API 28) 或以上的支援。</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">要允許快速設定磚變更「Always on」的使用狀態，請前往設定並允許可寫入安全設定的權限。</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">電池設定</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">深色主題背景</string>
+    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
+    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
 </resources>

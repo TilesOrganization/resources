@@ -21,6 +21,7 @@
     <string name="save">Salva</string>
     <string name="save_and_close">Salva &amp; Chiudi</string>
     <string name="warning">Avvertimento</string>
+    <string name="tip">Suggerimento</string>
     <string name="accessibility_service_label">Servizio accessibilità</string>
     <string name="accessibility_service_description">Servizio di accessibilità per permettere a Tiles di eseguire azioni globali: mostrare finestra di dialogo accensione di sistema, mostare schermo recenti, cambiare multi-window, e su Android Pie (API 28) e superiore mettere il dispositivo in sospensione, acquisire screenshot.</string>
     <string name="accessibility_service_api_p_required_message">Android Pie (API 28) e superiore è richiesto per il servizio accessibilità per compiere tale azione.</string>
@@ -457,4 +458,8 @@
     <string name="always_on_tile_alert_dialog_message">Per permettere alla funzione di cambiare sempre attivo, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--battery settings-->
     <string name="battery_settings_tile_label">Battery settings</string>
+    <!--dark theme-->
+    <string name="dark_theme_tile_label">Tema scuro</string>
+    <string name="dark_theme_tile_alert_dialog_message">Per permettere alla funzione di cambiare tema scuro, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
+    <string name="dark_theme_tile_tip_summary">Per favore assicurarsi di aver attivato il tema scuro incorporato di Android almeno una volta prima di utilizzare la funzione o non funzionerà. \nSe la funzione continua a non funzionare o se questo messaggio è ancora visibile, il dispositivo non supporta il tema scuro predefinito Android.</string>
 </resources>

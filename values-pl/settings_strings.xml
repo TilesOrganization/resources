@@ -171,6 +171,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string> <!-- Need to be translated-->
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Odtwarzaj domyślne dźwięki</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>

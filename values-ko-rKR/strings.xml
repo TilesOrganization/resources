@@ -46,6 +46,14 @@
     <string name="custom_label">맞춤 라벨</string>
     <string name="enter_label">라벨 입력</string>
     <string name="not_set_message">미 설정</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">기기 관리자 활성화</string>
     <string name="device_admin_deactivated">기기 관리자 비활성화</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">타일이 벨소리 모드를 변경하게하려면 알림 일시중지 액세스를 허용하십시오.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">카페인</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">서비스 동작중</string>
     <string name="caffeine_tile_service_notification_content_text">카페인타임을 가집니다. 자동으로 절전모드에 진입할 수 없으므로 이 서비스를 중지하려면 탭 하십시오.</string>
     <!--streetview-->

@@ -171,6 +171,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Не воспроизводить звук при выборе нормального режима звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Скрыть действие</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>

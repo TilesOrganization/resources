@@ -46,6 +46,16 @@
     <string name="custom_label">Свой текст</string>
     <string name="enter_label">Введите текст</string>
     <string name="not_set_message">Не задано</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Администратор устройства активирован</string>
     <string name="device_admin_deactivated">Администратор устройства деактивирован</string>
@@ -123,6 +133,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Чтобы позволить плитке менять режим звонка, пожалуйста, откройте настройки и разрешите доступ к режиму Не беспокоить.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Режим бодрствования</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">Сервис запущен</string>
     <string name="caffeine_tile_service_notification_content_text">Устройство не заснет. Нажмите, чтобы остановить сервис.</string>
     <!--streetview-->

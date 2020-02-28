@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">着信モードが通常の時は音を再生しない。</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">着信モードが通常の時は既定の通知音を再生する。</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">設定を開くアクションを表示する。</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">アクションを隠す。</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">音の再生</string>

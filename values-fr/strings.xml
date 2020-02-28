@@ -46,6 +46,14 @@
     <string name="custom_label">Libellé personnalisé</string>
     <string name="enter_label">Saisir le libellé</string>
     <string name="not_set_message">Non défini</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Administrateur de l\'appareil activé</string>
     <string name="device_admin_deactivated">Administrateur de l\'appareil désactivé</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Pour permettre à la tuile changer le mode de sonnerie, veuillez ouvrir les paramètres et autorisez l\'accès à Ne Pas Déranger (DND).</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">Le service est en cours d\'exécution</string>
     <string name="caffeine_tile_service_notification_content_text">L\'appareil ne se mettra pas en veille. Appuyez pour arrêter le service.</string>
     <!--streetview-->

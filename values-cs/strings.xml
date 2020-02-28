@@ -46,6 +46,15 @@
     <string name="custom_label">Vlastní popisek</string>
     <string name="enter_label">Zadejte popisek</string>
     <string name="not_set_message">Nenastaveno</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
     <string name="device_admin_deactivated">Správce zařízení byl deaktivován</string>
@@ -123,6 +132,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Aby dlaždice mohla měnit režim vyzvánění, otevřete nastavení a povolte přístup k nastavení Nerušit.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofein</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">Služba je spuštěna</string>
     <string name="caffeine_tile_service_notification_content_text">Zařízení nepřejde do režimu spánku. Klepnutím službu zastavíte.</string>
     <!--streetview-->

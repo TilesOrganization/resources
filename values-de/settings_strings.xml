@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Spiele keinen Ton, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Spiele den Standard-Benachrichtigungston, wenn der Klingel-Modus \"Normal\" ausgewählt ist</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zeige die Aktion, um die Einstellungen zu öffnen</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Verstecke die Aktion</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Ton abspielen</string>

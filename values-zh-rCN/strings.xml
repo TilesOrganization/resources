@@ -46,6 +46,14 @@
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
     <string name="not_set_message">Not set</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">设备管理器已激活</string>
     <string name="device_admin_deactivated">设备管理器未激活</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允许瓷贴切换情景模式，请打开设置并允许勿扰模式访问。</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">保持亮屏</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">服务正在运行</string>
     <string name="caffeine_tile_service_notification_content_text">设备不会进入休眠。轻按即可停止服务。</string>
     <!--streetview-->

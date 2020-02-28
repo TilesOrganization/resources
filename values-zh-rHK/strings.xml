@@ -46,6 +46,14 @@
     <string name="custom_label">自定義設定磚名稱</string>
     <string name="enter_label">輸入設定磚名稱</string>
     <string name="not_set_message">沒有設定</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">裝置管理員已啟用</string>
     <string name="device_admin_deactivated">裝置管理員已停用</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">保持屏幕開啟</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">服務正在運行</string>
     <string name="caffeine_tile_service_notification_content_text">裝置會保持屏幕開啟，輕按以停止服務。</string>
     <!--streetview-->

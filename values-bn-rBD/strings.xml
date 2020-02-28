@@ -46,6 +46,14 @@
     <string name="custom_label">Custom label</string>
     <string name="enter_label">Enter label</string>
     <string name="not_set_message">Not set</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">No timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Device administrator activated</string>
     <string name="device_admin_deactivated">Device administrator deactivated</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeine</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
     <string name="caffeine_tile_service_notification_title">Service is running</string>
     <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
     <!--streetview-->

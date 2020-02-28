@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Não tocar qualquer som quando o modo de volume normal está selecionado</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Tocar som quando o modo de volume normal está selecionado</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Mostrar ação para abrir as configurações</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Ocultar ação</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Tocar som</string>

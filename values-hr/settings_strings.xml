@@ -170,6 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nemojte reproducirati zvuk kad je odabran normalni način zvona</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>

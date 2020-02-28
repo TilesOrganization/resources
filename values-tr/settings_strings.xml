@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Normal zil modu seçiliyken ses çalma</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Normal zil modu seçiliyken varsayılan bildirim sesini çal</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Ayarları açma eylemini göster</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Eylemi gizle</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Ses çal</string>

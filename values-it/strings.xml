@@ -46,6 +46,14 @@
     <string name="custom_label">Etichetta personalizzata</string>
     <string name="enter_label">Immettere etichetta</string>
     <string name="not_set_message">Non impostato</string>
+    <string name="custom">Custom</string>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_value_no_timeout">Nessun timeout</string>
+    <string name="timeout_value_in_minutes">Timeout (minuti)</string>
+    <plurals name="formatted_minutes_plurals">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minuti</item>
+    </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Amministratore dispositivo attivato</string>
     <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>
@@ -123,6 +131,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Per permettere alla funzione di cambiare modalità squillo, per favore aprire le impostazioni e consentire Accesso Non disturbare.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeina</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Per permettere alla funzione di utilizzare caffeina, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
     <string name="caffeine_tile_service_notification_title">Servizio in esecuzione</string>
     <string name="caffeine_tile_service_notification_content_text">Il dispositivo non andrà in sospensione. Tocca per interrompere il servizio.</string>
     <!--streetview-->

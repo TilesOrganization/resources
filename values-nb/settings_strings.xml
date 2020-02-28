@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Ikke spill noen lyd når ringemodus normal er valgt</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Spill original varsellyd når ringemodus normal er valgt</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Vis handling til å åpne innstillinger</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skjul handling</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Spill lyd</string>

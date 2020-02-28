@@ -169,6 +169,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">벨소리 모드 노말 선택한 경우 소리를 재생하지 않습니다</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">벨소리 모드 기본값이 선택된 경우 노말 알림 소리 재생</string>
     <!--caffeine-->
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">설정 여는 동작 표시</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">동작 숨기기</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">소리 재생</string>

@@ -139,14 +139,14 @@
     <string name="settings_application_tile_application_list_launch_title">লঞ্চ করা হবে যে অ্যাপ</string>
     <string name="settings_application_tile_loading_applications">অ্যাপ লোড হচ্ছে...</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">অননুমোদিত। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির নেই</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">অনুমতি নেই। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির নেই</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">অনুমোদিত। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির আছে</string>
-    <string name="settings_brightness_tile_action_change_brightness">Change brightness</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_title">Brightness levels</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">High: %1$d%%\nMedium: %2$d%%\nLow: %3$d%%</string>
+    <string name="settings_brightness_tile_action_change_brightness">ব্রাইটনেস পরিবর্তন</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_title">ব্রাইটনেস লেভেল</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">সর্বোচ্চ: %1$d%%\nমধ্যম: %2$d%%\nসর্বনিম্ন: %3$d%%</string>
     <!--call-->
-    <string name="settings_call_tile_action_open_phone">Open phone app</string>
-    <string name="settings_call_tile_action_make_call">Call selected contact</string>
+    <string name="settings_call_tile_action_open_phone">ফোন অ্যাপ খুলুন</string>
+    <string name="settings_call_tile_action_make_call">সিলেক্ট করা কন্ট্রাক্টদের কল দিন</string>
     <string name="settings_call_contact_tile_phone_call_permission_title">Phone call permission</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls</string>
     <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls</string>

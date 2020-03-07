@@ -46,14 +46,14 @@
     <string name="custom_label">Vlastní popisek</string>
     <string name="enter_label">Zadejte popisek</string>
     <string name="not_set_message">Nenastaveno</string>
-    <string name="custom">Custom</string>
-    <string name="timeout">Timeout</string>
-    <string name="timeout_value_no_timeout">No timeout</string>
-    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <string name="custom">Vlastní</string>
+    <string name="timeout">Časový limit</string>
+    <string name="timeout_value_no_timeout">Bez časového limitu</string>
+    <string name="timeout_value_in_minutes">Časový limit (minuty)</string>
     <plurals name="formatted_minutes_plurals">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
-        <item quantity="few">%d minutes</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="other">%d minuty</item>
+        <item quantity="few">%d minut</item>
     </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
@@ -132,7 +132,7 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Aby dlaždice mohla měnit režim vyzvánění, otevřete nastavení a povolte přístup k nastavení Nerušit.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofein</string>
-    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Aby dlaždice mohla používat Kofein, otevřete nastavení a povolte úpravy nastavení systému.</string>
     <string name="caffeine_tile_service_notification_title">Služba je spuštěna</string>
     <string name="caffeine_tile_service_notification_content_text">Zařízení nepřejde do režimu spánku. Klepnutím službu zastavíte.</string>
     <!--streetview-->
@@ -470,6 +470,6 @@
     <string name="battery_settings_tile_label">Nastavení baterie</string>
     <!--dark theme-->
     <string name="dark_theme_tile_label">Tmavý motiv</string>
-    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
-    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
+    <string name="dark_theme_tile_alert_dialog_message">Aby dlaždice mohla měnit tmavý motiv, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
+    <string name="dark_theme_tile_tip_summary">Ujistěte se, že jste před použitím dlaždice aktivovali výchozí tmavý motiv v Androidu alespoň jednou, jinak funkce selže. \nPokud dlaždice stále selhává nebo je tato zpráva stále viditelná, vaše zařízení nepodporuje výchozí tmavý motiv Androidu.</string>
 </resources>

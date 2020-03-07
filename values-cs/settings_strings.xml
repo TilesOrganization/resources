@@ -50,9 +50,9 @@
     <string name="settings_design_status_bar_icons_light">Světlé ikony</string>
     <string name="settings_design_status_bar_icons_dark">Tmavé ikony</string>
     <!--design tiles icons style-->
-    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
-    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
-    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
+    <string name="settings_design_tiles_icons_style">Styl ikon dlaždic</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Použít normální ikony pro zapnutý / aktivní stav a přeškrtnuté ikony pro vypnutý / neaktivní stav</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Použít normální ikony pro zapnutý / aktivní stav a pro vypnutý / neaktivní stav</string>
     <!--advanced-->
     <string name="settings_advanced">Advanced</string>
     <string name="settings_restart_active_tiles_title">Restartovat aktivní dlaždice</string>
@@ -170,8 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nepřehrávat žádný zvuk, když je vybrán normální režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Přehrát výchozí zvuk oznámení, když je vybrán normální režim</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemá povoleno používat funkci Kofein</string>
+    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice má povoleno používat funkci Kofein</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobrazit akci pro otevření nastavení</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skrýt akci</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Přehrát zvuk</string>
@@ -410,6 +410,6 @@
     <string name="settings_sleep_tile_accessibility_service_summary_off">Zakázáno. Dlaždice nemůže uvést zařízení do režimu spánku</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">Povoleno. Dlaždice může uvést zařízení do režimu spánku</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může měnit tmavý motiv</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže měnit tmavý motiv</string>
 </resources>

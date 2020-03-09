@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Dopuštenja lokacije</string>
     <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Dopuštenje za izmjenu postavki sustava</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">Povratne informacije &amp; Podrška</string>
     <string name="settings_privacy_policy">Pravila o privatnosti</string>
     <string name="settings_wiki">Wiki</string>
@@ -170,8 +171,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nemojte reproducirati zvuk kad je odabran normalni način zvona</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Reproducirajte zadanu zvučnu obavijest kada je odabran normalan način zvona</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Prikaži radnju za otvaranje postavki</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Sakrij radnju</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Reproduciraj zvuk</string>

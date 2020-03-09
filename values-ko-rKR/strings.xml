@@ -132,6 +132,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">카페인</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
     <string name="caffeine_tile_service_notification_title">서비스 동작중</string>
     <string name="caffeine_tile_service_notification_content_text">카페인타임을 가집니다. 자동으로 절전모드에 진입할 수 없으므로 이 서비스를 중지하려면 탭 하십시오.</string>
     <!--streetview-->

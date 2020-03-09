@@ -132,6 +132,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeina</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Per permettere alla funzione di utilizzare caffeina, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">Per permettere alla funzione di utilizzare caffeina, per favore aprire le impostazioni e concedere l\'autorizzazione visualizzazione sopra altre app.</string>
     <string name="caffeine_tile_service_notification_title">Servizio in esecuzione</string>
     <string name="caffeine_tile_service_notification_content_text">Il dispositivo non andrà in sospensione. Tocca per interrompere il servizio.</string>
     <!--streetview-->

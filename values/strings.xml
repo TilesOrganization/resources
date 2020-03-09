@@ -54,6 +54,9 @@
         <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
+    <string name="timeout_progress_bar">Timeout progress bar</string>
+    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
+    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
     <!--device administrator-->
     <string name="device_admin_activated">Device administrator activated</string>
     <string name="device_admin_deactivated">Device administrator deactivated</string>
@@ -132,6 +135,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeine</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
     <string name="caffeine_tile_service_notification_title">Service is running</string>
     <string name="caffeine_tile_service_notification_content_text">The device won\u2019t go to sleep. Tap to stop service.</string>
     <!--streetview-->

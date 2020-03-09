@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Oprávnění polohy</string>
     <string name="settings_background_location_permissions_preference_title">Oprávnění k přístupu k poloze na pozadí</string>
     <string name="settings_modify_system_settings_permissions_title">Oprávnění úprav nastavení systému</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">Zpětná vazba &amp; podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="settings_wiki">Wiki</string>
@@ -170,8 +171,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Nepřehrávat žádný zvuk, když je vybrán normální režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Přehrát výchozí zvuk oznámení, když je vybrán normální režim</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Zakázáno. Dlaždice nemá povoleno používat funkci Kofein</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Povoleno. Dlaždice má povoleno používat funkci Kofein</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Zakázáno. Dlaždice nemá povoleno používat funkci Kofein</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Povoleno. Dlaždice má povoleno používat funkci Kofein</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobrazit akci pro otevření nastavení</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skrýt akci</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Přehrát zvuk</string>

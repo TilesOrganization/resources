@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Povolenie Poloha</string>
     <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Povolenie Úpravy nastavení systému</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">Spätná väzba a podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobných údajov</string>
     <string name="settings_wiki">Wiki</string>
@@ -170,8 +171,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Neprehrať žiadny zvuk, keď je vybraný normálny režim</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Prehrať predvolený zvuk upozornení, keď je vybraný normálny režim</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Zobraziť akciu pre otvorenie nastavení</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Skryť akciu</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Prehrať zvuk</string>

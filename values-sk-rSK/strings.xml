@@ -133,6 +133,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">Caffeine</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
     <string name="caffeine_tile_service_notification_title">Služba je spustená</string>
     <string name="caffeine_tile_service_notification_content_text">Zariadenie neprejde do režimu spánku. Klepnutím zastavíte službu.</string>
     <!--streetview-->

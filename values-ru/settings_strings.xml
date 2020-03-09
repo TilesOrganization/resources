@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Разрешение на определение местоположения</string>
     <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_wiki">Справка</string>
@@ -171,8 +172,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Не воспроизводить звук при выборе нормального режима звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Скрыть действие</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>

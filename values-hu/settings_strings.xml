@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Engedély helyadatokhoz</string>
     <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">Rendszerbeállítások módosításának engedélyezése</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">Visszajelzés &amp; Támogatás</string>
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="settings_wiki">Wiki</string>
@@ -169,8 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Hang lejátszásának mellőzése Normál csengetési mód esetén</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Alapértelmezett értesítési hang lejátszása Normál csengetési mód esetén</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Opció megjelenítése a beállítások megnyitásához</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Opció elrejtése</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Hang lejátszása</string>

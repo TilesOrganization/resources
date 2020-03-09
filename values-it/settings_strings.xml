@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">Autorizzazione posizione</string>
     <string name="settings_background_location_permissions_preference_title">Autorizzazione posizione in background</string>
     <string name="settings_modify_system_settings_permissions_title">Autorizzazione modifica impostazioni di sistema</string>
+    <string name="settings_display_over_other_apps_permission_title">Autorizzazione visualizzazione sopra altre app</string>
     <string name="settings_feedback">Feedback &amp; Supporto</string>
     <string name="settings_privacy_policy">Politica sulla riservatezza</string>
     <string name="settings_wiki">Wiki</string>
@@ -169,8 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Non emettere suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Emetti suono predefinito di notifica quando modalità squillo normale è selezionata</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Negata. La funzione non ha l\'autorizzazione a utilizzare caffeina</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Concessa. La funzione ha l\'autorizzazione a utilizzare caffeina</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a utilizzare caffeina</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a utilizzare caffeina</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Visualizza azione per aprire le impostazioni</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Nascondi azione</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Emetti suono</string>

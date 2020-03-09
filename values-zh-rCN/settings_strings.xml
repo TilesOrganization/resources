@@ -65,6 +65,7 @@
     <string name="settings_location_permissions_preference_title">位置权限</string>
     <string name="settings_background_location_permissions_preference_title">Background location permission</string>
     <string name="settings_modify_system_settings_permissions_title">修改系统设置权限</string>
+    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
     <string name="settings_feedback">反馈 &amp; 支持</string>
     <string name="settings_privacy_policy">隐私政策</string>
     <string name="settings_wiki">维基</string>
@@ -169,8 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">当选择的情景模式为普通时，不播放声音</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">当选择的情景模式为普通时，播放默认通知音</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">显示打开设置的操作</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">隐藏操作</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">播放声音</string>

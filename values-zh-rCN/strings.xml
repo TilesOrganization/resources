@@ -132,6 +132,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">保持亮屏</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
     <string name="caffeine_tile_service_notification_title">服务正在运行</string>
     <string name="caffeine_tile_service_notification_content_text">设备不会进入休眠。轻按即可停止服务。</string>
     <!--streetview-->

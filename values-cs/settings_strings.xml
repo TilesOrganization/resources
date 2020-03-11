@@ -65,7 +65,7 @@
     <string name="settings_location_permissions_preference_title">Oprávnění polohy</string>
     <string name="settings_background_location_permissions_preference_title">Oprávnění k přístupu k poloze na pozadí</string>
     <string name="settings_modify_system_settings_permissions_title">Oprávnění úprav nastavení systému</string>
-    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
+    <string name="settings_display_over_other_apps_permission_title">Oprávnění zobrazení přes ostatní aplikace</string>
     <string name="settings_feedback">Zpětná vazba &amp; podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="settings_wiki">Wiki</string>

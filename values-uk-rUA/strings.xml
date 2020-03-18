@@ -46,15 +46,15 @@
     <string name="custom_label">Свій текст</string>
     <string name="enter_label">Введіть текст</string>
     <string name="not_set_message">Не зазначено</string>
-    <string name="custom">Custom</string>
-    <string name="timeout">Timeout</string>
-    <string name="timeout_value_no_timeout">No timeout</string>
-    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <string name="custom">Свої налаштування</string>
+    <string name="timeout">Тайм-аут</string>
+    <string name="timeout_value_no_timeout">Без тайм-ауту</string>
+    <string name="timeout_value_in_minutes">Тайм-аут (хвилини)</string>
     <plurals name="formatted_minutes_plurals">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
-        <item quantity="few">%d minutes</item>
-        <item quantity="many">%d minutes</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="other">%d хвилини</item>
+        <item quantity="few">%d хвилин</item>
+        <item quantity="many">%d хвилин</item>
     </plurals>
     <!--device administrator-->
     <string name="device_admin_activated">Адміністратора пристрою активовано</string>
@@ -133,8 +133,8 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Щоб дозволити плитці змінювати режим дзвінка, будь ласка, відкрийте налаштування і дайте додатку доступ до режиму Не турбувати.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Залишати активним</string>
-    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
-    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Щоб дозволити плитці залишати пристрій активним, будь ласка, відкрийте налаштування і дайте додатку доступ до зміни системних налаштувань.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">Щоб дозволити плитці залишати пристрій активним, будь ласка, відкрийте налаштування і дайте додатку доступ до показу поверх інших додатків.</string>
     <string name="caffeine_tile_service_notification_title">Сервіс запущено</string>
     <string name="caffeine_tile_service_notification_content_text">Пристрій не засне. Натисніть, щоб зупинити сервіс.</string>
     <!--streetview-->

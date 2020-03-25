@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Mostra ora, icone di notifica e altre informazioni quando lo schermo è spento.</string>
     <string name="description_ambient_display_tile">Configurare il dispositivo in modo che vengano visualizzati i contenuti della schermata di blocco quando riceve una notifica.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_animations_tile">Impostare la scala delle animazioni per animatore, transizione e finestra.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
-    <string name="description_application_tile">Creare la propria lista di applicazioni da visualizzare in un dialogo.\nSono disponibili anche cinque impostazioni rapide per singola applicazione.</string>
+    <string name="description_application_tile">Lancia l\'applicazione selezionata</string>
+    <string name="description_applications_tile">Creare la propria lista di applicazioni da visualizzare in un dialogo.</string>
     <string name="description_awake_while_plugged_in_tile">Il dispositivo non entra mai in sospensione quando è collegato a una sorgente di energia.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_battery_details_tile">Mostare una notifica persistente con i dettagli della batteria del dispositivo: percentuale, stato in carica e non in carica, salute, temperatura, voltaggio e tecnologia. L\'etichetta e l\'icona dell\'impostazione rapida mostrano la percentuale della batteria quando la notifica è attiva.</string>
     <string name="description_battery_saver_tile">Attivare e disattivare risparmio energetico. Quando risparmio energetico è attivo, le prestazioni sono ridotte e i servizi di geolocalizzazione e dati in background disattivati.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>

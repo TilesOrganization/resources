@@ -138,7 +138,7 @@
     <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d টি নির্বাচিত অ্যাপ</string>
     <string name="settings_application_tile_application_list_show_summary_empty">কোনো অ্যাপ নির্বাচিত হয়নি</string>
     <string name="settings_application_tile_application_list_launch_title">লঞ্চ করা হবে যে অ্যাপ</string>
-    <string name="settings_application_tile_loading_applications">অ্যাপ লোড হচ্ছে...</string>
+    <string name="settings_application_tile_loading_applications">অ্যাপ লোড হচ্ছে…</string>
     <!--brightness-->
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">অনুমতি নেই। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির নেই</string>
     <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">অনুমোদিত। ব্রাইটনেস পরিবর্তন করার অনুমতি টাইলসটির আছে</string>

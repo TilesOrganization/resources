@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Zobrazit čas, ikony oznámení a další informace při vypnuté obrazovce.</string>
     <string name="description_ambient_display_tile">Nastavit zařízení, aby zobrazovalo obsah zamykací obrazovky při příchodu oznámení.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>
     <string name="description_animations_tile">Nastavit měřítko animací pro animátor, přechody a okna.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>
-    <string name="description_application_tile">Vytvořit seznam aplikací, které se mají zobrazit v dialogovém okně.\nK dispozici je také pět samostatných dlaždic aplikací.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Vytvořit seznam aplikací, které se mají zobrazit v dialogovém okně.</string>
     <string name="description_awake_while_plugged_in_tile">Zařízení nebude nikdy uspáno, pokud je zapojeno do zdroje napájení.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>
     <string name="description_battery_details_tile">Zobrazit trvalé oznámení s podrobnostmi o baterii zařízení: procenta, nabíjení a vybíjení, zdraví, teplota, napětí and technologie. Popis a ikona dlaždice zobrazují procento baterie, když je oznámení aktivní.</string>
     <string name="description_battery_saver_tile">Zapnout a vypnout spořič baterie. Když je spořič zapnutý, výkon je snížen a služby polohy a data pozadí jsou vypnuty.\nPro použití této dlaždice je zapotřebí oprávnění pro zápis do zabezpečeného nastavení.</string>

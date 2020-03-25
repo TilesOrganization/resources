@@ -54,6 +54,12 @@
         <item quantity="one">%d minuto</item>
         <item quantity="other">%d minuti</item>
     </plurals>
+    <string name="timeout_progress_bar">Barra di avanzamento timeout</string>
+    <string name="timeout_progress_bar_summary_on">Mostra la barra di avanzamento timeout mentre è attiva</string>
+    <string name="timeout_progress_bar_summary_off">Nascondi la barra di avanzamento timeout mentre è attiva</string>
+    <string name="tile_drawable">Icona funzione</string>
+    <string name="tile_default">Predefinita</string>
+    <string name="tile_custom">Personalizzata</string>
     <!--device administrator-->
     <string name="device_admin_activated">Amministratore dispositivo attivato</string>
     <string name="device_admin_deactivated">Amministratore dispositivo disattivato</string>
@@ -63,8 +69,8 @@
     <string name="adaptive_brightness_tile_label">Luminosità adattiva</string>
     <string name="adaptive_brightness_tile_alert_dialog_message">Per permettere alla funzione di cambiare modalità luminosità, per favore aprire le impostazioni e concedere l\'autorizzazione modifica impostazioni di sistema.</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">Applications</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_label">Applicazioni</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Nessuna applicazione selezionata, per favore aprire le impostazioni e scegliere un\'applicazione.</string>
     <!--application-->
     <string name="application_a_tile_label">Applicazione #1</string>
     <string name="application_b_tile_label">Applicazione #2</string>

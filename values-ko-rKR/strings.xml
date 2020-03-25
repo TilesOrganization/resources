@@ -54,6 +54,12 @@
         <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
+    <string name="timeout_progress_bar">Timeout progress bar</string>
+    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
+    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
+    <string name="tile_drawable">Tile icon</string>
+    <string name="tile_default">Default</string>
+    <string name="tile_custom">Custom</string>
     <!--device administrator-->
     <string name="device_admin_activated">기기 관리자 활성화</string>
     <string name="device_admin_deactivated">기기 관리자 비활성화</string>
@@ -157,7 +163,7 @@
     <string name="reminder_tile_alert_revert_reminder_dialog_message">복원하시겠습니까?</string>
     <string name="reminder_tile_alert_discard_edits_dialog_message">변경사항을 취소?</string>
     <string name="reminder_tile_remind_me">나에게 알림</string>
-    <string name="retrieving_location_dialog_message">위치를 검색 중...</string>
+    <string name="retrieving_location_dialog_message">위치를 검색 중…</string>
     <!--sleep timeout-->
     <string name="sleep_timeout_tile_label">절전 모드</string>
     <string name="sleep_timeout_tile_formatted_label">절전\n%1$02d:%2$02d</string>

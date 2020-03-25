@@ -55,6 +55,12 @@
         <item quantity="other">%d minuty</item>
         <item quantity="few">%d minut</item>
     </plurals>
+    <string name="timeout_progress_bar">Timeout progress bar</string>
+    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
+    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
+    <string name="tile_drawable">Tile icon</string>
+    <string name="tile_default">Default</string>
+    <string name="tile_custom">Custom</string>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
     <string name="device_admin_deactivated">Správce zařízení byl deaktivován</string>
@@ -133,7 +139,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofein</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Aby dlaždice mohla používat Kofein, otevřete nastavení a povolte úpravy nastavení systému.</string>
-    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">Aby dlaždice mohla používat Kofein, otevřete nastavení a udělte oprávnění pro zobrazení přes ostatní aplikace.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
     <string name="caffeine_tile_service_notification_title">Služba je spuštěna</string>
     <string name="caffeine_tile_service_notification_content_text">Zařízení nepřejde do režimu spánku. Klepnutím službu zastavíte.</string>
     <!--streetview-->

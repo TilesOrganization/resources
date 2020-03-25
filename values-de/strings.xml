@@ -54,6 +54,12 @@
         <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
+    <string name="timeout_progress_bar">Timeout progress bar</string>
+    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
+    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
+    <string name="tile_drawable">Tile icon</string>
+    <string name="tile_default">Default</string>
+    <string name="tile_custom">Custom</string>
     <!--device administrator-->
     <string name="device_admin_activated">Geräteadministrator aktiviert</string>
     <string name="device_admin_deactivated">Geräteadministrator deaktiviert</string>

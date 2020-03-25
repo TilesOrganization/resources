@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Vis tid, varselikoner og annen info når skjermen er av.</string>
     <string name="description_ambient_display_tile">Angi enheten til å vise låsskjerminnhold når en varsel kommer.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_animations_tile">Angi omfanget av animasjoner for animatør, overgang, og vindu.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
-    <string name="description_application_tile">Opprett en liste av applikasjoner til å bli vist i en dialog.\nFem enkelte applikasjoner knapper er også tilgjengelig.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Opprett en liste av applikasjoner til å bli vist i en dialog.</string>
     <string name="description_awake_while_plugged_in_tile">Enheten vil aldri gå i dvalemodus så lenge den er koblet til en strømkilde.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_battery_details_tile">Vis en vedvarende varsel med detaljer om batteriet til enheten: prosent, lading og utladingstilstand, helse, temperatur, spenning og teknologi. Etiketten og ikonet av knappen viser prosenten til batteriet når varselen er aktiv.</string>
     <string name="description_battery_saver_tile">Slå strømsparing på og av. Når strømsparing er på, er ytelsen redusert og stedtjenester og bakgrunnsdata er slått av.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>

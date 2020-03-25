@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_ambient_display_tile">Stel het toestel in om vergrendelscherm inhoud te laten zien wanneer er een notificatie is.\nToestemming voor het wijzigen van beveiligde instellingen is nodig om deze tegel te gebruiken.</string>
     <string name="description_animations_tile">Stel de animatie schaal in voor animator, overgang en scherm in. \nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te gebruiken.</string>
-    <string name="description_application_tile">Maak een lijst van applicaties die worden weergegeven in een dialoog.\nVijf applicatietegels zijn beschikbaar.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Maak een lijst van applicaties die worden weergegeven in een dialoog.</string>
     <string name="description_awake_while_plugged_in_tile">Toestel zal nooit in slaapmodus gaan zolang het wordt opgeladen.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken.</string>
     <string name="description_battery_details_tile">Show a persistent notification with details about the battery of the device: percentage, charging and discharging state, health, temperature, voltage and technology. The label and the icon of the tile display the percentage of the battery when the notification is active.</string>
     <string name="description_battery_saver_tile">Schakel accubesparing in of uit. Wanneer accubesparing aan staat, prestaties zijn gereduceerd en locatieservices  en achtergrond data zijn uitgeschakeld.\nToestemming om beveiligde instellingen te overschrijven is nodig om deze tegel te kunnen gebruiken</string>

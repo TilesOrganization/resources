@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Prikaži vrijeme, ikone obavijesti i ostale informacije kada je zaslon isključen.</string>
     <string name="description_ambient_display_tile">Postavite uređaj da prikazuje sadržaj na zaključanom zaslonu kada stigne obavijest.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_animations_tile">Postavite veličinu animacija za animatora, prijelaze i prozore.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
-    <string name="description_application_tile">Izradite popis aplikacija koji će se prikazati u dijaloškom okviru.\nMoguće je izraditi i 5 pojedinačnih pločica s aplikacijama.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Izradite popis aplikacija koji će se prikazati u dijaloškom okviru.</string>
     <string name="description_awake_while_plugged_in_tile">Uređaj nikad neće biti u stanju mirovanja sve dok je priključen u izvor napajanja.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>
     <string name="description_battery_details_tile">Prikazuje trajnu obavijest s pojedinostima o bateriji uređaja: postotak, napunjenost i stanje pražnjenja, zdravlje, temperaturu, napon i tehnologiju. Oznaka i ikona pločice prikazuju postotak baterije kada je obavijest aktivna.</string>
     <string name="description_battery_saver_tile">Uključite i isključite štednju baterije. Dok je štednja baterije uključena, perfomanse uređaja se smanjuju, a lokacijske usluge i pozadinski podaci su isključeni.\nPotrebno je dopustiti izmjenu sigurnosnih postavki kako bi mogli koristiti ovu pločicu.</string>

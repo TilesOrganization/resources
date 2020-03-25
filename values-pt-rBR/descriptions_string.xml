@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
     <string name="description_ambient_display_tile">Permite com que o dispositivo exiba rapidamente na tela de bloqueio o conteúdo de uma notificação recebida.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
     <string name="description_animations_tile">Escolher a escala de animações para animator, transição e janela.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
-    <string name="description_application_tile">Cria uma lista de aplicativos que são exibidos em uma caixa de diálogo.\nCinco blocos para aplicativos únicos também estão disponíveis.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Cria uma lista de aplicativos que são exibidos em uma caixa de diálogo.</string>
     <string name="description_awake_while_plugged_in_tile">O dispositivo nunca irá dormir enquanto ele estiver conectado a uma fonte de alimentação.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
     <string name="description_battery_details_tile">Mostre uma notificação persistente com detalhes sobre a bateria do dispositivo: porcentagem, estado de carga e descarga, saúde, temperatura, tensão e tecnologia. O rótulo e o ícone da telha exibem a porcentagem da bateria quando a notificação está ativa.</string>
     <string name="description_battery_saver_tile">Ativa e desativa a economia de bateria. Enquanto a economia de bateria estiver ativada, o desempenho é reduzido e os serviços de localização juntamente com os dados em segundo plano são finalizados.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>

@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">「Always On」屏幕關閉的情況下顯示時間、通知圖示及其他資訊。</string>
     <string name="description_ambient_display_tile">「環境顯示」開啟後會在裝置收到通知時短暫在鎖定屏幕顯示通知供快速查閱。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_animations_tile">「動畫」允許變更視窗動畫比例、轉場動畫比例及Animator片長比例。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
-    <string name="description_application_tile">「應用程式」允許建立包含多個應用程式的清單式快速存取及提供5個獨立應用程式的快速存取。</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Create a list of applications to be displayed in a dialog.</string>
     <string name="description_awake_while_plugged_in_tile">「充電時保持亮屏」開啟時會令裝置在充電時一直保持亮屏狀態。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>
     <string name="description_battery_details_tile">「電源詳情」，顯示一個包含電量百分比、充電時、放電時的電壓、溫度、健康狀態的固定通知。此快速設定磚的圖標及名稱會在固定通知生效時顯示電量百分比。</string>
     <string name="description_battery_saver_tile">「省電模式」允許快速開啟或關閉省電模式。節約電池用量模式開啟後有助於延長電池壽命，但會降低裝置的效能。並限制震動、定位服務和大部分的背景資料。\n使用此快速設定磚需要授予可寫入安全設定的權限。</string>

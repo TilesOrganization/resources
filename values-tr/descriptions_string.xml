@@ -6,7 +6,8 @@
     <string name="description_alarm_tile">Geçerli alarmları gösterir veya yeni bir tane oluşturur. Kurulmuş bir alarm varsa sıradaki alarmı gösterir. Üçüncü parti uygulamalar ile uyumludur.</string>
     <string name="description_ambient_display_tile">Cihazı bildirim geldiğinde kilit ekranı içeriğini göstermeye ayarlar. Bu karoyu kullanmak için izin gereklidir.</string>
     <string name="description_animations_tile">Pencere animasyonu, geçiş animasyonu ve animatör süre ölçeklerini ayarlar. Bu karoyu kullanmak izin gerektirir.</string>
-    <string name="description_application_tile">Uygulama listesi oluşturur ve en fazla 5 adet ayarlanabilir.</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">Create a list of applications to be displayed in a dialog.</string>
     <string name="description_awake_while_plugged_in_tile">Cihaz güç kaynağına takılı olduğu süre boyunca uyku moduna geçmez. Bu karoyu kullanmak izin gerektirir.</string>
     <string name="description_battery_details_tile">Cihazın bataryasının yüzdesi, şarj olma/boşalma durumu, sağlığı, sıcaklığı, voltajı ve teknolojisi hakkında bilgi veren kalıcı bir bildirim yaratır. Etiket ve simge bildirim aktifken pilin yüzdesini gösterir.</string>
     <string name="description_battery_saver_tile">Güç tasarrufunu açıp kapatır. Güç tasarrufu açıkken performans düşürülür ve konum servisi kapatılır. Bu karoyu kullanmak izin gerektirir.</string>

@@ -6,7 +6,8 @@
     <string name="description_always_on_tile">当屏幕关闭时，显示时间、通知图标及其他信息。</string>
     <string name="description_ambient_display_tile">设定设备在接收通知时显示锁屏内容\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_animations_tile">为动画程序、过渡和窗口设定动画的缩放。\n需要写入安全设置权限才能使用这个瓷贴。</string>
-    <string name="description_application_tile">创建应用程序列表以在对话框中显示。\n五个单独瓷贴同样可用。</string>
+    <string name="description_application_tile">Launch selected application.</string>
+    <string name="description_applications_tile">创建应用程序列表以在对话框中显示。</string>
     <string name="description_awake_while_plugged_in_tile">在插入电源时，设备永不休眠。\n需要写入安全设置权限才能使用这个瓷贴。</string>
     <string name="description_battery_details_tile">显示关于设备电量详情的常驻通知: 百分比、正在充电或未在充电状态、健康度、温度、电压及工艺。当通知进行时，瓷贴的标签和图标会显示电量百分比。</string>
     <string name="description_battery_saver_tile">打开和关闭省电模式。省电模式开启时，会降低性能和关闭位置服务及后台数据。\n需要写入安全设置权限才能使用这个瓷贴。</string>

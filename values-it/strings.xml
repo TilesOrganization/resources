@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">Volume multimedia</string>
     <string name="media_volume_tile_formatted_label">Volume multimedia: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Scorciatoie</string>
+    <string name="shortcut_tile_label">Scorciatoia</string>
     <string name="shortcut_a_tile_label">Scorciatoia #1</string>
     <string name="shortcut_b_tile_label">Scorciatoia #2</string>
     <string name="shortcut_c_tile_label">Scorciatoia #3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">Metodo immissione</string>
     <string name="input_method_tile_alert_dialog_message">Per permettere alla funzione di visualizzare selezionatore metodo immissione quando l\'applicazione non è in primo piano, per favore aprire le impostazioni e concedere l\'autorizzazione scrivi impostazioni sicure.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contatti</string>
+    <string name="contact_tile_label">Contatto</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nessun contatto selezionato, per favore aprire le impostazioni e scegliere contatto.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Qualcosa non ha funzionato, per favore aprire le impostazioni e controllare il contatto selezionato.</string>
     <string name="contact_a_tile_label">Contatto #1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">Tempo di attività</string>
     <string name="up_time_tile_formatted_uptime">Tempo di attività: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Attività</string>
+    <string name="activity_tile_label">Attività</string>
     <string name="activity_a_tile_label">Attività #1</string>
     <string name="activity_b_tile_label">Attività #2</string>
     <string name="activity_c_tile_label">Attività #3</string>

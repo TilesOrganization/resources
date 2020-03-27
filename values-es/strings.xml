@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">Volumen de Medios</string>
     <string name="media_volume_tile_formatted_label">Volumen de Medios: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Atajos</string>
+    <string name="shortcut_tile_label">Atajo</string>
     <string name="shortcut_a_tile_label">Atajo #1</string>
     <string name="shortcut_b_tile_label">Atajo #2</string>
     <string name="shortcut_c_tile_label">Atajo #3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">Método de Entrada</string>
     <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Contactos</string>
+    <string name="contact_tile_label">Contacto</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">No se ha seleccionado contacto. Por favor abre las opciones y selecciona un contacto.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Algo ha salido mal. Por favor abre las opciones y revisa el contacto seleccionado</string>
     <string name="contact_a_tile_label">Contacto #1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">Tiempo de actividad</string>
     <string name="up_time_tile_formatted_uptime">Tiempo de actividad: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Actividades</string>
+    <string name="activity_tile_label">Actividad</string>
     <string name="activity_a_tile_label">Actividad #1</string>
     <string name="activity_b_tile_label">Actividad #2</string>
     <string name="activity_c_tile_label">Actividad #3</string>

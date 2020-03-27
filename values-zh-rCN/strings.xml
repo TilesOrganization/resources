@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">媒体音量</string>
     <string name="media_volume_tile_formatted_label">媒体音量: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">快捷方式</string>
+    <string name="shortcut_tile_label">快捷方式</string>
     <string name="shortcut_a_tile_label">快捷方式 #1</string>
     <string name="shortcut_b_tile_label">快捷方式 #2</string>
     <string name="shortcut_c_tile_label">快捷方式 #3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">输入法</string>
     <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">联系人</string>
+    <string name="contact_tile_label">联系人</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">未选择联系人，请打开设置并选择联系人。</string>
     <string name="contacts_tile_exception_alert_dialog_message">发生一些错误，请打开设置并检查所选的联系人。</string>
     <string name="contact_a_tile_label">联系人 #1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">运行时间</string>
     <string name="up_time_tile_formatted_uptime">运行时间: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">活动项</string>
+    <string name="activity_tile_label">活动项</string>
     <string name="activity_a_tile_label">活动项 #1</string>
     <string name="activity_b_tile_label">活动项 #2</string>
     <string name="activity_c_tile_label">活动项 #3</string>

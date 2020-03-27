@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">İstediğin uygulamaya ait gizli özellikler başlatan en fazla 5 karo.</string>
+    <string name="description_activity_tile">İstediğin uygulamaya ait gizli özellikler başlatan en fazla 5 karo.</string>
     <string name="description_adaptive_brightness_tile">Aktifleştirildiğinde parlaklığı dış ortama göre otomatik olarak ayarlar. Aktif olsa da istenirse parlaklık elle ayarlanabilir. Bu karoyu kullanmak için sistem ayarlarında değişiklik yapma izni gereklidir.</string>
     <string name="description_always_on_tile">Ekran kapalıyken zamanı, bildirim simgelerini ve diğer bilgileri gösterir.</string>
     <string name="description_alarm_tile">Geçerli alarmları gösterir veya yeni bir tane oluşturur. Kurulmuş bir alarm varsa sıradaki alarmı gösterir. Üçüncü parti uygulamalar ile uyumludur.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Kamera uygulamasını kilitleyerek açılmasını önler. Cihaz yöneticiliği gereklidir.</string>
     <string name="description_cellular_data_tile">Mümkünse mobil ağ ayarlarını veya veri kullanımı ayarlarını açar. Kök izni bulunan cihazda mobil veriyi açıp kapatabilir.</string>
     <string name="description_clipboard_tile">Kopyalanmış son içeriği gösterir.</string>
-    <string name="description_contacts_tile">Aramak, mesaj atmak veya düzenlemek için belirlenmiş kişiyi ulaş.</string>
+    <string name="description_contact_tile">Aramak, mesaj atmak veya düzenlemek için belirlenmiş kişiyi ulaş.</string>
     <string name="description_counter_tile">:Basit sayaç.</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Veri dolaşımını açar veya kapatır. İzin gerektirir.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Cihazın ses modunu normal, titreşim veya rahatsız etme modlarına getirir. Bu karoyu kullanmak için Rahatsız Etme erişimi gerekmekedir.</string>
     <string name="description_screenshot_tile">Cihazın ekran görüntüsünü çeker. Depolama izni gerektirir. Root yetkisi olmayan Android Pie (API 28) ve üstü cihazlarda erişilebilirlik servisinin etkinleştirilmiş olması gerekmektedir.</string>
     <string name="description_settings_shortcut_tile">Android\'in gizli ya da zor bulunan özelliklerini açar.</string>
-    <string name="description_shortcuts_tile">Uygun özelliği taşıyan herhangi bir uygulamaya bir görev yükler. İzin gerektirir.</string>
+    <string name="description_shortcut_tile">Uygun özelliği taşıyan herhangi bir uygulamaya bir görev yükler. İzin gerektirir.</string>
     <string name="description_sleep_tile">Cihazı uyku moduna al. Root yetkisi olmayan Android Pie (API 28) ve üstü cihazlarda erişilebilirlik servisinin etkinleştirilmiş olması gerekmektedir.</string>
     <string name="description_sleep_timeout_tile">Cihazın kullanılmazken ne kadar sürede uykuya geçeceğini değiştirir. Kullanmak için izin gerektirir.</string>
     <string name="description_stopwatch_tile">Kronometreyi açar.</string>

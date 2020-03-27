@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Bis zu fünf Kacheln können versteckte Aktivitäten verschiedener Anwendungen starten.</string>
+    <string name="description_activity_tile">Bis zu fünf Kacheln können versteckte Aktivitäten verschiedener Anwendungen starten.</string>
     <string name="description_adaptive_brightness_tile">Passt automatisch die Helligkeit des Bildschirms an die gegebenen Lichtverhältnisse an, sofern aktiviert. Das Helligkeitslevel kann immer noch angepasst werden, auch wenn die adaptive Helligkeit aktiviert ist.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_alarm_tile">Zeigt die aktuellen Alarme an oder setzt einen neuen Alarm. Diese Kachel zeigt den nächsten Alarm an, sofern einer gesetzt ist. Diese Aktion ist kompatibel mit Apps von Dritt-Anbietern, welche das Anzeigen und Ändern von Alarmen entgegen nehmen können.</string>
     <string name="description_always_on_tile">Zeigt die Uhrzeit, Benachrichtigungssymbole und andere Informationen an, wenn der Bildschirm inaktiv ist.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Verbietet den Zugriff auf alle Kameras des Smartphones. Der Gerätemanager muss hierfür aktiviert sein.</string>
     <string name="description_cellular_data_tile">Öffnet die Einstellungen für Mobilfunknetze oder die Datennutzung, sofern verfügbar. Auf Geräten mit Superrechten werden die Mobilfunkdaten de- oder aktiviert.</string>
     <string name="description_clipboard_tile">Zeigt den Inhalt der Zwischenablage an um ihn zu kopieren, zu teilen oder mit Apps von Dritt-Anbietern zu sichern, welche einen geteilten Text entgegen nehmen können.</string>
-    <string name="description_contacts_tile">Schneller Zugriff auf die Details von ausgewählten Kontakten um diese anzurufen, anzuschreiben, zu bearbeiten, …</string>
+    <string name="description_contact_tile">Schneller Zugriff auf die Details von ausgewählten Kontakten um diese anzurufen, anzuschreiben, zu bearbeiten, …</string>
     <string name="description_counter_tile">Ein einfacher Zähler.</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">De- oder aktiviert das Daten-Roaming.\nDas Schreibrecht für abgesicherte Einstellungen wird für diese Kachel benötigt.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Setzt den Klingel-Modus des Smartphone: Normal, Vibration oder "Bitte nicht stören". Das Recht zum Zugriff auf den "Bitte nicht stören"-Modus wird für diese Kachel benötigt.</string>
     <string name="description_screenshot_tile">Erstellt einen Screenshot.\nDas Schreibrecht für den Speicher wird für diese Kachel benötigt.</string>
     <string name="description_settings_shortcut_tile">Öffnet Android\'s versteckte oder schwer zu findende Einstellungen.</string>
-    <string name="description_shortcuts_tile">Wähle und setze Verknüpfungen um eine bestimmte Aktion in der jeweiligen Anwendung auszuführen.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
+    <string name="description_shortcut_tile">Wähle und setze Verknüpfungen um eine bestimmte Aktion in der jeweiligen Anwendung auszuführen.\nDas Recht für einen Anruf wird benötigt, um direkt aus der Kachel einen Anruf ohne Telefon-App zu starten. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_tile">Versetzt das Smartphone in den Ruhezustand. Der Erreichbarkeitsdienst muss auf Geräten ohne Superuser-Rechte mit Android Pie (API 28) und höher aktiviert werden.</string>
     <string name="description_sleep_timeout_tile">Ändert die Dauer bis das Smartphone in den Ruhezustand übergeht.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_stopwatch_tile">Zeigt einen Dialog mit einer Stoppuhr an.</string>

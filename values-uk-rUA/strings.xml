@@ -374,7 +374,7 @@
     <string name="media_volume_tile_label">Гучність медіа</string>
     <string name="media_volume_tile_formatted_label">Гучність медіа: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Ярлики</string>
+    <string name="shortcut_tile_label">Ярлик</string>
     <string name="shortcut_a_tile_label">Ярлик #1</string>
     <string name="shortcut_b_tile_label">Ярлик #2</string>
     <string name="shortcut_c_tile_label">Ярлик #3</string>
@@ -393,7 +393,7 @@
     <string name="input_method_tile_label">Методи введення</string>
     <string name="input_method_tile_alert_dialog_message">Щоб дозволити плитці показувати перемикач методів введення, поки додаток працює у фоновому режимі, будь ласка, відкрийте налаштування і дайте додатку доступ до налаштувань безпеки.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Контакти</string>
+    <string name="contact_tile_label">Контакт</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Немає вибраного контакту. Будь ласка, відкрийте налаштування і виберіть контакт.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Щось пішло не так. Будь ласка, відкрийте налаштування і перевірте увімкнений контакт.</string>
     <string name="contact_a_tile_label">Контакт #1</string>
@@ -431,7 +431,7 @@
     <string name="up_time_tile_label">Час з моменту ввімкнення</string>
     <string name="up_time_tile_formatted_uptime">Час з моменту ввімкнення: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Активності</string>
+    <string name="activity_tile_label">Активність</string>
     <string name="activity_a_tile_label">Активність #1</string>
     <string name="activity_b_tile_label">Активність #2</string>
     <string name="activity_c_tile_label">Активність #3</string>

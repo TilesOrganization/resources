@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Opp til fem knapper for å starte hvilken som helst skjult aktivitet av hvilken som helst applikasjon.</string>
+    <string name="description_activity_tile">Opp til fem knapper for å starte hvilken som helst skjult aktivitet av hvilken som helst applikasjon.</string>
     <string name="description_adaptive_brightness_tile">Automatisk endre lysstyrken på skjermen til lyset rundt deg, når aktivert. Lysstyrkenivået kan enda bli justert når adaptiv lysstyrke er på.\nEndre systeminnstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_alarm_tile">Vis gjeldene alarmer eller sett en ny. Knappen viser neste alarm, hvis noen er satt. Handlingen er kompitabel med tredjepartsapper som kan motta Android standard kringkasting for å vise og redigere alarmer.</string>
     <string name="description_always_on_tile">Vis tid, varselikoner og annen info når skjermen er av.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Hindre bruk av alle enhetskameraer. Enhetsadministrator må vere aktivert.</string>
     <string name="description_cellular_data_tile">Åpne mobilnettverksinnstillinger eller databruk innstillinger, hvis tilgjengelig. På enheter med «super user» privilegier slå mobildata på eller av.</string>
     <string name="description_clipboard_tile">Vis innholdet av den nyeste utklippingen, for å kopiere, for å dele, eller for å lagre med tredjepartsapper som kan motta Androids originale kringkasting for å dele tekst.</string>
-    <string name="description_contacts_tile">Få rask tilgang til detaljene til den valgte kontakten for å ringe, tekste, redigere, …</string>
+    <string name="description_contact_tile">Få rask tilgang til detaljene til den valgte kontakten for å ringe, tekste, redigere, …</string>
     <string name="description_counter_tile">En enkel teller.</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Slå data roaming på eller av.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Angi ringemoduset til enheten: normal, vibrer eller ikke forstyrr. Ikke forstyrr tilgang er krevet for å bruke denne knappen.</string>
     <string name="description_screenshot_tile">Ta et skjermbilde av enheten.\nSkrive sikre innstillinger tillatelse er krevet for å bruke denne knappen. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Åpne Androids skjulte eller «vanskeleg å finne» innstillinger.</string>
-    <string name="description_shortcuts_tile">Velg og sett snarveier til å utføre spesifikke handlinger innenfor hvilken som helst applikasjon som implementerer en slik egenskap.\nTelefonsamtale tillatelse er krevet for å utføre direkte ringe snarveier.</string>
+    <string name="description_shortcut_tile">Velg og sett snarveier til å utføre spesifikke handlinger innenfor hvilken som helst applikasjon som implementerer en slik egenskap.\nTelefonsamtale tillatelse er krevet for å utføre direkte ringe snarveier.</string>
     <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Endre hvor lenge det tar for enheten å gå i dvalemodus når inaktiv.\nModifisere systeminnstillinger er krevet for å bruke denne knappen.</string>
     <string name="description_stopwatch_tile">Vis en dialog med en stoppeklokke.</string>

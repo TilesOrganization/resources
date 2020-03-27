@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Up to five tiles to start any hidden activity of any application.</string>
+    <string name="description_activity_tile">Up to five tiles to start any hidden activity of any application.</string>
     <string name="description_adaptive_brightness_tile">Automatically change the brightness of the screen to the light around you, when enabled. The brightness level can still be adjusted while adaptive brightness is on.\nModify system settings permission is required to use this tile.</string>
     <string name="description_alarm_tile">Display current alarms or set a new one. The tile shows next alarm, if any is set. The action is compatible with third-party apps that can receive the Android default broadcast to show and edit alarms.</string>
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Prevent use of all device cameras. Device administrator must be activated.</string>
     <string name="description_cellular_data_tile">Open mobile network settings or data usage settings, if available. On devices with super user privileges turn cellular data on or off.</string>
     <string name="description_clipboard_tile">View the content of the latest clipping, to copy, to share, or to save with third-party apps that can receive the Android default broadcast to share text.</string>
-    <string name="description_contacts_tile">Quickly access the details of the selected contact to call, text, edit, …</string>
+    <string name="description_contact_tile">Quickly access the details of the selected contact to call, text, edit, …</string>
     <string name="description_counter_tile">A simple counter.</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Turn data roaming on or off.\nWrite secure settings permission is required to use this tile.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Set the ringer mode of the device: normal, vibrate or Do Not Disturb. Do Not Disturb access is required to use this tile.</string>
     <string name="description_screenshot_tile">Take a screenshot of the device.\nWrite external storage permission is required to use this tile. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Open Android\'s hidden or hard-to-find settings.</string>
-    <string name="description_shortcuts_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
+    <string name="description_shortcut_tile">Choose and set shortcuts to perform specific actions within any application that implements such feature.\nPhone call permission is required to perform direct dial shortcuts.</string>
     <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Change how long it takes for the device to go to sleep when inactive.\nModify system settings permission is required to use this tile.</string>
     <string name="description_stopwatch_tile">Show a dialog with a stopwatch.</string>

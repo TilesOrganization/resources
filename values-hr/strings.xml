@@ -373,7 +373,7 @@
     <string name="media_volume_tile_label">Glasnoća medija</string>
     <string name="media_volume_tile_formatted_label">Glasnoća medija: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Prečaci</string>
+    <string name="shortcut_tile_label">Prečac</string>
     <string name="shortcut_a_tile_label">Prečac #1</string>
     <string name="shortcut_b_tile_label">Prečac #2</string>
     <string name="shortcut_c_tile_label">Prečac #3</string>
@@ -392,7 +392,7 @@
     <string name="input_method_tile_label">Način unosa</string>
     <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Kontakti</string>
+    <string name="contact_tile_label">Kontakt</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nije odabran nijedan kontakt, otvorite postavke i odaberite kontakt.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Nešto je pošlo po zlu, otvorite postavke i pregledajte odabrani kontakt.</string>
     <string name="contact_a_tile_label">Kontakt #1</string>
@@ -430,7 +430,7 @@
     <string name="up_time_tile_label">Vrijeme aktivnosti</string>
     <string name="up_time_tile_formatted_uptime">Vrijeme aktivnosti: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Aktivnosti</string>
+    <string name="activity_tile_label">Aktivnost</string>
     <string name="activity_a_tile_label">Aktivnost #1</string>
     <string name="activity_b_tile_label">Aktivnost #2</string>
     <string name="activity_c_tile_label">Aktivnost #3</string>

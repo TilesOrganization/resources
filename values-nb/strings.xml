@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">Medier volum</string>
     <string name="media_volume_tile_formatted_label">Medier volume: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">Snarveier</string>
+    <string name="shortcut_tile_label">Snarvei</string>
     <string name="shortcut_a_tile_label">Snarvei #1</string>
     <string name="shortcut_b_tile_label">Snarvei #2</string>
     <string name="shortcut_c_tile_label">Snarvei #3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">Inngangsmetode</string>
     <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">Kontakter</string>
+    <string name="contact_tile_label">Kontakt</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">Ingen kontakt valgt, vennligst åpne innstillinger og velg kontakt.</string>
     <string name="contacts_tile_exception_alert_dialog_message">Noe gikk galt, vennligst åpne innstillinger og gjennomgå valgte kontakt.</string>
     <string name="contact_a_tile_label">Kontakt #1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">Oppetid</string>
     <string name="up_time_tile_formatted_uptime">Oppetid: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">Aktiviteter</string>
+    <string name="activity_tile_label">Aktivitet</string>
     <string name="activity_a_tile_label">Aktivitet #1</string>
     <string name="activity_b_tile_label">Aktivitet #2</string>
     <string name="activity_c_tile_label">Aktivitet #3</string>

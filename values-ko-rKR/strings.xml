@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">미디어 볼륨</string>
     <string name="media_volume_tile_formatted_label">미디어 볼륨: %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">바로가기</string>
+    <string name="shortcut_tile_label">바로가기</string>
     <string name="shortcut_a_tile_label">바로가기 #1</string>
     <string name="shortcut_b_tile_label">바로가기 #2</string>
     <string name="shortcut_c_tile_label">바로가기 #3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">입력 방식</string>
     <string name="input_method_tile_alert_dialog_message">앱이 포그라운드에 없는 동안 입력 방법 선택기를 표시하려면 쓰기 보안 설정 권한을 부여하십시오.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">연락처</string>
+    <string name="contact_tile_label">연락처</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">연락처를 선택하지 않았습니다. 설정을 열고 연락처를 선택하십시오.</string>
     <string name="contacts_tile_exception_alert_dialog_message">문제가 발생했습니다. 설정을 열고 선택한 연락처를 검토하십시오.</string>
     <string name="contact_a_tile_label">연락처 #1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">가동시간</string>
     <string name="up_time_tile_formatted_uptime">가동시간: %s</string>
     <!--activities-->
-    <string name="activities_tile_label">액티비티</string>
+    <string name="activity_tile_label">액티비티</string>
     <string name="activity_a_tile_label">액티비티 #1</string>
     <string name="activity_b_tile_label">액티비티 #2</string>
     <string name="activity_c_tile_label">액티비티 #3</string>

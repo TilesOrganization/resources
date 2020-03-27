@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">可以設定最多5個快速設定動態磚用以執行任意應用程式的隱藏操作。</string>
+    <string name="description_activity_tile">可以設定最多5個快速設定動態磚用以執行任意應用程式的隱藏操作。</string>
     <string name="description_adaptive_brightness_tile">開啟時會根據環境明亮程度，自動調整螢幕亮度，您仍可手動調整螢幕亮度。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_alarm_tile">顯示下一個鬧鐘或新增鬧鐘。 若已有設定鬧鐘，將會顯示下一個鬧鐘時間。支援顯示、編輯系統原生及第三方應用程式。</string>
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">禁止使用所有裝置相機。必須開啟裝置管理員權限。</string>
     <string name="description_cellular_data_tile">如果可行的話，開啟網路設定或數據使用量設定。若有超級使用者權限 (Root)可以直接透過快速設定動態磚開啟或關閉行動數據。</string>
     <string name="description_clipboard_tile">可查看剪貼簿最新的內容，並可以進行複製、分享或儲存至其他應用程式。</string>
-    <string name="description_contacts_tile">快速聯繫所選取的聯絡人進行撥號、發送簡訊或編輯聯絡人等…</string>
+    <string name="description_contact_tile">快速聯繫所選取的聯絡人進行撥號、發送簡訊或編輯聯絡人等…</string>
     <string name="description_counter_tile">簡易的計數器。</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">允許快速開啟或關閉數據漫遊。\n使用此快速設定動態磚需要授予可寫入安全設定的權限。</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">變更裝置音效模式至「正常」、「震動」或「請勿打擾」。使用此快速設定動態磚需要授予「請勿打擾」模式的權限</string>
     <string name="description_screenshot_tile">進行快速螢幕截圖。\n使用快速設定動態磚需要允許可寫入外部儲存空間的權限。The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">開啟Android的設定捷徑。</string>
-    <string name="description_shortcuts_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\n需要使用電話權限才能執行快捷直接撥號。</string>
+    <string name="description_shortcut_tile">選擇並設置快捷方式，在執行此功能的任何應用程式中執行特定操作。\n需要使用電話權限才能執行快捷直接撥號。</string>
     <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">變更裝置螢幕的休眠逾時。\n使用此快速設定動態磚需要授予修改系統設定的權限。</string>
     <string name="description_stopwatch_tile">顯示計時器視窗。</string>

@@ -372,7 +372,7 @@
     <string name="media_volume_tile_label">メディア音量</string>
     <string name="media_volume_tile_formatted_label">メディア音量： %1$d%%</string>
     <!-- shortcuts -->
-    <string name="shortcuts_tile_label">ショートカット</string>
+    <string name="shortcut_tile_label">ショートカット</string>
     <string name="shortcut_a_tile_label">ショートカット1</string>
     <string name="shortcut_b_tile_label">ショートカット2</string>
     <string name="shortcut_c_tile_label">ショートカット3</string>
@@ -391,7 +391,7 @@
     <string name="input_method_tile_label">入力方法</string>
     <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
     <!--contacts-->
-    <string name="contacts_tile_label">連絡先</string>
+    <string name="contact_tile_label">連絡先</string>
     <string name="contacts_tile_no_contact_selected_alert_dialog_message">連絡先が選択されていません。設定から連絡先を選択してください。</string>
     <string name="contacts_tile_exception_alert_dialog_message">問題が発生しました。設定から選択した連絡先を確認してください。</string>
     <string name="contact_a_tile_label">連絡先1</string>
@@ -429,7 +429,7 @@
     <string name="up_time_tile_label">稼働時間</string>
     <string name="up_time_tile_formatted_uptime">稼働時間： %s</string>
     <!--activities-->
-    <string name="activities_tile_label">アクティビティ</string>
+    <string name="activity_tile_label">アクティビティ</string>
     <string name="activity_a_tile_label">アクティビティ1</string>
     <string name="activity_b_tile_label">アクティビティ2</string>
     <string name="activity_c_tile_label">アクティビティ3</string>

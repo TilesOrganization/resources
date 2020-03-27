@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Até cinco bloco para iniciar qualquer atividade oculta de qualquer aplicativo.</string>
+    <string name="description_activity_tile">Até cinco bloco para iniciar qualquer atividade oculta de qualquer aplicativo.</string>
     <string name="description_adaptive_brightness_tile">Quando ativado, é possível alterar automaticamente o brilho da tela de acordo com a luminosidade à sua volta. O nível de luminosidade ainda pode ser ajustado enquanto o brilho adaptável está ativado.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_alarm_tile">Exibir alarmes atuais ou definir um novo. O bloco exibe o próximo alarme, se houver algum. Essa ação é compatível com aplicativos de terceiros que podem receber a transmissão padrão do Android para mostrar e editar alarmes.</string>
     <string name="description_always_on_tile">Show time, notification icons and other info when the screen is off.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Impede o uso de todas as câmeras do dispositivo. O administrador do dispositivo deve estar ativado.</string>
     <string name="description_cellular_data_tile">Abra as configurações das rede móveis ou as configurações do uso de dados, se disponível. Em dispositivos com privilégios de superusuário, é possível ativar ou desativar os dados móveis do celular.</string>
     <string name="description_clipboard_tile">Ver o conteúdo que está no momento copiado em sua área de transferência, também possível rapidamente compartilhar esse mesmo conteúdo com qualquer aplicativo listado na área de compartilhamento nativo do Android.</string>
-    <string name="description_contacts_tile">Acesse rapidamente os detalhes do contato selecionado para ligar, enviar texto, editar, …</string>
+    <string name="description_contact_tile">Acesse rapidamente os detalhes do contato selecionado para ligar, enviar texto, editar, …</string>
     <string name="description_counter_tile">Um simples contador.</string>
     <string name="description_dark_theme_tile">Turn dark theme on or off.\nWrite secure settings permission is required to use this tile.</string>
     <string name="description_data_roaming_tile">Ativar ou desativar o roaming de dados.\nA permissão de modificar as configurações de segurança é necessária para usar esse bloco.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Define o modo de som do dispositivo: normal, vibrar ou não perturbe. O acesso ao Não Pertube é obrigatório para o uso desse bloco.</string>
     <string name="description_screenshot_tile">Tire uma captura de tela do dispositivo.\nPermissão para modificar de armazenamento externo é necessária para usar esse bloco. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_settings_shortcut_tile">Abra as configurações ocultas ou difíceis de encontrar do Android.</string>
-    <string name="description_shortcuts_tile">Escolha e configure atalhos para executar ações específicas de qualquer aplicativo que possui esse recurso.\nA permissão de chamada de telefone é necessária para executar atalhos de discagem direta.</string>
+    <string name="description_shortcut_tile">Escolha e configure atalhos para executar ações específicas de qualquer aplicativo que possui esse recurso.\nA permissão de chamada de telefone é necessária para executar atalhos de discagem direta.</string>
     <string name="description_sleep_tile">Put the device to sleep. The accessibility service must be enabled on devices running Android Pie (API 28) and up without superuser privileges.</string>
     <string name="description_sleep_timeout_tile">Altere o tempo necessário para o dispositivo entre em modo de inatividade quando estiver inativo.\nA permissão de modificar configurações do sistema é necessária para usar esse bloco.</string>
     <string name="description_stopwatch_tile">Mostra um diálogo com um cronômetro.</string>

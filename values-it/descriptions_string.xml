@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_activities_tile">Fino a cinque impostazioni rapide per lanciare qualsiasi attività nascosta di qualsiasi applicazione.</string>
+    <string name="description_activity_tile">Fino a cinque impostazioni rapide per lanciare qualsiasi attività nascosta di qualsiasi applicazione.</string>
     <string name="description_adaptive_brightness_tile">Attivare luminosità adattiva per ottimizzare automaticamente il livello di luminosità dello schermo in base alla luce disponibile nell\'ambiente circostante. È possibile regolare il livello di luminosità mentre è attiva la funzione di luminosità adattiva.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_alarm_tile">Visualizzare sveglie correnti o impostarne una nuova. La funzione visualizza la prossima sveglia, se impostata. L\'azione è compatibile con applicazioni di terze parti che possono ricevere il broadcast di default di Android per visualizzare e modificare sveglie.</string>
     <string name="description_always_on_tile">Mostra ora, icone di notifica e altre informazioni quando lo schermo è spento.</string>
@@ -22,7 +22,7 @@
     <string name="description_camera_lock_tile">Prevenire l\'uso di tutte le camere del dispositivo. Amministratore dispositivo è richiesto attivato.</string>
     <string name="description_cellular_data_tile">Visualizzare le impostazioni rete dati o le impostazioni utilizzo dati, se disponibile. Su dispositivi con priviliegi di super user, abilitare o disabilitare rete dati.</string>
     <string name="description_clipboard_tile">Visualizzare il contenuto degli ultimi appunti, da copiare, condividere o salvare con applicazioni di terze parti che possono ricevere il broadcast di default di Android per condividere testo.</string>
-    <string name="description_contacts_tile">Accedere velocemente ai dettagli del contatto selezionato per chiamare, scrivere messaggi, modificare, …</string>
+    <string name="description_contact_tile">Accedere velocemente ai dettagli del contatto selezionato per chiamare, scrivere messaggi, modificare, …</string>
     <string name="description_counter_tile">Un semplice contatore.</string>
     <string name="description_dark_theme_tile">Attivare o disattivare il tema scuro. \nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
     <string name="description_data_roaming_tile">Abilitare o disabilitare roaming dati.\nAutorizzazione scrivi impostazioni sicure è necessaria per utilizzare questa funzione.</string>
@@ -58,7 +58,7 @@
     <string name="description_ringer_mode_tile">Impostare la modalità squillo del telefono: normale, vibrazione o non disturbare. Accesso non disturbare è necessario per utilizzare questa funzione.</string>
     <string name="description_screenshot_tile">Acquisire uno screenshot del dispositivo.\nAutorizzazione archiviazione è necessaria per utilizzare questa funzione. Il servizio accessibilità è richiesto abilitato su dispositivi con Android Pie (API 28) o superiore senza  priviliegi di super user.</string>
     <string name="description_settings_shortcut_tile">Visualizzare le impostazioni di Android nascoste o difficili da trovare.</string>
-    <string name="description_shortcuts_tile">Scegliere e impostare scorciatoie per eseguire azioni specifiche attraverso qualsiasi applicazione che implementa tale funzione.\nAutorizzazione telefono è necessaria per eseguire scorciatoie per chiamata diretta.</string>
+    <string name="description_shortcut_tile">Scegliere e impostare scorciatoie per eseguire azioni specifiche attraverso qualsiasi applicazione che implementa tale funzione.\nAutorizzazione telefono è necessaria per eseguire scorciatoie per chiamata diretta.</string>
     <string name="description_sleep_tile">Mettere il dispositivo in sospensione. Il servizio accessibilità è richiesto abilitato su dispositivi con Android Pie (API 28) o superiore senza  priviliegi di super user.</string>
     <string name="description_sleep_timeout_tile">Modificare quanto tempo trascorre prima che il dispositivo entri in sospensione quando non utilizzato.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_stopwatch_tile">Mostare un dialogo con cronometro.</string>

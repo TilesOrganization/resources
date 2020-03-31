@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Zaključajte orijentaciju zaslona: 0, 90, 180, 270. Da biste promijenili i zaključali orijentaciju, pločica mora isključiti automatsko zakretanje zaslona.\nPotrebno je dopustiti izmjenu postavki sustava kako bi koristili ovu pločicu.</string>
     <string name="description_power_tile">Prikaži dijalog za isključivanje, ponovno pokretanje, ponovno pokretanje u recovery način i ponovno pokretanje u bootloader način. Da bi se prikazao dijaloški okvir sustava za napajanje, usluga pristupačnosti mora biti omogućena.</string>
     <string name="description_power_dialog_accessibility_tile">Pokažite dijaloški okvir napajanja sustava Android za isključivanje ili ponovno pokretanje uređaja. Usluga pristupačnosti mora biti omogućena.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Prikaži zaslon nedavno korištenih aplikacija, korisničko sučelje na razini sustava koje prikazuje nedavno korištene aktivnosti i zadatke. Usluga pristupačnosti mora biti omogućena.</string>
     <string name="description_reminder_tile">Brzo dodajte podsjetnik da bude prikazan kao stalna obavijest. Uredite ili obrišite podsjetnik dodirom obavijesti.</string>
     <string name="description_ringer_mode_tile">Postavite način zvonjenja uređaja: normalan, vibriranje ili "Ne ometaj". Da biste koristili ovu pločicu, potreban je pristup "Ne ometaj" opciji.</string>

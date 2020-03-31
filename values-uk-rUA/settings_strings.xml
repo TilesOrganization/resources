@@ -415,4 +415,8 @@
     <!--dark theme-->
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Дозволено. Плитка може змінювати темну тему.</string>
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Заборонено. Плитка не може змінювати темну тему.</string>
+    <!--private dns-->
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change private DNS mode</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change private DNS mode</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">Change DNS mode</string>
 </resources>

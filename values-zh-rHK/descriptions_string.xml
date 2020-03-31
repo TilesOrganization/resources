@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">「屏幕旋轉方向」，鎖定屏幕旋轉方向至0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0。\n使用此快速設定磚需要授予修改系統設定的權限。</string>
     <string name="description_power_tile">「進階電源選單」，開啟進階電源選單以進行「關機」、「重新啟動」、「重啟Recovery」及「重啟Bootloader」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_power_dialog_accessibility_tile">「電源選單」，開啟電源選單以進行「關機」、「重新啟動」。要允許快速設定磚開啟電源選單，需要允許Tiles的無障礙設定服務。</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">「最近使用的應用程式」，顯示最近使用的應用程式，需要允許Tiles的無障礙設定服務。</string>
     <string name="description_reminder_tile">「備忘提醒」，快速新增備忘提醒並在通知欄顯示，輕按通知以修改或刪除備忘提醒。</string>
     <string name="description_ringer_mode_tile">「音效模式」，變更裝置音效模式至「正常」、「震動」或「請勿打擾」。使用此快速設定磚需要授予「請勿打擾」模式的權限</string>

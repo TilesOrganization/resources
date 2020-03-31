@@ -478,4 +478,12 @@
     <string name="dark_theme_tile_label">深色主題</string>
     <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
     <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
+    <!--private dns-->
+    <string name="private_dns_tile_label">Private DNS</string>
+    <string name="private_dns_tile_label_off">Private DNS off</string>
+    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
+    <string name="private_dns_tile_label_custom">Private DNS custom</string>
+    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
+    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
 </resources>

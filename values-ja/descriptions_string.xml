@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Lock the orientation of the device: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. To change and lock orientation, the tile needs to turn auto-rotate off.\nModify system settings permission is required to use this tile.</string>
     <string name="description_power_tile">Show a dialog to power off, reboot, reboot recovery, reboot bootloader. To show the system power dialog, the accessibility service must be enabled.</string>
     <string name="description_power_dialog_accessibility_tile">Show the Android system power dialog to power off or restart the device. The accessibility service must be enabled.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Show the recents screen, a system-level UI that lists recently accessed activities and tasks. The accessibility service must be enabled.</string>
     <string name="description_reminder_tile">Quickly add a reminder to be shown as a persistent notification. Edit or delete the reminder by tapping the notification.</string>
     <string name="description_ringer_mode_tile">Set the ringer mode of the device: normal, vibrate or Do Not Disturb. Do Not Disturb access is required to use this tile.</string>

@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Sperrt das Drehen des Smartphone: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Um das Drehen zu ändern und zu sperren, benötigt die Kachel das Recht das automatische Drehen zu deaktivieren.\nDas Recht zum Ändern von Systemeinstellungen wird für diese Kachel benötigt.</string>
     <string name="description_power_tile">Zeigt einen Dialog an um das System herunterzufahren, neuzustarten, in die Recovery oder in den Bootloader neuzustarten. Um das Power-Menü anzuzeigen muss die Bedienungshilfe aktiviert sein.</string>
     <string name="description_power_dialog_accessibility_tile">Zeigt das Power-Menü von Android an um das System herunterzufahren oder neuzustarten. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Zeigt die letzten Apps an, eine Übersicht des Systems, welche die zuletzt verwendeten Aktivitäten und Tasks zeigt. Die Bedienungshilfe muss hierfür aktiviert sein.</string>
     <string name="description_reminder_tile">Fügt eine Erinnerung als persistente Benachrichtigung hinzu. Bearbeite oder lösche die Erinnerung durch einen Klick auf die Benachrichtigung.</string>
     <string name="description_ringer_mode_tile">Setzt den Klingel-Modus des Smartphone: Normal, Vibration oder "Bitte nicht stören". Das Recht zum Zugriff auf den "Bitte nicht stören"-Modus wird für diese Kachel benötigt.</string>

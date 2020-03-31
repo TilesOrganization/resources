@@ -479,4 +479,12 @@
     <string name="dark_theme_tile_label">Tmavý motiv</string>
     <string name="dark_theme_tile_alert_dialog_message">Aby dlaždice mohla měnit tmavý motiv, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
     <string name="dark_theme_tile_tip_summary">Ujistěte se, že jste před použitím dlaždice aktivovali výchozí tmavý motiv v Androidu alespoň jednou, jinak funkce selže. \nPokud dlaždice stále selhává nebo je tato zpráva stále viditelná, vaše zařízení nepodporuje výchozí tmavý motiv Androidu.</string>
+    <!--private dns-->
+    <string name="private_dns_tile_label">Private DNS</string>
+    <string name="private_dns_tile_label_off">Private DNS off</string>
+    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
+    <string name="private_dns_tile_label_custom">Private DNS custom</string>
+    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
+    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
 </resources>

@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Uzamknout otáčení zařízení: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Chcete-li změnit a uzamknout otáčení, dlaždice musí vypnout automatické otáčení.\nPro použití této dlaždice je zapotřebí změnit oprávnění systému.</string>
     <string name="description_power_tile">Zobrazit dialogové okno pro vypnutí, restartování, restartování do recovery, bootloaderu. Chcete-li zobrazit dialogové okno menu napájení, musí být povolena služba přístupnosti.</string>
     <string name="description_power_dialog_accessibility_tile">Zobrazit dialogové okno systému Android pro vypnutí nebo restartování zařízení. Musí být povolena sužba přístupnosti.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Zobrazit obrazovku nedávných, uživatelské rozhraní na úrovni systému, které uvádí nedávno přístupné aktivity a úkoly. Musí být povolena služba přístupnosti.</string>
     <string name="description_reminder_tile">Rychle přidat připomínku, která se zobrazí jako trvalé oznámení. Upravit nebo vymazat připomínku klepnutím na oznámení.</string>
     <string name="description_ringer_mode_tile">Nastavit režim vyzvánění zařízení: normální, vibrace nebo režim Nerušit. Pro použití této dlaždice je zapotřebí oprávnění k režimu Nerušit.</string>

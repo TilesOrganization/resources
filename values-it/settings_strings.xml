@@ -411,4 +411,8 @@
     <!--dark theme-->
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare tema scuro</string>
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare tema scuro</string>
+    <!--private dns-->
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Negata. La funzione non ha l\'autorizzazione a cambiare modalità DNS</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Concessa. La funzione ha l\'autorizzazione a cambiare modalità DNS</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">Cambia modalità DNS</string>
 </resources>

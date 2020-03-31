@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Cihazın dönüşünü kilitler: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Dönüşü değiştirmek ya da kilitlemek için karo otomatik döndürmeyi kapatma ihtiyacı duyar. Bunun için izin gereklidir.</string>
     <string name="description_power_tile">Sistemi kapatma, Yeniden başlatma, kurtarma modunda veya bootloader\'dan reboot seçenekleri sunan bir güç menüsü gösterir. Bunun için erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
     <string name="description_power_dialog_accessibility_tile">Cihazı açmak ya da yeniden başlatmak için bir menü gösterir. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">En son uygulamaları gösterir. Erişilebilirlik servisinin aktifleştirilmiş olması gerekmektedir.</string>
     <string name="description_reminder_tile">Hızlıca kalıcı bir notifikasyon şeklinde bir hatırlatıcı yaratır. Bildirime tıklayarak hatırlatıcıyı düzenleyebilir veya silebilirsiniz.</string>
     <string name="description_ringer_mode_tile">Cihazın ses modunu normal, titreşim veya rahatsız etme modlarına getirir. Bu karoyu kullanmak için Rahatsız Etme erişimi gerekmekedir.</string>

@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Blocca l\'orientamento del dispositivo: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Per cambiare e bloccare orientamento, la funzione richiede di disabilitare rotazione automatica.\nAutorizzazione modifica impostazioni di sistema è necessaria per utilizzare questa funzione.</string>
     <string name="description_power_tile">Visualizzare un dialogo per spegnere, riavviare, riavviare recovery, riavviare bootloader. Per visualizzare il dialogo di accensione del sistema, il servizio accessibilità è richiesto abilitato.</string>
     <string name="description_power_dialog_accessibility_tile">Visualizzare il dialogo di accensione di sistema per spegnere o riavviare il dispositivo. Il servizio accessibilità è richiesto abilitato.</string>
+    <string name="description_private_dns_tile">Modificare il server DNS per tutte le connessioni dati e Wi-Fi.</string>
     <string name="description_recents_screen_tile">Visualizzare lo schermo recenti, interfaccia di sistema che visualizza attività e processi recentemente eseguiti. Il servizio accessibilità è richiesto abilitato.</string>
     <string name="description_reminder_tile">Aggiungere velocemente un promemoria da visualizzare come una notifica persistente. Modificare o eliminare il promemoria facendo tap sulla notifica.</string>
     <string name="description_ringer_mode_tile">Impostare la modalità squillo del telefono: normale, vibrazione o non disturbare. Accesso non disturbare è necessario per utilizzare questa funzione.</string>

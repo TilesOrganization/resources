@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Zet de oriëntatie van het toestel vast: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. Om de oriëntatie te veranderen of vast te zetten, moet de tegel automatisch draaien uitschakelen.\nToestemming om systeeminstellingen te wijzigen is nodig om de tegel te kunnen gebruiken.</string>
     <string name="description_power_tile">Laat een dialoog zien om uit te zetten, herstarten, herstart recovery, herstart bootloader. Om het power dialoog te laten zien, moet de toegankelijkheid service zijn ingeschakeld.</string>
     <string name="description_power_dialog_accessibility_tile">Laat Android power systeem dialoog zien om het toestel uit te zetten of te herstarten. De toegankelijkheid service moet zijn ingeschakeld.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Laat het recents scherm zien, een systeem gebruikersinterface dat recente activiteiten en taken laat zien. De toegankelijkheid service moet zijn ingeschakeld.</string>
     <string name="description_reminder_tile">Snel een herinnering toevoegen als een blijvende notificatie. Om de herinnering te bewerken of te verwijderen, klik op de notificatie.</string>
     <string name="description_ringer_mode_tile">Stel de beltoon modus van het toestel in: normaal, trillen of Niet Storen. Niet Storen toegang is nodig om de tegel te kunnen gebruiken.</string>

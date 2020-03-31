@@ -480,4 +480,12 @@
     <string name="dark_theme_tile_label">Темна тема</string>
     <string name="dark_theme_tile_alert_dialog_message">Щоб дозволити плитці змінювати темну тему, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
     <string name="dark_theme_tile_tip_summary">Будь ласка, не забудьте активувати вбудовану темну тему Android хоча б один раз, перш ніж використовувати цю плитку, інакше спроба зазнає невдачі. \nЯкщо плитка не працює або якщо це повідомлення все ще видно - пристрій не підтримує темну тему Android за замовчуванням.</string>
+    <!--private dns-->
+    <string name="private_dns_tile_label">Private DNS</string>
+    <string name="private_dns_tile_label_off">Private DNS off</string>
+    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
+    <string name="private_dns_tile_label_custom">Private DNS custom</string>
+    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
+    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
 </resources>

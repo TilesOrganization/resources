@@ -53,6 +53,7 @@
     <string name="description_orientation_lock_tile">Lås retningen til enheten: 0\u00B0, 90\u00B0, 180\u00B0, 270\u00B0. For å endre og låse retningen, trenger knappen å slå av auto-rotasjon.\nModifiser systeminnstillinger tillatelse er krevet for å bruke denne knappen.</string>
     <string name="description_power_tile">Vis en dialog for å skru av, omstart, omstart gjenoppretting, omstart «bootloader». For å vise system-strømmenyen, må tilgjengelighetstjenester vere aktivert.</string>
     <string name="description_power_dialog_accessibility_tile">Vis Android systemets strømmeny for å slå av eller starte enheten på nytt. Tilgjengelighetstjenester må vere aktivert.</string>
+    <string name="description_private_dns_tile">Change the DNS server for all data and Wi-Fi connections.</string>
     <string name="description_recents_screen_tile">Vis nylige skjermen, et system-level UI som lister nylig viste aktiviteter og oppgaver. Må tilgjengelighetstjenester vere aktivert.</string>
     <string name="description_reminder_tile">Raskt legg til en påminnelse å vise som en vedvarende varsel. Rediger eller slett påminnelsen ved å trykke på varselet.</string>
     <string name="description_ringer_mode_tile">Angi ringemoduset til enheten: normal, vibrer eller ikke forstyrr. Ikke forstyrr tilgang er krevet for å bruke denne knappen.</string>

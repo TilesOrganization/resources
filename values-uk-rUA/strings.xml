@@ -43,10 +43,10 @@
     <string name="all">Всі</string>
     <string name="starred">Обране</string>
     <string name="empty_starred_tiles_database_alert_message">Немає обраних плиток.</string>
-    <string name="custom_label">Свій текст</string>
+    <string name="custom_label">Власний текст</string>
     <string name="enter_label">Введіть текст</string>
     <string name="not_set_message">Не зазначено</string>
-    <string name="custom">Свої налаштування</string>
+    <string name="custom">Власні налаштування</string>
     <string name="timeout">Тайм-аут</string>
     <string name="timeout_value_no_timeout">Без тайм-ауту</string>
     <string name="timeout_value_in_minutes">Тайм-аут (хвилини)</string>
@@ -56,12 +56,12 @@
         <item quantity="few">%d хвилин</item>
         <item quantity="many">%d хвилин</item>
     </plurals>
-    <string name="timeout_progress_bar">Timeout progress bar</string>
-    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
-    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
-    <string name="tile_drawable">Tile icon</string>
-    <string name="tile_default">Default</string>
-    <string name="tile_custom">Custom</string>
+    <string name="timeout_progress_bar">Індикатор тайм-ауту</string>
+    <string name="timeout_progress_bar_summary_on">Показати індикатор тайм-ауту коли він активний</string>
+    <string name="timeout_progress_bar_summary_off">Сховати індикатор тайм-ауту коли він активний</string>
+    <string name="tile_drawable">Іконка плитки</string>
+    <string name="tile_default">За замовчуванням</string>
+    <string name="tile_custom">Власні налаштування</string>
     <!--device administrator-->
     <string name="device_admin_activated">Адміністратора пристрою активовано</string>
     <string name="device_admin_deactivated">Адміністратора пристрою деактивовано</string>
@@ -481,11 +481,11 @@
     <string name="dark_theme_tile_alert_dialog_message">Щоб дозволити плитці змінювати темну тему, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
     <string name="dark_theme_tile_tip_summary">Будь ласка, не забудьте активувати вбудовану темну тему Android хоча б один раз, перш ніж використовувати цю плитку, інакше спроба зазнає невдачі. \nЯкщо плитка не працює або якщо це повідомлення все ще видно - пристрій не підтримує темну тему Android за замовчуванням.</string>
     <!--private dns-->
-    <string name="private_dns_tile_label">Private DNS</string>
-    <string name="private_dns_tile_label_off">Private DNS off</string>
-    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
-    <string name="private_dns_tile_label_custom">Private DNS custom</string>
-    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
-    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
-    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
+    <string name="private_dns_tile_label">Приватна DNS</string>
+    <string name="private_dns_tile_label_off">Вимкнено приватну DNS</string>
+    <string name="private_dns_tile_label_auto">Автоматична приватна DNS</string>
+    <string name="private_dns_tile_label_custom">Власна приватна DNS</string>
+    <string name="private_dns_tile_alert_dialog_message">Щоб дозволити плитці змінювати режим приватної DNS, будь ласка, відкрийте налаштування і дайте доступ додатку до налаштувань безпеки.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">Не знайдено ім\'я хоста постачальника послуг DNS, будь ласка, відкрийте налаштування та встановіть ім\'я хоста постачальника послуг DNS.</string>
+    <string name="private_dns_tile_provider_hostname">Ім\'я хоста постачальника послуг DNS</string>
 </resources>

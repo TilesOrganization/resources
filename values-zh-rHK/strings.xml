@@ -46,20 +46,20 @@
     <string name="custom_label">自定義設定磚名稱</string>
     <string name="enter_label">輸入設定磚名稱</string>
     <string name="not_set_message">沒有設定</string>
-    <string name="custom">Custom</string>
-    <string name="timeout">Timeout</string>
-    <string name="timeout_value_no_timeout">No timeout</string>
-    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <string name="custom">自定義</string>
+    <string name="timeout">逾時</string>
+    <string name="timeout_value_no_timeout">沒有逾時</string>
+    <string name="timeout_value_in_minutes">逾時 (分鐘)</string>
     <plurals name="formatted_minutes_plurals">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d 分鐘</item>
+        <item quantity="other">%d 分鐘</item>
     </plurals>
-    <string name="timeout_progress_bar">Timeout progress bar</string>
-    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
-    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
-    <string name="tile_drawable">Tile icon</string>
-    <string name="tile_default">Default</string>
-    <string name="tile_custom">Custom</string>
+    <string name="timeout_progress_bar">逾時進度列</string>
+    <string name="timeout_progress_bar_summary_on">生效時顯示逾時進度列</string>
+    <string name="timeout_progress_bar_summary_off">生效時隱藏逾時進度列</string>
+    <string name="tile_drawable">Tile 圖示</string>
+    <string name="tile_default">預設</string>
+    <string name="tile_custom">自定義</string>
     <!--device administrator-->
     <string name="device_admin_activated">裝置管理員已啟用</string>
     <string name="device_admin_deactivated">裝置管理員已停用</string>
@@ -137,14 +137,14 @@
     <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">要允許快速設定磚變更音效模式，請前往設定並允許「請勿打擾」模式的存取權限。</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">保持屏幕開啟</string>
-    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
-    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">要允許快速設定磚變更保持屏幕開啟的使用狀態，請前往設定並允許修改系統設定的權限。</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">要允許快速設定磚變更保持屏幕開啟的使用狀態請前往設定並允許顯示在其他應用上層的權限。</string>
     <string name="caffeine_tile_service_notification_title">服務正在運行</string>
     <string name="caffeine_tile_service_notification_content_text">裝置會保持屏幕開啟，輕按以停止服務。</string>
     <!--streetview-->
     <string name="streetview_tile_label">街景</string>
     <string name="streetview_map_tile_location_permission_alert_dialog_message">要允許快速設定磚取得目前位置，請前往設定並允許位置權限。</string>
-    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant background location permission.</string>
+    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">要允許快速設定磚取得目前位置，請前往設定並允許背景運作權限。</string>
     <!--sync-->
     <string name="sync_tile_label">同步</string>
     <!--timer-->
@@ -476,14 +476,14 @@
     <string name="battery_settings_tile_label">電池設定</string>
     <!--dark theme-->
     <string name="dark_theme_tile_label">深色主題背景</string>
-    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
-    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
+    <string name="dark_theme_tile_alert_dialog_message">要允許快速設定磚變更深色主題，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="dark_theme_tile_tip_summary">使用快速設定磚變更深色主題前，請確保已啟動過Android原生的深色主題至少一次，否則此快速設定磚不能正常運作。\n 如快速設定磚仍無法運作或持續顯示此訊息，表示你的裝置不支援Android 原生的原生的深色主題。</string>
     <!--private dns-->
     <string name="private_dns_tile_label">Private DNS</string>
-    <string name="private_dns_tile_label_off">Private DNS off</string>
-    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
-    <string name="private_dns_tile_label_custom">Private DNS custom</string>
-    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
-    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
+    <string name="private_dns_tile_label_off">Private DNS 關閉</string>
+    <string name="private_dns_tile_label_auto">Private DNS 自動</string>
+    <string name="private_dns_tile_label_custom">Private DNS 自定義</string>
+    <string name="private_dns_tile_alert_dialog_message">使用快速設定磚變更 private DNS 模式，請前往設定並允許可寫入安全設定的權限。</string>
+    <string name="private_dns_tile_empty_dns_provider_message">沒有找到 DNS provider hostname，請前往設定及設置一個 DNS provider hostname。</string>
     <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
 </resources>

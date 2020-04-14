@@ -9,7 +9,7 @@
     <string name="settings_enabled">啟用</string>
     <string name="settings_disabled">禁用</string>
     <string name="settings_action">動作</string>
-    <string name="settings_method">Method</string>
+    <string name="settings_method">方法</string>
     <string name="settings_use_accessibility_service">無障礙設定</string>
     <string name="settings_use_su">超級使用者權</string>
     <string name="settings_layout">佈局</string>
@@ -50,9 +50,9 @@
     <string name="settings_design_status_bar_icons_light">白色圖示</string>
     <string name="settings_design_status_bar_icons_dark">黑色圖示</string>
     <!--design tiles icons style-->
-    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
-    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
-    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
+    <string name="settings_design_tiles_icons_style">Tiles圖示樣式</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">正在開啟／運行的將使用正常圖示，沒有開啟／運行的則使用禁止圖示。</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">正在開啟／運行及沒有開啟／運行的一律使用正常圖示。</string>
     <!--advanced-->
     <string name="settings_advanced">進階</string>
     <string name="settings_restart_active_tiles_title">重啟已加入的快速設定磚</string>
@@ -65,7 +65,7 @@
     <string name="settings_location_permissions_preference_title">位置權限</string>
     <string name="settings_background_location_permissions_preference_title">背景位置權限</string>
     <string name="settings_modify_system_settings_permissions_title">修改系統設定權限</string>
-    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
+    <string name="settings_display_over_other_apps_permission_title">顯示在其他應用上層的權限。</string>
     <string name="settings_feedback">意見及援助</string>
     <string name="settings_privacy_policy">私隱政策</string>
     <string name="settings_wiki">Wiki</string>
@@ -103,7 +103,7 @@
     <string name="settings_translations_locale_pl">波蘭文</string>
     <string name="settings_translations_locale_ko_rKR">韓文, 南韓</string>
     <string name="settings_translations_locale_uk_rUA">烏克蘭文</string>
-    <string name="settings_translations_locale_bn_rBD">孟加拉國孟加拉</string>
+    <string name="settings_translations_locale_bn_rBD">孟加拉文</string>
     <!--tile component-->
     <string name="settings_component_summary_title">快速設定磚的顯示</string>
     <string name="settings_component_summary_off">在快速設定面板中隱藏</string>
@@ -170,8 +170,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">音效模式為正常時，不播放任何音效</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">音效模式為正常時，播放系統預設音效</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">已禁止。程式禁止保持屏幕開啟</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">已授權。程式可以保持屏幕開啟</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">顯示打開設定的動作</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">隱藏動作</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">播放音效</string>
@@ -409,10 +409,10 @@
     <string name="settings_sleep_tile_accessibility_service_summary_off">已禁止。此快速設定磚禁止將裝置休眠。</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">已授權。此快速設定磚允許將裝置休眠。</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">已授權。程式可以變更深色主題</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">已禁止。程式禁止變更深色主題</string>
     <!--private dns-->
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_action_change_dns_mode">Change DNS mode</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off"已禁止。程式禁止變更 private DNS 模式</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">G已授權。程式可以變更 private DNS 模式</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">變更DNS模式</string>
 </resources>

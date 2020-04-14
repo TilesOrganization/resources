@@ -475,7 +475,7 @@
     <!--battery settings-->
     <string name="battery_settings_tile_label">電池設定</string>
     <!--dark theme-->
-    <string name="dark_theme_tile_label">深色主題背景</string>
+    <string name="dark_theme_tile_label">深色主題</string>
     <string name="dark_theme_tile_alert_dialog_message">要允許快速設定磚變更深色主題，請前往設定並允許可寫入安全設定的權限。</string>
     <string name="dark_theme_tile_tip_summary">使用快速設定磚變更深色主題前，請確保已啟動過Android原生的深色主題至少一次，否則此快速設定磚不能正常運作。\n 如快速設定磚仍無法運作或持續顯示此訊息，表示你的裝置不支援Android 原生的原生的深色主題。</string>
     <!--private dns-->

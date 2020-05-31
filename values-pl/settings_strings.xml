@@ -4,14 +4,14 @@
     <string name="settings">Ustawienia</string>
     <string name="settings_design">Wygląd</string>
     <string name="settings_animations">Animacje</string>
-    <string name="settings_animations_reveal_animation_title">Reveal animation</string>
-    <string name="settings_animations_drawable_animation_title">Drawable animation</string>
+    <string name="settings_animations_reveal_animation_title">Animacja odsłaniania</string>
+    <string name="settings_animations_drawable_animation_title">Animacja rysowania</string>
     <string name="settings_enabled">Włączone</string>
     <string name="settings_disabled">Wyłączone</string>
     <string name="settings_action">Akcja</string>
-    <string name="settings_method">Method</string>
-    <string name="settings_use_accessibility_service">Accessibility service</string>
-    <string name="settings_use_su">Super user privileges</string>
+    <string name="settings_method">Metoda</string>
+    <string name="settings_use_accessibility_service">Usługa ułatwień dostępu</string>
+    <string name="settings_use_su">Uprawnienia superużytkownika (root)</string>
     <string name="settings_layout">Układ</string>
     <string name="settings_notification">Powiadomienie</string>
     <string name="settings_theme">Motyw</string>
@@ -35,7 +35,7 @@
     <string name="settings_add_star">Dodaj gwiazdkę</string>
     <string name="settings_remove_star">Usuń gwiazdkę</string>
     <!--navigation status bar tint-->
-    <string name="settings_design_navigation_bar_tint_title">Odcień paku nawigacji</string>
+    <string name="settings_design_navigation_bar_tint_title">Odcień paska nawigacji</string>
     <string name="settings_design_navigation_bar_tint_no_tint">Bez odcienia</string>
     <string name="settings_design_navigation_bar_tint_primary_dark">Podstawowy ciemny odcień</string>
     <string name="settings_design_navigation_bar_tint_primary">Podstawowy kolor</string>
@@ -46,90 +46,90 @@
     <string name="settings_design_status_bar_tint_primary">Podstawowy kolor</string>
     <string name="settings_design_status_bar_tint_accent">Kolor akcentowany</string>
     <!--design status bar icons-->
-    <string name="settings_design_status_bar_icons_title">Ikony pasku stanu</string>
+    <string name="settings_design_status_bar_icons_title">Ikony paska stanu</string>
     <string name="settings_design_status_bar_icons_light">Jasne ikony</string>
     <string name="settings_design_status_bar_icons_dark">Ciemne ikony</string>
     <!--design tiles icons style-->
-    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
-    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
-    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
+    <string name="settings_design_tiles_icons_style">Styl ikon kafelków</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Użyj zwykłych ikon dla wł./aktywnego stanu i przekreślonych ikon dla wył./nieaktywnego stanu</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Użyj zwykłych ikon dla wł./aktywnego stanu i wył./nieaktywnego stanu</string>
     <!--advanced-->
     <string name="settings_advanced">Zaawansowane</string>
-    <string name="settings_restart_active_tiles_title">Zrestaruj aktywne kafelki</string>
-    <string name="settings_restart_active_tiles_summary">Wymuś restart aktywnych kafelków. Używaj tej akcji jedynie gdy kafelki zostały zamrożone przez system</string>
-    <string name="settings_restart_active_tiles_summary_processing">Processing force restart of active tiles</string>
-    <string name="settings_scheduled_restart_tiles_title">Zaplanowany restart</string>
+    <string name="settings_restart_active_tiles_title">Uruchom ponownie aktywne kafelki</string>
+    <string name="settings_restart_active_tiles_summary">Wymuś ponowne uruchomienie aktywnych kafelków. Używaj tej akcji jedynie, gdy kafelki zostały zamrożone przez system</string>
+    <string name="settings_restart_active_tiles_summary_processing">Przetwarzanie wymuszonego ponownego uruchomienia aktywnych kafelków</string>
+    <string name="settings_scheduled_restart_tiles_title">Zaplanowane ponowne uruchomienie</string>
     <!--UX-->
-    <string name="settings_permission">Pozwolenia</string>
-    <string name="settings_phone_call_permission_title">Pozwolenie na zarządzanie połączeniami telefonicznymi</string>
-    <string name="settings_location_permissions_preference_title">Pozwolenie na określenie lokalizacji</string>
-    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
-    <string name="settings_modify_system_settings_permissions_title">Pozwolenie na modyfkowanie ustawień systemowych</string>
-    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
-    <string name="settings_feedback">Opinia &amp; Wsparcie</string>
-    <string name="settings_privacy_policy">Politya prywatności</string>
+    <string name="settings_permission">Uprawnienia</string>
+    <string name="settings_phone_call_permission_title">Uprawnienie do zarządzania połączeniami telefonicznymi</string>
+    <string name="settings_location_permissions_preference_title">Uprawnienie do określenia lokalizacji</string>
+    <string name="settings_background_location_permissions_preference_title">Uprawnienie do określenia lokalizacji w tle</string>
+    <string name="settings_modify_system_settings_permissions_title">Uprawnienie do modyfikacji ustawień systemowych</string>
+    <string name="settings_display_over_other_apps_permission_title">Uprawnienie do wyświetlania nad innymi aplikacjami</string>
+    <string name="settings_feedback">Opinia i wsparcie</string>
+    <string name="settings_privacy_policy">Polityka prywatności</string>
     <string name="settings_wiki">Wiki</string>
-    <string name="settings_wiki_device_administrator">Administator urządzenia</string>
-    <string name="settings_wiki_accessibility_service">Usłga dostępności</string>
+    <string name="settings_wiki_device_administrator">Administrator urządzenia</string>
+    <string name="settings_wiki_accessibility_service">Usługa ułatwień dostępu</string>
     <string name="settings_wiki_how_to_add_tiles">Jak dodać kafelki</string>
     <string name="settings_wiki_how_to_enable_hidden_tiles">Jak włączyć ukryte kafelki</string>
-    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Jak używać ADB aby przyznać uprawnienia</string>
-    <string name="settings_rate_or_review">Oceń lub zrecenzuj apliakcję</string>
-    <string name="settings_support_title">Dzieki za twoje wsparcie!</string>
-    <string name="settings_send_email">Wyślij maila</string>
-    <string name="settings_support_summary">Developed for Android 7.0 (API level 24) &amp; up</string>
+    <string name="settings_wiki_how_to_use_adb_to_grant_permissions">Jak używać ADB, aby przyznać uprawnienia</string>
+    <string name="settings_rate_or_review">Oceń lub zrecenzuj aplikację</string>
+    <string name="settings_support_title">Dzięki za twoje wsparcie!</string>
+    <string name="settings_send_email">Wyślij e-mail</string>
+    <string name="settings_support_summary">Opracowany dla Androida 7.0 (Poziom API 24) i wyżej</string>
     <string name="settings_credit">Twórcy</string>
-    <string name="settings_credit_app_icon">Ikony apliacji</string>
+    <string name="settings_credit_app_icon">Ikony aplikacji</string>
     <string name="settings_translations">Tłumaczenia</string>
-    <string name="settings_translations_thanks">Jeśli chcesz tłumaczyć aplikację, napisz do mnie na: rascarlo@gmail.com.\nDzięki!</string>
-    <string name="settings_translations_locale_cs">Czech</string>
+    <string name="settings_translations_thanks">Jeśli chcesz pomóc w tłumaczeniu aplikacji na swój język, napisz do mnie na: rascarlo@gmail.com.\nDzięki!</string>
+    <string name="settings_translations_locale_cs">Czeski</string>
     <string name="settings_translations_locale_de">Niemiecki</string>
-    <string name="settings_translations_locale_pt_rBR">Portugalski, Brazylja</string>
-    <string name="settings_translations_locale_nl">Dutch</string>
-    <string name="settings_translations_locale_pt_rPT">Portugalski, Portugalia</string>
-    <string name="settings_translations_locale_sk_rSK">Słowacki, Słowacja</string>
-    <string name="settings_translations_locale_zh_rHK_rMO">Chiński tradycjny, Hong Kong &amp; Macao</string>
-    <string name="settings_translations_locale_zh_rTW">Chiński tradycjny, Taiwan</string>
+    <string name="settings_translations_locale_pt_rBR">Portugalski (Brazylia)</string>
+    <string name="settings_translations_locale_nl">Niderlandzki</string>
+    <string name="settings_translations_locale_pt_rPT">Portugalski (Portugalia)</string>
+    <string name="settings_translations_locale_sk_rSK">Słowacki (Słowacja)</string>
+    <string name="settings_translations_locale_zh_rHK_rMO">Chiński tradycyjny, Hongkong i Makau</string>
+    <string name="settings_translations_locale_zh_rTW">Chiński tradycyjny, Tajwan</string>
     <string name="settings_translations_locale_it">Włoski</string>
-    <string name="settings_translations_locale_hu">Węgiski</string>
+    <string name="settings_translations_locale_hu">Węgierski</string>
     <string name="settings_translations_locale_es">Hiszpański</string>
     <string name="settings_translations_locale_ru">Rosyjski</string>
     <string name="settings_translations_locale_fr">Francuski</string>
-    <string name="settings_translations_locale_hr">Croatian</string>
-    <string name="settings_translations_locale_ja">Chorwacki</string>
+    <string name="settings_translations_locale_hr">Chorwacki</string>
+    <string name="settings_translations_locale_ja">Japoński</string>
     <string name="settings_translations_locale_tr">Turecki</string>
     <string name="settings_translations_locale_zh_rCN">Chiński uproszczony</string>
     <string name="settings_translations_locale_nb">Norweski (Bokmål)</string>
-    <string name="settings_translations_locale_pl">Polskie</string>
-    <string name="settings_translations_locale_ko_rKR">Koreański, Korea Południowa</string>
+    <string name="settings_translations_locale_pl">Polski</string>
+    <string name="settings_translations_locale_ko_rKR">Koreański (Korea Południowa)</string>
     <string name="settings_translations_locale_uk_rUA">Ukraiński</string>
-    <string name="settings_translations_locale_bn_rBD">Bengalski, Bangladesz</string>
+    <string name="settings_translations_locale_bn_rBD">Bengalski (Bangladesz)</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Widoczność kafelka</string>
-    <string name="settings_component_summary_off">Ukryj kafelek z Szybkich Ustawień</string>
+    <string name="settings_component_summary_off">Ukryj kafelek w Szybkich Ustawieniach</string>
     <string name="settings_component_summary_on">Pokaż kafelek w Szybkich Ustawieniach</string>
     <string name="settings_tile_action_start_service_and_collapse">Ukryj panel Szybkich Ustawień i uruchom usługę</string>
     <string name="settings_tile_action_start_service_without_collapsing">Uruchom usługę bez ukrywania panelu Szybkich Ustawień</string>
     <string name="settings_stop_on_sleep_title">Wyłącz przy uśpieniu</string>
-    <string name="settings_stop_on_sleep_summary_on">Wyłącz uslugę kiedy urządznie przejdzie w stan uśpienia</string>
+    <string name="settings_stop_on_sleep_summary_on">Wyłącz uslugę, gdy urządzenie przejdzie w stan uśpienia</string>
     <string name="settings_stop_on_sleep_summary_off">Zostaw usługę włączoną, mimo tego, że urządzenie przeszło w stań uśpienia</string>
-    <string name="settings_stay_awake">Pozostaw włączone</string>
+    <string name="settings_stay_awake">Zostaw włączone</string>
     <string name="settings_stay_awake_summary_on">Zostaw urządzenie włączone</string>
-    <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejsć w stan uśpienia</string>
+    <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejść w stan uśpienia</string>
     <!--adaptive brightness-->
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Nope. Kafelek nie ma pozwolenia, żeby zmienić trybu automatycznego podświetlania</string>
-    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Ok. Kafelek może zmienić tryb automatycznego podświetlnia</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać trybu jasności</string>
+    <string name="settings_adaptive_brightness_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać tryb jasności</string>
     <!-- application-->
     <string name="settings_application_tile_action_show_all_apps">Pokaż wszystkie aplikacje</string>
-    <string name="settings_application_tile_action_show_selected_apps">Pokaż zaznaczone aplikacje</string>
+    <string name="settings_application_tile_action_show_selected_apps">Pokaż wybrane aplikacje</string>
     <string name="settings_application_tile_single_app">Pojedyncza aplikacja</string>
     <plurals name="settings_applications_tile_applications_selected_formatted_plurals">
-        <item quantity="one">%d aplikacja zaznaczona</item>
-        <item quantity="other">%d aplikacje zaznaczone</item>
-        <item quantity="few">%d aplikacje zaznaczone</item>
-        <item quantity="many">%d aplikacji zaznaczonych</item>
+        <item quantity="one">%d aplikacja wybrana</item>
+        <item quantity="other">%d aplikacje wybrane</item>
+        <item quantity="few">%d aplikacje wybrane</item>
+        <item quantity="many">%d aplikacji wybranych</item>
     </plurals>
-    <string name="settings_application_tile_selected_app">Zaznaczone aplikacje</string>
+    <string name="settings_application_tile_selected_app">Wybrane aplikacje</string>
     <!-- applications list-->
     <string name="settings_application_tile_view_mode">Tryb podglądu</string>
     <string name="settings_application_tile_view_mode_list">Lista</string>
@@ -137,132 +137,132 @@
     <string name="settings_application_tile_view_mode_grid_no_labels">Siatka bez tytułów</string>
     <string name="settings_application_tile_grid_columns">Kolumna siatki</string>
     <string name="settings_application_tile_application_list_show_title">Aplikacje do pokazania</string>
-    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d aplikacji zaznaczonych</string>
-    <string name="settings_application_tile_application_list_show_summary_empty">Nie zaznaczono żadnych aplikacji</string>
-    <string name="settings_application_tile_application_list_launch_title">Aplikacja do uruchomeina</string>
+    <string name="settings_application_tile_application_list_show_formatted_summary" tools:ignore="PluralsCandidate">%d aplikacji wybranych</string>
+    <string name="settings_application_tile_application_list_show_summary_empty">Nie wybrano aplikacji</string>
+    <string name="settings_application_tile_application_list_launch_title">Aplikacja do uruchomienia</string>
     <string name="settings_application_tile_loading_applications">Ładowanie aplikacji…</string>
     <!--brightness-->
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Nope. Kafelek nie może zmienić poziom natężenia podświetlenia</string>
-    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Ok. Kafelek może zmienić poziom natężenia podświetlania</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać poziomu jasności</string>
+    <string name="settings_brightness_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać poziom jasności</string>
     <string name="settings_brightness_tile_action_change_brightness">Zmień jasność</string>
     <string name="settings_brightness_tile_brightness_levels_preference_title">Poziom jasności</string>
-    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Najjaśniejszy: %1$d%%\nNormaly: %2$d%%\nCiemny: %3$d%%</string>
+    <string name="settings_brightness_tile_brightness_levels_preference_formatted_summary">Wysoki: %1$d%%\nNormaly: %2$d%%\nNiski: %3$d%%</string>
     <!--call-->
     <string name="settings_call_tile_action_open_phone">Otwórz aplikację telefonu</string>
-    <string name="settings_call_tile_action_make_call">Zadzwoń na wybrany kontakt</string>
-    <string name="settings_call_contact_tile_phone_call_permission_title">Pozwolenie na wykonaie rozmowy</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Nope. Kafelek nie może wykonywać rozmów</string>
-    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">ok. Kafelek może wykonać rozmowę</string>
+    <string name="settings_call_tile_action_make_call">Zadzwoń do wybranego kontaktu</string>
+    <string name="settings_call_contact_tile_phone_call_permission_title">Uprawnienie na wykonywanie połączeń</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_off">Odmówiono. Kafelek nie może wykonywać połączeń</string>
+    <string name="settings_call_contact_tile_phone_call_permissions_summary_on">Przyznano. Kafelek może wykonywać połączenia</string>
     <string name="settings_call_contact_tile_contact_preference_screen_title">Kontakt do zadzwonienia</string>
     <!--email-->
     <string name="settings_email_tile_action_open_app">Otwórz klienta poczty</string>
-    <string name="settings_email_tile_action_send_email">Utwórz email dla wybranego odbiorcy</string>
-    <string name="settings_email_tile_contact_preference_title">Kontakt do maila</string>
+    <string name="settings_email_tile_action_send_email">Utwórz e-mail do wybranego odbiorcy</string>
+    <string name="settings_email_tile_contact_preference_title">Kontakt na e-mail</string>
     <!--lock-->
-    <string name="settings_lock_tile_device_admin_title">Administator urządzenia</string>
-    <string name="settings_lock_tile_device_admin_summary_on">Ok. Kafelek może blokować urząrzenie</string>
-    <string name="settings_lock_tile_device_admin_summary_off">Nope. Kafelek nie może blokować urządzenia</string>
+    <string name="settings_lock_tile_device_admin_title">Administrator urządzenia</string>
+    <string name="settings_lock_tile_device_admin_summary_on">Przyznano. Kafelek może blokować urządzenie</string>
+    <string name="settings_lock_tile_device_admin_summary_off">Odmówiono. Kafelek nie może blokować urządzenia</string>
     <!--ringer mode-->
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Dostęp do tyrbu Nie Przeszkadzać</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Ok. Kafelek może włączać/wyłączać tryb Nie Przeszkadzać i zmieniać powiązane z nim ustawienia</string>
-    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Nope. Kafelek nie może może włączać/wyłączać tryb Nie Przeszkadzać i zmieniać powiązane z nim ustawień</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_title">Dostęp do trybu Nie Przeszkadzać</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_on">Przyznano. Kafelek może włączać/wyłączać tryb Nie Przeszkadzać i zmieniać powiązane z nim ustawienia</string>
+    <string name="settings_ringer_mode_tile_do_not_disturb_access_summary_off">Odmówiono. Kafelek nie może włączać/wyłączać trybu Nie Przeszkadzać i zmieniać powiązanych z nim ustawień</string>
     <string name="settings_ringer_mode_tile_action_open_volume_panel">Otwórz panel głośności</string>
     <string name="settings_ringer_mode_tile_action_change_ringer_mode">Zmień tryb dzwonka</string>
-    <string name="settings_ringer_mode_tile_play_sound_title">Zagraj dźwięk</string>
-    <string name="settings_ringer_mode_tile_play_sound_summary_off">Don\u2019t play any sound when ringer mode normal is selected</string> <!-- Need to be translated-->
-    <string name="settings_ringer_mode_tile_play_sound_summary_on">Odtwarzaj domyślne dźwięki</string>
+    <string name="settings_ringer_mode_tile_play_sound_title">Odtwórz dźwięk</string>
+    <string name="settings_ringer_mode_tile_play_sound_summary_off">Nie odtwarzaj żadnego dźwięku, gdy wybrany jest tryb normalny dzwonka</string> <!-- Need to be translated-->
+    <string name="settings_ringer_mode_tile_play_sound_summary_on">Odtwórz domyślny dźwięk powiadomienia, gdy wybrany jest tryb normalny dzwonka</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Show action to open settings</string>
-    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Hide action</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Play sound</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Don\u2019t play any sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Play default notification sound when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Vibrate</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Don\u2019t vibrate when service is started</string>
-    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Vibrate when service is started</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Odmówiono. Kafelek nie może używać kofeiny</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Przyznano. Kafelek może używać kofeiny</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Pokaż akcję, aby otworzyć ustawienia</string>
+    <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Ukryj akcję</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Odtwórz dźwięk</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_off">Nie odtwarzaj żadnego dźwięku po uruchomieniu usługi</string>
+    <string name="settings_caffeine_tile_running_service_notification_play_sound_summary_on">Odtwórz domyślny dźwięk powiadomienia po uruchomieniu usługi</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_title">Wibracje</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_off">Nie wibruj po uruchomieniu usługi</string>
+    <string name="settings_caffeine_tile_running_service_notification_vibrate_summary_on">Wibruj po uruchomieniu usługi</string>
     <!--sync-->
-    <string name="settings_sync_tile_action_change_sync">Zmeiń stan synchronizacji</string>
-    <string name="settings_sync_tile_action_open_sync_settings">Otwórz ustawnienia synchronizacji</string>
+    <string name="settings_sync_tile_action_change_sync">Zmień stan synchronizacji</string>
+    <string name="settings_sync_tile_action_open_sync_settings">Otwórz ustawienia synchronizacji</string>
     <!--timer -->
-    <string name="settings_timer_tile_action_open_timer">Otwórz timer</string>
-    <string name="settings_timer_tile_action_start_timer">Uruchom timer</string>
+    <string name="settings_timer_tile_action_open_timer">Otwórz minutnik</string>
+    <string name="settings_timer_tile_action_start_timer">Uruchom minutnik</string>
     <string name="settings_timer_tile_skip_ui_title">Pomiń UI</string>
-    <string name="settings_timer_tile_skip_ui_summary_on">Bypass any confirmation UI and simply start the timer</string>
-    <string name="settings_timer_tile_skip_ui_summary_off">Show a confirmation UI before starting the timer</string>
+    <string name="settings_timer_tile_skip_ui_summary_on">Pomiń interfejs potwierdzenia przez użytkownika i po prostu uruchom minutnik</string>
+    <string name="settings_timer_tile_skip_ui_summary_off">Pokaż interfejs potwierdzenia przez użytkownika przed uruchomieniem minutnika</string>
     <string name="settings_timer_tile_default_duration">Domyślny czas trwania</string>
     <!--streetview-->
-    <string name="settings_streetview_map_tile_location_permissions_summary_off">Denied. The tile is not allowed to access device\'s location</string>
-    <string name="settings_streetview_map_tile_location_permissions_summary_on">Granted. The tile is allowed to access device\'s location</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_summary_off_hidden">Hidden</string>
-    <string name="settings_summary_on_shown">Shown</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_off">Odmówiono. Kafelek nie ma dostępu do lokalizacji urządzenia</string>
+    <string name="settings_streetview_map_tile_location_permissions_summary_on">Przyznano. Kafelek ma dostęp do lokalizacji urządzenia</string>
+    <string name="settings_units">Jednostki</string>
+    <string name="settings_summary_off_hidden">Ukryte</string>
+    <string name="settings_summary_on_shown">Widoczne</string>
     <!--reminder-->
-    <string name="settings_reminder_tile_persistent_notification_summary_off">Delete reminder by swiping it left or right</string>
-    <string name="settings_reminder_tile_persistent_notification_summary_on">Delete reminder by tapping the delete action button</string>
-    <string name="settings_reminder_tile_persistent_notification_title">Persistent notification</string>
-    <string name="settings_reminder_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_on">Play default notification sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_play_sound_summary_off">Don\u2019t play any sound when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_on">Vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_vibrate_summary_off">Don\u2019t vibrate when adding a new reminder</string>
-    <string name="settings_reminder_tile_notification_timestamp_style">Timestamp style</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normal</string>
-    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stopwatch</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_on">Show action to open settings</string>
-    <string name="settings_reminder_tile_notification_settings_action_summary_off">Hide action</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_off">Usuń przypomnienie, przesuwając je w lewo lub w prawo</string>
+    <string name="settings_reminder_tile_persistent_notification_summary_on">Usuń przypomnienie, dotykając przycisku akcji usuwania</string>
+    <string name="settings_reminder_tile_persistent_notification_title">Stałe powiadomienie</string>
+    <string name="settings_reminder_tile_notification_play_sound_title">Odtwórz dźwięk</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_on">Odtwarzaj domyślny dźwięk powiadomienia podczas dodawania nowego przypomnienia</string>
+    <string name="settings_reminder_tile_notification_play_sound_summary_off">Nie odtwarzaj żadnego dźwięku podczas dodawania nowego przypomnienia</string>
+    <string name="settings_reminder_tile_notification_vibrate_title">Wibracje</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_on">Wibruj podczas dodawania nowego przypomnienia</string>
+    <string name="settings_reminder_tile_notification_vibrate_summary_off">Nie wibruj podczas dodawania nowego przypomnienia</string>
+    <string name="settings_reminder_tile_notification_timestamp_style">Styl znacznika czasu</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_normal">Normalny</string>
+    <string name="settings_reminder_tile_notification_timestamp_style_stopwatch">Stoper</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_on">Pokaż akcję, aby otworzyć ustawienia</string>
+    <string name="settings_reminder_tile_notification_settings_action_summary_off">Ukryj akcję</string>
     <!--calendar-->
-    <string name="settings_calendar_tile_action_view">View events</string>
-    <string name="settings_calendar_tile_action_add">Add event</string>
+    <string name="settings_calendar_tile_action_view">Zobacz wydarzenia</string>
+    <string name="settings_calendar_tile_action_add">Dodaj wydarzenie</string>
     <!--location mode-->
-    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change location mode</string>
-    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change location mode</string>
-    <string name="settings_location_tile_action_change_location_mode">Change location mode</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać tryb lokalizacji</string>
+    <string name="settings_location_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać trybu lokalizacji</string>
+    <string name="settings_location_tile_action_change_location_mode">Zmień tryb lokalizacji</string>
     <!--sleep timeout-->
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change sleep timeout</string>
-    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Change sleep timeout</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać limitu czasu uśpienia</string>
+    <string name="settings_sleep_timeout_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać limit czasu uśpienia</string>
+    <string name="settings_sleep_timeout_tile_action_change_sleep_timeout">Zmień limit czasu uśpienia</string>
     <!--screenshot-->
-    <string name="settings_screenshot_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to take screenshot</string>
-    <string name="settings_screenshot_tile_accessibility_service_summary_on">Enabled. The tile is allowed to take screenshot</string>
-    <string name="settings_write_external_storage_permission_permissions_title">Write external storage permission</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Granted. The tile is allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Denied. The tile is not allowed to take and store screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_title">Play sound</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Play default notification sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Don\u2019t play any sound when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_title">Vibrate</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Don\u2019t vibrate when taking a new screenshot</string>
-    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Collapse Quick Settings panel and take screenshot</string>
-    <string name="settings_screenshot_tile_action_take_screenshot">Take screenshot without collapsing the Quick Settings panel</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_on">Show action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_share_action_summary_off">Hide action to share screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Show action to delete screenshot</string>
-    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Hide action to delete screenshot</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_off">Wyłączone. Kafelek nie może wykonywać zrzutu ekranu</string>
+    <string name="settings_screenshot_tile_accessibility_service_summary_on">Włączone. Kafelek może wykonywać zrzuty ekranu</string>
+    <string name="settings_write_external_storage_permission_permissions_title">Uprawnienie do zapisu w pamięci zewnętrznej</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_on">Przyznano. Kafelek może wykonywać i przechowywać zrzuty ekranu</string>
+    <string name="settings_screenshot_tile_write_external_storage_permission_permissions_summary_off">Odmówiono. Kafelek nie może wykonywać i przechowywać zrzutów ekranu</string>
+    <string name="settings_screenshot_tile_notification_play_sound_title">Odtwórz dźwięk</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_on">Odtwarzaj domyślny dźwięk powiadomienia podczas robienia nowego zrzutu ekranu</string>
+    <string name="settings_screenshot_tile_notification_play_sound_summary_off">Nie odtwarzaj żadnego dźwięku podczas robienia nowego zrzutu ekranu</string>
+    <string name="settings_screenshot_tile_notification_vibrate_title">Wibracje</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_on">Wibruj podczas robienia nowego zrzutu ekranu</string>
+    <string name="settings_screenshot_tile_notification_vibrate_summary_off">Nie wibruj podczas robienia nowego zrzutu ekranu</string>
+    <string name="settings_screenshot_tile_action_collapse_take_screenshot">Zwiń panel Szybkie ustawienia i zrób zrzut ekranu</string>
+    <string name="settings_screenshot_tile_action_take_screenshot">Wykonaj zrzut ekranu bez zwijania panelu Szybkie ustawienia</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_on">Pokaż akcję, aby udostępnić zrzut ekranu</string>
+    <string name="settings_screenshot_tile_notification_share_action_summary_off">Ukryj akcję, aby udostępnić zrzut ekranu</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_on">Pokaż akcję, aby usunąć zrzut ekranu</string>
+    <string name="settings_screenshot_tile_notification_delete_action_summary_off">Ukryj akcję, aby usunąć zrzut ekranu</string>
     <!--ringer mode dnd mode-->
-    <string name="settings_ringer_mode_tile_dnd_mode_title">Do Not Disturb mode</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Alarms only</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_none">Total silence</string>
-    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Priority only</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_title">Tryb Nie przeszkadzać</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_alarms_only">Tylko alarmy</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_none">Całkowita cisza</string>
+    <string name="settings_ringer_mode_tile_dnd_mode_priority_only">Tylko priorytetowe</string>
     <!--notification common strings-->
-    <string name="settings_show_dialog">Show dialog</string>
-    <string name="settings_notification_share_action_title">Share action</string>
-    <string name="settings_notification_settings_action_title">Settings action</string>
+    <string name="settings_show_dialog">Pokaż okno dialogowe</string>
+    <string name="settings_notification_share_action_title">Akcja udostępniania</string>
+    <string name="settings_notification_settings_action_title">Akcja ustawień</string>
     <!--immersive mode-->
-    <string name="settings_write_secure_settings_permission_title">Przydziel pozwolenia zmian ustawień systemowych</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change immersive mode</string>
-    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Change immersive mode</string>
-    <string name="settings_immersive_mode_tile_foreground_service_summary">To avoid unexpected behaviours or delays to wake up the device or when answering a call while the device is asleep, please keep this setting activated.</string>
+    <string name="settings_write_secure_settings_permission_title">Uprawnienie zapisu ustawień systemowych</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać tryb immersywny</string>
+    <string name="settings_immersive_mode_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać trybu immersywnego</string>
+    <string name="settings_immersive_mode_tile_action_change_immersive_mode">Zmień tryb immersywny</string>
+    <string name="settings_immersive_mode_tile_foreground_service_summary">Aby uniknąć nieoczekiwanego zachowania, opóźnień wznawiania działania urządzenia lub odbierania połączeń, gdy urządzenie jest uśpione, pozostaw to ustawienie aktywne.</string>
     <!--ambient display-->
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change ambient display</string>
-    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change ambient display</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać ekran dostosowany do otoczenia</string>
+    <string name="settings_ambient_display_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać ekranu dostosowanego do otoczenia</string>
     <!--animations tile-->
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change animations</string>
-    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change animations</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać animacje</string>
+    <string name="settings_animations_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać animacji</string>
     <string name="settings_show_milliseconds">Pokazuj milisekundy</string>
     <!--alarm tile-->
     <string name="settings_alarm_tile_action_add_alarm">Dodaj alarm</string>
@@ -275,148 +275,148 @@
     <string name="settings_font_size_tile_font_scale_default">Domyślna</string>
     <string name="settings_font_size_tile_font_scale_large">Duża</string>
     <string name="settings_font_size_tile_font_scale_largest">Wielka</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change font size</string>
-    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change font size</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać rozmiaru czcionki</string>
+    <string name="settings_font_size_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać rozmiar czcionki</string>
     <string name="settings_font_size_tile_action_change_font_size">Zmień rozmiar czcionki</string>
     <!--nfc-->
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change NFC state</string>
-    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change NFC state</string>
-    <string name="settings_nfc_tile_action_change_nfc_state">Wł./Wył. NFC</string>
-    <string name="settings_nfc_tile_open_nfc_settings">Otwórz ustawniana NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać stan NFC</string>
+    <string name="settings_nfc_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać stanu NFC</string>
+    <string name="settings_nfc_tile_action_change_nfc_state">Zmień stan NFC</string>
+    <string name="settings_nfc_tile_open_nfc_settings">Otwórz ustawienia NFC</string>
     <!--data roaming-->
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change data roaming</string>
-    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change data roaming</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać roaming danych</string>
+    <string name="settings_data_roaming_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać roamingu danych</string>
     <!--density-->
-    <string name="settings_density_tile_default_density_title">Default density</string>
-    <string name="settings_density_tile_current_density_title">Current density</string>
-    <string name="settings_density_tile_restore_default_density_title">Restore default density</string>
+    <string name="settings_density_tile_default_density_title">Domyślne zagęszczenie</string>
+    <string name="settings_density_tile_current_density_title">Aktualne zagęszczenie</string>
+    <string name="settings_density_tile_restore_default_density_title">Przywróć domyślne zagęszczenie</string>
     <!--awake while plugged in-->
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change awake while plugged in</string>
-    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change awake while plugged in</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać na włączony ekran podczas ładowania</string>
+    <string name="settings_awake_while_plugged_in_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać na włączony ekran podczas ładowania</string>
     <!--demo mode-->
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change demo mode</string>
-    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change demo mode</string>
-    <string name="settings_dump_permission_title">Dump permission</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_on">Granted. The tile is allowed to retrieve state dump information from system services</string>
-    <string name="settings_demo_mode_tile_dump_permission_summary_off">Denied. The tile is not allowed to retrieve state dump information from system services</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać tryb demo</string>
+    <string name="settings_demo_mode_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać trybu demo</string>
+    <string name="settings_dump_permission_title">Uprawnienie na zrzut</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_on">Przyznano. Kafelek może pobierać informacje o stanie zrzutu z usług systemowych</string>
+    <string name="settings_demo_mode_tile_dump_permission_summary_off">Odmówiono. Kafelek nie może pobierać informacji o stanie zrzutu z usług systemowych</string>
     <!--heads up notifications-->
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change heads-up notifications</string>
-    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change heads-up notifications</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać wyskakujące powiadomienia</string>
+    <string name="settings_heads_up_notifications_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać wyskakujących powiadomień</string>
     <!--power-->
-    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show system power dialog</string>
-    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show system power dialog</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_off">Wyłączone. Kafelek nie może wyświetlać menu zasilania</string>
+    <string name="settings_power_dialog_tile_accessibility_service_summary_on">Włączone. Kafelek może wyświetlać menu zasilania</string>
     <!--multi-window-->
-    <string name="settings_multi_window_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to toggle multi-window</string>
-    <string name="settings_multi_window_tile_accessibility_service_summary_on">Enabled. The tile is allowed to toggle multi-window</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_off">Wyłączone. Kafelek nie może przełączać podzielonego ekran</string>
+    <string name="settings_multi_window_tile_accessibility_service_summary_on">Włączone. Kafelek może przełączać podzielony ekranu</string>
     <!--recents screen-->
-    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to show recents screen</string>
-    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Enabled. The tile is allowed to show recents screen</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_off">Wyłączone. Kafelek nie może wyświetlać ekranu ostatnich aplikacji</string>
+    <string name="settings_recents_screen_tile_accessibility_service_summary_on">Włączone. Kafelek może wyświetlać ekran ostatnich aplikacji</string>
     <!--volumes-->
-    <string name="settings_volumes_tile_do_not_disturb_access_title">Do Not Disturb access</string>
-    <string name="settings_volumes_tile_action_open_volume_panel">Open volume panel</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Allowed. The tile is able to turn on/off Do Not Disturb and change ring volume</string>
-    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Denied. The tile is not able to turn on/off Do Not Disturb and change ring volume</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_title">Dostęp do trybu Nie przeszkadzać</string>
+    <string name="settings_volumes_tile_action_open_volume_panel">Otwórz panel głośności</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_on">Przyznano. Kafelek może włączać/wyłączać tryb Nie przeszkadzać i zmieniać głośność dzwonka</string>
+    <string name="settings_volumes_tile_do_not_disturb_access_summary_off">Odmówiono. Kafelek nie może włączać/wyłączać trybu Nie przeszkadzać i zmieniać głośności dzwonka</string>
     <!--vibrate on tap-->
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate on tap</string>
-    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate on tap</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać wibracji przy dotknięciu</string>
+    <string name="settings_vibrate_on_tap_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać wibracje przy dotknięciu</string>
     <!--touch sounds-->
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change touch sounds</string>
-    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change touch sounds</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać dźwięków przy dotknięciu</string>
+    <string name="settings_touch_sounds_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać dźwięki przy dotknięciu</string>
     <!--orientation lock-->
-    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change and lock orientation</string>
-    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change and lock orientation</string>
+    <string name="settings_orientation_lock_tile_action_change_lock_orientation">Zmień i zablokuj orientację</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać i blokować orientacji</string>
+    <string name="settings_orientation_lock_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać i blokować orientację</string>
     <!--vibrate for calls-->
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Denied. The tile is not allowed to change vibrate for calls</string>
-    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Granted. The tile is allowed to change vibrate for calls</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_off">Odmówiono. Kafelek nie może zmieniać wibracji dla połączeń</string>
+    <string name="settings_vibrate_for_calls_tile_modify_system_settings_permissions_summary_on">Przyznano. Kafelek może zmieniać wibracje dla połączeń</string>
     <!--battery saver-->
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to turn battery saver on and off</string>
-    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to turn battery saver on and off</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może włączać i wyłączać oszczędzania baterii</string>
+    <string name="settings_battery_saver_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może włączać i wyłączać oszczędzanie baterii</string>
     <!--usb debugging-->
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change USB debugging</string>
-    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change USB debugging</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać debugowania USB</string>
+    <string name="settings_usb_debugging_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać debugowanie USB</string>
     <!--cellular data-->
-    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Change cellular data state</string>
-    <string name="settings_cellular_data_tile_open_cellular_network_settings">Open cellular network settings</string>
-    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Open data usage settings</string>
+    <string name="settings_cellular_data_tile_action_change_cellular_data_state">Zmień stan danych mobilnych</string>
+    <string name="settings_cellular_data_tile_open_cellular_network_settings">Otwórz ustawienia sieci komórkowych</string>
+    <string name="settings_cellular_data_tile_action_open_data_usage_settings">Otwórz ustawienia użycia danych</string>
     <!--shortcuts-->
-    <string name="settings_shortcuts_tile_selected_shortcut">Zaznaczono skrót</string>
-    <string name="settings_shortcuts_tile_summary_empty">Nie zaznaczono żadnego skrótu</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Denied. The tile is not allowed to make phone calls and perform direct dial shortcuts</string>
-    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Granted. The tile is allowed to make phone calls and perform direct dial shortcuts</string>
+    <string name="settings_shortcuts_tile_selected_shortcut">Wybrano skrót</string>
+    <string name="settings_shortcuts_tile_summary_empty">Nie wybrano skrótu</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_off">Odmówiono. Kafelek nie może wykonywać połączeń i skrótów wybierania numeru</string>
+    <string name="settings_shortcuts_tile_phone_call_permissions_summary_on">Przyznano. Kafelek może wykonywać połączenia i skróty wybierania numeru</string>
     <!--bluetooth-->
-    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Change bluetooth state</string>
-    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Open bluetooth settings</string>
+    <string name="settings_bluetooth_tile_action_change_bluetooth_state">Zmień stan Bluetooth</string>
+    <string name="settings_bluetooth_tile_action_open_bluetooth_settings">Otwórz ustawienia Bluetooth</string>
     <!--monochromacy-->
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change monochromacy</string>
-    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change monochromacy</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać monochromatyczność</string>
+    <string name="settings_monochromacy_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać monochromatyczności</string>
     <!--input method-->
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to show input method picker while the app is not in the foreground</string>
-    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to show input method picker while the app is not in the foreground</string>
-    <string name="settings_input_method_tile_action_show_input_method_picker">Show input method picker</string>
-    <string name="settings_input_method_tile_action_open_input_method_settings">Open input method settings</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może wyświetlać wybór klawiatury, gdy aplikacja nie jest na pierwszym planie</string>
+    <string name="settings_input_method_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może wyświetlać wyboru klawiatury, gdy aplikacja nie jest na pierwszym planie</string>
+    <string name="settings_input_method_tile_action_show_input_method_picker">Pokaż wybór metody wprowadzania</string>
+    <string name="settings_input_method_tile_action_open_input_method_settings">Otwórz ustawienia metody wprowadzania</string>
     <!--contacts-->
     <string name="settings_contacts_tile_selected_contact">Wybierz kontakt</string>
-    <string name="settings_contacts_tile_summary_empty">Nie wybrano żadnego kontaktu</string>
+    <string name="settings_contacts_tile_summary_empty">Nie wybrano kontaktu</string>
     <!--invert colors-->
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change invert colors</string>
-    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change invert colors</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać odwracanie kolorów</string>
+    <string name="settings_invert_colors_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać odwracania kolorów</string>
     <!--storage-->
-    <string name="settings_storage_tile_action_open_storage_settings">Open storage settings</string>
-    <string name="settings_storage_tile_action_open_file_manager">Open file manager</string>
+    <string name="settings_storage_tile_action_open_storage_settings">Otwórz ustawienia pamięci wewnętrznej</string>
+    <string name="settings_storage_tile_action_open_file_manager">Otwórz menedżer plików</string>
     <!--battery details-->
     <string name="settings_battery_details_tile_health">Stan</string>
     <string name="settings_battery_details_tile_temperature">Temperatura</string>
-    <string name="settings_battery_details_tile_temperature_units">Jednoski temperatury</string>
+    <string name="settings_battery_details_tile_temperature_units">Jednostki temperatury</string>
     <string name="settings_battery_details_tile_voltage">Napięcie</string>
     <string name="settings_battery_details_tile_technology">Technologia</string>
     <!--activities-->
-    <string name="settings_activities_tile_activity_label">Aktywności</string>
-    <string name="settings_no_activity_selected">Nie zaznaczono żadnej aktywności</string>
+    <string name="settings_activities_tile_activity_label">Aktywność</string>
+    <string name="settings_no_activity_selected">Nie wybrano aktywności</string>
     <plurals name="settings_activities_tile_activities_found_formatted_plurals">
         <item quantity="one">Znaleziono %d aktywność</item>
-        <item quantity="other">Zaleziono %d aktywności</item>
-        <item quantity="few">Zaleziono %d aktywności</item>
-        <item quantity="many">Zaleziono %d aktywności</item>
+        <item quantity="other">Znaleziono %d aktywności</item>
+        <item quantity="few">Znaleziono %d aktywności</item>
+        <item quantity="many">Znaleziono %d aktywności</item>
     </plurals>
     <!--memory-->
-    <string name="settings_memory_tile_used">Użyto</string>
+    <string name="settings_memory_tile_used">W użyciu</string>
     <string name="settings_memory_tile_total">Całkowicie</string>
-    <string name="settings_memory_tile_threshold">Threshold</string>
-    <string name="settings_memory_tile_low_memory">Low memory</string>
+    <string name="settings_memory_tile_threshold">Próg</string>
+    <string name="settings_memory_tile_low_memory">Mała ilość pamięci</string>
     <!--counter-->
-    <string name="settings_counter_tile_reset_value">Reset value</string>
-    <string name="settings_counter_tile_current_value">Current value</string>
-    <string name="settings_counter_tile_action_addition">Addition</string>
-    <string name="settings_counter_tile_action_subtraction">Subtraction</string>
+    <string name="settings_counter_tile_reset_value">Zresetuj wartość</string>
+    <string name="settings_counter_tile_current_value">Aktualna wartość</string>
+    <string name="settings_counter_tile_action_addition">Dodanie</string>
+    <string name="settings_counter_tile_action_subtraction">Odjęcie</string>
     <!--camera lock-->
-    <string name="settings_camera_lock_tile_device_admin_summary_on">Activated. The tile is allowed to lock the camera</string>
-    <string name="settings_camera_lock_tile_device_admin_summary_off">Deactivated. The tile is not allowed to lock the camera</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_on">Aktywny. Kafelek może blokować aparat</string>
+    <string name="settings_camera_lock_tile_device_admin_summary_off">Nieaktywny. Kafelek nie może blokować aparatu</string>
     <!--network traffic-->
-    <string name="settings_network_traffic_tile_total_received">Total received</string>
-    <string name="settings_network_traffic_tile_total_transmitted">Total transmitted</string>
-    <string name="settings_network_traffic_tile_mobile_received">Mobile received</string>
-    <string name="settings_network_traffic_tile_mobile_transmitted">Mobile transmitted</string>
+    <string name="settings_network_traffic_tile_total_received">Całkowicie pobrano</string>
+    <string name="settings_network_traffic_tile_total_transmitted">Całkowicie wysłano</string>
+    <string name="settings_network_traffic_tile_mobile_received">Dane mob. pobrane</string>
+    <string name="settings_network_traffic_tile_mobile_transmitted">Dane mob. wysłane</string>
     <!--dice-->
-    <string name="settings_dice_tile_action_roll_one_die">Roll one die</string>
-    <string name="settings_dice_tile_action_roll_two_dice">Roll two dice</string>
+    <string name="settings_dice_tile_action_roll_one_die">Losuj raz</string>
+    <string name="settings_dice_tile_action_roll_two_dice">Losuj dwa razy</string>
     <!--lift to check-->
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change lift to check</string>
-    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change lift to check</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać podnieś, aby sprawdzić</string>
+    <string name="settings_lift_to_check_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać podnieś, aby sprawdzić</string>
     <!--double-tap to check-->
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change double-tap to check</string>
-    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change double-tap to check</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać stuknij dwukrotnie, aby sprawdzić</string>
+    <string name="settings_double_tap_to_check_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać stuknij dwukrotnie, aby sprawdzić</string>
     <!--always on-->
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change always on</string>
-    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change always on</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać zawsze włączony</string>
+    <string name="settings_always_on_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać zawsze włączony</string>
     <!--sleep-->
-    <string name="settings_sleep_tile_accessibility_service_summary_off">Disabled. The tile is not allowed to put the device to sleep</string>
-    <string name="settings_sleep_tile_accessibility_service_summary_on">Enabled. The tile is allowed to put the device to sleep</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_off">Wyłączone. Kafelek nie może wprowadzać urządzenia w stan uśpienia</string>
+    <string name="settings_sleep_tile_accessibility_service_summary_on">Włączone. Kafelek może wprowadzać urządzenie w stan uśpienia</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać ciemny motyw</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać ciemnego motywu</string>
     <!--private dns-->
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_action_change_dns_mode">Change DNS mode</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Odmówiono. Kafelek nie może zmieniać prywatnego trybu DNS</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Przyznano. Kafelek może zmieniać prywatny tryb DNS</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">Zmień tryb DNS</string>
 </resources>

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="something_went_wrong">Coś się popsuło. Spróbuj pononownie.</string>
-    <string name="something_went_wrong_check_for_active_internet_connection">Coś poszło nie pomyśli. Sprawdź czy urządzenie jest podłączone do intetnetu.</string>
-    <string name="location_off_alert_dialog_message">Location is off. To allow the tile to get current location, please open settings and enable location.</string>
-    <string name="location_device_only_alert_dialog_message">Location mode is Device only. For faster and more accurate result, please open settings and enable a different location mode.</string>
-    <string name="resolve_activity_alert_dialog_message">No application found to perform this action.</string>
-    <string name="start_activity_can_not_be_started_alert_dialog_message">Activity can not be started.</string>
-    <string name="su_alert_dialog_message">To perform such action, please grant superuser permissions for an interactive shell.</string>
-    <string name="play_services_alert_dialog_message">Google Play Services is required to perform such action. Please install it and try again.</string>
-    <string name="high">Wysoko</string>
-    <string name="medium">Normalnie</string>
-    <string name="low">Nisko</string>
-    <string name="checking_features_progress_dialog_message">Sprawdzanie niestadatowych cech urządzenia</string>
-    <string name="not_available">Nie osiągalny</string>
+    <string name="something_went_wrong">Coś poszło nie tak. Spróbuj ponownie.</string>
+    <string name="something_went_wrong_check_for_active_internet_connection">Coś poszło nie tak. Sprawdź czy urządzenie ma połączenie z internetem.</string>
+    <string name="location_off_alert_dialog_message">Lokalizacja jest wyłączona. Aby zezwolić kafelkowi na określenie aktualnej lokalizacji, otwórz ustawienia i włącz lokalizację.</string>
+    <string name="location_device_only_alert_dialog_message">Tryb lokalizacji to Tylko urządzenie. Aby uzyskać szybszy i dokładniejszy wynik, otwórz ustawienia i włącz inny tryb lokalizacji.</string>
+    <string name="resolve_activity_alert_dialog_message">Nie znaleziono aplikacji do wykonania tej akcji.</string>
+    <string name="start_activity_can_not_be_started_alert_dialog_message">Aktywności nie można uruchomić.</string>
+    <string name="su_alert_dialog_message">Aby wykonać tą akcję, proszę udzielić uprawnień superużytkownika (root).</string>
+    <string name="play_services_alert_dialog_message">Usługi Google Play są wymagane do wykonania tej akcji. Zainstaluj je i spróbuj ponownie.</string>
+    <string name="high">Wysoki</string>
+    <string name="medium">Normalny</string>
+    <string name="low">Niski</string>
+    <string name="checking_features_progress_dialog_message">Sprawdzanie funkcji urządzenia, które można włączyć</string>
+    <string name="not_available">Niedostępne</string>
     <string name="cancel">Anuluj</string>
-    <string name="revert">Revert</string>
+    <string name="revert">Cofnij</string>
     <string name="discard">Odrzuć</string>
     <string name="share">Udostępnij</string>
     <string name="delete">Usuń</string>
     <string name="save">Zapisz</string>
     <string name="save_and_close">Zapisz i zamknij</string>
     <string name="warning">Ostrzeżenie</string>
-    <string name="tip">zalecenia</string>
-    <string name="accessibility_service_label">Accessibility service</string>
-    <string name="accessibility_service_description">Accessibility service to allow Tiles to perform global actions: show system power dialog, show recents screen, toggle multi-window, and on Android Pie (API 28) and up put the device to sleep, take screenshot.</string>
-    <string name="accessibility_service_api_p_required_message">Android Pie (API 28) and up is required for accessibility service to perform such actions.</string>
+    <string name="tip">Wskazówka</string>
+    <string name="accessibility_service_label">Usługa ułatwień dostępu</string>
+    <string name="accessibility_service_description">Usługa ułatwień dostępu umożliwiająca kafelkom wykonywanie akcji: wyświetlanie menu zasilania, wyświetlanie ekranu ostatnich zadań, przełączanie podzielonego ekranu. Na Androidzie Pie (API 28) i wyżej wprowadzanie w stan uśpienia, wykonywanie zrzutu ekranu.</string>
+    <string name="accessibility_service_api_p_required_message">Wymagany jest Android Pie (API 28) i wyżej, aby usługa ułatwień dostępu mogła wykonać takie akcje.</string>
     <string name="fifteen_minutes">15 minut</string>
     <string name="thirty_minutes">30 minut</string>
     <string name="forty_two_minutes">42 minuty</string>
@@ -36,43 +36,43 @@
     <string name="twelve_hours">12 godzin</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="fahrenheit">Farenhaita</string>
-    <string name="celsius">Celsjusza</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsjusz</string>
     <string name="filter">Filtr</string>
     <string name="description">Opis</string>
-    <string name="all">Wszystike</string>
-    <string name="starred">Oznaczone</string>
-    <string name="empty_starred_tiles_database_alert_message">Nie znalalezniono oznaczonych kafelków.</string>
-    <string name="custom_label">Custom label</string>
-    <string name="enter_label">Enter label</string>
-    <string name="not_set_message">Not set</string>
-    <string name="custom">Custom</string>
-    <string name="timeout">Timeout</string>
-    <string name="timeout_value_no_timeout">No timeout</string>
-    <string name="timeout_value_in_minutes">Timeout (minutes)</string>
+    <string name="all">Wszystkie</string>
+    <string name="starred">Wybrane</string>
+    <string name="empty_starred_tiles_database_alert_message">Nie znaleziono wybranych kafelków.</string>
+    <string name="custom_label">Własna etykieta</string>
+    <string name="enter_label">Wprowadź etykietę</string>
+    <string name="not_set_message">Nieustawiono</string>
+    <string name="custom">Własna</string>
+    <string name="timeout">Limit czasu</string>
+    <string name="timeout_value_no_timeout">Brak limitu czasu</string>
+    <string name="timeout_value_in_minutes">Limit czasu (minuty)</string>
     <plurals name="formatted_minutes_plurals">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
-        <item quantity="few">%d minutes</item>
-        <item quantity="many">%d minutes</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="other">%d minut</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
     </plurals>
-    <string name="timeout_progress_bar">Timeout progress bar</string>
-    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
-    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
-    <string name="tile_drawable">Tile icon</string>
-    <string name="tile_default">Default</string>
-    <string name="tile_custom">Custom</string>
+    <string name="timeout_progress_bar">Pasek postępu przekroczenia limitu czasu</string>
+    <string name="timeout_progress_bar_summary_on">Pokaż pasek postępu, gdy jest aktywny</string>
+    <string name="timeout_progress_bar_summary_off">Ukryj pasek postępu, gdy jest aktywny</string>
+    <string name="tile_drawable">Ikona kafelka</string>
+    <string name="tile_default">Domyślna</string>
+    <string name="tile_custom">Własna</string>
     <!--device administrator-->
-    <string name="device_admin_activated">Adminitsator urządzenia</string>
-    <string name="device_admin_deactivated">Device administrator deactivated</string>
-    <string name="device_admin_description">Allow Tiles to lock the device or the cameras</string>
-    <string name="device_admin_receiver_status_deactivated_warning">If deactivated, Tiles won\u2019t be allowed to lock the device or the cameras.</string>
+    <string name="device_admin_activated">Administrator urządzenia</string>
+    <string name="device_admin_deactivated">Administrator urządzenia dezaktywowany</string>
+    <string name="device_admin_description">Zezwól aplikacji Tiles na zablokowanie urządzenia lub aparatów</string>
+    <string name="device_admin_receiver_status_deactivated_warning">Jeśli dezaktywowany, aplikacja Tiles nie może blokować urządzenia ani aparatów.</string>
     <!--adaptive brightness-->
-    <string name="adaptive_brightness_tile_label">Adaptive brightness</string>
-    <string name="adaptive_brightness_tile_alert_dialog_message">To allow the tile to change brightness mode, please open settings and grant modify system settings permission.</string>
+    <string name="adaptive_brightness_tile_label">Automatyczna jasność</string>
+    <string name="adaptive_brightness_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę trybu janości, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
     <!--applications list-->
-    <string name="applications_list_tile_label">Applications</string>
-    <string name="applications_list_tile_no_app_selected_alert_dialog_message">No app selected, please open settings and choose app.</string>
+    <string name="applications_list_tile_label">Aplikacje</string>
+    <string name="applications_list_tile_no_app_selected_alert_dialog_message">Nie wybrano aplikacji, otwórz ustawienia i wybierz aplikacje.</string>
     <!--application-->
     <string name="application_a_tile_label">Aplikacja #1</string>
     <string name="application_b_tile_label">Aplikacja #2</string>
@@ -80,96 +80,96 @@
     <string name="application_d_tile_label">Aplikacja #4</string>
     <string name="application_e_tile_label">Aplikacja #5</string>
     <string name="application_tile_label">Aplikacja</string>
-    <string name="application_tile_no_app_selected_alert_dialog_message">Nie wybrano żadnej apliacji, wejdź w ustawienia i wybierz jedną.</string>
-    <string name="application_info_dialog_message">Wybierz aplikację do szybkiego uruchomienia.</string>
+    <string name="application_tile_no_app_selected_alert_dialog_message">Nie wybrano aplikacji, otwórz ustawienia i wybierz aplikację.</string>
+    <string name="application_info_dialog_message">Wybierz jedną aplikację do szybkiego uruchamiania.</string>
     <!--brightness-->
     <string name="brightness_tile_label">Jasność</string>
     <string name="brightness_tile_label_formatted">Jasność %1$s</string>
-    <string name="brightness_tile_label_formatted_high">Jasno: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_medium">Normalnie: %1$d%%</string>
-    <string name="brightness_tile_label_formatted_low">Ciemno: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_high">Wysoka: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_medium">Normalna: %1$d%%</string>
+    <string name="brightness_tile_label_formatted_low">Niska: %1$d%%</string>
     <string name="brightness_tile_formatted_label_one_param">Jasność: %1$d%%</string>
-    <string name="brightness_tile_undefined_label">Jasność nie zdefiniowana</string>
-    <string name="brightness_tile_alert_dialog_message">Aby zmieniać jasność, przydziel aplikacji odpowiednie uprawnienia.</string>
-    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message">&lt;b>Automatyczna jasność&lt;/b> is wł.</string>
-    <string name="brightness_tile_dialog_formatted_current_brightness">Obecna jasność: &lt;b>%1$d%%&lt;/b></string>
+    <string name="brightness_tile_undefined_label">Jasność niezdefiniowana</string>
+    <string name="brightness_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę jasności, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
+    <string name="brightness_tile_dialog_adaptive_brightness_is_on_message"><b>Automatyczna jasność</b> jest wł.</string>
+    <string name="brightness_tile_dialog_formatted_current_brightness">Aktualna jasność: <b>%1$d%%</b></string>
     <!--calculator-->
     <string name="calculator_tile_label">Kalkulator</string>
     <!--calendar-->
     <string name="calendar_tile_label">Kalendarz</string>
     <!--call-->
-    <string name="call_tile_label">Wykonaj rozmowę</string>
-    <string name="call_tile_phone_permission_alert_dialog_message">Żeby wykonać rozmowę, otwórz ustawienia i przydziel uprawnienia do wykonywania rozmów.</string>
-    <string name="call_tile_empty_contact_alert_dialog_message">No call contact selected, please open settings and choose contact. Or set a different action.</string>
-    <string name="call_tile_formatted_label">Call %s</string>
+    <string name="call_tile_label">Zadzwoń</string>
+    <string name="call_tile_phone_permission_alert_dialog_message">Aby zezwolić kafelkowi na nawiązanie połączenia, otwórz ustawienia i udziel uprawnienia do wykonywania połączeń.</string>
+    <string name="call_tile_empty_contact_alert_dialog_message">Nie wybrano kontaktu, otwórz ustawienia i wybierz kontakt lub ustaw inną akcję.</string>
+    <string name="call_tile_formatted_label">Zadzwoń %s</string>
     <string name="formatted_contact_preference_screen">%1$s\n(%2$s)</string>
     <string name="choose_contact">Wybierz kontakt</string>
     <!--camera-->
     <string name="camera_tile_camera_label">Aparat</string>
     <string name="camera_tile_video_label">Kamera</string>
     <!--email -->
-    <string name="email_tile_label">Email</string>
-    <string name="email_tile_formatted_label">Email %s</string>
-    <string name="email_tile_empty_email_alert_dialog_message">No email contact selected, please open settings and choose contact. Or set a different action.</string>
+    <string name="email_tile_label">E-mail</string>
+    <string name="email_tile_formatted_label">E-mail %s</string>
+    <string name="email_tile_empty_email_alert_dialog_message">Nie wybrano kontaktu e-mail, otwórz ustawienia i wybierz kontakt lub ustaw inną akcję.</string>
     <!--lock-->
     <string name="lock_tile_label">Zablokuj</string>
-    <string name="lock_tile_device_admin_description">Zezwól na blokowanie telefonu</string>
-    <string name="lock_tile_alert_dialog_message">Żeby kafelek mógł blokować, przyznaj mu pozwolenia administatora.</string>
+    <string name="lock_tile_device_admin_description">Zezwól kafelkowi na zablokowanie urządzenia</string>
+    <string name="lock_tile_alert_dialog_message">Aby zezwolić kafelkowi na zablokowanie urządzenia, otwórz ustawienia i aktywuj administratora urządzenia.</string>
     <!--map-->
     <string name="maps_tile_label">Mapy</string>
     <!--NFC-->
     <string name="nfc_tile_label">NFC</string>
-    <string name="nfc_tile_service_description">Service to observe NFC state, it will be stopped when the tile is removed. Stopping it might cause the tile to fail.</string>
-    <string name="nfc_tile_alert_dialog_message">To allow the tile to change NFC state, please open settings and grant write secure settings permission.</string>
+    <string name="nfc_tile_service_description">Usługa obserwowania stanu NFC, zostanie zatrzymana po usunięciu kafelka. Zatrzymanie, może spowodować niedziałanie kafelka.</string>
+    <string name="nfc_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę stanu NFC, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--power-->
-    <string name="power_tile_accessibility_service_alert_dialog_message">To allow the tile to show system power dialog, please open settings and enable accessibility service.</string>
-    <string name="power_tile_action_system_power_dialog">System power dialog</string>
-    <string name="power_tile_action_power_dialog">Power dialog</string>
+    <string name="power_tile_accessibility_service_alert_dialog_message">Aby zezwolić kafelkowi na wyświetlanie menu zasilania systemu, otwórz ustawienia i włącz usługę ułatwień dostępu.</string>
+    <string name="power_tile_action_system_power_dialog">Menu zasilania systemu</string>
+    <string name="power_tile_action_power_dialog">Menu zasilania</string>
     <string name="power_tile_label">Zasilanie</string>
     <string name="power_tile_action_reboot">Uruchom ponownie</string>
     <string name="power_tile_action_reboot_recovery">Uruchom w trybie recovery</string>
     <string name="power_tile_action_reboot_bootloader">Uruchom bootloader</string>
-    <string name="power_tile_action_restart_user_space_system">Restart user-space system</string>
+    <string name="power_tile_action_restart_user_space_system">Uruchom ponownie przestrzeń użytkownika w systemie</string>
     <string name="power_tile_action_power_off">Wyłącz</string>
     <!--ringer mode-->
-    <string name="ringer_mode_tile_label">Tryb dzwonienia</string>
+    <string name="ringer_mode_tile_label">Tryb dzwonka</string>
     <string name="ringer_mode_tile_label_normal">Normalny</string>
-    <string name="ringer_mode_tile_label_silent">Cisza</string>
+    <string name="ringer_mode_tile_label_silent">Cichy</string>
     <string name="ringer_mode_tile_label_vibrate">Wibracje</string>
-    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ringer mode, please open settings and allow Do Not Disturb access.</string>
+    <string name="ringer_mode_tile_do_not_disturb_access_alert_dialog_message">Aby zezwolić kafelkowi na zmianę trybu dzwonka, otwórz ustawienia i zezwól na dostęp do trybu Nie przeszkadzać.</string>
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofeina</string>
-    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant modify system settings permission.</string>
-    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
+    <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Aby zezwolić kafelkowi na użycie kofeiny, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">Aby zezwolić kafelkowi na użycie kofeiny, otwórz ustawienia i udziel uprawnienia do wyświetlania nad innymi aplikacjami.</string>
     <string name="caffeine_tile_service_notification_title">Usługa działa</string>
-    <string name="caffeine_tile_service_notification_content_text">Urządzenie nie przejdzie w tryb uśpienia. Klinij aby zakończyć.</string>
+    <string name="caffeine_tile_service_notification_content_text">Urządzenie nie przejdzie w stan uśpienia. Stuknij, aby zatrzymać usługę.</string>
     <!--streetview-->
     <string name="streetview_tile_label">Street View</string>
-    <string name="streetview_map_tile_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant location permission.</string>
-    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">To allow the tile to get current location, please open settings and grant background location permission.</string>
+    <string name="streetview_map_tile_location_permission_alert_dialog_message">Aby zezwolić kafelkowi na określenie aktualnej lokalizacji, otwórz ustawienia i udziel uprawnienia na lokalizację.</string>
+    <string name="streetview_map_tile_background_location_permission_alert_dialog_message">Aby zezwolić kafelkowi na określenie aktualnej lokalizacji, otwórz ustawienia i udziel uprawnienia na lokalizację w tle.</string>
     <!--sync-->
     <string name="sync_tile_label">Synchronizacja</string>
     <!--timer-->
-    <string name="timer_tile_label">Timer</string>
-    <string name="timer_formatted_label">Timer\n%s</string>
+    <string name="timer_tile_label">Minutnik</string>
+    <string name="timer_formatted_label">Minutnik\n%s</string>
     <!--web search-->
-    <string name="web_search_tile_label">Wyszukaj</string>
+    <string name="web_search_tile_label">Wyszukiwanie w sieci</string>
     <!--reminder-->
-    <string name="reminder_tile_label">Reminder</string>
-    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Title (%d chars limited)</string>
-    <string name="reminder_tile_content_hint">Content</string>
-    <string name="reminder_tile_persistent_checkbox">Persistent</string>
-    <string name="reminder_tile_delete_reminder_notification_action_label">Delete</string>
-    <string name="reminder_tile_empty_notification_text_fields">No reminder added. To add a valid reminder, please enter title or content.</string>
-    <string name="reminder_tile_alert_delete_reminder_dialog_message">Delete reminder?</string>
-    <string name="reminder_tile_alert_revert_reminder_dialog_message">Revert reminder?</string>
-    <string name="reminder_tile_alert_discard_edits_dialog_message">Discard edits?</string>
-    <string name="reminder_tile_remind_me">Przypominj mi</string>
-    <string name="retrieving_location_dialog_message">Retrieving location. Please wait.</string>
+    <string name="reminder_tile_label">Przypomnienie</string>
+    <string name="reminder_tile_formatted_title_hint" tools:ignore="PluralsCandidate">Tytuł (ograniczenie %d znaków)</string>
+    <string name="reminder_tile_content_hint">Zawartość</string>
+    <string name="reminder_tile_persistent_checkbox">Stałe</string>
+    <string name="reminder_tile_delete_reminder_notification_action_label">Usuń</string>
+    <string name="reminder_tile_empty_notification_text_fields">Nie dodano przypomnienia. Aby prawidłowo dodać przypomnienie, wprowadź tytuł lub treść.</string>
+    <string name="reminder_tile_alert_delete_reminder_dialog_message">Usunąć przypomnienie?</string>
+    <string name="reminder_tile_alert_revert_reminder_dialog_message">Cofnąć przypomnienie?</string>
+    <string name="reminder_tile_alert_discard_edits_dialog_message">Odrzucić zmiany?</string>
+    <string name="reminder_tile_remind_me">Przypomnij mi</string>
+    <string name="retrieving_location_dialog_message">Określanie lokalizacji. Proszę czekać.</string>
     <!--sleep timeout-->
-    <string name="sleep_timeout_tile_label">Sleep timeout</string>
-    <string name="sleep_timeout_tile_formatted_label">Sleep\n%1$02d:%2$02d</string>
-    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">To allow the tile to change sleep timeout, please open settings and grant modify system settings permission.</string>
+    <string name="sleep_timeout_tile_label">Czas uśpienia</string>
+    <string name="sleep_timeout_tile_formatted_label">Uśpienie\n%1$02d:%2$02d</string>
+    <string name="sleep_timeout_tile_modify_system_settings_permission_alert_dialog_message">Aby zezwolić kafelkowi na zmianę czasu uśpienia, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
     <string name="sleep_timeout_tile_value_15000">15 sekund</string>
     <string name="sleep_timeout_tile_value_30000">30 sekund</string>
     <string name="sleep_timeout_tile_value_60000">1 minuta</string>
@@ -178,201 +178,201 @@
     <string name="sleep_timeout_tile_value_600000">10 minut</string>
     <string name="sleep_timeout_tile_value_1800000">30 minut</string>
     <!--location mode-->
-    <string name="location_tile_label">Location</string>
-    <string name="location_tile_alert_dialog_message">To allow the tile to change location mode, please open settings and grant write secure settings permission.</string>
-    <string name="location_tile_label_off">Location off</string>
-    <string name="location_tile_label_battery_saving">Battery saving</string>
-    <string name="location_tile_label_sensors_only">Device only</string>
-    <string name="location_tile_label_high_accuracy">High accuracy</string>
+    <string name="location_tile_label">Lokalizacja</string>
+    <string name="location_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę trybu lokalizacji, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="location_tile_label_off">Lokalizacja wył.</string>
+    <string name="location_tile_label_battery_saving">Oszczędzanie baterii</string>
+    <string name="location_tile_label_sensors_only">Tylko urządzenie</string>
+    <string name="location_tile_label_high_accuracy">Wysoka dokładność</string>
     <!--write secure settings permission dialog-->
-    <string name="write_secure_settings_permission_dialog_message_about">Secure system settings contain system preferences that applications can read but are not allowed to write. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s write secure settings permission using superuser interactive shell?</string>
-    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
-    <string name="permission_dialog_message_grant">Przydziel</string>
-    <string name="permission_dialog_message_revoke">Revoke</string>
+    <string name="write_secure_settings_permission_dialog_message_about">Ustawienia bezpiecznego systemu zawierają preferencje systemowe, które aplikacje mogą odczytywać, ale nie mogą zapisywać. Uprawnienia z tym poziomem ochrony są przyznawane tylko systemowym aplikacjom. Jeśli aplikacja nie jest aplikacją systemową, nigdy nie będzie mogła skorzystać z tych uprawnień.</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Aplikacja otrzymała uprawnienia superużytkownika (root). Programowo %s uprawnienia do zapisu bezpiecznych ustawień przy użyciu superużytkownika?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Ręcznie %1$s uprawnienia, podłącz urządzenie do komputera i wykonaj następujące polecenie adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
+    <string name="permission_dialog_message_grant">Udziel</string>
+    <string name="permission_dialog_message_revoke">Odmów</string>
     <!--timer H M S symbols -->
     <string name="hour_symbol">H</string>
     <string name="minute_symbol">M</string>
     <string name="second_symbol">S</string>
     <!--sleep-->
-    <string name="sleep_tile_label">Śpij</string>
-    <string name="sleep_tile_accessibility_service_alert_dialog_message">To allow the tile to put the device to sleep, please open settings and enable accessibility service.</string>
+    <string name="sleep_tile_label">Uśpij</string>
+    <string name="sleep_tile_accessibility_service_alert_dialog_message">Aby zezwolić kafelkowi na wprowadzenie urządzenia w stan uśpienia, otwórz ustawienia i włącz usługę ułatwień dostępu.</string>
     <!--screenshot-->
     <string name="screenshot_tile_label">Zrzut ekranu</string>
-    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">To allow the tile to take and store screenshot, please open settings and grant write external storage permission.</string>
-    <string name="screenshot_tile_screenshot_captured">Zrobiono zrzut ekranu.</string>
-    <string name="screenshot_tile_tap_to_view_screenshot">Tap to view your screenshot.</string>
-    <string name="screenshot_tile_accessibility_service_alert_dialog_message">To allow the tile to take screenshot, please open settings and enable accessibility service.</string>
+    <string name="screenshot_tile_write_external_storage_permission_alert_dialog_message">Aby zezwolić kafelkowi na wykonanie i zapisanie zrzutu ekranu, otwórz ustawienia i udziel uprawnienia do zapisu w pamięci zewnętrznej.</string>
+    <string name="screenshot_tile_screenshot_captured">Zrzut ekranu wykonany.</string>
+    <string name="screenshot_tile_tap_to_view_screenshot">Stuknij, aby wyświetlić zrzut ekranu.</string>
+    <string name="screenshot_tile_accessibility_service_alert_dialog_message">Aby zezwolić kafelkowi na wykonanie zrzutu ekranu, otwórz ustawienia i włącz usługę ułatwień dostępu.</string>
     <!--immersive mode-->
     <string name="immersive_mode_tile_label">Tryb immersywny</string>
     <string name="immersive_mode_tile_off">Tryb immersywny wył.</string>
     <string name="immersive_mode_tile_hide_system_bars">Ukryj paski systemowe</string>
     <string name="immersive_mode_tile_hide_navigation_bar">Ukryj pasek nawigacji</string>
     <string name="immersive_mode_tile_hide_status_bar">Ukryj pasek stanu</string>
-    <string name="immersive_mode_tile_alert_dialog_message">To allow the tile to change immersive mode, please open settings and grant write secure settings permission.</string>
-    <string name="immersive_mode_tile_foreground_service_message">Immersive mode is active, it deactivates when the device goes to sleep.</string>
+    <string name="immersive_mode_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę trybu immersywnego, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="immersive_mode_tile_foreground_service_message">Tryb immersywny jest aktywny, wyłącza się, gdy urządzenie przechodzi w stan uśpienia.</string>
     <!--ambient display-->
-    <string name="ambient_display_tile_label">Ambient display</string>
-    <string name="ambient_display_tile_alert_dialog_message">To allow the tile to change ambient display, please open settings and grant write secure settings permission.</string>
+    <string name="ambient_display_tile_label">Ambient Display</string>
+    <string name="ambient_display_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę ekranu dostosowanego do otoczenia (Ambient Display), otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--animations-->
-    <string name="animations_tile_label">Animations</string>
+    <string name="animations_tile_label">Animacje</string>
     <string name="animations_tile_label_animator">Animator</string>
-    <string name="animations_tile_label_transition">Transition</string>
-    <string name="animations_tile_label_window">Window</string>
-    <string name="animations_tile_label_dialog_check_box_off_label">Animation off</string>
-    <string name="animations_tile_label_dialog_check_box_formatted_label">Duration scale %1$.1fx</string>
-    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">To allow the tile to change animations, please open settings and grant write secure settings permission.</string>
+    <string name="animations_tile_label_transition">Przejście</string>
+    <string name="animations_tile_label_window">Okno</string>
+    <string name="animations_tile_label_dialog_check_box_off_label">Animacja wył.</string>
+    <string name="animations_tile_label_dialog_check_box_formatted_label">Czas trwania %1$.1fx</string>
+    <string name="animations_tile_write_secure_settings_permission_alert_dialog_message">Aby zezwolić kafelkowi na zmianę animacji, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--alarm-->
-    <string name="alarm_tile_label">Budzik</string>
-    <string name="alarm_tile_no_alarm_set">Nie ustawiono żadnych budzików</string>
+    <string name="alarm_tile_label">Alarm</string>
+    <string name="alarm_tile_no_alarm_set">Nie ustawiono alarmu</string>
     <!--storage-->
-    <string name="storage_tile_label">Pamięć</string>
+    <string name="storage_tile_label">Pamięć wewnętrzna</string>
     <!--settings shortcuts-->
-    <string name="settings_shortcut_tile_label">Settings shortcut</string>
-    <string name="settings_shortcut_tile_action_accessibility">Dostępność</string>
-    <string name="settings_shortcut_tile_action_add_account">Add an account</string>
-    <string name="settings_shortcut_tile_action_apn">APNs</string>
+    <string name="settings_shortcut_tile_label">Ustawienia skrótu</string>
+    <string name="settings_shortcut_tile_action_accessibility">Ułatwienia dostępu</string>
+    <string name="settings_shortcut_tile_action_add_account">Dodaj konto</string>
+    <string name="settings_shortcut_tile_action_apn">APN-y</string>
     <string name="settings_shortcut_tile_action_application_settings">Aplikacje</string>
-    <string name="settings_shortcut_tile_action_battery_saver">Battery saver</string>
+    <string name="settings_shortcut_tile_action_battery_saver">Oszczędzanie baterii</string>
     <string name="settings_shortcut_tile_action_bluetooth">Bluetooth</string>
-    <string name="settings_shortcut_tile_action_captions">Captions</string>
-    <string name="settings_shortcut_tile_action_cast">Cast</string>
-    <string name="settings_shortcut_tile_action_data_roaming">Cellular networks</string>
+    <string name="settings_shortcut_tile_action_captions">Przechwytywanie</string>
+    <string name="settings_shortcut_tile_action_cast">Przesyłanie</string>
+    <string name="settings_shortcut_tile_action_data_roaming">Sieci komórkowe</string>
     <string name="settings_shortcut_tile_action_date">Data i czas</string>
     <string name="settings_shortcut_tile_action_device_info">Status telefonu</string>
     <string name="settings_shortcut_tile_action_display">Wyświetlacz</string>
-    <string name="settings_shortcut_tile_action_battery_optimization">Battery optimization</string>
-    <string name="settings_shortcut_tile_action_location_sources">Location</string>
-    <string name="settings_shortcut_tile_action_manage_overlay">Apps that can draw over other apps</string>
-    <string name="settings_shortcut_tile_action_manage_write">Can modify system settings</string>
-    <string name="settings_shortcut_tile_action_network_operators">Network operators</string>
+    <string name="settings_shortcut_tile_action_battery_optimization">Optymalizacja baterii</string>
+    <string name="settings_shortcut_tile_action_location_sources">Lokalizacja</string>
+    <string name="settings_shortcut_tile_action_manage_overlay">Aplikacje, które mogą wyświetlać nad innymi aplikacjami</string>
+    <string name="settings_shortcut_tile_action_manage_write">Mogą modyfikować ustawienia systemowe</string>
+    <string name="settings_shortcut_tile_action_network_operators">Operatorzy sieci</string>
     <string name="settings_shortcut_tile_action_nfc">NFC</string>
-    <string name="settings_shortcut_tile_action_notification_listener">Notification access</string>
+    <string name="settings_shortcut_tile_action_notification_listener">Dostęp do powiadomień</string>
     <string name="settings_shortcut_tile_action_printing">Drukowanie</string>
     <string name="settings_shortcut_tile_action_search">Szukaj</string>
     <string name="settings_shortcut_tile_action_security">Bezpieczeństwo</string>
     <string name="settings_shortcut_tile_action_sound">Dźwięk</string>
     <string name="settings_shortcut_tile_action_sync">Synchronizacja</string>
-    <string name="settings_shortcut_tile_action_usage_access">Apps with usage access</string>
-    <string name="settings_shortcut_tile_action_user_dictionary">Personal dictionary</string>
-    <string name="settings_shortcut_tile_action_voice_input">Assist &amp; voice input</string>
+    <string name="settings_shortcut_tile_action_usage_access">Aplikacje z dostępem do użytkowania</string>
+    <string name="settings_shortcut_tile_action_user_dictionary">Słownik osobisty</string>
+    <string name="settings_shortcut_tile_action_voice_input">Pomoc i wprowadzanie głosowe</string>
     <string name="settings_shortcut_tile_action_vpn">VPN</string>
-    <string name="settings_shortcut_tile_action_vr_listener">VR helper services</string>
+    <string name="settings_shortcut_tile_action_vr_listener">Usługi pomocnicze VR</string>
     <string name="settings_shortcut_tile_action_wifi">Wi-Fi</string>
-    <string name="settings_shortcut_tile_action_wireless">Wireless &amp; networks</string>
+    <string name="settings_shortcut_tile_action_wireless">Sieci bezprzewodowe</string>
     <!--font size-->
-    <string name="font_size_tile_label">Font size</string>
-    <string name="font_size_tile_alert_dialog_message">To allow the tile to change font size, please open settings and grant modify system settings permission.</string>
+    <string name="font_size_tile_label">Rozmiar czcionki</string>
+    <string name="font_size_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę rozmiaru czcionki, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
     <!--voice-->
     <string name="voice_tile_label">Głos</string>
     <!--text-->
     <string name="text_tile_label">Tekst</string>
-    <string name="text_tile_empty_chat_text_field">No text added, please enter content.</string>
+    <string name="text_tile_empty_chat_text_field">Nie dodano tekstu, wprowadź treść.</string>
     <!--data roaming-->
-    <string name="data_roaming_tile_label">Dane w roaming</string>
-    <string name="data_roaming_tile_alert_dialog_message">To allow the tile to change data roaming, please open settings and grant write secure settings permission.</string>
+    <string name="data_roaming_tile_label">Roaming danych</string>
+    <string name="data_roaming_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę roamingu danych, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--density-->
-    <string name="density_tile_label">Zagęszczenie pixeli</string>
+    <string name="density_tile_label">Zagęszczenie pikseli</string>
     <string name="density_tile_label_formatted">Zagęszczenie: %ddp</string>
-    <string name="density_tile_smallest_width_formatted">Najmniejższa szerokość: &lt;b>%d&lt;/b>dp</string>
-    <string name="density_tile_screen_size_formatted">Rozmiar ekranu: &lt;b>%1$dx%2$d&lt;/b>px</string>
+    <string name="density_tile_smallest_width_formatted">Najmniejsza szerokość: <b>%d</b>dp</string>
+    <string name="density_tile_screen_size_formatted">Rozmiar ekranu: <b>%1$dx%2$d</b>px</string>
     <string name="density_tile_density_default_formatted">Domyślne: %ddp</string>
-    <string name="density_tile_density_low">Niska (ldpi): ~120dpi</string>
-    <string name="density_tile_density_medium">Średnia (mdpi): ~160dpi</string>
-    <string name="density_tile_density_high">Wysoka (hdpi): ~240dpi</string>
-    <string name="density_tile_density_xhigh">Wysoka X (xhdpi): ~320dpi</string>
-    <string name="density_tile_density_xxhigh">Wysoka XX (xxhdpi): ~480dpi</string>
+    <string name="density_tile_density_low">Niskie (ldpi): ~120dpi</string>
+    <string name="density_tile_density_medium">Średnie (mdpi): ~160dpi</string>
+    <string name="density_tile_density_high">Wysokie (hdpi): ~240dpi</string>
+    <string name="density_tile_density_xhigh">Wysokie X (xhdpi): ~320dpi</string>
+    <string name="density_tile_density_xxhigh">Wysokie XX (xxhdpi): ~480dpi</string>
     <string name="density_tile_density_xxxhigh">Ultra (xxxhdpi): ~640dpi</string>
-    <string name="density_tile_density_custom">Niestandartowe zagęszczenie</string>
+    <string name="density_tile_density_custom">Własne zagęszczenie</string>
     <!--awake while plugged in-->
-    <string name="awake_while_plugged_on_tile_label">Awake while plugged in</string>
-    <string name="awake_while_plugged_in_tile_alert_dialog_message">To allow the tile to change awake while plugged in, please open settings and grant write secure settings permission.</string>
+    <string name="awake_while_plugged_on_tile_label">Wł. ekran podczas ładowania</string>
+    <string name="awake_while_plugged_in_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę włączonego ekranu podczas ładowania, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--dump permission dialog-->
-    <string name="dump_permission_dialog_message_about">Allows an application to retrieve state dump information from system services. Permissions with this protection level are only granted to system apps. If an app is a regular non-system app, it will never be able to use these permissions.</string>
-    <string name="dump_permission_dialog_message_action_su_formatted">Tiles has been granted superuser permissions for an interactive shell. Do you want to programmatically %s dump permission using superuser interactive shell?</string>
-    <string name="dump_permission_dialog_message_action_adb_formatted">To manually %1$s permission, connect your device to a computer and run the following adb command: adb shell pm %2$s %3$s android.permission.DUMP.</string>
+    <string name="dump_permission_dialog_message_about">Zezwala aplikacji na pobieranie informacji o stanie usług systemowych. Uprawnienia z tym poziomem ochrony są przyznawane tylko systemowym aplikacjom. Jeśli aplikacja nie jest aplikacją systemową, nigdy nie będzie mogła skorzystać z tych uprawnień.</string>
+    <string name="dump_permission_dialog_message_action_su_formatted">Aplikacja otrzymała uprawnienia superużytkownika (root). Programowo %s uprawnienia dump przy użyciu superużytkownika?</string>
+    <string name="dump_permission_dialog_message_action_adb_formatted">Ręcznie %1$s uprawnienia, podłącz urządzenie do komputera i wykonaj następujące polecenie adb: adb shell pm %2$s %3$s android.permission.DUMP.</string>
     <!--demo mode-->
     <string name="demo_mode_tile_label">Tryb demo</string>
-    <string name="demo_mode_tile_alert_dialog_message">To allow the tile to change demo mode, please open settings and grant write secure settings permission and dump permission.</string>
-    <string name="demo_mode_tile_system_bars">System bars</string>
-    <string name="demo_mode_tile_system_bars_transparent">Transparent</string>
-    <string name="demo_mode_tile_system_bars_semitransparent">Semi-transparent</string>
-    <string name="demo_mode_tile_system_bars_translucent">Translucent</string>
-    <string name="demo_mode_tile_system_bars_opaque">Opaque</string>
-    <string name="demo_mode_tile_system_bars_warning">Warning</string>
+    <string name="demo_mode_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę trybu demo, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień i uprawnienia na zrzut.</string>
+    <string name="demo_mode_tile_system_bars">Paski systemowe</string>
+    <string name="demo_mode_tile_system_bars_transparent">Przezroczysty</string>
+    <string name="demo_mode_tile_system_bars_semitransparent">Półprzezroczysty</string>
+    <string name="demo_mode_tile_system_bars_translucent">Półprzezroczysty</string>
+    <string name="demo_mode_tile_system_bars_opaque">Nieprzezroczysty</string>
+    <string name="demo_mode_tile_system_bars_warning">Ostrzeżenie</string>
     <string name="demo_mode_tile_battery">Bateria</string>
-    <string name="demo_mode_tile_state_plugged">Plugged</string>
-    <string name="demo_mode_tile_state_unplugged">Unplugged</string>
-    <string name="demo_mode_tile_level_formatted">Level %1d</string>
+    <string name="demo_mode_tile_state_plugged">Podłączono</string>
+    <string name="demo_mode_tile_state_unplugged">Odłączono</string>
+    <string name="demo_mode_tile_level_formatted">Poziom %1d</string>
     <string name="demo_mode_tile_wifi">Wi-Fi</string>
     <string name="demo_mode_tile_bluetooth">Bluetooth</string>
     <string name="demo_mode_tile_state_disconnected">Rozłączono</string>
     <string name="demo_mode_tile_state_connected">Połączono</string>
-    <string name="demo_mode_tile_mobile">Cellular networks</string>
+    <string name="demo_mode_tile_mobile">Dane mobilne</string>
     <string name="demo_mode_tile_mobile_datatype_roaming">Roaming</string>
-    <string name="demo_mode_tile_notifications">Notifications</string>
+    <string name="demo_mode_tile_notifications">Powiadomienia</string>
     <string name="demo_mode_tile_alarm">Alarm</string>
     <string name="demo_mode_tile_location">Lokalizacja</string>
     <string name="demo_mode_tile_clock">Zegar</string>
-    <string name="demo_mode_tile_mute">Mute</string>
-    <string name="demo_mode_tile_speakerphone">Phone speaker</string>
+    <string name="demo_mode_tile_mute">Wycisz</string>
+    <string name="demo_mode_tile_speakerphone">Głośnik telefonu</string>
     <string name="demo_mode_tile_vibrate">Wibracje</string>
     <!--clipboard-->
     <string name="clipboard_tile_label">Schowek</string>
-    <string name="clipboard_tile_empty_clip">The clipboard does not contain text.</string>
+    <string name="clipboard_tile_empty_clip">Schowek nie zawiera tekstu.</string>
     <!--keep-->
-    <string name="keep_tile_label">Pilnuj</string>
+    <string name="keep_tile_label">Notatka</string>
     <!--heads up notification-->
-    <string name="heads_up_notifications_tile_label">Heads-up notifications</string>
-    <string name="heads_up_notifications_tile_alert_dialog_message">To allow the tile to change heads-up notifications, please open settings and grant write secure settings permission.</string>
-    <string name="heads_up_notifications_tile_alert_summary">The Android frameworks doesn\u2019t expose any visible setting to change heads-up notifications. Please be sure to turn heads-up notifications back on before uninstalling the app to correctly restore the original behaviour.</string>
+    <string name="heads_up_notifications_tile_label">Wyskakujące powiadomienia</string>
+    <string name="heads_up_notifications_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę wyskakujacych powiadomień, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="heads_up_notifications_tile_alert_summary">System Android nie wyświetla widocznych ustawień zmieniających wyskakujące powiadomienia (Heads-up). Pamiętaj, aby ponownie je włączyć przed odinstalowaniem aplikacji, aby poprawnie przywrócić oryginalne zachowanie.</string>
     <!--multi window-->
-    <string name="multi_window_tile_label">Multi-Window</string>
-    <string name="multi_window_tile_alert_dialog_message">To allow the tile to toggle multi-window, please open settings and enable accessibility service.</string>
+    <string name="multi_window_tile_label">Podzielony ekran</string>
+    <string name="multi_window_tile_alert_dialog_message">Aby zezwolić kafelkowi na przełączanie podzielonego ekranu, otwórz ustawienia i włącz usługę ułatwień dostępu.</string>
     <!--recents screen-->
-    <string name="recents_screen_tile_label">Recents screen</string>
-    <string name="recents_screens_tile_alert_dialog_message">To allow the tile to show recents screen, please open settings and enable accessibility service.</string>
+    <string name="recents_screen_tile_label">Ekran ostatnie zadania</string>
+    <string name="recents_screens_tile_alert_dialog_message">Aby zezwolić kafelkowi na wyświetlanie ekranu ostatnich zadań, otwórz ustawienia i włącz usługę ułatwień dostępu.</string>
     <!--volumes-->
-    <string name="volumes_tile_label">Volumes</string>
-    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">To allow the tile to change ring volume, please open settings and allow Do Not Disturb access.</string>
-    <string name="volumes_tile_volume_keys_disabled">Volume keys temporarily disabled</string>
+    <string name="volumes_tile_label">Głośność</string>
+    <string name="volumes_tile_do_not_disturb_access_alert_dialog_message">Aby zezwolić kafelkowi na zmianę głośności dzwonka, otwórz ustawienia i zezwól na dostęp do trybu Nie przeszkadzać.</string>
+    <string name="volumes_tile_volume_keys_disabled">Klawisze głośności są tymczasowo wyłączone</string>
     <string name="volumes_tile_volume_alarm">Alarm</string>
     <string name="volumes_tile_volume_media">Media</string>
-    <string name="volumes_tile_volume_ring">Ring</string>
-    <string name="volumes_tile_volume_call">Call</string>
+    <string name="volumes_tile_volume_ring">Dzwonek</string>
+    <string name="volumes_tile_volume_call">Połączenia</string>
     <!--vibrate on tap-->
-    <string name="vibrate_on_tap_tile_label">Vibrate on tap</string>
-    <string name="vibrate_on_tap_tile_alert_dialog_message">To allow the tile to change vibrate on tap, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_on_tap_tile_label">Wibracja przy dotknięciu</string>
+    <string name="vibrate_on_tap_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę wibracji przy dotknięciu, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
     <!--touch sounds-->
-    <string name="touch_sounds_tile_label">Touch sounds</string>
-    <string name="touch_sounds_tile_alert_dialog_message">To allow the tile to change touch sounds, please open settings and grant modify system settings permission.</string>
+    <string name="touch_sounds_tile_label">Dźwięk przy dotknięciu</string>
+    <string name="touch_sounds_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę dźwięku przy dotknięciu, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
     <!--orientation lock-->
-    <string name="orientation_lock_tile_label">Orientation lock</string>
-    <string name="orientation_lock_tile_alert_dialog_message">To allow the tile to change and lock orientation, please open settings and grant modify system settings permission.</string>
-    <string name="orientation_lock_tile_label_rotation_0">Orientation 0\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_90">Orientation 90\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_180">Orientation 180\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_270">Orientation 270\u00B0</string>
-    <string name="orientation_lock_tile_label_rotation_auto_rotate">Auto-rotate</string>
+    <string name="orientation_lock_tile_label">Blokada orientacji</string>
+    <string name="orientation_lock_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę i blokadę orientacji, otwórz ustawienia i udziel uprawnienia do modyfikacji ustawień systemowych.</string>
+    <string name="orientation_lock_tile_label_rotation_0">Orientacja 0\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_90">Orientacja 90\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_180">Orientacja 180\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_270">Orientacja 270\u00B0</string>
+    <string name="orientation_lock_tile_label_rotation_auto_rotate">Autoobracanie</string>
     <!--vibrate for calls-->
-    <string name="vibrate_for_calls_tile_label">Vibrate for calls</string>
-    <string name="vibrate_for_calls_tile_alert_dialog_message">To allow the tile to change vibrate for calls, please open settings and grant modify system settings permission.</string>
+    <string name="vibrate_for_calls_tile_label">Wibracja dla połączeń</string>
+    <string name="vibrate_for_calls_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę wibracji dla połączeń, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--battery saver-->
-    <string name="battery_saver_tile_label">Battery saver</string>
-    <string name="battery_saver_tile_alert_dialog_message">To allow the tile to turn battery saver on and off, please open settings and grant write secure settings permission.</string>
-    <string name="battery_saver_tile_device_charging_alert_dialog_message">Battery saver not available during charging.</string>
+    <string name="battery_saver_tile_label">Oszczędzanie baterii</string>
+    <string name="battery_saver_tile_alert_dialog_message">Aby zezwolić kafelkowi na włączanie i wyłączanie oszczędzania baterii, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="battery_saver_tile_device_charging_alert_dialog_message">Oszczędzanie baterii nie jest dostępne podczas ładowania.</string>
     <!--usb debugging-->
     <string name="usb_debugging_tile_label">Debugowanie USB</string>
-    <string name="usb_debugging_tile_alert_dialog_message">To allow the tile to change USB debugging, please open settings and grant write secure settings permission.</string>
+    <string name="usb_debugging_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę debugowania USB, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--cellular data-->
-    <string name="cellular_data_tile_label">Dane komórkowe</string>
-    <string name="cellular_data_tile_mobile_network_label">Mobile networks</string>
+    <string name="cellular_data_tile_label">Dane mobilne</string>
+    <string name="cellular_data_tile_mobile_network_label">Sieci komórkowe</string>
     <string name="cellular_data_tile_data_usage_label">Użycie danych</string>
     <!--vpn-->
     <string name="vpn_tile_label">VPN</string>
     <!-- media volume -->
-    <string name="media_volume_tile_label">Media volume</string>
-    <string name="media_volume_tile_formatted_label">Media volume: %1$d%%</string>
+    <string name="media_volume_tile_label">Głośność multimediów</string>
+    <string name="media_volume_tile_formatted_label">Głośność multimediów: %1$d%%</string>
     <!-- shortcuts -->
     <string name="shortcut_tile_label">Skrót</string>
     <string name="shortcut_a_tile_label">Skrót #1</string>
@@ -380,34 +380,34 @@
     <string name="shortcut_c_tile_label">Skrót #3</string>
     <string name="shortcut_d_tile_label">Skrót #4</string>
     <string name="shortcut_e_tile_label">Skrót #5</string>
-    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">No shortcut selected, please open settings and choose shortcut.</string>
-    <string name="shortcuts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected shortcut.</string>
-    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">To allow the tile to perform dial shortcuts, please open settings and grant phone call permission.</string>
+    <string name="shortcuts_tile_no_shortcut_selected_alert_dialog_message">Nie wybrano skrótu, otwórz ustawienia i wybierz skrót.</string>
+    <string name="shortcuts_tile_exception_alert_dialog_message">Coś poszło nie tak, otwórz ustawienia i sprawdź wybrany skrót.</string>
+    <string name="shortcuts_tile_phone_call_permission_security_exception_alert_dialog_message">Aby zezwolić kafelkowi na wykonywanie skrótów wybierania numeru, otwórz ustawienia i udziel uprawnienia na wykonywanie połączeń.</string>
     <!--bluetooth-->
     <string name="bluetooth_tile_label">Bluetooth</string>
-    <string name="bluetooth_tile_not_supported_alert_dialog_message">Action not available. The device doesn\u2019t support bluetooth</string>
+    <string name="bluetooth_tile_not_supported_alert_dialog_message">Akcja nie jest dostępna. Urządzenie nie obsługuje Bluetooth</string>
     <!-- monochromacy -->
-    <string name="monochromacy_tile_label">Monochormatyczność</string>
-    <string name="monochromacy_tile_alert_dialog_message">To allow the tile to change monochromacy, please open settings and grant write secure settings permission.</string>
+    <string name="monochromacy_tile_label">Monochromatyczność</string>
+    <string name="monochromacy_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę monochromatyczności, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!-- input method -->
-    <string name="input_method_tile_label">Metoda wpisywania</string>
-    <string name="input_method_tile_alert_dialog_message">To allow the tile to show input method picker while the app is not in the foreground, please open settings and grant write secure settings permission.</string>
+    <string name="input_method_tile_label">Metoda wprowadzania</string>
+    <string name="input_method_tile_alert_dialog_message">Aby zezwolić kafelkowi na pokazanie wyboru metody wprowadzania, gdy aplikacja nie jest na pierwszym planie, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--contacts-->
     <string name="contact_tile_label">Kontakt</string>
-    <string name="contacts_tile_no_contact_selected_alert_dialog_message">No contact selected, please open settings and choose contact.</string>
-    <string name="contacts_tile_exception_alert_dialog_message">Something went wrong, please open settings and review selected contact.</string>
+    <string name="contacts_tile_no_contact_selected_alert_dialog_message">Nie wybrano kontaktu, otwórz ustawienia i wybierz kontakt.</string>
+    <string name="contacts_tile_exception_alert_dialog_message">Coś poszło nie tak, otwórz ustawienia i sprawdź wybrany kontakt.</string>
     <string name="contact_a_tile_label">Kontakt #1</string>
     <string name="contact_b_tile_label">Kontakt #2</string>
     <string name="contact_c_tile_label">Kontakt #3</string>
     <string name="contact_d_tile_label">Kontakt #4</string>
     <string name="contact_e_tile_label">Kontakt #5</string>
     <!--invert colors-->
-    <string name="invert_colors_tile_label">Invert colors</string>
-    <string name="invert_colors_tile_alert_dialog_message">To allow the tile to change invert colors, please open settings and grant write secure settings permission.</string>
+    <string name="invert_colors_tile_label">Odwróć kolory</string>
+    <string name="invert_colors_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę odwrócenia kolorów, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!-- mono audio -->
     <string name="mono_audio_tile_label">Dźwięk mono</string>
     <!-- notification light -->
-    <string name="notification_light_tile_label">Notification light</string>
+    <string name="notification_light_tile_label">Dioda powiadomień</string>
     <!--battery details-->
     <string name="battery_details_tile_label">Informacje o baterii</string>
     <string name="battery_details_tile_formatted_battery_level">Poziom naładowania: %1d%%</string>
@@ -415,21 +415,21 @@
     <string name="battery_details_tile_formatted_charging">Ładowanie: %s</string>
     <string name="battery_details_tile_usb">USB</string>
     <string name="battery_details_tile_ac">AC</string>
-    <string name="battery_details_tile_wireless">Bezprzewodowa</string>
-    <string name="battery_details_tile_formatted_health">Health: %s</string>
+    <string name="battery_details_tile_wireless">Bezprzewodowe</string>
+    <string name="battery_details_tile_formatted_health">Stan: %s</string>
     <string name="battery_details_tile_health_cold">Zimna</string>
-    <string name="battery_details_tile_health_dead">Martwa</string>
-    <string name="battery_details_tile_health_good">Zdrowa</string>
+    <string name="battery_details_tile_health_dead">Zła</string>
+    <string name="battery_details_tile_health_good">Dobra</string>
     <string name="battery_details_tile_health_over_voltage">Zbyt wysokie napięcie</string>
-    <string name="battery_details_tile_health_overheat">Przegrzna</string>
-    <string name="battery_details_tile_unknown">Unknown</string>
-    <string name="battery_details_tile_unspecified_failure">Unspecified failure</string>
-    <string name="battery_details_tile_formatted_temperature">Temepratura: %1$.1f%2$s</string>
+    <string name="battery_details_tile_health_overheat">Przegrzanie</string>
+    <string name="battery_details_tile_unknown">Nieznane</string>
+    <string name="battery_details_tile_unspecified_failure">Nieokreślona awaria</string>
+    <string name="battery_details_tile_formatted_temperature">Temperatura: %1$.1f%2$s</string>
     <string name="battery_details_tile_formatted_voltage">Napięcie: %.5fV</string>
     <string name="battery_details_tile_formatted_technology">Technologia: %s</string>
     <!--uptime-->
-    <string name="up_time_tile_label">Up time</string>
-    <string name="up_time_tile_formatted_uptime">Up time: %s</string>
+    <string name="up_time_tile_label">Czas działania</string>
+    <string name="up_time_tile_formatted_uptime">Czas działania: %s</string>
     <!--activities-->
     <string name="activity_tile_label">Aktywność</string>
     <string name="activity_a_tile_label">Aktywność #1</string>
@@ -437,55 +437,55 @@
     <string name="activity_c_tile_label">Aktywność #3</string>
     <string name="activity_d_tile_label">Aktywność #4</string>
     <string name="activity_e_tile_label">Aktywność #5</string>
-    <string name="activity_tile_no_activity_selected_alert_dialog_message">No activity selected, please open settings and choose activity.</string>
+    <string name="activity_tile_no_activity_selected_alert_dialog_message">Nie wybrano aktywności, otwórz ustawienia i wybierz aktywność.</string>
     <!--stopwatch-->
     <string name="stopwatch_tile_label">Stoper</string>
     <!--memory-->
     <string name="memory_tile_label">Pamięć</string>
-    <string name="memory_tile_formatted_available_memory">Dostępne: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_available_memory">Dostępna: %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_total_memory">Razem: %s</string>
-    <string name="memory_tile_formatted_used_memory">Użyte: %1$s (%2$.1f%%)</string>
+    <string name="memory_tile_formatted_used_memory">W użyciu: %1$s (%2$.1f%%)</string>
     <string name="memory_tile_formatted_threshold">Próg: %s</string>
     <string name="memory_tile_low_memory">Mała ilość pamięci</string>
     <!--counter-->
     <string name="counter_tile_label">Licznik</string>
-    <string name="counter_tile_max_int_alert_dialog_message">Value can\'t be added: maximum integer value has been reached.</string>
-    <string name="counter_tile_min_int_alert_dialog_message">Value can\'t be subtracted: minimum integer value has been reached.</string>
+    <string name="counter_tile_max_int_alert_dialog_message">Nie można dodać wartości: została osiągnięta maksymalna wartość całkowita.</string>
+    <string name="counter_tile_min_int_alert_dialog_message">Nie można odjąć wartości: została osiągnięta minimalna wartość całkowita.</string>
     <!--camera lock-->
-    <string name="camera_lock_tile_label">Camera lock</string>
-    <string name="camera_lock_tile_alert_dialog_message">To allow the tile to lock the camera, please open settings and activate it as device administrator.</string>
+    <string name="camera_lock_tile_label">Blokada aparatu</string>
+    <string name="camera_lock_tile_alert_dialog_message">Aby zezwolić kafelkowi na blokadę aparatu, otwórz ustawienia i aktywuj administratora urządzenia.</string>
     <!--network traffic-->
     <string name="network_traffic_tile_label">Ruch sieciowy</string>
     <string name="network_traffic_tile_formatted_total_received">Całkowicie pobrano: %s</string>
     <string name="network_traffic_tile_formatted_total_transmitted">Całkowicie wysłano: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_received">Dane kom. pobrane: %s</string>
-    <string name="network_traffic_tile_formatted_mobile_transmitted">Dane kom. wysłane: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_received">Dane mob. pobrane: %s</string>
+    <string name="network_traffic_tile_formatted_mobile_transmitted">Dane mob. wysłane: %s</string>
     <string name="network_traffic_tile_formatted_down_up_label">Pobieranie: %1s/s - Wysyłanie: %2s/s</string>
     <!--dice-->
     <string name="dice_tile_label">Losuj</string>
     <!--notification log-->
-    <string name="notification_log_tile_label">Log powiadomień</string>
+    <string name="notification_log_tile_label">Dziennik powiadomień</string>
     <!--lift to check-->
-    <string name="lift_to_check_tile_label">Podnieś aby sprawdzić</string>
-    <string name="lift_to_check_tile_alert_dialog_message">To allow the tile to change lift to check, please open settings and grant write secure settings permission.</string>
+    <string name="lift_to_check_tile_label">Podnieś, aby sprawdzić</string>
+    <string name="lift_to_check_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę podnieś, aby sprawdzić, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--double-tap to check-->
-    <string name="double_tap_to_check_tile_label">Klinknij dwukrotnie aby sprawdzić</string>
-    <string name="double_tap_to_check_tile_alert_dialog_message">To allow the tile to change double-tap to check, please open settings and grant write secure settings permission.</string>
+    <string name="double_tap_to_check_tile_label">Stuknij dwukrotnie, aby sprawdzić</string>
+    <string name="double_tap_to_check_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę stuknij dwukrotnie, aby sprawdzić, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--always on-->
-    <string name="always_on_tile_label">Zawsze wł.</string>
-    <string name="always_on_tile_alert_dialog_message">To allow the tile to change always on, please open settings and grant write secure settings permission.</string>
+    <string name="always_on_tile_label">Zawsze włączony</string>
+    <string name="always_on_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę zawsze włączony (Always on Display), otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
     <!--battery settings-->
-    <string name="battery_settings_tile_label">Battery settings</string>
+    <string name="battery_settings_tile_label">Ustawienia baterii</string>
     <!--dark theme-->
     <string name="dark_theme_tile_label">Ciemny motyw</string>
-    <string name="dark_theme_tile_alert_dialog_message">To allow the tile to change dark theme, please open settings and grant write secure settings permission.</string>
-    <string name="dark_theme_tile_tip_summary">Please be sure to have activated Android built-in dark theme at least once before using the tile or it will fail. \nIf the tile keeps failing or if this message is still visible, your device does not support Android default dark theme.</string>
+    <string name="dark_theme_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę ciemnego motywu, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="dark_theme_tile_tip_summary">Pamiętaj, aby aktywować wbudowany ciemny motyw Androida przynajmniej raz przed użyciem kafelka, inaczej to się nie powiedzie. \nJeśli kafelek nie działa lub ten komunikat jest nadal widoczny, Twoje urządzenie nie obsługuje domyślnego ciemnego motywu Androida.</string>
     <!--private dns-->
-    <string name="private_dns_tile_label">Private DNS</string>
-    <string name="private_dns_tile_label_off">Private DNS off</string>
-    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
-    <string name="private_dns_tile_label_custom">Private DNS custom</string>
-    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
-    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
-    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
+    <string name="private_dns_tile_label">Prywatny DNS</string>
+    <string name="private_dns_tile_label_off">Prywatny DNS wyłączony</string>
+    <string name="private_dns_tile_label_auto">Prywatny DNS automatyczny</string>
+    <string name="private_dns_tile_label_custom">Własny prywatny DNS</string>
+    <string name="private_dns_tile_alert_dialog_message">Aby zezwolić kafelkowi na zmianę prywatnego trybu DNS, otwórz ustawienia i udziel uprawnienia do zapisu bezpiecznych ustawień.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">Nie znaleziono nazwy hosta dostawcy DNS, otwórz ustawienia i ustaw nazwę hosta dostawcy DNS.</string>
+    <string name="private_dns_tile_provider_hostname">Nazwa hosta prywatnego dostawcy DNS</string>
 </resources>

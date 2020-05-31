@@ -412,7 +412,7 @@
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">已授權。程式可以變更深色主題</string>
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">已禁止。程式禁止變更深色主題</string>
     <!--private dns-->
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off"已禁止。程式禁止變更 private DNS 模式</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">已禁止。程式禁止變更 private DNS 模式</string>
     <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">G已授權。程式可以變更 private DNS 模式</string>
     <string name="settings_private_dns_tile_action_change_dns_mode">變更DNS模式</string>
 </resources>

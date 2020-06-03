@@ -24,7 +24,7 @@
     <string name="tip">Wskazówka</string>
     <string name="accessibility_service_label">Usługa ułatwień dostępu</string>
     <string name="accessibility_service_description">Usługa ułatwień dostępu umożliwiająca kafelkom wykonywanie akcji: wyświetlanie menu zasilania, wyświetlanie ekranu ostatnich zadań, przełączanie podzielonego ekranu. Na Androidzie Pie (API 28) i wyżej wprowadzanie w stan uśpienia, wykonywanie zrzutu ekranu.</string>
-    <string name="accessibility_service_api_p_required_message">Wymagany jest Android Pie (API 28) i wyżej, aby usługa ułatwień dostępu mogła wykonać takie akcje.</string>
+    <string name="accessibility_service_api_p_required_message">Wymagany jest Android Pie (API 28) i wyżej dla usługi ułatwień dostępu, aby wykonać takie akcje.</string>
     <string name="fifteen_minutes">15 minut</string>
     <string name="thirty_minutes">30 minut</string>
     <string name="forty_two_minutes">42 minuty</string>
@@ -186,7 +186,7 @@
     <string name="location_tile_label_high_accuracy">Wysoka dokładność</string>
     <!--write secure settings permission dialog-->
     <string name="write_secure_settings_permission_dialog_message_about">Ustawienia bezpiecznego systemu zawierają preferencje systemowe, które aplikacje mogą odczytywać, ale nie mogą zapisywać. Uprawnienia z tym poziomem ochrony są przyznawane tylko systemowym aplikacjom. Jeśli aplikacja nie jest aplikacją systemową, nigdy nie będzie mogła skorzystać z tych uprawnień.</string>
-    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Aplikacja otrzymała uprawnienia superużytkownika (root). Programowo %s uprawnienia do zapisu bezpiecznych ustawień przy użyciu superużytkownika?</string>
+    <string name="write_secure_settings_permission_dialog_message_action_su_formatted">Aplikacja Tiles otrzymała uprawnienia superużytkownika (root). Programowo %s uprawnienia do zapisu bezpiecznych ustawień przy użyciu superużytkownika?</string>
     <string name="write_secure_settings_permission_dialog_message_action_adb_formatted">Ręcznie %1$s uprawnienia, podłącz urządzenie do komputera i wykonaj następujące polecenie adb: adb shell pm %2$s %3$s android.permission.WRITE_SECURE_SETTINGS.</string>
     <string name="permission_dialog_message_grant">Udziel</string>
     <string name="permission_dialog_message_revoke">Odmów</string>

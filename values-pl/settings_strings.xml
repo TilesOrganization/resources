@@ -110,9 +110,9 @@
     <string name="settings_component_summary_on">Pokaż kafelek w Szybkich Ustawieniach</string>
     <string name="settings_tile_action_start_service_and_collapse">Ukryj panel Szybkich Ustawień i uruchom usługę</string>
     <string name="settings_tile_action_start_service_without_collapsing">Uruchom usługę bez ukrywania panelu Szybkich Ustawień</string>
-    <string name="settings_stop_on_sleep_title">Wyłącz przy uśpieniu</string>
+    <string name="settings_stop_on_sleep_title">Wyłącz podczas uśpienia</string>
     <string name="settings_stop_on_sleep_summary_on">Wyłącz uslugę, gdy urządzenie przejdzie w stan uśpienia</string>
-    <string name="settings_stop_on_sleep_summary_off">Zostaw usługę włączoną, mimo tego, że urządzenie przeszło w stań uśpienia</string>
+    <string name="settings_stop_on_sleep_summary_off">Zostaw usługę włączoną, mimo tego, że urządzenie przeszło w stan uśpienia</string>
     <string name="settings_stay_awake">Zostaw włączone</string>
     <string name="settings_stay_awake_summary_on">Zostaw urządzenie włączone</string>
     <string name="settings_stay_awake_summary_off">Pozwól urządzeniu przejść w stan uśpienia</string>

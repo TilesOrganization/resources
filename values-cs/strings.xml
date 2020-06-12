@@ -55,12 +55,12 @@
         <item quantity="other">%d minuty</item>
         <item quantity="few">%d minut</item>
     </plurals>
-    <string name="timeout_progress_bar">Timeout progress bar</string>
-    <string name="timeout_progress_bar_summary_on">Show timeout progress bar while active</string>
-    <string name="timeout_progress_bar_summary_off">Hide timeout progress bar while active</string>
-    <string name="tile_drawable">Tile icon</string>
-    <string name="tile_default">Default</string>
-    <string name="tile_custom">Custom</string>
+    <string name="timeout_progress_bar">Lišta průběhu časového limitu</string>
+    <string name="timeout_progress_bar_summary_on">Zobrazit lištu průběhu časového limitu při aktivitě</string>
+    <string name="timeout_progress_bar_summary_off">Skrýt lištu průběhu časového limitu při aktivitě</string>
+    <string name="tile_drawable">Ikona dlaždice</string>
+    <string name="tile_default">Výchozí</string>
+    <string name="tile_custom">Vlastní</string>
     <!--device administrator-->
     <string name="device_admin_activated">Správce zařízení byl aktivován</string>
     <string name="device_admin_deactivated">Správce zařízení byl deaktivován</string>
@@ -139,7 +139,7 @@
     <!--caffeine-->
     <string name="caffeine_tile_label">Kofein</string>
     <string name="caffeine_tile_modify_system_settings_permission_alert_dialog_message">Aby dlaždice mohla používat Kofein, otevřete nastavení a povolte úpravy nastavení systému.</string>
-    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">To allow the tile to use caffeine, please open settings and grant display over other apps permission.</string>
+    <string name="caffeine_tile_display_over_other_apps_permission_alert_dialog_message">Aby dlaždice mohla měnit funkci Kofein, otevřete nastavení a udělte oprávnění pro zobrazení nad ostatní aplikace.</string>
     <string name="caffeine_tile_service_notification_title">Služba je spuštěna</string>
     <string name="caffeine_tile_service_notification_content_text">Zařízení nepřejde do režimu spánku. Klepnutím službu zastavíte.</string>
     <!--streetview-->
@@ -480,11 +480,11 @@
     <string name="dark_theme_tile_alert_dialog_message">Aby dlaždice mohla měnit tmavý motiv, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
     <string name="dark_theme_tile_tip_summary">Ujistěte se, že jste před použitím dlaždice aktivovali výchozí tmavý motiv v Androidu alespoň jednou, jinak funkce selže. \nPokud dlaždice stále selhává nebo je tato zpráva stále viditelná, vaše zařízení nepodporuje výchozí tmavý motiv Androidu.</string>
     <!--private dns-->
-    <string name="private_dns_tile_label">Private DNS</string>
-    <string name="private_dns_tile_label_off">Private DNS off</string>
-    <string name="private_dns_tile_label_auto">Private DNS automatic</string>
-    <string name="private_dns_tile_label_custom">Private DNS custom</string>
-    <string name="private_dns_tile_alert_dialog_message">To allow the tile to change private DNS mode, please open settings and grant write secure settings permission.</string>
-    <string name="private_dns_tile_empty_dns_provider_message">No DNS provider hostname found, please open settings and set a DNS provider hostname.</string>
-    <string name="private_dns_tile_provider_hostname">Private DNS provider hostname</string>
+    <string name="private_dns_tile_label">Soukromé DNS DNS</string>
+    <string name="private_dns_tile_label_off">Soukromé DNS vyp.</string>
+    <string name="private_dns_tile_label_auto">Soukromé DNS autom.</string>
+    <string name="private_dns_tile_label_custom">Vlastní soukromé DNS</string>
+    <string name="private_dns_tile_alert_dialog_message">Aby dlaždice mohla měnit režim soukromých DNS, otevřete nastavení a povolte zápis do bezpečnostních nastavení.</string>
+    <string name="private_dns_tile_empty_dns_provider_message">Nebyl nalezen žádný název hostitele poskytovatele DNS, otevřete nastavení a zadejte název hostitele poskytovatele DNS.</string>
+    <string name="private_dns_tile_provider_hostname">Název hostitele poskytovatele soukromého DNS</string>
 </resources>

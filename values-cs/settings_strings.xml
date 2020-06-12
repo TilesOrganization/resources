@@ -65,7 +65,7 @@
     <string name="settings_location_permissions_preference_title">Oprávnění polohy</string>
     <string name="settings_background_location_permissions_preference_title">Oprávnění k přístupu k poloze na pozadí</string>
     <string name="settings_modify_system_settings_permissions_title">Oprávnění úprav nastavení systému</string>
-    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
+    <string name="settings_display_over_other_apps_permission_title">Oprávnění pro zobrazení přes ostatní aplikace</string>
     <string name="settings_feedback">Zpětná vazba &amp; podpora</string>
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="settings_wiki">Wiki</string>
@@ -414,7 +414,7 @@
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může měnit tmavý motiv</string>
     <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže měnit tmavý motiv</string>
     <!--private dns-->
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_action_change_dns_mode">Change DNS mode</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Zakázáno. Dlaždice nemůže měnit režim soukromých DNS</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Povoleno. Dlaždice může měnit režim soukromých DNS</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">Změna režimu DNS</string>
 </resources>

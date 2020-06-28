@@ -50,9 +50,9 @@
     <string name="settings_design_status_bar_icons_light">Светлые иконки</string>
     <string name="settings_design_status_bar_icons_dark">Темные иконки</string>
     <!--design tiles icons style-->
-    <string name="settings_design_tiles_icons_style">Tiles icons style</string>
-    <string name="settings_design_tiles_icons_style_crossed_out">Use normal icons for on/active state and crossed out icons for off/inactive state</string>
-    <string name="settings_design_tiles_icons_style_not_crossed_out">Use normal icons for on/active and off/inactive state</string>
+    <string name="settings_design_tiles_icons_style">Иконки плиток</string>
+    <string name="settings_design_tiles_icons_style_crossed_out">Использовать обычные иконки для включенного/активного состояния плитки и перечеркнутые для выключенного/неактивного состояния</string>
+    <string name="settings_design_tiles_icons_style_not_crossed_out">Использовать обычные иконки для всех состояний</string>
     <!--advanced-->
     <string name="settings_advanced">Дополнительно</string>
     <string name="settings_restart_active_tiles_title">Перезагрузить активные плитки</string>
@@ -63,9 +63,9 @@
     <string name="settings_permission">Разрешение</string>
     <string name="settings_phone_call_permission_title">Разрешение на осуществление телефонных вызовов</string>
     <string name="settings_location_permissions_preference_title">Разрешение на определение местоположения</string>
-    <string name="settings_background_location_permissions_preference_title">Background location permission</string>
+    <string name="settings_background_location_permissions_preference_title">Разрешение на фоново определение местоположения</string>
     <string name="settings_modify_system_settings_permissions_title">Разрешение на изменение настроек системы</string>
-    <string name="settings_display_over_other_apps_permission_title">Display over other apps permission</string>
+    <string name="settings_display_over_other_apps_permission_title">Разрешение на отображение поверх других приложений</string>
     <string name="settings_feedback">Отзывы и поддержка</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_wiki">Справка</string>
@@ -101,8 +101,8 @@
     <string name="settings_translations_locale_fr">Французский</string>
     <string name="settings_translations_locale_hr">Хорватский</string>
     <string name="settings_translations_locale_ja">Японский</string>
-    <string name="settings_translations_locale_ko_rKR">Корейский, южная корея</string>
-    <string name="settings_translations_locale_uk_rUA">Yкраинец</string>
+    <string name="settings_translations_locale_ko_rKR">Корейский, Южная Корея</string>
+    <string name="settings_translations_locale_uk_rUA">Украинский</string>
     <string name="settings_translations_locale_bn_rBD">Бенгальский, Бангладеш</string>
     <!--tile component-->
     <string name="settings_component_summary_title">Видимость плитки</string>
@@ -172,8 +172,8 @@
     <string name="settings_ringer_mode_tile_play_sound_summary_off">Не воспроизводить звук при выборе нормального режима звонка</string>
     <string name="settings_ringer_mode_tile_play_sound_summary_on">Воспроизводить звук при выборе нормального режима звонка</string>
     <!--caffeine-->
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Denied. The tile is not allowed to use caffeine</string>
-    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Granted. The tile is allowed to use caffeine</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_off">Запрещено. Плитка не может использовать режим бодрствования</string>
+    <string name="settings_caffeine_tile_display_over_other_apps_permission_summary_on">Разрешено. Плитка может использовать режим бодрствования</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_on">Показать действие открытия настроек</string>
     <string name="settings_caffeine_tile_running_service_notification_action_summary_off">Скрыть действие</string>
     <string name="settings_caffeine_tile_running_service_notification_play_sound_title">Воспроизвести звук</string>
@@ -413,10 +413,10 @@
     <string name="settings_sleep_tile_accessibility_service_summary_off">Запрещено. Плитка не может переводить устройство в спящий режим</string>
     <string name="settings_sleep_tile_accessibility_service_summary_on">Разрешено. Плитка может переводить устройство в спящий режим</string>
     <!--dark theme-->
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change dark theme</string>
-    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change dark theme</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать темную тему</string>
+    <string name="settings_dark_theme_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать темную тему</string>
     <!--private dns-->
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Denied. The tile is not allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Granted. The tile is allowed to change private DNS mode</string>
-    <string name="settings_private_dns_tile_action_change_dns_mode">Change DNS mode</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_off">Запрещено. Плитка не может переключать DNS-сервер</string>
+    <string name="settings_private_dns_tile_write_secure_settings_permission_summary_on">Разрешено. Плитка может переключать DNS-сервер</string>
+    <string name="settings_private_dns_tile_action_change_dns_mode">Переключение DNS-сервера</string>
 </resources>
